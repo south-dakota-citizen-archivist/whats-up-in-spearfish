@@ -152,7 +152,7 @@ venv.bak/
 .ropeproject
 
 # mkdocs documentation
-/site
+# /site  # disabled — site/ is our template/static source directory
 
 # mypy
 .mypy_cache/
@@ -215,7 +215,7 @@ __marimo__/
 .LSOverride
 
 # Icon must end with two \r
-Icon
+Icon
 
 # Thumbnails
 ._*

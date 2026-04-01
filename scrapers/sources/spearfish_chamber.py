@@ -86,11 +86,14 @@ def _parse_detail(date_str: str, url: str, link_title: str = "") -> dict | None:
     start_dt = date_str
     end_time_str = ""
     if time_str:
-        # Strip timezone label at end for parsing
-        parts = _TIME_SEP_RE.split(re.sub(r"\s+[A-Z]{2,4}$", "", time_str))
-        start_dt = f"{date_str} {parts[0].strip()}" if parts[0].strip() else date_str
+        # Capture trailing timezone label (e.g. "MDT", "MST") before splitting
+        tz_match = re.search(r"\s+([A-Z]{2,4})$", time_str)
+        tz_suffix = f" {tz_match.group(1)}" if tz_match else ""
+        clean = re.sub(r"\s+[A-Z]{2,4}$", "", time_str)
+        parts = _TIME_SEP_RE.split(clean)
+        start_dt = f"{date_str} {parts[0].strip()}{tz_suffix}" if parts[0].strip() else date_str
         if len(parts) > 1:
-            end_time_str = f"{date_str} {parts[1].strip()}"
+            end_time_str = f"{date_str} {parts[1].strip()}{tz_suffix}"
 
     location_el = soup.select_one(".gz-event-location p")
     location = location_el.get_text(" ", strip=True) if location_el else ""
