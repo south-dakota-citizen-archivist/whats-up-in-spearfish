@@ -44,6 +44,13 @@ jobs:
           SLACK_CHANNEL_ID: ${{ secrets.SLACK_CHANNEL_ID }}
         run: uv run python -m scrapers
 
+      - name: Fetch creek gauge data
+        run: |
+          uv run python -c "
+          from scrapers.sources.creek_gauge import CreekGaugeScraper
+          CreekGaugeScraper().run()
+          "
+
       - name: Build site
         run: uv run python build.py
 
