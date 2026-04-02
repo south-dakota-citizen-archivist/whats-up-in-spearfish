@@ -8,7 +8,8 @@
     "closes": "4/8/2026 1:30 PM",
     "description": "",
     "record_type": "bid",
-    "source_label": "City of Spearfish"
+    "source_label": "City of Spearfish",
+    "closes_iso": "2026-04-08T13:30:00"
   },
   {
     "url": "https://www.spearfish.gov/bids.aspx?bidID=78",
@@ -19,7 +20,8 @@
     "closes": "4/1/2026 1:30 PM",
     "description": "",
     "record_type": "bid",
-    "source_label": "City of Spearfish"
+    "source_label": "City of Spearfish",
+    "closes_iso": "2026-04-01T13:30:00"
   },
   {
     "url": "https://www.spearfish.gov/bids.aspx?bidID=80",
@@ -30,6 +32,7 @@
     "closes": "4/15/2026 1:30 PM",
     "description": "",
     "record_type": "bid",
-    "source_label": "City of Spearfish"
+    "source_label": "City of Spearfish",
+    "closes_iso": "2026-04-15T13:30:00"
   }
 ]

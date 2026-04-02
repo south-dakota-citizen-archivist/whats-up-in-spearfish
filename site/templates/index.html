@@ -733,7 +733,7 @@
       {% endif %}
 
       {# bids — sort ascending by close date (soonest deadline first) #}
-      {% set bids = groups.bid | default([]) | sort(attribute="closes") %}
+      {% set bids = groups.bid | default([]) | sort(attribute="closes_iso") %}
       {% if bids %}
       <section id="bids">
         <h2 class="text-base font-bold text-gray-900 mb-3 flex items-center gap-1.5">

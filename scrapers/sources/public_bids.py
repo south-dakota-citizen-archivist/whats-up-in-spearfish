@@ -11,6 +11,7 @@ https://www.lawrence.sd.us/Bids.aspx?CatID=showStatus&txtSort=Category&showAllBi
 from __future__ import annotations
 
 import re
+from datetime import datetime
 
 import requests
 from bs4 import BeautifulSoup
@@ -34,6 +35,16 @@ _SOURCES = [
 ]
 
 _DATE_RE = re.compile(r"\d{1,2}/\d{1,2}/\d{4}")
+
+
+def _closes_iso(closes: str) -> str:
+    """Convert 'M/D/YYYY H:MM AM/PM' to ISO string for reliable sorting, or ''."""
+    for fmt in ("%m/%d/%Y %I:%M %p", "%m/%d/%Y"):
+        try:
+            return datetime.strptime(closes.strip(), fmt).isoformat()
+        except ValueError:
+            continue
+    return ""
 
 
 def _parse_bids(html: str, base_url: str, source_label: str) -> list[dict]:
@@ -90,6 +101,7 @@ def _parse_bids(html: str, base_url: str, source_label: str) -> list[dict]:
             "bid_no": bid_no,
             "status": status,
             "closes": closes,
+            "closes_iso": _closes_iso(closes),
             "description": description,
             "record_type": "bid",
             "source_label": source_label,
