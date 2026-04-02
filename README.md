@@ -1,12 +1,12 @@
-# What's up in Spearfish?
+# What's up, Spearfish?
 
 A static website that aggregates events, public documents, beers on tap, and other
 things happening in Spearfish, SD. It runs as a static site, rebuilt a few times a
 day from scrapers that collect public data across the web.
 
-Source code: [https://github.com/south-dakota-citizen-archivist/whats-up-in-spearfish](https://github.com/south-dakota-citizen-archivist/whats-up-in-spearfish)
+Source code: [https://github.com/south-dakota-citizen-archivist/whats-up-spearfish](https://github.com/south-dakota-citizen-archivist/whats-up-spearfish)
 
-_Last updated: April 2, 2026_
+_Updated: April 2, 2026_
 
 ---
 
@@ -104,7 +104,7 @@ _Last updated: April 2, 2026_
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/south-dakota-citizen-archivist/whats-up-in-spearfish.git
+git clone https://github.com/south-dakota-citizen-archivist/whats-up-spearfish.git
 cd whats-up-in-spearfish
 
 # 2. Install dependencies (uv creates .venv automatically)

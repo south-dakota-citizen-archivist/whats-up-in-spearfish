@@ -28,7 +28,7 @@ REPO_ROOT = _REPO_ROOT
 DATA_DIR = REPO_ROOT / "data"
 README = REPO_ROOT / "README.md"
 
-GITHUB_URL = "https://github.com/south-dakota-citizen-archivist/whats-up-in-spearfish"
+GITHUB_URL = "https://github.com/south-dakota-citizen-archivist/whats-up-spearfish"
 
 # ---------------------------------------------------------------------------
 # Scraper discovery: slug → human name
@@ -103,7 +103,7 @@ def _build_readme(slug_to_name: dict[str, str], stats: dict[str, dict]) -> str:
     table = "\n".join(table_lines)
 
     return f"""\
-# What's up in Spearfish?
+# What's up, Spearfish?
 
 A static website that aggregates events, public documents, beers on tap, and other
 things happening in Spearfish, SD. It runs as a static site, rebuilt a few times a
@@ -111,7 +111,7 @@ day from scrapers that collect public data across the web.
 
 Source code: [{GITHUB_URL}]({GITHUB_URL})
 
-_Last updated: {date_str}_
+_Updated: {date_str}_
 
 ---
 
