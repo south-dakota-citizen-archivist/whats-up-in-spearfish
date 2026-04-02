@@ -251,8 +251,6 @@ def fetch_fire_danger() -> dict:
         "?site=UNR&issuedby=UNR&product=RFD&format=TXT&version=1&glossary=0"
     )
 
-    DANGER_LEVELS = {"low", "moderate", "high", "very high", "extreme", "no data"}
-
     zones: list[dict] = []
     pdf_date = ""
 
@@ -318,7 +316,7 @@ def fetch_fire_danger() -> dict:
                         # (bh_name, bh_counties, pr_left_name, pr_left_counties, pr_right_name, pr_right_counties)
                         ("Northern Hills", "Lawrence Co.", "Northern", "Lawrence Co.", "Northern", "Butte Co."),
                         ("Central Hills",  "Pennington & Meade", "Central", "Pennington Co.", "Central", "Meade Co."),
-                        ("Southern Hills", "Custer & Fall River", "Southern", "Custer Co.", "Southern", "Fall River Co."),
+                        ("Southern Hills", "Custer & Fall River", "Southern", "Custer Co.", "Southern", "Fall River Co."),  # noqa: E501
                     ]
                     for i, row in enumerate(data_rows[:3]):
                         if i >= len(row_defs):
@@ -349,11 +347,14 @@ def fetch_fire_danger() -> dict:
                 self._in = False
                 self.text = []
             def handle_starttag(self, tag, attrs):
-                if tag == "pre": self._in = True
+                if tag == "pre":
+                    self._in = True
             def handle_endtag(self, tag):
-                if tag == "pre": self._in = False
+                if tag == "pre":
+                    self._in = False
             def handle_data(self, data):
-                if self._in: self.text.append(data)
+                if self._in:
+                    self.text.append(data)
 
         req = urllib.request.Request(NWS_RFD_URL, headers={"User-Agent": "SpearfishBulletin/1.0"})
         with urllib.request.urlopen(req, timeout=15) as resp:
@@ -390,7 +391,6 @@ def fetch_fire_danger() -> dict:
             description = " ".join(desc_lines)
             # Get zone name from the line listing counties
             # It's the human-readable line between the SDZ code line and the date line
-            county_re = re.compile(r"^[A-Z][a-zA-Z\s/&\-]+-\s*$|^[A-Z][a-zA-Z\s/&\-]+Co\b", re.MULTILINE)
             # Zone name: the human-readable county list line (after SDZ codes,
             # before "Including the cities of" and before the date line).
             # It looks like: "Harding-Butte-Northern Meade Co Plains-..."

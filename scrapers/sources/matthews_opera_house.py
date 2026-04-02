@@ -16,7 +16,6 @@ import json
 import re
 
 import requests
-from bs4 import BeautifulSoup
 
 from scrapers.base import BaseScraper
 from scrapers.utils import make_slug
