@@ -21,6 +21,7 @@ _Updated: April 2, 2026_
 | Black Hills National Forest | `bhnf` | `event`, `press_release` | 5 |
 | Black Hills Pioneer | `bhpioneer_jobs` | `job` | 11 |
 | Black Hills Pioneer | `black_hills_pioneer` | `news` | 110 |
+| Black Hills Wildflowers | `black_hills_wildflowers` | — | 5 |
 | City of Spearfish | `spearfish_city` | `document` | 2,089 |
 | City of Spearfish Alert Center | `spearfish_alert_center` | `alert` | 2 |
 | City of Spearfish Blog | `spearfish_blog` | — | 0 |
@@ -48,6 +49,8 @@ _Updated: April 2, 2026_
 | Redwater Kitchen | `redwater_kitchen` | `beer` | 12 |
 | Regional News | `news_feeds` | `news` | 121 |
 | Sawyer Brewing Co. | `sawyer_brewing` | `beer` | 17 |
+| Sd Flowering Plants | `sd_flowering_plants` | — | 5 |
+| Sd Living Landscapes | `sd_living_landscapes` | — | 5 |
 | SDPB | `sdpb_news` | `news` | 9 |
 | Spearfish Agenda Center | `spearfish_agenda_center` | — | 0 |
 | Spearfish Brewing Company | `spearfish_brewing` | `beer` | 14 |
