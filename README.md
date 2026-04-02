@@ -15,9 +15,9 @@ _Updated: April 2, 2026_
 | Source | Slug | Record types | Count |
 |---|---|---|---:|
 | Bhca Calendar | `bhca_calendar` | `event` | 70 |
-| BHSU | `bhsu_jobs` | `job` | 9 |
+| BHSU | `bhsu_jobs` | `job` | 10 |
 | BHSU Athletics | `bhsu_athletics` | `event` | 86 |
-| BHSU Campus Calendar | `bhsu_calendar` | `event` | 44 |
+| BHSU Campus Calendar | `bhsu_calendar` | `event` | 46 |
 | Black Hills National Forest | `bhnf` | `event`, `press_release` | 5 |
 | Black Hills Pioneer | `bhpioneer_jobs` | `job` | 11 |
 | Black Hills Pioneer | `black_hills_pioneer` | `news` | 110 |
@@ -46,12 +46,12 @@ _Updated: April 2, 2026_
 | Public Meetings (YouTube) | `public_meetings_youtube` | `youtube_video` | 30 |
 | Rapid City Journal | `rapid_city_journal` | `news` | 114 |
 | Redwater Kitchen | `redwater_kitchen` | `beer` | 12 |
-| Regional News | `news_feeds` | `news` | 120 |
+| Regional News | `news_feeds` | `news` | 121 |
 | Sawyer Brewing Co. | `sawyer_brewing` | `beer` | 17 |
 | SDPB | `sdpb_news` | `news` | 9 |
 | Spearfish Agenda Center | `spearfish_agenda_center` | — | 0 |
 | Spearfish Brewing Company | `spearfish_brewing` | `beer` | 14 |
-| Spearfish Chamber | `spearfish_chamber` | `event` | 86 |
+| Spearfish Chamber | `spearfish_chamber` | `event` | 91 |
 | Spearfish HS Sports | `spearfish_sports` | `event` | 1,279 |
 | Spearfish MS Sports | `spearfish_ms_sports` | `event` | 187 |
 | Spearfish Sasquatch | `spearfish_sasquatch` | `event` | 32 |

@@ -15,10 +15,10 @@
 
   {# loading / error states #}
   <div x-show="!ready && !error" class="px-4 py-5 text-sm text-gray-400">Loading…</div>
-  <div x-show="error" class="px-4 py-4 text-sm text-gray-500">Could not load stream gauge data.</div>
+  <div x-show="error" x-cloak class="px-4 py-4 text-sm text-gray-500">Could not load stream gauge data.</div>
 
   {# current readings #}
-  <div x-show="ready" class="px-4 pt-4 pb-3 flex items-end gap-6">
+  <div x-show="ready" x-cloak class="px-4 pt-4 pb-3 flex items-end gap-6">
     <div>
       <p class="text-3xl font-bold text-blue-700 tabular-nums"><span x-text="current.cfs ?? '—'">—</span> <span class="text-lg font-medium text-gray-500">cfs</span></p>
       <p class="text-xs text-gray-500 mt-0.5">streamflow</p>
@@ -35,7 +35,7 @@
   </div>
 
   {# 7-day sparkline #}
-  <div x-show="ready && series7d.length > 1" class="px-4 pb-3">
+  <div x-show="ready && series7d.length > 1" x-cloak class="px-4 pb-3">
     <p class="text-xs text-gray-500 mb-1.5 font-medium">7-day streamflow (cfs)</p>
     <svg viewBox="0 0 400 80" class="w-full h-20" preserveAspectRatio="none">
       <polygon :points="chartFillPoints" fill="rgb(219 234 254)" opacity="0.7"/>
@@ -49,7 +49,7 @@
   </div>
 
   {# 30-day daily table #}
-  <div x-show="ready && daily30.length > 0" x-data="{ expanded: false }" class="border-t border-gray-100">
+  <div x-show="ready && daily30.length > 0" x-cloak x-data="{ expanded: false }" class="border-t border-gray-100">
     <button @click="expanded = !expanded"
             class="w-full flex items-center justify-between px-4 py-2.5 text-xs font-medium text-gray-700 hover:bg-gray-50 transition-colors">
       <span>30-day daily values</span>

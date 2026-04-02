@@ -3,6 +3,7 @@
 <section class="mb-6 scroll-mt-20" id="alerts"
          x-data="alerts({{ static_alerts | length }})"
          x-show="visibleCount > 0"
+         x-cloak
          x-init="loadNWS()"
          @alert-dismissed.window="visibleCount--">
 

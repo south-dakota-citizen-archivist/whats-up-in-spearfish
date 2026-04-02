@@ -57,7 +57,7 @@
 
         {# dogs panel #}
         {% if dogs %}
-        <div x-show="tab === 0" class="sm:max-h-[380px] sm:overflow-y-auto">
+        <div x-show="tab === 0" x-cloak class="sm:max-h-[380px] sm:overflow-y-auto">
           <div class="grid grid-cols-2 sm:grid-cols-3 gap-2 p-3" data-modal-group>
             {% for pet in dogs %}
             {% set _modal = {'title': pet.title, 'image': pet.image_url, 'description': pet.description, 'fields': [], 'url': pet.url, 'urlLabel': 'View all dogs ↗', 'notes': '', 'prices': []} %}

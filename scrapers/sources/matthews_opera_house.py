@@ -15,21 +15,14 @@ import html
 import json
 import re
 
-import requests
+from playwright.sync_api import sync_playwright
+from playwright_stealth import Stealth
 
 from scrapers.base import BaseScraper
 from scrapers.utils import make_slug
 
 BASE_URL = "https://www.matthewsopera.com"
 LIST_URL = f"{BASE_URL}/events/list/"
-HEADERS = {
-    "User-Agent": (
-        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
-        "AppleWebKit/537.36 (KHTML, like Gecko) "
-        "Chrome/124.0.0.0 Safari/537.36"
-    ),
-    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
-}
 
 _TAG_RE = re.compile(r"<[^>]+>")
 _WHITESPACE_RE = re.compile(r"\s+")
@@ -108,27 +101,31 @@ def _parse_event(item: dict) -> dict | None:
 
 def _fetch_all_events() -> list[dict]:
     records = []
-    page = 1
-    while True:
-        url = LIST_URL if page == 1 else f"{LIST_URL}page/{page}/"
-        try:
-            resp = requests.get(url, headers=HEADERS, timeout=20)
-            resp.raise_for_status()
-        except requests.RequestException as exc:
-            print(f"[MatthewsOperaHouse] Warning: page {page} failed: {exc}")
-            break
+    with Stealth().use_sync(sync_playwright()) as p:
+        browser = p.chromium.launch(headless=True)
+        page_obj = browser.new_page()
+        page_num = 1
+        while True:
+            url = LIST_URL if page_num == 1 else f"{LIST_URL}page/{page_num}/"
+            try:
+                page_obj.goto(url, wait_until="domcontentloaded", timeout=30000)
+                html_content = page_obj.content()
+            except Exception as exc:
+                print(f"[MatthewsOperaHouse] Warning: page {page_num} failed: {exc}")
+                break
 
-        items = _extract_events(resp.text)
-        if not items:
-            break
+            items = _extract_events(html_content)
+            if not items:
+                break
 
-        for item in items:
-            record = _parse_event(item)
-            if record:
-                records.append(record)
+            for item in items:
+                record = _parse_event(item)
+                if record:
+                    records.append(record)
 
-        page += 1
+            page_num += 1
 
+        browser.close()
     return records
 
 

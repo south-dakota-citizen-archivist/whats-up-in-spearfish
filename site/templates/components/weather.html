@@ -12,13 +12,13 @@
     </div>
 
     {# error (only when no data yet) #}
-    <div x-show="error && !ready" class="px-5 py-3 text-xs text-gray-500 flex items-center gap-2">
+    <div x-show="error && !ready" x-cloak class="px-5 py-3 text-xs text-gray-500 flex items-center gap-2">
       Weather unavailable.
       <button @click="load()" :disabled="loading" class="text-blue-600 hover:underline font-medium disabled:opacity-40">Retry</button>
     </div>
 
     {# current conditions bar #}
-    <div x-show="ready" class="px-4 sm:px-5 py-3 border-b-2 border-gray-200 bg-gray-50">
+    <div x-show="ready" x-cloak class="px-4 sm:px-5 py-3 border-b-2 border-gray-200 bg-gray-50">
       {# row 1: temp + description + refresh #}
       <div class="flex items-center gap-2 mb-1.5">
         <span class="text-3xl font-extrabold text-gray-900 leading-none" x-text="current.temp"></span>
@@ -47,7 +47,7 @@
     </div>
 
     {# forecast grid #}
-    <div x-show="ready" class="grid grid-cols-3 sm:grid-cols-6 divide-x divide-gray-100">
+    <div x-show="ready" x-cloak class="grid grid-cols-3 sm:grid-cols-6 divide-x divide-gray-100">
       <template x-for="p in forecast" :key="p.name">
         <div class="flex flex-col items-center text-center px-2 py-3 gap-1">
           <p class="text-xs font-semibold text-gray-700 leading-tight" x-text="p.name"></p>

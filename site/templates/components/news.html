@@ -62,7 +62,7 @@
     </div>
   </div>
   <div class="divide-y divide-gray-200 sm:max-h-96 sm:overflow-y-auto">
-    <div x-show="filtered.length === 0" class="px-4 py-8 text-center text-sm text-gray-500">
+    <div x-show="filtered.length === 0" x-cloak class="px-4 py-8 text-center text-sm text-gray-500">
       No articles match your filters.
       <button @click="activeSources = []" class="block mx-auto mt-2 text-blue-600 hover:underline text-xs">Clear filters</button>
     </div>

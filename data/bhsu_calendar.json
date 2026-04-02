@@ -1049,5 +1049,48 @@
     "category": "Campus Calendar/Events",
     "record_type": "event",
     "source_label": "BHSU Campus Calendar"
+  },
+  {
+    "event_id": "9c084c2c-2de3-4375-aaa8-57a9a9c0a525",
+    "url": "https://bhsu.edu/campus-calendar.html#event-details/9c084c2c-2de3-4375-aaa8-57a9a9c0a525",
+    "title": "Join Us: CAEP Accreditation Celebration Reception",
+    "slug": "join-us-caep-accreditation-celebration-reception",
+    "description": "The BHSU campus community is invited to join us on April 8th from 2:00–5:00 PM at the Joy Center for a special reception celebrating the continued national CAEP accreditation of our teacher preparation programs. Stop by to enjoy food and refreshments as we recognize this important milestone and the collective effort that made it possible. We look forward to celebrating with you!",
+    "start_dt": "2026-04-08T20:00",
+    "end_dt": "2026-04-08T23:00",
+    "location": "Joy (Proctor) Krautschun Alumni/Foundation Welcome Center",
+    "image_url": "",
+    "image_alt": "",
+    "organizer": "Alicia Parton",
+    "tags": [
+      "College of Education and Behavioral Sciences"
+    ],
+    "featured": false,
+    "ticket_url": "",
+    "category": "Campus Calendar/Events",
+    "record_type": "event",
+    "source_label": "BHSU Campus Calendar"
+  },
+  {
+    "event_id": "80f812ed-8ec8-4aee-8452-233f5eb63934",
+    "url": "https://bhsu.edu/campus-calendar.html#event-details/80f812ed-8ec8-4aee-8452-233f5eb63934",
+    "title": "American Indian Awareness Week",
+    "slug": "american-indian-awareness-week",
+    "description": "Please join us for American Indian Awareness Week April 13th - 17th! Our guest speakers will be presenting in Jonas Academic Room 107 This year's theme is \"Elevating Native Voices: Embracing Our Collective Impact.\" Monday April 13th 11:00am - 11:50am Cante Heart - “8th Generation” 1:00pm - 1:50am Bobbie Koch - “Indigenous Placekeeping: Culturally-Responsive & Community-Driven Architecture” Tuesday April 14th 2:00pm - 3:15pm Dew Bad Warrior-Gange - “Zuya Sica Consulting\" Wednesday April 15th 9:00am - 9:50 Marty Two Bulls - “Breaking Stereotypes: Lakota Public Artworks and the Importance of Self Representation” 11:00am - 11:50am Dr. Brittany Bearstail - “Monument Health\" 1:00pm - 1:50pm Bobby Pourier - “Intergenerational Healing: How to Drive Community Change Across Time” Thursday April 10th 2:00pm - 3:15pm Tasha Peltier - “Restoring Balance: Women, Kinship, and Community Wellness”",
+    "start_dt": "2026-04-13",
+    "end_dt": "2026-04-17",
+    "location": "Jonas 107",
+    "image_url": "",
+    "image_alt": "",
+    "organizer": "Jordon Mendoza",
+    "tags": [
+      "American Indian Awareness Week",
+      "Center for American Indian Studies"
+    ],
+    "featured": false,
+    "ticket_url": "",
+    "category": "Campus Calendar/Events",
+    "record_type": "event",
+    "source_label": "BHSU Campus Calendar"
   }
 ]

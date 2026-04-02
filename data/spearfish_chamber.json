@@ -1116,5 +1116,70 @@
     "website": "http://www.spearfishseniorcenter.com",
     "record_type": "event",
     "source_label": "Spearfish Chamber"
+  },
+  {
+    "url": "https://business.spearfishchamber.org/events/details/caramel-rolls-coffee-04-09-2026-30741",
+    "title": "Caramel Rolls & Coffee",
+    "slug": "caramel-rolls-coffee",
+    "start_dt": "2026-04-09 8:30 AM MDT",
+    "end_dt": "2026-04-09 10:30 AM MDT",
+    "location": "Spearfish Senior Center 1306 N 10th St Spearfish, SD",
+    "fees": "rolls $3 coffee $1",
+    "description": "Caramel Rolls & Coffee Social. Open to the public, invite your friends!",
+    "website": "http://www.spearfishseniorcenter.com",
+    "record_type": "event",
+    "source_label": "Spearfish Chamber"
+  },
+  {
+    "url": "https://business.spearfishchamber.org/events/details/caramel-rolls-coffee-04-16-2026-30742",
+    "title": "Caramel Rolls & Coffee",
+    "slug": "caramel-rolls-coffee",
+    "start_dt": "2026-04-16 8:30 AM MDT",
+    "end_dt": "2026-04-16 10:30 AM MDT",
+    "location": "Spearfish Senior Center 1306 N 10th St Spearfish",
+    "fees": "caramel roll $3 coffee $1",
+    "description": "Caramel Rolls & Coffee Social. Open to the public, invite your friends!",
+    "website": "http://www.spearfishseniorcenter.com",
+    "record_type": "event",
+    "source_label": "Spearfish Chamber"
+  },
+  {
+    "url": "https://business.spearfishchamber.org/events/details/caramel-rolls-coffee-04-23-2026-30743",
+    "title": "Caramel Rolls & Coffee",
+    "slug": "caramel-rolls-coffee",
+    "start_dt": "2026-04-23 8:30 AM MDT",
+    "end_dt": "2026-04-23 10:30 AM MDT",
+    "location": "Spearfish Senior Center 1306 N 10th St Spearfish",
+    "fees": "caramel rolls $3 coffee $1",
+    "description": "Caramel Rolls & Coffee Social. Open to the public, invite your friends!",
+    "website": "http://www.spearfishseniorcenter.com",
+    "record_type": "event",
+    "source_label": "Spearfish Chamber"
+  },
+  {
+    "url": "https://business.spearfishchamber.org/events/details/caramel-rolls-coffee-04-30-2026-30744",
+    "title": "Caramel Rolls & Coffee",
+    "slug": "caramel-rolls-coffee",
+    "start_dt": "2026-04-30 8:30 AM MDT",
+    "end_dt": "2026-04-30 10:30 AM MDT",
+    "location": "Spearfish Senior Center 1306 N 10th St Spearfish, SD",
+    "fees": "$3 caramel roll $1 coffee",
+    "description": "Caramel Rolls & Coffee Social. Open to the public, invite your friends!",
+    "website": "http://www.spearfishseniorcenter.com",
+    "record_type": "event",
+    "source_label": "Spearfish Chamber"
+  },
+  {
+    "url": "https://business.spearfishchamber.org/events/details/caramel-rolls-coffee-05-07-2026-30745",
+    "title": "Caramel Rolls & Coffee",
+    "slug": "caramel-rolls-coffee",
+    "start_dt": "2026-05-07 8:30 AM MDT",
+    "end_dt": "2026-05-07 10:30 AM MDT",
+    "location": "Spearfish Senior Center 1306 N 10th St Spearfish, SD",
+    "fees": "$3 roll $1 coffee",
+    "description": "Caramel Rolls & Coffee Social. Open to the public, invite your friends!",
+    "website": "http://www.spearfishseniorcenter.com",
+    "record_type": "event",
+    "source_label": "Spearfish Chamber"
   }
 ]
