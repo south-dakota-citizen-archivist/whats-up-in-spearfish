@@ -26,8 +26,9 @@
     <div class="relative flex-1">
       <select id="mobile-jump"
               class="appearance-none block w-full rounded-lg border border-gray-300 bg-white pl-3 pr-9 py-2.5 text-sm font-medium text-gray-800 shadow-sm focus:border-blue-500 focus:outline-none focus:ring-2 focus:ring-blue-500/20 transition-colors"
-              onchange="if(this.value) window.location.hash=this.value">
+              onchange="if(this.value) { if(this.value === '#top') { window.scrollTo({top: 0, behavior: 'smooth'}); this.value = ''; } else { window.location.hash = this.value; } }">
         <option value="">Go to section&hellip;</option>
+        <option value="#top">↑ Top of page</option>
         {% for href, label in _nav %}
         <option value="{{ href }}">{{ label }}</option>
         {% endfor %}

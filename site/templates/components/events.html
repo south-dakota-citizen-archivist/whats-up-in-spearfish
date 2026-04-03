@@ -39,12 +39,14 @@
         <div class="flex rounded-lg border border-gray-300 overflow-hidden text-xs font-medium">
           <button @click="view = 'list'"
                   :class="view === 'list' ? 'bg-blue-600 text-white' : 'bg-white text-gray-600 hover:bg-gray-50'"
-                  class="px-2 py-1.5 flex items-center gap-1 transition-colors">
+                  class="px-2 py-1.5 flex items-center gap-1 transition-colors"
+                  aria-label="Switch to list view">
             List
           </button>
           <button @click="view = 'calendar'; selectedDay = null"
                   :class="view === 'calendar' ? 'bg-blue-600 text-white' : 'bg-white text-gray-600 hover:bg-gray-50'"
-                  class="px-2 py-1.5 flex items-center gap-1 transition-colors border-l border-gray-300">
+                  class="px-2 py-1.5 flex items-center gap-1 transition-colors border-l border-gray-300"
+                  aria-label="Switch to calendar view">
             Cal
           </button>
         </div>
@@ -66,7 +68,8 @@
       <div class="flex items-center gap-1.5">
         <div class="relative" x-data="{ open: false }" @click.outside="open = false">
           <button @click="open = !open"
-                  class="flex items-center gap-1.5 px-3 py-1.5 text-sm rounded-lg border border-gray-300 bg-white hover:bg-gray-50 transition-colors whitespace-nowrap">
+                  class="flex items-center gap-1.5 px-3 py-1.5 text-sm rounded-lg border border-gray-300 bg-white hover:bg-gray-50 transition-colors whitespace-nowrap"
+                  aria-label="Toggle source filters">
             <svg xmlns="http://www.w3.org/2000/svg" class="h-3.5 w-3.5 text-gray-500" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
               <path stroke-linecap="round" stroke-linejoin="round" d="M3 4a1 1 0 011-1h16a1 1 0 010 2H4a1 1 0 01-1-1zm3 6a1 1 0 011-1h10a1 1 0 010 2H7a1 1 0 01-1-1zm3 6a1 1 0 011-1h4a1 1 0 010 2h-4a1 1 0 01-1-1z"/>
             </svg>
@@ -82,7 +85,7 @@
                class="absolute left-0 sm:left-auto sm:right-0 mt-1 w-56 rounded-xl border border-gray-200 bg-white shadow-lg z-20 py-1 max-h-72 overflow-y-auto">
             <div class="px-3 py-1.5 flex items-center justify-between border-b border-gray-100">
               <span class="text-xs font-semibold text-gray-500 uppercase tracking-wide">Filter by source</span>
-              <button @click="activeSources = []" x-show="activeSources.length" class="text-xs text-blue-600 hover:underline">Clear</button>
+              <button @click="activeSources = []" x-show="activeSources.length" class="text-xs text-blue-600 hover:underline" aria-label="Clear all source filters">Clear</button>
             </div>
             {% for src in event_sources %}
             <label class="flex items-center gap-2.5 px-3 py-2 hover:bg-gray-50 cursor-pointer">
@@ -113,11 +116,11 @@
 
   {# ── LIST VIEW ── #}
   <div x-show="view === 'list'"
-       class="sm:h-[640px] sm:overflow-y-auto pr-1 scroll-smooth" id="events-scroll">
+       class="h-[640px] overflow-y-auto pr-1 scroll-smooth" id="events-scroll">
 
     <div x-show="filtered.length === 0" x-cloak class="px-4 py-8 text-center text-sm text-gray-500">
       No events match your filters.
-      <button @click="query = ''; activeSources = []" class="block mx-auto mt-2 text-blue-600 hover:underline text-xs">Clear filters</button>
+      <button @click="query = ''; activeSources = []" class="block mx-auto mt-2 text-blue-600 hover:underline text-xs" aria-label="Clear all filters and show all events">Clear filters</button>
     </div>
 
     <template x-for="(group, gi) in groupedByDay" :key="gi">
@@ -130,10 +133,10 @@
         <template x-for="(event, ei) in group.events" :key="ei">
           <a :href="event.url" target="_blank" rel="noopener noreferrer"
              class="block px-4 py-4 border-b border-gray-100 hover:bg-blue-50/40 transition-colors last:border-0 group">
-            <div class="flex items-start justify-between gap-2">
+            <div class="flex flex-col sm:flex-row sm:items-start sm:justify-between gap-2">
               <div class="flex-1 min-w-0">
                 <p class="font-semibold text-base text-gray-900 group-hover:text-blue-700 leading-snug" x-text="event.title"></p>
-                <div class="mt-1 flex flex-wrap items-center gap-x-3 text-sm text-gray-600">
+                <div class="mt-1 flex flex-col sm:flex-row sm:flex-wrap sm:items-center gap-x-3 gap-y-1 text-sm text-gray-600">
                   <span x-show="event.time" x-text="event.time"></span>
                   <span x-show="event.location" class="flex items-center gap-0.5">
                     <svg xmlns="http://www.w3.org/2000/svg" class="h-3 w-3 shrink-0" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
@@ -144,9 +147,9 @@
                   </span>
                 </div>
               </div>
-              <span class="shrink-0 text-xs text-gray-500 text-right leading-tight" x-text="event.source"></span>
+              <span class="shrink-0 text-xs text-gray-500 sm:text-right leading-tight self-start sm:self-center" x-text="event.source"></span>
             </div>
-            <p x-show="event.description" class="mt-1.5 text-sm text-gray-600 line-clamp-1" x-text="event.description"></p>
+            <p x-show="event.description" class="mt-2 text-sm text-gray-600 line-clamp-1" x-text="event.description"></p>
           </a>
         </template>
       </div>
@@ -158,13 +161,13 @@
 
     {# month nav #}
     <div class="flex items-center justify-between px-4 py-2.5 border-b border-gray-200">
-      <button @click="prevMonth()" class="p-1 rounded hover:bg-gray-100 transition-colors text-gray-600">
+      <button @click="prevMonth()" class="p-1 rounded hover:bg-gray-100 transition-colors text-gray-600" aria-label="Previous month">
         <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
           <path stroke-linecap="round" stroke-linejoin="round" d="M15 19l-7-7 7-7"/>
         </svg>
       </button>
       <span class="text-sm font-semibold text-gray-900" x-text="calMonthLabel"></span>
-      <button @click="nextMonth()" class="p-1 rounded hover:bg-gray-100 transition-colors text-gray-600">
+      <button @click="nextMonth()" class="p-1 rounded hover:bg-gray-100 transition-colors text-gray-600" aria-label="Next month">
         <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
           <path stroke-linecap="round" stroke-linejoin="round" d="M9 5l7 7-7 7"/>
         </svg>
@@ -189,7 +192,8 @@
                     'ring-2 ring-inset ring-blue-500 bg-blue-50': selectedDay === cell.iso,
                     'hover:bg-gray-50': cell.inMonth && selectedDay !== cell.iso,
                   }"
-                  class="min-h-[52px] p-1.5 border-b border-r border-gray-100 flex flex-col items-center gap-0.5 transition-colors w-full">
+                  class="min-h-[52px] p-1.5 border-b border-r border-gray-100 flex flex-col items-center gap-0.5 transition-colors w-full"
+                  :aria-label="cell.inMonth ? 'Select ' + cell.label : ''">
             <span class="text-xs leading-none w-5 h-5 flex items-center justify-center rounded-full"
                   :class="cell.isToday && selectedDay !== cell.iso ? 'bg-blue-600 text-white' : 'text-gray-800'"
                   x-text="cell.day"></span>
@@ -214,13 +218,13 @@
     <div x-show="selectedDay" x-cloak class="border-t border-gray-200 max-h-64 overflow-y-auto">
       <div class="px-4 py-2 bg-gray-50 border-b border-gray-200 flex items-center justify-between">
         <span class="text-xs font-semibold text-gray-700" x-text="selectedDayLabel"></span>
-        <button @click="selectedDay = null" class="text-xs text-gray-400 hover:text-gray-600">✕</button>
+        <button @click="selectedDay = null" class="text-xs text-gray-400 hover:text-gray-600" aria-label="Close day view">✕</button>
       </div>
       <template x-for="(event, ei) in selectedDayEvents" :key="ei">
         <a :href="event.url" target="_blank" rel="noopener noreferrer"
            class="block px-4 py-2.5 border-b border-gray-100 last:border-0 hover:bg-blue-50/40 transition-colors group">
           <p class="font-semibold text-sm text-gray-900 group-hover:text-blue-700 leading-snug" x-text="event.title"></p>
-          <div class="mt-0.5 flex flex-wrap items-center gap-x-3 text-xs text-gray-500">
+          <div class="mt-1 flex flex-col sm:flex-row sm:flex-wrap sm:items-center gap-x-3 gap-y-1 text-xs text-gray-500">
             <span x-show="event.time" x-text="event.time"></span>
             <span x-show="event.location" x-text="event.location"></span>
             <span x-text="event.source"></span>

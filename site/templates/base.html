@@ -42,7 +42,8 @@
   <footer class="bg-white border-t border-gray-300 mt-auto" x-data="{ aboutOpen: false }">
     <div class="max-w-screen-xl mx-auto px-4 sm:px-6 lg:px-8 py-4 text-xs text-gray-500 flex items-center gap-4">
       <button @click="aboutOpen = true"
-              class="cursor-pointer hover:text-gray-800 transition-colors font-medium">
+              class="cursor-pointer hover:text-gray-800 transition-colors font-medium"
+              aria-label="Open about dialog">
         About
       </button>
     </div>
@@ -64,7 +65,8 @@
         <div class="flex items-center justify-between px-6 py-4 border-b border-gray-200 shrink-0">
           <h2 class="text-base font-bold text-gray-900">About</h2>
           <button @click="aboutOpen = false"
-                  class="cursor-pointer text-gray-400 hover:text-gray-600 transition-colors p-1 rounded">
+                  class="cursor-pointer text-gray-400 hover:text-gray-600 transition-colors p-1 rounded"
+                  aria-label="Close about dialog">
             <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
               <path stroke-linecap="round" stroke-linejoin="round" d="M6 18L18 6M6 6l12 12"/>
             </svg>

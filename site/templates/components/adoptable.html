@@ -19,14 +19,16 @@
       {% if dogs %}
       <button @click="tab = 0"
               :class="tab === 0 ? 'border-b-2 border-blue-600 text-blue-700 font-semibold bg-white' : 'text-gray-600 hover:bg-gray-100'"
-              class="flex-1 px-3 py-2.5 text-xs text-center transition-colors">
+              class="flex-1 px-3 py-2.5 text-xs text-center transition-colors"
+              aria-label="View adoptable dogs">
         🐕 Dogs ({{ dogs | length | intcomma }})
       </button>
       {% endif %}
       {% if cats %}
       <button @click="tab = 1"
               :class="tab === 1 ? 'border-b-2 border-blue-600 text-blue-700 font-semibold bg-white' : 'text-gray-600 hover:bg-gray-100'"
-              class="flex-1 px-3 py-2.5 text-xs text-center transition-colors">
+              class="flex-1 px-3 py-2.5 text-xs text-center transition-colors"
+              aria-label="View adoptable cats">
         🐈 Cats ({{ cats | length | intcomma }})
       </button>
       {% endif %}
@@ -39,14 +41,16 @@
         {% if dogs %}
         <button @click="tab = 0"
                 :class="tab === 0 ? 'bg-white text-blue-700 font-semibold border-r-2 border-blue-600' : 'text-gray-700 hover:bg-gray-100'"
-                class="text-left px-3 py-2.5 text-xs leading-tight transition-colors w-full">
+                class="text-left px-3 py-2.5 text-xs leading-tight transition-colors w-full"
+                aria-label="View adoptable dogs">
           🐕 Dogs ({{ dogs | length | intcomma }})
         </button>
         {% endif %}
         {% if cats %}
         <button @click="tab = 1"
                 :class="tab === 1 ? 'bg-white text-blue-700 font-semibold border-r-2 border-blue-600' : 'text-gray-700 hover:bg-gray-100'"
-                class="text-left px-3 py-2.5 text-xs leading-tight transition-colors w-full">
+                class="text-left px-3 py-2.5 text-xs leading-tight transition-colors w-full"
+                aria-label="View adoptable cats">
           🐈 Cats ({{ cats | length | intcomma }})
         </button>
         {% endif %}

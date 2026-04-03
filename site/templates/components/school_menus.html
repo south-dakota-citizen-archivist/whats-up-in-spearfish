@@ -35,7 +35,8 @@
         :class="tab === {{ loop.index0 }}
           ? 'border-b-2 border-blue-600 text-blue-700 font-semibold bg-white'
           : 'text-gray-600 hover:bg-gray-100'"
-        class="shrink-0 px-3 py-2.5 text-xs text-center transition-colors whitespace-nowrap">
+        class="shrink-0 px-3 py-2.5 text-xs text-center transition-colors whitespace-nowrap"
+        aria-label="Switch to {{ tab_label }} menu">
         {{ tab_label }}
       </button>
       {% endfor %}
@@ -51,7 +52,8 @@
           :class="tab === {{ loop.index0 }}
             ? 'bg-white text-blue-700 font-semibold border-r-2 border-blue-600'
             : 'text-gray-700 hover:bg-gray-100 hover:text-gray-900'"
-          class="text-left px-3 py-2.5 text-xs leading-tight transition-colors w-full">
+          class="text-left px-3 py-2.5 text-xs leading-tight transition-colors w-full"
+          aria-label="Switch to {{ tab_label }} menu">
           {{ tab_label }}
         </button>
         {% endfor %}
