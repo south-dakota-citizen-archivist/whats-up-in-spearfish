@@ -93,8 +93,8 @@ function weather() {
         const tempC = p.temperature?.value;
         const tempF = tempC != null ? Math.round(tempC * 9 / 5 + 32) : null;
 
-        const windMs = p.windSpeed?.value;
-        const windMph = windMs != null ? Math.round(windMs * 2.23694) : null;
+        const windKmh = p.windSpeed?.value;
+        const windMph = windKmh != null ? Math.round(windKmh / 1.60934) : null;
         const windDeg = p.windDirection?.value;
         // KSPF often reports null windDirection (QC fail) — fall back to
         // the current hourly forecast period which always has compass direction
