@@ -59,9 +59,17 @@
     {# SVG area chart #}
     {% if circ.chart %}
     <div class="px-4 pt-3 pb-1">
-      {# viewBox: chart area + 20px below for year labels #}
-      <svg viewBox="0 0 {{ circ.chart.width }} {{ circ.chart.height + 20 }}"
+      {# viewBox: 30px left margin for y-labels + chart area + 20px below for year labels #}
+      <svg viewBox="-30 0 {{ circ.chart.width + 30 }} {{ circ.chart.height + 20 }}"
            class="w-full" role="img" aria-label="Library circulation loans over time">
+
+        {# Y-axis gridlines + labels #}
+        {% for tick in circ.chart.y_ticks %}
+        <line x1="0" y1="{{ tick.y }}" x2="{{ circ.chart.width }}" y2="{{ tick.y }}"
+              stroke="#f3f4f6" stroke-width="1"/>
+        <text x="-4" y="{{ tick.y + 3 }}"
+              text-anchor="end" font-size="8" fill="#d1d5db">{{ tick.label }}</text>
+        {% endfor %}
 
         {# Year gridlines + labels #}
         {% for tick in circ.chart.year_ticks %}

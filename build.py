@@ -750,6 +750,16 @@ def load_circulation() -> dict:
             x = round((i / (n - 1)) * CHART_W, 1)
             year_ticks.append({"x": x, "year": yr, "label": str(yr) if yr % 2 == 0 else ""})
 
+    # Y-axis ticks at nice round numbers within the data range
+    # Pick a step size that gives 3-4 ticks: try 2500, 5000
+    step = 5000 if max_val > 12000 else 2500
+    y_ticks = []
+    tick_val = step
+    while tick_val < max_val:
+        y_px = round(CHART_H - (tick_val / max_val) * CHART_H, 1)
+        y_ticks.append({"value": tick_val, "label": f"{tick_val // 1000}k", "y": y_px})
+        tick_val += step
+
     # COVID annotation (April 2020)
     covid_x = None
     for i, r in enumerate(chart_rows):
@@ -773,6 +783,7 @@ def load_circulation() -> dict:
             "path_od": area_path(pts_od, pts_phys) if has_od else "",
             "path_hoopla": area_path(pts_total, pts_od) if has_hoopla else "",
             "year_ticks": year_ticks,
+            "y_ticks": y_ticks,
             "covid_x": covid_x,
         },
     }
