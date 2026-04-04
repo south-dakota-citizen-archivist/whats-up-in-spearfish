@@ -34,7 +34,7 @@ _Updated: April 4, 2026_
 | Elementary 3-5 Lunch | `spearfish_elem_35_lunch` | `school_menu` | 40 |
 | Elementary Breakfast | `spearfish_elem_breakfast` | `school_menu` | 40 |
 | Elementary K-2 Lunch | `spearfish_elem_k2_lunch` | `school_menu` | 40 |
-| Grace Balloch Memorial Library | `spearfish_library` | `library_book` | 88 |
+| Grace Balloch Memorial Library | `spearfish_library` | `library_book` | 90 |
 | Grace Balloch Memorial Library (circulation) | `library_circulation` | — | 124 |
 | High School Lunch | `spearfish_hs_lunch` | `school_menu` | 40 |
 | Inaturalist Plant Cache | `inaturalist_plant_cache` | — | 317 |
@@ -69,7 +69,7 @@ _Updated: April 4, 2026_
 | USDA PLANTS Database (Black Hills full pull) | `plants_native_black_hills` | — | 24,984 |
 | USDA PLANTS Database (Native Plant Spotlight) | `native_plants_spotlight` | — | 317 |
 | USGS Stream Gauge — Spearfish Creek (06431500) | `creek_gauge` | — | 4 |
-| Western Hills Humane Society | `whhs_adoptable` | `adoptable` | 37 |
+| Western Hills Humane Society | `whhs_adoptable` | `adoptable` | 36 |
 
 ---
 
