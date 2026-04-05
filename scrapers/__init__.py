@@ -2,7 +2,7 @@
 scrapers/__init__.py
 
 Entry point for running all scrapers. Discovers BaseScraper subclasses in
-scrapers/sources/, runs each one, and sends a Slack summary if new records
+scrapers/sources/, runs each one in parallel, and sends a Slack summary if new records
 were found.
 
 Usage:
@@ -12,6 +12,7 @@ Usage:
 import importlib
 import inspect
 import pkgutil
+from concurrent.futures import ThreadPoolExecutor, as_completed
 
 from dotenv import load_dotenv
 
@@ -45,7 +46,7 @@ def _discover_scrapers():
 
 
 def run_all():
-    """Instantiate and run every discovered scraper, then alert on new records."""
+    """Instantiate and run every discovered scraper in parallel, then alert on new records."""
     scraper_classes = _discover_scrapers()
 
     if not scraper_classes:
@@ -54,21 +55,35 @@ def run_all():
 
     total_new = 0
     summary_lines = []
+    max_workers = min(len(scraper_classes), 6)  # Cap at 6 parallel threads
 
-    for cls in scraper_classes:
+    def _run_scraper(cls):
+        """Run a single scraper and return (name, count, error)."""
         scraper = cls()
-        print(f"Running scraper: {scraper.name} ...")
         try:
             new_records = scraper.run()
             count = len(new_records)
-            total_new += count
-            status = f"{scraper.name}: {count} new record(s)"
-            print(f"  {status}")
-            summary_lines.append(status)
+            return (scraper.name, count, None)
         except Exception as exc:
-            msg = f"{scraper.name}: ERROR - {exc}"
-            print(f"  {msg}")
-            summary_lines.append(msg)
+            return (scraper.name, 0, exc)
+
+    print(f"Running {len(scraper_classes)} scraper(s) in parallel (max_workers={max_workers})...")
+    
+    with ThreadPoolExecutor(max_workers=max_workers) as executor:
+        futures = {executor.submit(_run_scraper, cls): cls.__name__ for cls in scraper_classes}
+        
+        for future in as_completed(futures):
+            name, count, error = future.result()
+            total_new += count
+            
+            if error:
+                msg = f"{name}: ERROR - {error}"
+                print(f"  {msg}")
+                summary_lines.append(msg)
+            else:
+                status = f"{name}: {count} new record(s)"
+                print(f"  {status}")
+                summary_lines.append(status)
 
     print(f"\nDone. {total_new} total new record(s) across {len(scraper_classes)} scraper(s).")
 

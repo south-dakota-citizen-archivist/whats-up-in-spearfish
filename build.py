@@ -14,6 +14,7 @@ import re
 import shutil
 import subprocess
 import sys
+from concurrent.futures import ThreadPoolExecutor, as_completed
 from datetime import date, datetime, timedelta, timezone
 from pathlib import Path
 from zoneinfo import ZoneInfo
@@ -885,21 +886,43 @@ def build() -> None:
     css_tmp.unlink()
     print(f"[build] Compiled Tailwind CSS ({len(inline_css) // 1024} KB, inlining)")
 
-    plant_spotlight = load_plant_spotlight()
-    ebird_observations = load_ebird()
-    danr_notices = load_danr_notices()
-    danr_contested_cases = load_danr_contested_cases()
-    bhnf_projects = load_bhnf_projects()
-    library_circulation = load_circulation()
-    creek_data = load_creek_data()
+    # Parallelize loading of independent data sources using ThreadPoolExecutor
+    with ThreadPoolExecutor(max_workers=6) as executor:
+        futures = {
+            executor.submit(load_plant_spotlight): 'plant_spotlight',
+            executor.submit(load_ebird): 'ebird_observations',
+            executor.submit(load_danr_notices): 'danr_notices',
+            executor.submit(load_danr_contested_cases): 'danr_contested_cases',
+            executor.submit(load_bhnf_projects): 'bhnf_projects',
+            executor.submit(load_circulation): 'library_circulation',
+            executor.submit(load_creek_data): 'creek_data',
+            executor.submit(fetch_fire_data): 'fire_data',
+        }
+        
+        data_results = {}
+        for future in as_completed(futures):
+            key = futures[future]
+            try:
+                data_results[key] = future.result()
+            except Exception as exc:
+                print(f"[build] Error loading {key}: {exc}")
+                data_results[key] = {} if key != 'ebird_observations' else []
+
+    plant_spotlight = data_results.get('plant_spotlight', {})
+    ebird_observations = data_results.get('ebird_observations', [])
+    danr_notices = data_results.get('danr_notices', [])
+    danr_contested_cases = data_results.get('danr_contested_cases', [])
+    bhnf_projects = data_results.get('bhnf_projects', [])
+    library_circulation = data_results.get('library_circulation', {})
+    creek_data = data_results.get('creek_data', {})
+    fire_data = data_results.get('fire_data', {})
+    
+    fire_rows = fire_data.get("rows", [])
     print(
         f"[build] Creek gauge: {creek_data.get('current', {}).get('cfs', 'n/a')} cfs, "
         f"{len(creek_data.get('series7d', []))} IV points, "
         f"{len(creek_data.get('daily30', []))} daily values"
     )
-
-    fire_data = fetch_fire_data()
-    fire_rows = fire_data.get("rows", [])
     print(
         f"[build] Fire: {len(fire_rows)} restriction row(s), "
         f"{sum(1 for r in fire_rows if r.get('any_restricted'))} with restrictions, "
