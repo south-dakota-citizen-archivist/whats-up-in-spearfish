@@ -1,0 +1,242 @@
+{# ── DANR public notices + contested cases ────────────────────────────────── #}
+{% set notices = danr_notices | default([]) %}
+{% set cases = danr_contested_cases | default([]) %}
+{% if notices or cases %}
+<section id="danr-notices" x-data="{ tab: 'notices' }"
+         class="rounded-xl border border-gray-300 bg-white overflow-hidden scroll-mt-20">
+
+  {# header #}
+  <div class="px-4 pt-3.5 pb-0 border-b border-gray-200">
+    <h2 class="text-base font-bold text-gray-900 flex items-center gap-1.5 pb-2.5">
+      {# water drop icon #}
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" class="h-4 w-4 text-blue-600 shrink-0">
+        <path fill-rule="evenodd" d="M11.54 3.186a.75.75 0 01.92 0l7.5 6a.75.75 0 01-.46 1.344H3.5a.75.75 0 01-.46-1.344l7.5-6z" clip-rule="evenodd"/>
+        <path d="M12 2.25c-.199 0-.392.057-.556.163L3.444 8.413A1.5 1.5 0 004.5 11.25h15a1.5 1.5 0 001.056-2.837L12.556 2.413A.968.968 0 0012 2.25z"/>
+        <path fill-rule="evenodd" d="M4.5 12.75v6a.75.75 0 00.75.75h.75v-4.5a.75.75 0 01.75-.75h10.5a.75.75 0 01.75.75v4.5h.75a.75.75 0 00.75-.75v-6H4.5zm3 6.75v-4.5h9v4.5h-9z" clip-rule="evenodd"/>
+      </svg>
+      DANR
+    </h2>
+
+    {# tabs #}
+    {% if notices and cases %}
+    <div class="-mb-px flex gap-1 text-xs font-medium">
+      <button @click="tab = 'notices'"
+              :class="tab === 'notices' ? 'border-blue-600 text-blue-700 bg-white' : 'border-transparent text-gray-500 hover:text-gray-700'"
+              class="px-3 py-2 border-b-2 transition-colors whitespace-nowrap">
+        Public Notices
+        {% if notices %}<span class="ml-1 text-gray-400">({{ notices | length }})</span>{% endif %}
+      </button>
+      <button @click="tab = 'cases'"
+              :class="tab === 'cases' ? 'border-blue-600 text-blue-700 bg-white' : 'border-transparent text-gray-500 hover:text-gray-700'"
+              class="px-3 py-2 border-b-2 transition-colors whitespace-nowrap">
+        Contested Cases
+        {% if cases %}<span class="ml-1 text-gray-400">({{ cases | length }})</span>{% endif %}
+      </button>
+    </div>
+    {% elif notices %}
+    <div class="-mb-px">
+      <span class="px-3 py-2 inline-block border-b-2 border-blue-600 text-blue-700 text-xs font-medium">Public Notices</span>
+    </div>
+    {% elif cases %}
+    <div class="-mb-px">
+      <span class="px-3 py-2 inline-block border-b-2 border-blue-600 text-blue-700 text-xs font-medium">Contested Cases</span>
+    </div>
+    {% endif %}
+  </div>
+
+  {# ── Public Notices tab ────────────────────────────────────────────────── #}
+  {% if notices %}
+  <div x-show="tab === 'notices'">
+    <ul class="divide-y divide-gray-100">
+      {% for n in notices %}
+      <li x-data="{ open: false }">
+
+        <button @click="open = !open"
+                class="w-full px-4 py-3 flex items-start gap-3 text-left hover:bg-gray-50 transition-colors">
+
+          {# status dot #}
+          <span class="mt-1 w-2 h-2 rounded-full shrink-0 {% if n.deadline_past %}bg-gray-300{% else %}bg-blue-500{% endif %}"></span>
+
+          <div class="flex-1 min-w-0">
+            {# name — fallback to notice type if blank #}
+            <p class="text-sm font-semibold text-gray-900 leading-snug">
+              {{ n.name if n.name else n.notice_type }}
+            </p>
+            <div class="mt-0.5 flex flex-wrap items-center gap-x-2 gap-y-0.5 text-xs text-gray-500">
+              {% if n.name %}
+              <span class="bg-gray-100 text-gray-500 px-1.5 py-0.5 rounded text-xs">{{ n.notice_type }}</span>
+              {% endif %}
+              {% if n.location %}
+              <span>{{ n.location }}</span>
+              {% endif %}
+            </div>
+          </div>
+
+          {# deadline badge + chevron #}
+          <div class="flex items-center gap-2 shrink-0">
+            {% if n.deadline %}
+            <span class="text-xs font-medium px-2 py-0.5 rounded-full {% if n.deadline_past %}bg-gray-100 text-gray-400{% else %}bg-blue-50 text-blue-700 ring-1 ring-blue-200{% endif %}">
+              {{ n.deadline }}
+            </span>
+            {% endif %}
+            <svg :class="open ? 'rotate-180' : ''"
+                 class="h-3.5 w-3.5 text-gray-400 transition-transform shrink-0"
+                 fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+              <path stroke-linecap="round" stroke-linejoin="round" d="M19 9l-7 7-7-7"/>
+            </svg>
+          </div>
+
+        </button>
+
+        {# expanded detail #}
+        <div x-show="open" x-collapse x-cloak
+             class="border-t border-gray-100 bg-gray-50 px-4 py-3 space-y-2.5">
+
+          {% if n.description %}
+          <p class="text-xs text-gray-600 leading-relaxed">{{ n.description }}</p>
+          {% endif %}
+
+          {# extra fields #}
+          {% set extras = [] %}
+          {% if n.water_source %}{% set _ = extras.append(('Water source', n.water_source)) %}{% endif %}
+          {% if n.use_type %}{% set _ = extras.append(('Use type', n.use_type)) %}{% endif %}
+          {% if n.application_no %}{% set _ = extras.append(('Application no.', n.application_no)) %}{% endif %}
+          {% if extras %}
+          <dl class="grid grid-cols-2 gap-x-4 gap-y-0.5">
+            {% for label, val in extras %}
+            <dt class="text-xs text-gray-500">{{ label }}</dt>
+            <dd class="text-xs text-gray-700 font-medium">{{ val }}</dd>
+            {% endfor %}
+          </dl>
+          {% endif %}
+
+          {# document links #}
+          {% if n.links %}
+          <div class="flex flex-wrap gap-2">
+            {% for link in n.links %}
+            <a href="{{ link.url }}" target="_blank" rel="noopener noreferrer"
+               class="inline-flex items-center gap-1 text-xs font-medium text-blue-700 bg-white border border-blue-200 rounded px-2 py-0.5 hover:bg-blue-50 transition-colors">
+              {{ link.label }}
+              <svg class="h-2.5 w-2.5" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+                <path stroke-linecap="round" stroke-linejoin="round" d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14"/>
+              </svg>
+            </a>
+            {% endfor %}
+          </div>
+          {% endif %}
+
+          {# comment / petition link #}
+          {% if n.comment_url and not n.deadline_past %}
+          <div>
+            <a href="{{ n.comment_url }}" target="_blank" rel="noopener noreferrer"
+               class="inline-flex items-center gap-1 text-xs font-medium text-white bg-blue-600 rounded px-2.5 py-1 hover:bg-blue-700 transition-colors">
+              Submit comment / petition
+              <svg class="h-3 w-3" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+                <path stroke-linecap="round" stroke-linejoin="round" d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14"/>
+              </svg>
+            </a>
+          </div>
+          {% endif %}
+
+        </div>
+      </li>
+      {% endfor %}
+    </ul>
+
+    <div class="border-t border-gray-200 bg-gray-50 px-4 py-2 flex items-center justify-between">
+      <a href="https://danr.sd.gov/public/default.aspx" target="_blank" rel="noopener noreferrer"
+         class="text-xs text-blue-700 font-medium hover:underline">View all DANR notices ↗</a>
+      <span class="text-xs text-gray-400">SD Dept. of Agriculture &amp; Natural Resources</span>
+    </div>
+  </div>
+  {% endif %}
+
+  {# ── Contested Cases tab ───────────────────────────────────────────────── #}
+  {% if cases %}
+  <div x-show="tab === 'cases'">
+    <ul class="divide-y divide-gray-100">
+      {% for c in cases %}
+      <li x-data="{ open: false }">
+
+        <button @click="open = !open"
+                class="w-full px-4 py-3 flex items-start gap-3 text-left hover:bg-gray-50 transition-colors">
+          <span class="mt-1 w-2 h-2 rounded-full bg-blue-500 shrink-0"></span>
+
+          <div class="flex-1 min-w-0">
+            <p class="text-sm font-semibold text-gray-900 leading-snug">{{ c.title }}</p>
+            <div class="mt-0.5 flex flex-wrap items-center gap-x-2 gap-y-0.5 text-xs text-gray-500">
+              {% if c.permit_type %}
+              <span class="bg-gray-100 text-gray-500 px-1.5 py-0.5 rounded">{{ c.permit_type }}</span>
+              {% endif %}
+              {% if c.board %}
+              <span>{{ c.board }}</span>
+              {% endif %}
+            </div>
+          </div>
+
+          <div class="flex items-center gap-2 shrink-0">
+            {% if c.total_docs %}
+            <span class="text-xs text-gray-400">{{ c.total_docs }} doc{{ 's' if c.total_docs != 1 }}</span>
+            {% endif %}
+            <svg :class="open ? 'rotate-180' : ''"
+                 class="h-3.5 w-3.5 text-gray-400 transition-transform shrink-0"
+                 fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+              <path stroke-linecap="round" stroke-linejoin="round" d="M19 9l-7 7-7-7"/>
+            </svg>
+          </div>
+        </button>
+
+        <div x-show="open" x-collapse x-cloak
+             class="border-t border-gray-100 bg-gray-50 px-4 py-3 space-y-2.5">
+
+          {% if c.description %}
+          <p class="text-xs text-gray-600 leading-relaxed">{{ c.description }}</p>
+          {% endif %}
+
+          {# document links #}
+          {% if c.documents %}
+          <div>
+            <p class="text-xs font-medium text-gray-500 mb-1.5">
+              Recent documents{% if c.total_docs > c.documents | length %} ({{ c.documents | length }} of {{ c.total_docs }}){% endif %}
+            </p>
+            <div class="flex flex-wrap gap-2">
+              {% for doc in c.documents %}
+              <a href="{{ doc.url }}" target="_blank" rel="noopener noreferrer"
+                 class="inline-flex items-center gap-1 text-xs font-medium text-blue-700 bg-white border border-blue-200 rounded px-2 py-0.5 hover:bg-blue-50 transition-colors">
+                {{ doc.label }}
+                <svg class="h-2.5 w-2.5 shrink-0" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+                  <path stroke-linecap="round" stroke-linejoin="round" d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14"/>
+                </svg>
+              </a>
+              {% endfor %}
+            </div>
+          </div>
+          {% endif %}
+
+          {% if c.docs_url %}
+          <div>
+            <a href="{{ c.docs_url }}" target="_blank" rel="noopener noreferrer"
+               class="inline-flex items-center gap-1 text-xs font-medium text-white bg-blue-600 rounded px-2.5 py-1 hover:bg-blue-700 transition-colors">
+              View all documents
+              <svg class="h-3 w-3" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+                <path stroke-linecap="round" stroke-linejoin="round" d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14"/>
+              </svg>
+            </a>
+          </div>
+          {% endif %}
+
+        </div>
+      </li>
+      {% endfor %}
+    </ul>
+
+    <div class="border-t border-gray-200 bg-gray-50 px-4 py-2 flex items-center justify-between">
+      <a href="https://danr.sd.gov/public/ContestedCase.aspx" target="_blank" rel="noopener noreferrer"
+         class="text-xs text-blue-700 font-medium hover:underline">View all contested cases ↗</a>
+      <span class="text-xs text-gray-400">SD Dept. of Agriculture &amp; Natural Resources</span>
+    </div>
+  </div>
+  {% endif %}
+
+</section>
+{% endif %}

@@ -15,6 +15,7 @@ _Updated: April 4, 2026_
 | Source | Slug | Record types | Count |
 |---|---|---|---:|
 | Bhca Calendar | `bhca_calendar` | `event` | 70 |
+| BHNF Alerts | `bhnf_alerts` | — | 0 |
 | BHSU | `bhsu_jobs` | `job` | 11 |
 | BHSU Athletics | `bhsu_athletics` | `event` | 86 |
 | BHSU Campus Calendar | `bhsu_calendar` | `event` | 48 |
@@ -52,6 +53,8 @@ _Updated: April 4, 2026_
 | Redwater Kitchen | `redwater_kitchen` | `beer` | 12 |
 | Regional News | `news_feeds` | `news` | 128 |
 | Sawyer Brewing Co. | `sawyer_brewing` | `beer` | 17 |
+| SD Dept. of Agriculture & Natural Resources (contested cases) | `danr_contested_cases` | — | 10 |
+| SD Dept. of Agriculture & Natural Resources (public notices) | `danr_public_notices` | — | 8 |
 | Sd Flowering Plants | `sd_flowering_plants` | — | 5 |
 | Sd Living Landscapes | `sd_living_landscapes` | — | 5 |
 | SDPB | `sdpb_news` | `news` | 10 |

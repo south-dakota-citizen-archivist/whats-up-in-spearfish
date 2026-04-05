@@ -75,6 +75,8 @@ def load_data() -> dict[str, list[dict]]:
         "ebird",
         "library_circulation",
         "bhnf_projects",
+        "danr_public_notices",
+        "danr_contested_cases",
     }
 
     for json_file in sorted(DATA_DIR.glob("*.json")):
@@ -139,6 +141,15 @@ def group_records(data: dict[str, list[dict]]) -> dict[str, list[dict]]:
                 future.append(r)
         future.sort(key=_sort_dt)
         groups[rtype] = future
+
+    # Alerts: last 90 days
+    if "alert" in groups:
+        _alert_cutoff = TODAY - timedelta(days=90)
+        groups["alert"] = [
+            r for r in groups["alert"]
+            if (dt := _parse_dt(r.get("published") or r.get("date"))) is None
+            or (dt.date() if isinstance(dt, datetime) else dt) >= _alert_cutoff
+        ]
 
     # Documents, news, press releases: last 30 days or future
     _CUTOFF = TODAY - timedelta(days=30)
@@ -661,6 +672,50 @@ def load_ebird() -> list[dict]:
         return []
 
 
+def load_danr_notices() -> list[dict]:
+    """Load DANR public notices."""
+    path = DATA_DIR / "danr_public_notices.json"
+    if not path.exists():
+        return []
+    try:
+        raw = json.loads(path.read_text(encoding="utf-8"))
+    except Exception as exc:
+        print(f"[build] Warning: could not load danr_public_notices.json: {exc}")
+        return []
+    notices = raw.get("notices") or []
+
+    # Mark whether each deadline is past (for display styling)
+    today_str = TODAY.isoformat()
+    for n in notices:
+        d = n.get("deadline", "") or ""
+        m = re.match(r"(\d{1,2})/(\d{1,2})/(\d{4})", d)
+        if m:
+            iso = f"{m.group(3)}-{int(m.group(1)):02d}-{int(m.group(2)):02d}"
+            n["deadline_past"] = iso < today_str
+            n["deadline_iso"] = iso
+        else:
+            n["deadline_past"] = False
+            n["deadline_iso"] = ""
+
+    print(f"[build] DANR notices: {len(notices)}")
+    return notices
+
+
+def load_danr_contested_cases() -> list[dict]:
+    """Load DANR contested cases with their supporting documents."""
+    path = DATA_DIR / "danr_contested_cases.json"
+    if not path.exists():
+        return []
+    try:
+        raw = json.loads(path.read_text(encoding="utf-8"))
+    except Exception as exc:
+        print(f"[build] Warning: could not load danr_contested_cases.json: {exc}")
+        return []
+    cases = raw.get("cases") or []
+    print(f"[build] DANR contested cases: {len(cases)}")
+    return cases
+
+
 def load_bhnf_projects() -> list[dict]:
     """Load BHNF public projects, returning only in-progress ones with a past flag."""
     path = DATA_DIR / "bhnf_projects.json"
@@ -832,6 +887,8 @@ def build() -> None:
 
     plant_spotlight = load_plant_spotlight()
     ebird_observations = load_ebird()
+    danr_notices = load_danr_notices()
+    danr_contested_cases = load_danr_contested_cases()
     bhnf_projects = load_bhnf_projects()
     library_circulation = load_circulation()
     creek_data = load_creek_data()
@@ -862,6 +919,8 @@ def build() -> None:
         "fire": fire_data,
         "plant_spotlight": plant_spotlight,
         "ebird_observations": ebird_observations,
+        "danr_notices": danr_notices,
+        "danr_contested_cases": danr_contested_cases,
         "bhnf_projects": bhnf_projects,
         "library_circulation": library_circulation,
     }
