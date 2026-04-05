@@ -1135,5 +1135,27 @@
     "category": "Campus Calendar/Events",
     "record_type": "event",
     "source_label": "BHSU Campus Calendar"
+  },
+  {
+    "event_id": "e2f00af8-d00d-4bd3-af29-d01d4f465499",
+    "url": "https://bhsu.edu/campus-calendar.html#event-details/e2f00af8-d00d-4bd3-af29-d01d4f465499",
+    "title": "Independence Day",
+    "slug": "independence-day",
+    "description": "Independence Day - No classes, Staff Holiday",
+    "start_dt": "2026-07-04",
+    "end_dt": "2026-07-04",
+    "location": "",
+    "image_url": "",
+    "image_alt": "",
+    "organizer": "",
+    "tags": [
+      "Holiday",
+      "Academic Calendar"
+    ],
+    "featured": false,
+    "ticket_url": "",
+    "category": "Campus Calendar/Events",
+    "record_type": "event",
+    "source_label": "BHSU Campus Calendar"
   }
 ]
