@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-04-06T03:37:16.086176+00:00",
+  "fetched_at": "2026-04-06T14:23:42.688888+00:00",
   "observations": [
     {
       "species_code": "norfli",
@@ -26,6 +26,58 @@
       "location_id": "L61977032",
       "checklist_id": "S317576704",
       "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/178279576/square.jpg"
+    },
+    {
+      "species_code": "attwoo1",
+      "common_name": "American Three-toed Woodpecker",
+      "scientific_name": "Picoides dorsalis",
+      "observed_on": "2026-04-05",
+      "count": 1,
+      "location_name": "Annie Creek",
+      "lat": 44.329604,
+      "lng": -103.8799558,
+      "location_id": "L61987345",
+      "checklist_id": "S317625212",
+      "photo_url": "https://static.inaturalist.org/photos/53465854/square.jpeg"
+    },
+    {
+      "species_code": "rebnut",
+      "common_name": "Red-breasted Nuthatch",
+      "scientific_name": "Sitta canadensis",
+      "observed_on": "2026-04-05",
+      "count": 4,
+      "location_name": "Annie Creek",
+      "lat": 44.329604,
+      "lng": -103.8799558,
+      "location_id": "L61987345",
+      "checklist_id": "S317625212",
+      "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/117331702/square.jpg"
+    },
+    {
+      "species_code": "redcro",
+      "common_name": "Red Crossbill",
+      "scientific_name": "Loxia curvirostra",
+      "observed_on": "2026-04-05",
+      "count": 4,
+      "location_name": "Annie Creek",
+      "lat": 44.329604,
+      "lng": -103.8799558,
+      "location_id": "L61987345",
+      "checklist_id": "S317625212",
+      "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/332346026/square.jpeg"
+    },
+    {
+      "species_code": "pinsis",
+      "common_name": "Pine Siskin",
+      "scientific_name": "Spinus pinus",
+      "observed_on": "2026-04-05",
+      "count": 8,
+      "location_name": "Annie Creek",
+      "lat": 44.329604,
+      "lng": -103.8799558,
+      "location_id": "L61987345",
+      "checklist_id": "S317625212",
+      "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/13823002/square.jpg"
     },
     {
       "species_code": "towsol",
@@ -78,19 +130,6 @@
       "location_id": "L61841719",
       "checklist_id": "S316959750",
       "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/114655826/square.jpg"
-    },
-    {
-      "species_code": "rebnut",
-      "common_name": "Red-breasted Nuthatch",
-      "scientific_name": "Sitta canadensis",
-      "observed_on": "2026-04-04",
-      "count": 1,
-      "location_name": "Central City, South Dakota, US (44.378, -103.886)",
-      "lat": 44.3781577,
-      "lng": -103.8858894,
-      "location_id": "L61841719",
-      "checklist_id": "S316959750",
-      "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/117331702/square.jpg"
     },
     {
       "species_code": "daejun",
@@ -288,19 +327,6 @@
       "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/32152001/square.jpg"
     },
     {
-      "species_code": "pinsis",
-      "common_name": "Pine Siskin",
-      "scientific_name": "Spinus pinus",
-      "observed_on": "2026-04-03",
-      "count": 93,
-      "location_name": "Spearfish Canyon--Iron Creek",
-      "lat": 44.3735178,
-      "lng": -103.9199352,
-      "location_id": "L977435",
-      "checklist_id": "S317105306",
-      "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/13823002/square.jpg"
-    },
-    {
       "species_code": "amegfi",
       "common_name": "American Goldfinch",
       "scientific_name": "Spinus tristis",
@@ -338,19 +364,6 @@
       "location_id": "L61657373",
       "checklist_id": "S316090068",
       "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/225768/square.jpg"
-    },
-    {
-      "species_code": "redcro",
-      "common_name": "Red Crossbill",
-      "scientific_name": "Loxia curvirostra",
-      "observed_on": "2026-04-02",
-      "count": 2,
-      "location_name": "Tinton Rd - FR 222",
-      "lat": 44.3780783,
-      "lng": -103.965758,
-      "location_id": "L61657373",
-      "checklist_id": "S316090068",
-      "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/332346026/square.jpeg"
     },
     {
       "species_code": "norsho",
@@ -637,19 +650,6 @@
       "location_id": "L61587034",
       "checklist_id": "S315738895",
       "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/4608133/square.jpg"
-    },
-    {
-      "species_code": "wooduc",
-      "common_name": "Wood Duck",
-      "scientific_name": "Aix sponsa",
-      "observed_on": "2026-03-28",
-      "count": 2,
-      "location_name": "Spearfish--DC Booth Fish Hatchery",
-      "lat": 44.4836166,
-      "lng": -103.8615489,
-      "location_id": "L2265498",
-      "checklist_id": "S314116703",
-      "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/171626985/square.jpg"
     }
   ]
 }

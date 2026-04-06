@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-04-06T03:37:45.387812+00:00",
+  "fetched_at": "2026-04-06T14:24:22.137885+00:00",
   "notices": [
     {
       "notice_type": "Water Rights",
@@ -435,27 +435,6 @@
         {
           "label": "Recom. Action",
           "url": "https://danr.sd.gov/wrimage/pub/5003-3_rec.pdf"
-        }
-      ]
-    },
-    {
-      "notice_type": "Air Quality Permit",
-      "deadline": "04/05/2026",
-      "comment_url": "https://danr.sd.gov/public/comment.aspx?d_comment=04/05/2026&name=Prairie Aquatech Manufacturing, LLC dba Houdek Manufacturing&pntype=aq&description=Prairie Aquatech Manufacturing, LLC dba Houdek Manufacturing proposes to modify their construction permit for several permitted units at the animal health and nutrition company. DANR recommends issuance of a modified air quality construction permit.",
-      "description": "Prairie Aquatech Manufacturing, LLC dba Houdek Manufacturing proposes to modify their construction permit for several permitted units at the animal health and nutrition company. DANR recommends issuance of a modified air quality construction permit.",
-      "location": "Volga",
-      "links": [
-        {
-          "label": "Public Notice",
-          "url": "http://danr.sd.gov/Environment/AirQuality/PN/PAMpn.pdf"
-        },
-        {
-          "label": "Draft Permit",
-          "url": "http://danr.sd.gov/Environment/AirQuality/PN/PAMdp.pdf"
-        },
-        {
-          "label": "Application Review",
-          "url": "http://danr.sd.gov/Environment/AirQuality/PN/PAmsb.pdf"
         }
       ]
     },
