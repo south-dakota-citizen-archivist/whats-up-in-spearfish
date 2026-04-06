@@ -91,6 +91,23 @@ ADDRESS_FIXES: dict[str, str] = {
 }
 
 
+def _is_valid_permit(r: dict) -> bool:
+    """Return False for summary/totals rows that slipped through the PDF parser."""
+    pid = (r.get("permit_number") or "").strip()
+    if not pid:
+        return False
+    # Section headers ("2026 January Permits") and totals rows ("Total Permits Issued")
+    if re.search(r"^total|\d{4}\s+\w+\s+permits?|permits?\s+issued", pid, re.IGNORECASE):
+        return False
+    # Count rows: small integer permit ID with dollar amounts in type/addr columns
+    if re.match(r"^\d{1,4}$", pid):
+        ctype = r.get("construction_type", "") or ""
+        addr = r.get("site_address", "") or ""
+        if ctype.startswith("$") or addr.startswith("$"):
+            return False
+    return True
+
+
 def _categorize(construction_type: str) -> str:
     """Map a construction_type string to a broad category slug."""
     t = construction_type.upper()
@@ -171,8 +188,12 @@ def _parse_pdf(pdf_path: Path, year: str, month: str) -> list[dict]:
     for line in table_data[1:]:
         if not any(line):
             continue
-        # Stop at summary row
-        if line[0] and re.search(r"permits issued", line[0], re.IGNORECASE):
+        # Stop at summary / totals block (section header or totals row)
+        if line[0] and re.search(
+            r"^total|\d{4}\s+\w+\s+permits?|permits?\s+issued",
+            line[0],
+            re.IGNORECASE,
+        ):
             break
         if len(line) < 8:
             continue
@@ -270,7 +291,8 @@ def fetch_building_permits() -> None:
     if DATA_FILE.exists():
         try:
             raw = json.loads(DATA_FILE.read_text(encoding="utf-8"))
-            existing = raw.get("records") or []
+            raw_records = raw.get("records") or []
+            existing = [r for r in raw_records if _is_valid_permit(r)]
             existing_month_urls = raw.get("month_urls") or {}
         except Exception as exc:
             print(f"[BuildingPermits] Warning: could not load existing data: {exc}")
@@ -392,6 +414,9 @@ def seed_from_csv(csv_path: str | Path) -> None:
             year = str(row.get("year", "")).strip()
             month = str(row.get("month", "")).strip().zfill(2)
             const_type = (row.get("construction_type") or "").strip()
+            # Skip rows with no permit ID or summary/total rows
+            if not _is_valid_permit(row):
+                continue
 
             # Skip non-building permit types
             if const_type.upper() in SKIP_TYPES:

@@ -40,7 +40,7 @@
           <p class="text-xs text-gray-400 truncate leading-tight mt-0.5">{{ o.location_name | truncate(35, true, '…') }}</p>
         </div>
         <div class="text-right shrink-0">
-          <p class="text-xs font-medium text-gray-500">{{ o.observed_on }}</p>
+          <p class="text-xs font-medium text-gray-500">{{ o.observed_on | format_date('%B %-d') }}</p>
           {% if o.count %}<p class="text-xs text-gray-400">×{{ o.count }}</p>{% endif %}
         </div>
       </a>

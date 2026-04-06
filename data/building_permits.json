@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-04-05T17:29:31.116270+00:00",
+  "fetched_at": "2026-04-06T03:52:54.518526+00:00",
   "month_urls": {
     "2026-02": "https://www.cityofspearfish.com/Archive.aspx?ADID=1571",
     "2026-01": "https://www.cityofspearfish.com/Archive.aspx?ADID=1570",
@@ -387,20 +387,6 @@
     },
     {
       "year": "2026",
-      "month": "02",
-      "date": "2026-02-01",
-      "permit_number": "Total",
-      "applicant_name": "",
-      "site_address": "",
-      "construction_type": "",
-      "category": "alterations",
-      "contractor": "",
-      "cost_approximate": null,
-      "permit_fee": null,
-      "outside_city_limits": true
-    },
-    {
-      "year": "2026",
       "month": "01",
       "date": "2026-01-01",
       "permit_number": "CAA-25-87",
@@ -775,76 +761,6 @@
       "contractor": "JOHNSON PLUMBING",
       "cost_approximate": 150.0,
       "permit_fee": 50.0,
-      "outside_city_limits": false
-    },
-    {
-      "year": "2026",
-      "month": "01",
-      "date": "2026-01-01",
-      "permit_number": "2026 January Permits",
-      "applicant_name": "",
-      "site_address": "",
-      "construction_type": "",
-      "category": "alterations",
-      "contractor": "",
-      "cost_approximate": null,
-      "permit_fee": null,
-      "outside_city_limits": false
-    },
-    {
-      "year": "2026",
-      "month": "01",
-      "date": "2026-01-01",
-      "permit_number": "Total\nPermits\nIssued",
-      "applicant_name": "MONTH/YEAR",
-      "site_address": "Total Project Valuation",
-      "construction_type": "Permit Fee",
-      "category": "alterations",
-      "contractor": "",
-      "cost_approximate": null,
-      "permit_fee": null,
-      "outside_city_limits": false
-    },
-    {
-      "year": "2026",
-      "month": "01",
-      "date": "2026-01-01",
-      "permit_number": "27",
-      "applicant_name": "JAN-26",
-      "site_address": "$ 4,294,997.32",
-      "construction_type": "$64,333.17",
-      "category": "alterations",
-      "contractor": "",
-      "cost_approximate": null,
-      "permit_fee": null,
-      "outside_city_limits": false
-    },
-    {
-      "year": "2026",
-      "month": "01",
-      "date": "2026-01-01",
-      "permit_number": "21",
-      "applicant_name": "JAN-25",
-      "site_address": "$ 15,065,488.28",
-      "construction_type": "$ 156,381.61",
-      "category": "alterations",
-      "contractor": "",
-      "cost_approximate": null,
-      "permit_fee": null,
-      "outside_city_limits": false
-    },
-    {
-      "year": "2026",
-      "month": "01",
-      "date": "2026-01-01",
-      "permit_number": "18",
-      "applicant_name": "JAN-24",
-      "site_address": "$ 2,619,246.00",
-      "construction_type": "$ 20,587.00",
-      "category": "alterations",
-      "contractor": "",
-      "cost_approximate": null,
-      "permit_fee": null,
       "outside_city_limits": false
     },
     {
@@ -8868,20 +8784,6 @@
       "cost_approximate": 325.0,
       "permit_fee": 36.0,
       "outside_city_limits": true
-    },
-    {
-      "year": "2024",
-      "month": "05",
-      "date": "2024-05-01",
-      "permit_number": "",
-      "applicant_name": "",
-      "site_address": "2272 TOP SHELF AVENUE",
-      "construction_type": "",
-      "category": "alterations",
-      "contractor": "HIGH PLAINS",
-      "cost_approximate": null,
-      "permit_fee": null,
-      "outside_city_limits": false
     },
     {
       "year": "2024",
