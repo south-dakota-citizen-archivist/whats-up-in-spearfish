@@ -99,11 +99,25 @@ jobs:
           CreekGaugeScraper().run()
           "
 
+      - name: Fetch wildlife roadkill pickups
+        run: |
+          uv run python -c "
+          from scrapers.sources.roadkill import fetch_roadkill
+          fetch_roadkill()
+          "
+
       - name: Fetch building permit PDFs
         run: |
           uv run python -c "
           from scrapers.sources.building_permits import fetch_building_permits
           fetch_building_permits()
+          "
+
+      - name: Fetch DANR spill reports
+        run: |
+          uv run python -c "
+          from scrapers.sources.danr_spills import fetch_danr_spills
+          fetch_danr_spills()
           "
 
       - name: Commit updated data

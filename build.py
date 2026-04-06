@@ -80,6 +80,8 @@ def load_data() -> dict[str, list[dict]]:
         "danr_contested_cases",
         "planning_zoning",
         "building_permits",
+        "roadkill",
+        "danr_spills",
     }
 
     for json_file in sorted(DATA_DIR.glob("*.json")):
@@ -169,7 +171,7 @@ def group_records(data: dict[str, list[dict]]) -> dict[str, list[dict]]:
 
     # Everything else: descending
     for rtype, records in groups.items():
-        if rtype != "event":
+        if rtype not in ("event", "school_menu"):
             records.sort(key=_sort_dt, reverse=True)
 
     return groups
@@ -720,6 +722,25 @@ def load_danr_contested_cases() -> list[dict]:
     return cases
 
 
+def load_danr_spills() -> dict:
+    """Load DANR spill reports — new records detected since cache was seeded."""
+    path = DATA_DIR / "danr_spills.json"
+    if not path.exists():
+        return {}
+    try:
+        raw = json.loads(path.read_text(encoding="utf-8"))
+    except Exception as exc:
+        print(f"[build] Warning: could not load danr_spills.json: {exc}")
+        return {}
+    records = raw.get("new_records") or []
+    print(f"[build] DANR spills: {len(records)} new record(s) in lookback window")
+    return {
+        "records": records,
+        "lookback_days": raw.get("lookback_days", 90),
+        "total_bh_sites": raw.get("total_bh_sites", 0),
+    }
+
+
 def load_bhnf_projects() -> list[dict]:
     """Load BHNF public projects, returning only in-progress ones with a past flag."""
     path = DATA_DIR / "bhnf_projects.json"
@@ -826,9 +847,9 @@ def load_circulation() -> dict:
             covid_x = round((i / (n - 1)) * CHART_W, 1)
             break
 
-    # Recent 24 months for table (newest first), skip rows with no numeric data
+    # All months for table (newest first), skip rows with no numeric data
     recent_rows = [r for r in rows if r.get("loans") is not None or r.get("overdrive_loans") is not None]
-    recent = list(reversed(recent_rows[-24:]))
+    recent = list(reversed(recent_rows))
 
     print(f"[build] Library circulation: {len(rows)} months, {n} chart points, {len(recent)} in table")
 
@@ -984,6 +1005,25 @@ def load_building_permits() -> dict:
     return {"records": records, "chart": chart, "year_series": year_series}
 
 
+def load_roadkill() -> dict:
+    """Load roadkill records from data/roadkill.json."""
+    path = DATA_DIR / "roadkill.json"
+    if not path.exists():
+        return {}
+    try:
+        raw = json.loads(path.read_text(encoding="utf-8"))
+    except Exception as exc:
+        print(f"[build] Warning: could not load roadkill.json: {exc}")
+        return {}
+    records = raw.get("records") or []
+    lookback = raw.get("lookback_days", 30)
+    from collections import Counter
+
+    species_counts = Counter(r["species"] for r in records).most_common()
+    print(f"[build] Roadkill: {len(records)} pickups in last {lookback} days (BH bbox)")
+    return {"records": records, "lookback_days": lookback, "species_counts": species_counts}
+
+
 def load_planning_zoning() -> list[dict]:
     """Load planning and zoning records from data/planning_zoning.json."""
     path = DATA_DIR / "planning_zoning.json"
@@ -1053,6 +1093,8 @@ def build() -> None:
             executor.submit(fetch_fire_data): "fire_data",
             executor.submit(load_planning_zoning): "planning_records",
             executor.submit(load_building_permits): "building_permits",
+            executor.submit(load_roadkill): "roadkill",
+            executor.submit(load_danr_spills): "danr_spills",
         }
 
         data_results = {}
@@ -1076,6 +1118,8 @@ def build() -> None:
     fire_data = data_results.get("fire_data", {})
     planning_records = data_results.get("planning_records", [])
     building_permits = data_results.get("building_permits", {})
+    roadkill = data_results.get("roadkill", {})
+    danr_spills = data_results.get("danr_spills", {})
 
     # Enrich building permit records with ViewpointCloud portal URLs where permit numbers match
     if planning_records and building_permits.get("records"):
@@ -1122,6 +1166,8 @@ def build() -> None:
         "library_circulation": library_circulation,
         "planning_records": planning_records,
         "building_permits": building_permits,
+        "roadkill": roadkill,
+        "danr_spills": danr_spills,
     }
 
     # Single-page dashboard

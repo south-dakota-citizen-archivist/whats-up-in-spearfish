@@ -32,6 +32,7 @@ _Updated: April 5, 2026_
 | City of Spearfish Jobs | `spearfish_jobs` | — | 0 |
 | City of Spearfish News Flash | `spearfish_news` | `press_release` | 4 |
 | Crow Peak Brewing | `crow_peak_brewing` | `beer` | 16 |
+| Danr Spills | `danr_spills` | — | 6 |
 | eBird (recent sightings) | `ebird` | — | 50 |
 | Elementary 3-5 Lunch | `spearfish_elem_35_lunch` | `school_menu` | 40 |
 | Elementary Breakfast | `spearfish_elem_breakfast` | `school_menu` | 40 |
@@ -54,6 +55,7 @@ _Updated: April 5, 2026_
 | Rapid City Journal | `rapid_city_journal` | `news` | 141 |
 | Redwater Kitchen | `redwater_kitchen` | `beer` | 12 |
 | Regional News | `news_feeds` | `news` | 128 |
+| Roadkill | `roadkill` | — | 3 |
 | Sawyer Brewing Co. | `sawyer_brewing` | `beer` | 17 |
 | SD Dept. of Agriculture & Natural Resources (contested cases) | `danr_contested_cases` | — | 10 |
 | SD Dept. of Agriculture & Natural Resources (public notices) | `danr_public_notices` | — | 74 |
