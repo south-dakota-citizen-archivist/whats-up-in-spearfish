@@ -1,7 +1,51 @@
 {
-  "fetched_at": "2026-04-07T17:59:05.810487+00:00",
+  "fetched_at": "2026-04-08T18:08:39.928138+00:00",
   "lookback_days": 30,
   "records": [
+    {
+      "date": "2026-04-07",
+      "species": "White-tailed Deer",
+      "highway": "I90",
+      "sex": "Female",
+      "present": "Yes",
+      "comments": null,
+      "contractor": "Tony Hanig",
+      "lat": 44.394994,
+      "lon": -103.502544
+    },
+    {
+      "date": "2026-04-07",
+      "species": "White-tailed Deer",
+      "highway": "I90",
+      "sex": "Unknown",
+      "present": "Yes",
+      "comments": null,
+      "contractor": "Tony Hanig",
+      "lat": 44.464939,
+      "lon": -103.628476
+    },
+    {
+      "date": "2026-04-07",
+      "species": "White-tailed Deer",
+      "highway": "I90",
+      "sex": "Female",
+      "present": "Yes",
+      "comments": null,
+      "contractor": "Tony Hanig",
+      "lat": 44.519878,
+      "lon": -103.863872
+    },
+    {
+      "date": "2026-04-07",
+      "species": "White-tailed Deer",
+      "highway": "I90",
+      "sex": "Unknown",
+      "present": "Yes",
+      "comments": null,
+      "contractor": "Tony Hanig",
+      "lat": 44.39617,
+      "lon": -103.508033
+    },
     {
       "date": "2026-03-31",
       "species": "White-tailed Deer",

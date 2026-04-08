@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-04-07T17:58:43.596357+00:00",
+  "fetched_at": "2026-04-08T18:08:16.267215+00:00",
   "cases": [
     {
       "ccid": "123",
@@ -9,6 +9,10 @@
       "description": "Proposed uranium exploration project seven miles north of Edgemont, SD.  Up to 50 holes will be drilled to a maximum vertical depth of 700 feet.  In addition, 50 drill platforms will be created with a dimension of 60 feet by 60 feet.  Exploration will be conducted using reverse circulation drilling with sumps.",
       "docs_url": "https://danr.sd.gov/public/ccdocs.aspx?CCID=CCID123",
       "documents": [
+        {
+          "label": "April 7, 2026 Notice of Postponement of April 13 through 17, 2026 Hearing on Clean Nuclear Energy's Uranium Exploration Permit Application",
+          "url": "https://danr.sd.gov/Environment/MineralsMining/Exploration/docs/CleanNuclearNOTICEOFPOSTPONEMENT.pdf"
+        },
         {
           "label": "March 23, 2026 Additional Clean Nuclear Energy Hearing Exhibits Submitted by Lilias Jarding",
           "url": "https://danr.sd.gov/Environment/MineralsMining/Exploration/docs/032326JardingExhibits.pdf"
@@ -24,13 +28,9 @@
         {
           "label": "February 24, 2026 Notice of Hearing for March 18, 2026 Board of Minerals and Environment Hearing",
           "url": "https://danr.sd.gov/Environment/MineralsMining/Exploration/docs/March182026NoticeofHearing.pdf"
-        },
-        {
-          "label": "February 23, 2026 Motion from Black Hills Group Sierra Club and Jeremiah \"Jay\" Davis for Access to Unredacted Archaeologic Report Pursuant to Protective Order",
-          "url": "https://danr.sd.gov/Environment/MineralsMining/Exploration/docs/022326SierraClubDavisAccessUnredactedArcReport.pdf"
         }
       ],
-      "total_docs": 83,
+      "total_docs": 84,
       "latest_doc_date": "0000-00-00"
     },
     {
