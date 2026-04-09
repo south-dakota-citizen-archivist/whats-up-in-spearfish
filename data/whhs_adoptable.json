@@ -224,7 +224,7 @@
     "title": "Grace",
     "slug": "cat-grace",
     "species": "cat",
-    "description": "Female | 14+ years\nGrace was one of the 5 cats that came from the hoarding situation on November 20th. She was also severely matted and had to be shaved. Her hair has been growing back nicely! She gets a bit startled by noises and hides but quickly realizes she’s safe and comes back out. She loves to snuggle up on some blankets and enjoys head rubs. Grace does not like other cats and would do best as the only pet in a quiet home. \nSeniors are $25 to adopt or ask about our Senior for Senior program!",
+    "description": "Female | 14+ years\nGrace was one of the 5 cats that came from the hoarding situation on November 20th. She was also severely matted and had to be shaved. Her hair has been growing back nicely! She gets a bit startled by noises and hides but quickly realizes she’s safe and comes back out. She loves to snuggle up on some blankets and enjoys head rubs. Grace does not like other cats and would do best as the only pet in a quiet home. \nSeniors are $25 to adopt or ask about our Senior for Senior program! \nGrace likely has a tumor so we’d like to find her a foster for her final months.",
     "image_url": "https://images.squarespace-cdn.com/content/v1/6833638f52663f7b5354620e/2709029b-9df7-465b-88a6-230747153f7c/1000027287.jpg?format=500w",
     "image_alt": "Grace",
     "record_type": "adoptable",
@@ -293,6 +293,28 @@
     "description": "Female | Born July 2023\nNo other animals, preferrably no kids\nFancy is back with after she lost her last owner. Fancy is part Siamese and a very sweet girl. She needs to be the only cat as she was originally surrendered for not liking dogs and she did fight with the last cat she lived with. Fancy would do best in a quiet home with adults.",
     "image_url": "https://images.squarespace-cdn.com/content/v1/6833638f52663f7b5354620e/faa87ddb-65a0-4cba-aec1-634e121285dd/1000037115.jpg?format=500w",
     "image_alt": "Fancy",
+    "record_type": "adoptable",
+    "source_label": "Western Hills Humane Society"
+  },
+  {
+    "url": "https://www.westernhillshumanesociety.com/cats",
+    "title": "Esmeralda",
+    "slug": "cat-esmeralda",
+    "species": "cat",
+    "description": "Female | Born 9/10/2025\nEsmeralda and her grey Tortie sister, Eleanor, were brought to us on April 4th, 2026. Their parents were expecting a baby and these cats are not fans of children (many attempts were made to get to know kiddos in the family) so they came to us. Esmeralda does lick when she’s stressed so she has some bald patches or spots with thin hair - she’s still a beauty though! Esmeralda would love to join an adult or two in a quiet home. The sisters don’t get along that well and if adopted together, would likely keep their distance in their new home. \nEsmeralda will come with her automatic feeder when adopted.\nSeniors are $25 to adopt or ask about our Senior for Senior program!",
+    "image_url": "https://images.squarespace-cdn.com/content/v1/6833638f52663f7b5354620e/bb52313e-2f78-4a91-8d88-cb26790b5905/Esmeralda.jpg?format=500w",
+    "image_alt": "Esmeralda",
+    "record_type": "adoptable",
+    "source_label": "Western Hills Humane Society"
+  },
+  {
+    "url": "https://www.westernhillshumanesociety.com/cats",
+    "title": "Eleanor",
+    "slug": "cat-eleanor",
+    "species": "cat",
+    "description": "Female | Born 9/10/2025\nEleanor and her Tortie sister, Esmeralda, were brought to us on April 4th, 2026. Their parents were expecting a baby and these cats are not fans of children (many attempts were made to get to know kiddos in the family) so they came to us. Eleanor is a little spicy and would do best in a quiet home with only a few adults that respected her space - she’ll come to you when she wants affection. The sisters don’t get along that well and if adopted together, would likely keep their distance in their new home. \nEleanor will come with her automatic feeder when adopted.\nSeniors are $25 to adopt or ask about our Senior for Senior program!",
+    "image_url": "https://images.squarespace-cdn.com/content/v1/6833638f52663f7b5354620e/139cd908-2ba6-4c01-9725-b7785f9c37e4/1000038076.jpg?format=500w",
+    "image_alt": "Eleanor",
     "record_type": "adoptable",
     "source_label": "Western Hills Humane Society"
   },
@@ -381,6 +403,28 @@
     "description": "Male | Lab/Doodle Mix | Born July 2024\nVaccinations scheduled | Neuter scheduled for 4/15/26 | Weight coming soon!\nRocky came to us with his brother and sister on April 3rd. Rocky has lived with cats and been around kids but does tend to get excited and jump. Rocky is the most rambunctious of his siblings. He has a lot to tell you and does howl. He’s a smart boy and eager to escape his kennel.",
     "image_url": "https://images.squarespace-cdn.com/content/v1/6833638f52663f7b5354620e/863e6683-afbc-41f4-95f9-98e8b63b51f5/Rocky.jpg?format=500w",
     "image_alt": "Rocky",
+    "record_type": "adoptable",
+    "source_label": "Western Hills Humane Society"
+  },
+  {
+    "url": "https://www.westernhillshumanesociety.com/dogs",
+    "title": "Lilac",
+    "slug": "dog-lilac",
+    "species": "dog",
+    "description": "Female | Coon Hound Mix | 3.5 years old\nMore info coming soon!",
+    "image_url": "https://images.squarespace-cdn.com/content/v1/6833638f52663f7b5354620e/5e71efc0-df4c-47b0-bcec-3888cd363d16/1000038072.jpg?format=500w",
+    "image_alt": "Lilac",
+    "record_type": "adoptable",
+    "source_label": "Western Hills Humane Society"
+  },
+  {
+    "url": "https://www.westernhillshumanesociety.com/dogs",
+    "title": "Greg",
+    "slug": "dog-greg",
+    "species": "dog",
+    "description": "Male | Possibly Catahoula Leopard Dog Mixed Breed | 1-2 years old\nMore info coming soon!",
+    "image_url": "https://images.squarespace-cdn.com/content/v1/6833638f52663f7b5354620e/b8a1efcf-91ff-4c2f-9ac5-5f18d2a2732a/1000038048.jpg?format=500w",
+    "image_alt": "Greg",
     "record_type": "adoptable",
     "source_label": "Western Hills Humane Society"
   }

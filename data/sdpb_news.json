@@ -174,5 +174,49 @@
     "image_url": "https://npr.brightspotcdn.com/4a/7f/b39daaff4a949524b73ee18473d5/art002e009276-large.jpg",
     "record_type": "news",
     "source_label": "SDPB"
+  },
+  {
+    "url": "https://www.sdpb.org/business-economics/2026-04-09/south-dakota-cdl-holders-must-update-medical-certification-before-july-deadline",
+    "title": "South Dakota CDL holders must update medical certification before July deadline",
+    "slug": "sdpb-south-dakota-cdl-holders-must-update-medical-certification-before-july",
+    "published": "2026-04-09",
+    "byline": "By SDPB News Staff",
+    "description": "New regulations are requiring most CDL holders to update their license with a medical certification status.",
+    "image_url": "https://npr.brightspotcdn.com/a2/63/251a552b4e4e8d1574cb2e6ba772/truck-article-main-pic.jpg",
+    "record_type": "news",
+    "source_label": "SDPB"
+  },
+  {
+    "url": "https://www.sdpb.org/arts-life/2026-04-09/smithsonian-selects-all-my-relatives-festival-for-nationwide-festival-series",
+    "title": "Smithsonian selects All My Relatives Festival for nationwide festival series",
+    "slug": "sdpb-smithsonian-selects-all-my-relatives-festival-for-nationwide-festival",
+    "published": "2026-04-09",
+    "byline": "By SDPB News Staff",
+    "description": "A Sioux Falls-based Indigenous festival is selected to take part in a nationwide program marking the 250<sup>th</sup> anniversary of the United States.",
+    "image_url": "https://npr.brightspotcdn.com/21/2f/ce484d6041749d256977782e8f3d/all-my-relatives-fashion-show-participants-levitt-at-the-falls-photo-credit-olivia-bertino.JPG",
+    "record_type": "news",
+    "source_label": "SDPB"
+  },
+  {
+    "url": "https://www.sdpb.org/politics/2026-04-09/rep-dusty-johnson-outlines-gubernatorial-vision-focuses-on-fiscal-discipline-in-the-moment",
+    "title": "Rep. Dusty Johnson Outlines Gubernatorial Vision, Focuses on Fiscal Discipline | In The Moment",
+    "slug": "sdpb-rep-dusty-johnson-outlines-gubernatorial-vision-focuses-on-fiscal-in-the",
+    "published": "2026-04-09",
+    "byline": "By SDPB News Staff",
+    "description": "In July 2025, U.S. Representative and Republican gubernatorial candidate Dusty Johnson visited the SDPB studio to reflect on his political career and discuss how he plans to apply his budget-conscious mentality to the governor's office.",
+    "image_url": "https://npr.brightspotcdn.com/96/36/acf4162f40e6a94ff59d0b8e0201/dusty-johnson-00-20-20-08-still001.png",
+    "record_type": "news",
+    "source_label": "SDPB"
+  },
+  {
+    "url": "https://www.sdpb.org/politics/2026-04-08/rhoden-announces-5m-south-dakota-defense-institute",
+    "title": "Rhoden announces $5M South Dakota Defense Institute",
+    "slug": "sdpb-rhoden-announces-5m-south-dakota-defense-institute",
+    "published": "2026-04-08",
+    "byline": "By C.J. Keene",
+    "description": "Gov. Larry Rhoden, in his State of the State address, set his sights on defense as the next tentpole of the state economy. Now, he says a new development will make that a reality.",
+    "image_url": "https://npr.brightspotcdn.com/77/17/18cd8f2047999209dd68e1139bfe/image-62.jpg",
+    "record_type": "news",
+    "source_label": "SDPB"
   }
 ]

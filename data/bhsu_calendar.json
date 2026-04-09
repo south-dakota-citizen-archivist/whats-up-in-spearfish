@@ -1227,5 +1227,27 @@
     "category": "Campus Calendar/Events",
     "record_type": "event",
     "source_label": "BHSU Campus Calendar"
+  },
+  {
+    "event_id": "99bae0c3-e5ad-4e0d-b3dc-1c3f73c1a8fe",
+    "url": "https://bhsu.edu/campus-calendar.html#event-details/99bae0c3-e5ad-4e0d-b3dc-1c3f73c1a8fe",
+    "title": "Edamame Champ",
+    "slug": "edamame-champ",
+    "description": "Chopsticks ready? 🥢 The Edamame Champ is coming to BHSU!🫛 Think you have the fastest hands on campus? Put your skills to the test! How many edamame can you move in just one minute? But it’s more than just a game—your participation provides food education for one child through the TABLE FOR TWO program. Come have fun and make a difference!",
+    "start_dt": "2026-04-16T17:00",
+    "end_dt": "2026-04-16T19:00",
+    "location": "Atrium (Student Union) The Hive",
+    "image_url": "https://bhsu.edu/_images/images/events/events-images/edamame.jpg",
+    "image_alt": "Edamame champ poster with activity and date details, with surrounded by chopsticks and cartoon edamame.",
+    "organizer": "Yukari Tadano",
+    "tags": [
+      "Yellow Jacket Dining",
+      "BHSU Event"
+    ],
+    "featured": false,
+    "ticket_url": "",
+    "category": "Campus Calendar/Events",
+    "record_type": "event",
+    "source_label": "BHSU Campus Calendar"
   }
 ]

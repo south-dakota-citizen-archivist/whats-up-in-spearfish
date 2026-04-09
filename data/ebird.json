@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-04-08T18:04:43.312940+00:00",
+  "fetched_at": "2026-04-09T17:57:07.531444+00:00",
   "observations": [
     {
       "species_code": "wiltur",
@@ -366,19 +366,6 @@
       "photo_url": "https://static.inaturalist.org/photos/113612953/square.jpeg"
     },
     {
-      "species_code": "calgul",
-      "common_name": "California Gull",
-      "scientific_name": "Larus californicus",
-      "observed_on": "2026-04-05",
-      "count": 100,
-      "location_name": "18694–18698 US-85, Belle Fourche US-SD 44.69225, -103.85174",
-      "lat": 44.692248,
-      "lng": -103.851738,
-      "location_id": "L62041114",
-      "checklist_id": "S317872554",
-      "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/411766963/square.jpg"
-    },
-    {
       "species_code": "rewbla",
       "common_name": "Red-winged Blackbird",
       "scientific_name": "Agelaius phoeniceus",
@@ -416,6 +403,19 @@
       "location_id": "L61874194",
       "checklist_id": "S317105183",
       "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/4661023/square.jpg"
+    },
+    {
+      "species_code": "amedip",
+      "common_name": "American Dipper",
+      "scientific_name": "Cinclus mexicanus",
+      "observed_on": "2026-04-04",
+      "count": 1,
+      "location_name": "Spearfish Canyon",
+      "lat": 44.452286,
+      "lng": -103.8629436,
+      "location_id": "L319424",
+      "checklist_id": "S318899569",
+      "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/247681814/square.jpeg"
     },
     {
       "species_code": "rethaw",
