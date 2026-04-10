@@ -398,5 +398,15 @@
     "start_dt": "Mon, 15 Dec 2025 13:00:00 -0700",
     "record_type": "event",
     "source_label": "City of Spearfish"
+  },
+  {
+    "url": "https://www.spearfish.gov/Calendar.aspx?EID=3412",
+    "title": "Library CLOSED for Staff Training",
+    "slug": "library-closed-for-staff-training",
+    "description": "<strong>Event date:</strong> April 24, 2026 <br /><strong>Event Time: </strong>12:00 AM - 11:59 PM<br /><strong>Location:</strong> <br />Spearfish, SD 57783<br /><strong>Description:</strong><br />The library will be closed for a staff development opportunity.",
+    "published": "Thu, 02 Apr 2026 10:06:22 -0700",
+    "start_dt": "Thu, 02 Apr 2026 10:06:22 -0700",
+    "record_type": "event",
+    "source_label": "City of Spearfish"
   }
 ]

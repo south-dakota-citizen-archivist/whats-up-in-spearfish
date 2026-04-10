@@ -28,19 +28,10 @@
   },
   {
     "url": "https://leonescreamery.com/flavors",
-    "image_url": "https://leonescreamery.com/images/uploads/cropped/IMG_3342-470-1774801895.jpg",
-    "title": "Mud Pie",
-    "slug": "mud-pie",
-    "description": "Milk Chocolate ice cream with a ribbon of house-made marshmallow meringue, and plenty of our Oreo cookie crust bits...deeelicious!",
-    "record_type": "flavor",
-    "source_label": "Leone's Creamery"
-  },
-  {
-    "url": "https://leonescreamery.com/flavors",
-    "image_url": "https://leonescreamery.com/images/uploads/cropped/72502AF8-1036-4234-82E1-26493A7C0CF1-173-1540101306.jpg",
-    "title": "Black Licorice",
-    "slug": "black-licorice",
-    "description": "An old-timey classic flavor we love to bring bring back every now and again! Pure anise goodness (no icky food coloring required).",
+    "image_url": "https://leonescreamery.com/images/uploads/cropped/IMG_3467-472-1775837429.jpg",
+    "title": "Tiramisu",
+    "slug": "tiramisu",
+    "description": "We made you a mascarpone and espresso ice cream, and swirled in a batch of our housemade tiramisu!",
     "record_type": "flavor",
     "source_label": "Leone's Creamery"
   },
@@ -50,6 +41,15 @@
     "title": "Jellybean",
     "slug": "jellybean",
     "description": "We churned up a creamy base with hints of vanilla and lemon, then riddled it with the holy grail of jelly beans (Starburst, obviously).",
+    "record_type": "flavor",
+    "source_label": "Leone's Creamery"
+  },
+  {
+    "url": "https://leonescreamery.com/flavors",
+    "image_url": "https://leonescreamery.com/images/uploads/cropped/72502AF8-1036-4234-82E1-26493A7C0CF1-173-1540101306.jpg",
+    "title": "Black Licorice",
+    "slug": "black-licorice",
+    "description": "An old-timey classic flavor we love to bring bring back every now and again! Pure anise goodness (no icky food coloring required).",
     "record_type": "flavor",
     "source_label": "Leone's Creamery"
   },

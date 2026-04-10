@@ -111,7 +111,7 @@
     "abv": "4.5%",
     "ibu": "",
     "brewery": "Austin Eastciders",
-    "rating": "3.79",
+    "rating": "3.8",
     "image_url": "https://labels.untappd.com/6208449",
     "record_type": "beer",
     "source_label": "Killian's"
@@ -156,15 +156,15 @@
     "source_label": "Killian's"
   },
   {
-    "url": "https://untappd.com/b/white-elm-brewing-company-yeah-whatever/5075728",
-    "title": "Yeah...whatever",
-    "slug": "yeah-whatever",
-    "category": "Pumpkin / Yam Beer",
-    "abv": "7.5%",
-    "ibu": "20",
-    "brewery": "White Elm Brewing Company",
-    "rating": "3.92",
-    "image_url": "https://labels.untappd.com/5075728",
+    "url": "https://untappd.com/b/ben-s-brewing-co-kenny-pepper/2908434",
+    "title": "Kenny Pepper",
+    "slug": "kenny-pepper",
+    "category": "Cream Ale",
+    "abv": "4.7%",
+    "ibu": "19",
+    "brewery": "Ben's Brewing Co.",
+    "rating": "3.72",
+    "image_url": "https://labels.untappd.com/2908434",
     "record_type": "beer",
     "source_label": "Killian's"
   },

@@ -20718,5 +20718,37 @@
     "status": "CONFIRMED",
     "record_type": "event",
     "source_label": "Spearfish HS Sports"
+  },
+  {
+    "uid": "h202506110753580945929371c262d48",
+    "url": "https://gobound.com/direct/comps/h202506110753580945929371c262d48/show",
+    "title": "Girls Track & Field: Queen City Classic (Varsity)",
+    "slug": "girls-track-field-queen-city-classic-varsity",
+    "sport": "Girls Track & Field",
+    "level": "Varsity",
+    "sex": "female",
+    "description": "Varsity Girls Track & Field - Queen City Classic",
+    "start_dt": "2027-04-09T15:00:00",
+    "end_dt": "2027-04-09T16:00:00",
+    "location": "Lyle Hare Stadium",
+    "status": "CONFIRMED",
+    "record_type": "event",
+    "source_label": "Spearfish HS Sports"
+  },
+  {
+    "uid": "h202506110809467649d26e92826064a",
+    "url": "https://gobound.com/direct/comps/h202506110809467649d26e92826064a/show",
+    "title": "Boys Track & Field: Queen City Classic (Varsity)",
+    "slug": "boys-track-field-queen-city-classic-varsity",
+    "sport": "Boys Track & Field",
+    "level": "Varsity",
+    "sex": "male",
+    "description": "Varsity Boys Track & Field - Queen City Classic",
+    "start_dt": "2027-04-09T15:00:00",
+    "end_dt": "2027-04-09T16:00:00",
+    "location": "Lyle Hare Stadium",
+    "status": "CONFIRMED",
+    "record_type": "event",
+    "source_label": "Spearfish HS Sports"
   }
 ]

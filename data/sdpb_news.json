@@ -218,5 +218,38 @@
     "image_url": "https://npr.brightspotcdn.com/77/17/18cd8f2047999209dd68e1139bfe/image-62.jpg",
     "record_type": "news",
     "source_label": "SDPB"
+  },
+  {
+    "url": "https://www.sdpb.org/education/2026-04-10/school-districts-prepare-for-downstream-impacts-of-legislative-year",
+    "title": "School districts prepare for downstream impacts of legislative year",
+    "slug": "sdpb-school-districts-prepare-for-downstream-impacts-of-legislative-year",
+    "published": "2026-04-10",
+    "byline": "By C.J. Keene",
+    "description": "In the postmortem of the legislative session, the implications of policy decisions are beginning to trickle down to communities. For school districts, it means looking at what changes will be in store for the upcoming academic year.",
+    "image_url": "https://npr.brightspotcdn.com/6d/ee/ddcdb1bb432392e38c6697c2c282/education-8-pixabay.jpg",
+    "record_type": "news",
+    "source_label": "SDPB"
+  },
+  {
+    "url": "https://www.sdpb.org/education/2026-04-09/rapid-city-schools-target-first-successful-bond-vote-in-over-50-years",
+    "title": "Rapid City Schools target first successful bond vote in over 50 years",
+    "slug": "sdpb-rapid-city-schools-target-first-successful-bond-vote-in-over-50-years",
+    "published": "2026-04-09",
+    "byline": "By C.J. Keene",
+    "description": "Rapid City Area Schools have advanced a bond issue for voters to consider. If passed, it would mark the first successful bond vote in the community since 1973.",
+    "image_url": "https://npr.brightspotcdn.com/61/ec/38eefe15437eb8c36f25fc0f3b56/image-63.jpg",
+    "record_type": "news",
+    "source_label": "SDPB"
+  },
+  {
+    "url": "https://www.sdpb.org/rural-life-and-history/2026-04-09/south-dakotas-contribution-to-national-time-capsule-unveiled",
+    "title": "South Dakota's contribution to national time capsule unveiled",
+    "slug": "sdpb-south-dakota-s-contribution-to-national-time-capsule-unveiled",
+    "published": "2026-04-09",
+    "byline": "By SDPB News Staff",
+    "description": "South Dakota’s contribution to a “America’s Time Capsule” celebrating the nation’s 250<sup>th</sup> anniversary is set.",
+    "image_url": "https://npr.brightspotcdn.com/41/51/2fe31eae4ecf89333cd2d1313e86/sd-250-logo-rectangle.png",
+    "record_type": "news",
+    "source_label": "SDPB"
   }
 ]

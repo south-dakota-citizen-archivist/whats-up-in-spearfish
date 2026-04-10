@@ -1,7 +1,40 @@
 {
-  "fetched_at": "2026-04-09T18:00:00.275735+00:00",
+  "fetched_at": "2026-04-10T17:47:26.338892+00:00",
   "lookback_days": 30,
   "records": [
+    {
+      "date": "2026-04-10",
+      "species": "White-tailed Deer",
+      "highway": "I90",
+      "sex": "Male",
+      "present": "Yes",
+      "comments": null,
+      "contractor": "Tony Hanig",
+      "lat": 44.445516,
+      "lon": -103.591619
+    },
+    {
+      "date": "2026-04-10",
+      "species": "White-tailed Deer",
+      "highway": "I90",
+      "sex": "Male",
+      "present": "Yes",
+      "comments": null,
+      "contractor": "Tony Hanig",
+      "lat": 44.477405,
+      "lon": -103.661147
+    },
+    {
+      "date": "2026-04-10",
+      "species": "White-tailed Deer",
+      "highway": "I90",
+      "sex": "Male",
+      "present": "Yes",
+      "comments": null,
+      "contractor": "Tony Hanig",
+      "lat": 44.491613,
+      "lon": -103.845893
+    },
     {
       "date": "2026-04-07",
       "species": "White-tailed Deer",
@@ -2135,17 +2168,6 @@
       "contractor": "Chris Moeller",
       "lat": 44.539821,
       "lon": -103.861589
-    },
-    {
-      "date": "2026-03-10",
-      "species": "White-tailed Deer",
-      "highway": "I90",
-      "sex": "Male",
-      "present": "Yes",
-      "comments": null,
-      "contractor": "Tony Hanig",
-      "lat": 44.419845,
-      "lon": -103.534581
     }
   ]
 }
