@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-04-10T17:44:44.133202+00:00",
+  "fetched_at": "2026-04-11T17:28:04.320127+00:00",
   "notices": [
     {
       "notice_type": "Water Rights",
@@ -902,112 +902,6 @@
       ]
     },
     {
-      "notice_type": "Air Quality Permit",
-      "deadline": "04/10/2026",
-      "comment_url": "https://danr.sd.gov/public/comment.aspx?d_comment=04/10/2026&name=Brookings Biogas LLC - Global Dairy&pntype=aq&description=Brookings Biogas LLC \u2013 Global Dairy operates a biogas production facility in Estelline. The department recommends issuance a minor air quality operating permit.",
-      "description": "Brookings Biogas LLC \u2013 Global Dairy operates a biogas production facility in Estelline. The department recommends issuance a minor air quality operating permit.",
-      "location": "Estelline",
-      "links": [
-        {
-          "label": "Public Notice",
-          "url": "http://danr.sd.gov/Environment/AirQuality/PN/BBLpn.pdf"
-        },
-        {
-          "label": "Draft Permit",
-          "url": "http://danr.sd.gov/Environment/AirQuality/PN/BBLdp.pdf"
-        },
-        {
-          "label": "Application Review",
-          "url": "http://danr.sd.gov/Environment/AirQuality/PN/BBLsb.pdf"
-        }
-      ]
-    },
-    {
-      "notice_type": "Air Quality Permit",
-      "deadline": "04/10/2026",
-      "comment_url": "https://danr.sd.gov/public/comment.aspx?d_comment=04/10/2026&name=Lakeside Biogas LLC - Lakeside Dairy&pntype=aq&description=Lakeside Biogas LLC \u2013 Lakeside Dairy operates a biogas production facility in Ortley. The department recommends issuance a minor air quality operating permit.",
-      "description": "Lakeside Biogas LLC \u2013 Lakeside Dairy operates a biogas production facility in Ortley. The department recommends issuance a minor air quality operating permit.",
-      "location": "Ortley",
-      "links": [
-        {
-          "label": "Public Notice",
-          "url": "http://danr.sd.gov/Environment/AirQuality/PN/LBLpn.pdf"
-        },
-        {
-          "label": "Draft Permit",
-          "url": "http://danr.sd.gov/Environment/AirQuality/PN/LBLdp.pdf"
-        },
-        {
-          "label": "Application Review",
-          "url": "http://danr.sd.gov/Environment/AirQuality/PN/LBLsb.pdf"
-        }
-      ]
-    },
-    {
-      "notice_type": "Air Quality Permit",
-      "deadline": "04/10/2026",
-      "comment_url": "https://danr.sd.gov/public/comment.aspx?d_comment=04/10/2026&name=Lakeside Biogas LLC - Lakeside Dairy&pntype=aq&description=Lakeside Biogas LLC \u2013 Lakeside Dairy operates a biogas production facility in Ortley. The department recommends modification to their air quality construction permit.",
-      "description": "Lakeside Biogas LLC \u2013 Lakeside Dairy operates a biogas production facility in Ortley. The department recommends modification to their air quality construction permit.",
-      "location": "Ortley",
-      "links": [
-        {
-          "label": "Public Notice",
-          "url": "http://danr.sd.gov/Environment/AirQuality/PN/LSBpn.pdf"
-        },
-        {
-          "label": "Draft Permit",
-          "url": "http://danr.sd.gov/Environment/AirQuality/PN/dp.pdf"
-        },
-        {
-          "label": "Application Review",
-          "url": "http://danr.sd.gov/Environment/AirQuality/PN/LSBsb.pdf"
-        }
-      ]
-    },
-    {
-      "notice_type": "Air Quality Permit",
-      "deadline": "04/10/2026",
-      "comment_url": "https://danr.sd.gov/public/comment.aspx?d_comment=04/10/2026&name=Brookings Biogas LLC - Global Dairy&pntype=aq&description=Brookings Biogas LLC \u2013 Global Dairy operates a biogas production facility in Estelline. The department recommends modification to their air quality construction permit.",
-      "description": "Brookings Biogas LLC \u2013 Global Dairy operates a biogas production facility in Estelline. The department recommends modification to their air quality construction permit.",
-      "location": "Estelline",
-      "links": [
-        {
-          "label": "Public Notice",
-          "url": "https://danr.sd.gov/Environment/AirQuality/PN/BBLpn.pdf"
-        },
-        {
-          "label": "Draft Permit",
-          "url": "https://danr.sd.gov/Environment/AirQuality/PN/dp.pdf"
-        },
-        {
-          "label": "Application Review",
-          "url": "https://danr.sd.gov/Environment/AirQuality/PN/BBLsb.pdf"
-        }
-      ]
-    },
-    {
-      "notice_type": "Surface Water Discharge (NPDES)",
-      "deadline": "04/10/2026",
-      "comment_url": "https://danr.sd.gov/public/comment.aspx?d_comment=04/10/2026&name=South Dakota Game, Fish, and Parks&pntype=sw_npdes&description=South Dakota Game, Fish, and Parks is authorized under this permit to discharge to Willow Creek from its wastewater treatment facility located in Custer County.",
-      "name": "South Dakota Game, Fish, and Parks",
-      "description": "South Dakota Game, Fish, and Parks is authorized under this permit to discharge to Willow Creek from its wastewater treatment facility located in Custer County.",
-      "location": "Custer County",
-      "links": [
-        {
-          "label": "Public Notice",
-          "url": "https://danr.sd.gov/officeofwater/surfacewaterquality/pn/SDGFPSylvanLakePNDraft.pdf"
-        },
-        {
-          "label": "Draft Permit",
-          "url": "https://danr.sd.gov/officeofwater/surfacewaterquality/pn/SDGFPSylvanLakePermitDraft.pdf"
-        },
-        {
-          "label": "Statement of Basis",
-          "url": "https://danr.sd.gov/officeofwater/surfacewaterquality/pn/SDGFPSylvanLakeSOBDraft.pdf"
-        }
-      ]
-    },
-    {
       "notice_type": "Waste Management \u2014 Solid Waste",
       "deadline": "4/11/2026",
       "comment_url": "",
@@ -1040,6 +934,20 @@
         {
           "label": "Draft Permit",
           "url": "https://danr.sd.gov/Press/docs/publicnotices/wastemanagementnotices/DRAFT_Huron_26_RU_XFR_IP.pdf"
+        }
+      ]
+    },
+    {
+      "notice_type": "Water Management Board (Miscellaneous)",
+      "deadline": "04/13/2026",
+      "comment_url": "https://danr.sd.gov/public/comment.aspx?d_comment=04/13/2026&name=City of Mitchell&pntype=wmb&description=Variance request from Safety of Dams Rules for Lake Mitchell Dam. Provided link includes public notice, variance request, report, and recommendation. Contact the Chief Engineer for information or documents - danrmail@state.sd.us.",
+      "name": "City of Mitchell",
+      "description": "Variance request from Safety of Dams Rules for Lake Mitchell Dam. Provided link includes public notice, variance request, report, and recommendation. Contact the Chief Engineer for information or documents - danrmail@state.sd.us.",
+      "location": "Davison County",
+      "links": [
+        {
+          "label": "Public Notice",
+          "url": "https://danr.sd.gov/wrimage/pub/Lake Mitchell Dam Varience.pdf"
         }
       ]
     },
@@ -1545,20 +1453,6 @@
         {
           "label": "Statement of Basis",
           "url": "https://danr.sd.gov/officeofwater/surfacewaterquality/pn/LANASTSOBDraftFR.pdf"
-        }
-      ]
-    },
-    {
-      "notice_type": "Water Management Board (Miscellaneous)",
-      "deadline": "05/07/2026",
-      "comment_url": "https://danr.sd.gov/public/comment.aspx?d_comment=05/07/2026&name=City of Mitchell&pntype=wmb&description=Variance request from Safety of Dams Rules for Lake Mitchell Dam. Provided link includes public notice, variance request, report, and recommendation. Contact the Chief Engineer for information or documents - danrmail@state.sd.us.",
-      "name": "City of Mitchell",
-      "description": "Variance request from Safety of Dams Rules for Lake Mitchell Dam. Provided link includes public notice, variance request, report, and recommendation. Contact the Chief Engineer for information or documents - danrmail@state.sd.us.",
-      "location": "Davison County",
-      "links": [
-        {
-          "label": "Public Notice",
-          "url": "https://danr.sd.gov/wrimage/pub/Lake Mitchell Dam Varience.pdf"
         }
       ]
     },

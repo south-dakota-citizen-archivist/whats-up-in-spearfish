@@ -1,6 +1,32 @@
 {
-  "fetched_at": "2026-04-10T17:44:08.250770+00:00",
+  "fetched_at": "2026-04-11T17:27:36.465300+00:00",
   "observations": [
+    {
+      "species_code": "turvul",
+      "common_name": "Turkey Vulture",
+      "scientific_name": "Cathartes aura",
+      "observed_on": "2026-04-10",
+      "count": 2,
+      "location_name": "US-85, Belle Fourche US-SD 44.83612, -103.84054",
+      "lat": 44.836121,
+      "lng": -103.840542,
+      "location_id": "L62393662",
+      "checklist_id": "S319646908",
+      "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/52277010/square.jpg"
+    },
+    {
+      "species_code": "ferhaw",
+      "common_name": "Ferruginous Hawk",
+      "scientific_name": "Buteo regalis",
+      "observed_on": "2026-04-10",
+      "count": 1,
+      "location_name": "US-85, Belle Fourche US-SD 44.88956, -103.74049",
+      "lat": 44.889563,
+      "lng": -103.740493,
+      "location_id": "L62393463",
+      "checklist_id": "S319645954",
+      "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/131172059/square.jpg"
+    },
     {
       "species_code": "wiltur",
       "common_name": "Wild Turkey",
@@ -13,19 +39,6 @@
       "location_id": "L62169048",
       "checklist_id": "S318497542",
       "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/114655826/square.jpg"
-    },
-    {
-      "species_code": "turvul",
-      "common_name": "Turkey Vulture",
-      "scientific_name": "Cathartes aura",
-      "observed_on": "2026-04-06",
-      "count": 2,
-      "location_name": "Savoy, Black Hills NF (44.351, -103.927)",
-      "lat": 44.3512466,
-      "lng": -103.9266615,
-      "location_id": "L62169048",
-      "checklist_id": "S318497542",
-      "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/52277010/square.jpg"
     },
     {
       "species_code": "gockin",
@@ -637,19 +650,6 @@
       "location_id": "L61571863",
       "checklist_id": "S315660833",
       "photo_url": "https://static.inaturalist.org/photos/57981340/square.jpg"
-    },
-    {
-      "species_code": "comgra",
-      "common_name": "Common Grackle",
-      "scientific_name": "Quiscalus quiscula",
-      "observed_on": "2026-03-31",
-      "count": 1,
-      "location_name": "Alt US-14A, Sturgis US-SD 44.39489, -103.59592",
-      "lat": 44.394888,
-      "lng": -103.595925,
-      "location_id": "L61587043",
-      "checklist_id": "S315738894",
-      "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/265296529/square.jpg"
     }
   ]
 }

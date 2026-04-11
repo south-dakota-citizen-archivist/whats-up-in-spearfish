@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-04-10T17:44:23.127810+00:00",
+  "fetched_at": "2026-04-11T17:27:49.128788+00:00",
   "records": [
     {
       "id": 11764,
@@ -346,7 +346,7 @@
       "status": 1,
       "date_created": "2026-03-19T20:46:24.140Z",
       "date_submitted": "2026-03-19T22:55:51.000Z",
-      "last_updated": "2026-04-03T19:43:28.000Z",
+      "last_updated": "2026-04-10T20:45:42.000Z",
       "address": "1230 N 5TH ST, Unit Duplex - Carriage House- 2 Studio Apartments, SPEARFISH, SD 57783",
       "lat": 44.495889,
       "lon": -103.861693,
@@ -784,6 +784,22 @@
       "lon": null,
       "applicant": "Randy Deibert",
       "portal_url": "https://spearfishsd.portal.opengov.com/records/11533"
+    },
+    {
+      "id": 11520,
+      "record_no": "PMG-26-5",
+      "record_type": "Standalone Permits - Plumbing, Mechanical, Gas",
+      "record_type_id": 6514,
+      "category": "infrastructure",
+      "status": 1,
+      "date_created": "2026-02-11T15:12:58.776Z",
+      "date_submitted": "2026-02-11T15:19:49.000Z",
+      "last_updated": "2026-04-09T13:23:33.000Z",
+      "address": "1777 Oak Crest Court, Spearfish, SD 57783",
+      "lat": null,
+      "lon": null,
+      "applicant": "Tony Johnson",
+      "portal_url": "https://spearfishsd.portal.opengov.com/records/11520"
     },
     {
       "id": 11516,

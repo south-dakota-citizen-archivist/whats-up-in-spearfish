@@ -31,6 +31,16 @@
   },
   {
     "record_type": "alert",
+    "title": "Rochford Exploratory Drill Pads and Access Routes Closure",
+    "url": "https://www.fs.usda.gov/r02/blackhills/alerts/rochford-exploratory-drill-pads-and-access-routes-closure",
+    "description": "Temporary closure of drill pads and access routes near Rochford, SD, to protect public safety on the Black Hills National Forest.",
+    "published": "2026-04-10",
+    "source_label": "BHNF",
+    "alert_type": "information",
+    "forest_order": "BKF-187-2026"
+  },
+  {
+    "record_type": "alert",
     "title": "Prohibition of Motor Vehicles On Beretta Road, Mystic Ranger District",
     "url": "https://www.fs.usda.gov/r02/blackhills/alerts/prohibition-motor-vehicles-beretta-road-mystic-ranger-district",
     "description": "A closure of the entirety of NFS Road 366.3 (Beretta Road), located approximately 3.3 miles north-northeast of Keystone, South Dakota, beginning at the intersection with US Highway 16 South and continuing to the intersection with NFS Roads 674. This closure is in effect to protect public health…",

@@ -78,17 +78,6 @@
   },
   {
     "url": "https://www.westernhillshumanesociety.com/cats",
-    "title": "Crowley",
-    "slug": "cat-crowley",
-    "species": "cat",
-    "description": "Male | Undetermined age (~3 years)\nCrowley was surrendered in May 2025 as his owner was moving and could not take him with. He loves coming up to you for some pets. He is a very active, but enjoys relaxing and gets along with other cats.",
-    "image_url": "https://images.squarespace-cdn.com/content/v1/6833638f52663f7b5354620e/bb46d933-534b-40ad-b035-42bae5eed40e/Crowley.jpg?format=500w",
-    "image_alt": "Crowley",
-    "record_type": "adoptable",
-    "source_label": "Western Hills Humane Society"
-  },
-  {
-    "url": "https://www.westernhillshumanesociety.com/cats",
     "title": "Bubbles",
     "slug": "cat-bubbles",
     "species": "cat",
@@ -224,7 +213,7 @@
     "title": "Grace",
     "slug": "cat-grace",
     "species": "cat",
-    "description": "Female | 14+ years\nGrace was one of the 5 cats that came from the hoarding situation on November 20th. She was also severely matted and had to be shaved. Her hair has been growing back nicely! She gets a bit startled by noises and hides but quickly realizes she’s safe and comes back out. She loves to snuggle up on some blankets and enjoys head rubs. Grace does not like other cats and would do best as the only pet in a quiet home. \nSeniors are $25 to adopt or ask about our Senior for Senior program! \nGrace likely has a tumor so we’d like to find her a foster for her final months.",
+    "description": "Female | 14+ years\nGrace was one of the 5 cats that came from the hoarding situation on November 20th. She was also severely matted and had to be shaved. Her hair has been growing back nicely! She gets a bit startled by noises and hides but quickly realizes she’s safe and comes back out. She loves to snuggle up on some blankets and enjoys head rubs. Grace does not like other cats and would do best as the only pet in a quiet home. \nGrace likely has a tumor so we’d like to find her a foster for her final months.",
     "image_url": "https://images.squarespace-cdn.com/content/v1/6833638f52663f7b5354620e/2709029b-9df7-465b-88a6-230747153f7c/1000027287.jpg?format=500w",
     "image_alt": "Grace",
     "record_type": "adoptable",
@@ -269,7 +258,7 @@
     "slug": "cat-cleo-catra",
     "species": "cat",
     "description": "Female | Born April 2022\nNo other animals\nCleo Catra came to us on 3.27.26. She is a sweet girl that adores pets and is just a little unsure in her new environment. Cleo does not like other animals and will pee on things if other animals are present in the home. She does not like big groups so would do best in a quiet home with fewer people. She might not do well with children either. She is affectionate to her human and it was a hard surrender for her former owner. Orange females are rare and she’s a total catch.",
-    "image_url": "https://images.squarespace-cdn.com/content/v1/6833638f52663f7b5354620e/9a097a7d-c640-4a8a-90ec-92e68ff6e688/1000036645+%281%29.jpg?format=500w",
+    "image_url": "https://images.squarespace-cdn.com/content/v1/6833638f52663f7b5354620e/8315fe29-f725-4a6d-8d4c-825f14240b95/CleoCatra+awake.jpg?format=500w",
     "image_alt": "Cleo Catra",
     "record_type": "adoptable",
     "source_label": "Western Hills Humane Society"
@@ -315,6 +304,17 @@
     "description": "Female | Born 9/10/2025\nRabies shot scheduled 4.15.26\nEleanor and her Tortie sister, Esmeralda, were brought to us on April 4th, 2026. Their parents were expecting a baby and these cats are not fans of children (many attempts were made to get to know kiddos in the family) so they came to us. Eleanor is a little spicy and would do best in a quiet home with only a few adults that respected her space - she’ll come to you when she wants affection. The sisters don’t get along that well and if adopted together, would likely keep their distance in their new home. \nEleanor will come with her automatic feeder when adopted. \nSeniors are $25 to adopt or ask about our Senior for Senior program!",
     "image_url": "https://images.squarespace-cdn.com/content/v1/6833638f52663f7b5354620e/139cd908-2ba6-4c01-9725-b7785f9c37e4/1000038076.jpg?format=500w",
     "image_alt": "Eleanor",
+    "record_type": "adoptable",
+    "source_label": "Western Hills Humane Society"
+  },
+  {
+    "url": "https://www.westernhillshumanesociety.com/cats",
+    "title": "Bean",
+    "slug": "cat-bean",
+    "species": "cat",
+    "description": "Male | Born May 2025\nRabies & neuter scheduled 4.15.26\nBean is a young fella that came to us on 4.9.26 after his owner could not longer keep him. He’s a bit timid having just arrived but his former owner said he’s a huge fan of having his nose to forehead pet and even knows the command “sit” - we’ll see if he’ll perform for us! We are excited for him to find his new home where he can be a kitten once again!",
+    "image_url": "https://images.squarespace-cdn.com/content/v1/6833638f52663f7b5354620e/a45c2dd3-0f2a-44ca-82c5-0c1ae2daa15c/Bean.jpg?format=500w",
+    "image_alt": "Bean",
     "record_type": "adoptable",
     "source_label": "Western Hills Humane Society"
   },
@@ -411,9 +411,20 @@
     "title": "Lilac",
     "slug": "dog-lilac",
     "species": "dog",
-    "description": "Female | Coon Hound Mix | Born 8/5/2022\nNo kids or large/high-energy dogs\nThis lady came to us on April 7th, 2026. She is a good girl that is just a bit particular - she’s not a big fan of men or high-energy dogs. We hope to get her more comfortable with men while she is with us. Lilac has been to doggy daycare in Rapid at Meadowridge Pet Lodge. She will come with an impact kennel when she’s adopted as she has separation anxiety and can be a bit destructive when left home alone. She does well with cats and smaller, calm dogs. She is not a fan of children. Lilac weighs around 50 lbs.",
+    "description": "Female | Coohound Mix | Born 8/5/2022\nNo kids or large/high-energy dogs\nThis lady came to us on April 7th, 2026. She is a good girl that is just a bit particular - she’s not a big fan of men or high-energy dogs. We hope to get her more comfortable with men while she is with us. Lilac has been to doggy daycare in Rapid at Meadowridge Pet Lodge. She will come with an impact kennel when she’s adopted as she has separation anxiety and can be a bit destructive when left home alone. She does well with cats and smaller, calm dogs. She is not a fan of children. Lilac weighs around 50 lbs.",
     "image_url": "https://images.squarespace-cdn.com/content/v1/6833638f52663f7b5354620e/5e71efc0-df4c-47b0-bcec-3888cd363d16/1000038072.jpg?format=500w",
     "image_alt": "Lilac",
+    "record_type": "adoptable",
+    "source_label": "Western Hills Humane Society"
+  },
+  {
+    "url": "https://www.westernhillshumanesociety.com/dogs",
+    "title": "Rowdy",
+    "slug": "dog-rowdy",
+    "species": "dog",
+    "description": "Male | Mini Staffordshire Bull Terrier | Born 12.24.2019\nRabies scheduled 4.15.26 \nRowdy came to us on 4.10.26 after his owner passed. He is an energetic boy that loves to jump but is very sweet and does not appear food aggressive. We aren’t sure how he does with other dogs but we are optimistic he will do just fine. We are unsure how he does with cats. Rowdy weighs 39 lbs.",
+    "image_url": "https://images.squarespace-cdn.com/content/v1/6833638f52663f7b5354620e/8c86aad1-000b-487f-9745-3d70d67a87e4/Rowdy.jpg?format=500w",
+    "image_alt": "Rowdy",
     "record_type": "adoptable",
     "source_label": "Western Hills Humane Society"
   }

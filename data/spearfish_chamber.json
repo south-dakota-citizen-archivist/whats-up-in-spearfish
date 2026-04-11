@@ -1181,5 +1181,70 @@
     "website": "http://www.spearfishseniorcenter.com",
     "record_type": "event",
     "source_label": "Spearfish Chamber"
+  },
+  {
+    "url": "https://business.spearfishchamber.org/events/details/besler-s-cadillac-ranch-swing-dance-30747",
+    "title": "Besler's Cadillac Ranch - Swing Dance",
+    "slug": "besler-s-cadillac-ranch-swing-dance",
+    "start_dt": "2026-04-07 6:00 PM MDT",
+    "end_dt": "2026-04-07 9:00 PM MDT",
+    "location": "Besler's Cadillac Ranch 19314 Helmer Rd, St. Onge, SD 5779",
+    "fees": "",
+    "description": "April 7th Swing Dance Lessons 6-7 with open dancing 7-9 ($5 cover)",
+    "website": "",
+    "record_type": "event",
+    "source_label": "Spearfish Chamber"
+  },
+  {
+    "url": "https://business.spearfishchamber.org/events/details/besler-s-cadillac-ranch-barn-dance-30746",
+    "title": "Besler's Cadillac Ranch - Barn Dance",
+    "slug": "besler-s-cadillac-ranch-barn-dance",
+    "start_dt": "2026-04-17 6:00 PM CDT",
+    "end_dt": "2026-04-17 11:00 PM CDT",
+    "location": "Besler's Cadillac Ranch 19314 Helmer Rd, St. Onge, SD 5779",
+    "fees": "",
+    "description": "April 17th Barn Dance w/lessons 6-7, Jessica Loobey Band 7-11, BH Butcher Block serving 6-9 ($10 cover)",
+    "website": "https://beslerscadillacranch.com/",
+    "record_type": "event",
+    "source_label": "Spearfish Chamber"
+  },
+  {
+    "url": "https://business.spearfishchamber.org/events/details/the-fight-for-freedom-30748",
+    "title": "The Fight for Freedom",
+    "slug": "the-fight-for-freedom",
+    "start_dt": "2026-04-19 2:00 PM MDT",
+    "end_dt": "2026-04-19 2:00 PM MDT",
+    "location": "",
+    "fees": "",
+    "description": "",
+    "website": "",
+    "record_type": "event",
+    "source_label": "Spearfish Chamber"
+  },
+  {
+    "url": "https://business.spearfishchamber.org/events/details/the-fight-for-freedom-30749",
+    "title": "The Fight for Freedom",
+    "slug": "the-fight-for-freedom",
+    "start_dt": "2026-05-03 2:00 PM MDT",
+    "end_dt": "2026-05-03 2:00 PM MDT",
+    "location": "",
+    "fees": "",
+    "description": "",
+    "website": "",
+    "record_type": "event",
+    "source_label": "Spearfish Chamber"
+  },
+  {
+    "url": "https://business.spearfishchamber.org/events/details/the-fight-for-freedom-30750",
+    "title": "The Fight for Freedom",
+    "slug": "the-fight-for-freedom",
+    "start_dt": "2026-05-16 2:00 PM MDT",
+    "end_dt": "2026-05-16 2:00 PM MDT",
+    "location": "",
+    "fees": "",
+    "description": "",
+    "website": "",
+    "record_type": "event",
+    "source_label": "Spearfish Chamber"
   }
 ]
