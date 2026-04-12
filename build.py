@@ -29,7 +29,8 @@ STATIC_DIR = ROOT / "site" / "static"
 OUTPUT_DIR = ROOT / "_site"
 
 MT = ZoneInfo("America/Denver")
-TODAY = datetime.now(tz=MT).date()
+NOW = datetime.now(tz=MT)
+TODAY = NOW.date()
 
 _DATE_ONLY_RE = re.compile(r"^\d{4}-\d{2}-\d{2}$")
 
@@ -1063,7 +1064,7 @@ def load_creek_data() -> dict:
 
 
 def build() -> None:
-    build_date = TODAY
+    build_date = NOW
 
     if OUTPUT_DIR.exists():
         shutil.rmtree(OUTPUT_DIR)
