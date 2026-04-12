@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-04-11T17:32:26.519708+00:00",
+  "fetched_at": "2026-04-12T16:22:57.927927+00:00",
   "lookback_days": 90,
   "total_bh_sites": 3295,
   "is_seeded": true,
@@ -3316,7 +3316,8 @@
       "sor_type": "Transformer",
       "resp_party": "Black Hills Energy",
       "lat": 44.078963,
-      "lon": -103.230137
+      "lon": -103.230137,
+      "pdf_url": null
     }
   ]
 }
