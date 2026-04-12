@@ -6,7 +6,7 @@ day from scrapers that collect public data across the web.
 
 Source code: [https://github.com/south-dakota-citizen-archivist/whats-up-spearfish](https://github.com/south-dakota-citizen-archivist/whats-up-spearfish)
 
-_Updated: April 6, 2026_
+_Updated: April 12, 2026_
 
 ---
 
@@ -24,7 +24,7 @@ _Updated: April 6, 2026_
 | Black Hills Pioneer | `bhpioneer_jobs` | `job` | 12 |
 | Black Hills Pioneer | `black_hills_pioneer` | `news` | 132 |
 | Black Hills Wildflowers | `black_hills_wildflowers` | — | 5 |
-| City of Spearfish | `spearfish_city` | `document` | 2,093 |
+| City of Spearfish | `spearfish_city` | `document` | 2,095 |
 | City of Spearfish Alert Center | `spearfish_alert_center` | `alert` | 3 |
 | City of Spearfish Blog | `spearfish_blog` | — | 0 |
 | City of Spearfish Calendar | `spearfish_calendar` | `event` | 33 |
@@ -73,7 +73,7 @@ _Updated: April 6, 2026_
 | Spearfish School District | `spearfish_schools_jobs` | `job` | 9 |
 | The Clubhouse | `clubhouse_spearfish` | `beer` | 8 |
 | USDA PLANTS Database (Black Hills full pull) | `plants_native_black_hills` | — | 24,984 |
-| USDA PLANTS Database (Native Plant Spotlight) | `native_plants_spotlight` | — | 317 |
+| USDA PLANTS Database (Native Plant Spotlight) | `native_plants_spotlight` | — | 195 |
 | USGS Stream Gauge — Spearfish Creek (06431500) | `creek_gauge` | — | 4 |
 | Western Hills Humane Society | `whhs_adoptable` | `adoptable` | 35 |
 

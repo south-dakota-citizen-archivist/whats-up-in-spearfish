@@ -161,12 +161,12 @@ def _match_symbols(raw: list[dict], pairs: list[tuple[str, str | None]]) -> set[
         genus, species = _genus_species(sci)
         if not genus:
             continue
-        stripped_words = _strip_html(sci).lower().split()
+        # stripped_words = _strip_html(sci).lower().split()
 
         for loc_genus, loc_species in pairs:
-            if genus != loc_genus:
+            if genus != loc_genus or loc_species is None:
                 continue
-            if loc_species is None or species == loc_species or loc_species in stripped_words:
+            if species == loc_species:
                 found.add(record["Symbol"])
                 break
 

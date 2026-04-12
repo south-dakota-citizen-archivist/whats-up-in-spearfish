@@ -147,9 +147,9 @@ def group_records(data: dict[str, list[dict]]) -> dict[str, list[dict]]:
         future.sort(key=_sort_dt)
         groups[rtype] = future
 
-    # Alerts: last 90 days
+    # Alerts: last 7 days
     if "alert" in groups:
-        _alert_cutoff = TODAY - timedelta(days=90)
+        _alert_cutoff = TODAY - timedelta(days=7)
         groups["alert"] = [
             r
             for r in groups["alert"]

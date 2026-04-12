@@ -95,13 +95,12 @@ class SpearfishCity(BaseScraper):
 
         records = []
         for f in published_files:
-            relative_url = f.get("url", "")
-            file_url = f"{PORTAL_BASE}/{relative_url}" if relative_url else portal_url
+            file_id = f.get("fileId")
+            file_type = (f.get("type") or "agenda").lower().replace(" ", "-")
+            file_url = f"{PORTAL_BASE}/event/{event_id}/files/{file_type}/{file_id}" if file_id else portal_url
             records.append(
                 {
                     **base,
-                    # Use file_url as the primary dedup URL so each file is a
-                    # distinct record; portal_url links back to the meeting page.
                     "url": file_url,
                     "title": f.get("name") or event.get("agendaName") or event.get("eventName", ""),
                     "doc_type": f.get("type", ""),

@@ -63,6 +63,23 @@ def _year_from_id(id_val: float | int | None) -> int | None:
     return year
 
 
+def _pdf_url_from_id(id_val: float | int | None) -> str | None:
+    """Construct source PDF URL from id field (YEAR.SEQUENCE format, e.g. 2011.100).
+
+    PDF archive starts around 1990; older records return None.
+    """
+    if id_val is None:
+        return None
+    year_raw = int(id_val)
+    year = year_raw + 1900 if year_raw < 100 else year_raw
+    if year < 1990:
+        return None
+    seq = round((id_val - year_raw) * 1000)
+    if seq <= 0:
+        return None
+    return f"https://danr.sd.gov/spillimages/{year}/{year}.{seq:03d}.pdf"
+
+
 def _fetch_all() -> list[dict]:
     """Fetch all BH region records with pagination."""
     counties_sql = ", ".join(f"'{c}'" for c in BH_COUNTIES)
@@ -115,6 +132,11 @@ def fetch_danr_spills() -> None:
     new_records: list[dict] = existing.get("new_records", [])
     is_first_run = len(known_ids) == 0
 
+    # Retroactively add pdf_url to any existing records that lack it
+    for r in new_records:
+        if "pdf_url" not in r:
+            r["pdf_url"] = _pdf_url_from_id(r.get("id_raw"))
+
     # Prune new_records older than LOOKBACK_DAYS
     cutoff = (datetime.now(timezone.utc).date() - timedelta(days=LOOKBACK_DAYS)).isoformat()
     new_records = [r for r in new_records if r.get("first_seen", "") >= cutoff]
@@ -140,14 +162,17 @@ def fetch_danr_spills() -> None:
         all_ids.add(objectid)
 
         if not is_first_run and objectid not in known_ids and objectid not in new_record_ids:
-            year = _year_from_id(attrs.get("id"))
+            id_raw = attrs.get("id")
+            year = _year_from_id(id_raw)
             lat = geom.get("y")
             lon = geom.get("x")
             new_records.append(
                 {
                     "objectid": objectid,
                     "first_seen": today,
+                    "id_raw": id_raw,
                     "year": year,
+                    "pdf_url": _pdf_url_from_id(id_raw),
                     "site_name": (attrs.get("site_name") or "").strip(),
                     "site_type": (attrs.get("site_type") or "").strip(),
                     "status": (attrs.get("status") or "").strip(),

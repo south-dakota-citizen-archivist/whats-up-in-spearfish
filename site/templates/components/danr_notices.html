@@ -312,9 +312,13 @@
               <p class="text-xs text-gray-400 mt-0.5"
                  x-text="[r.city, r.county ? r.county + ' Co.' : ''].filter(Boolean).join(', ')"></p>
             </div>
-            <div class="shrink-0 text-right">
+            <div class="shrink-0 text-right flex flex-col items-end gap-0.5">
               <p class="text-xs text-gray-400 tabular-nums" x-text="fmtDate(r.first_seen)"></p>
               <span class="text-xs text-amber-700 font-medium">New</span>
+              <template x-if="r.pdf_url">
+                <a :href="r.pdf_url" target="_blank" rel="noopener noreferrer"
+                   class="text-xs text-blue-700 hover:underline font-medium">PDF ↗</a>
+              </template>
             </div>
           </li>
         </template>
@@ -451,7 +455,8 @@ function spillsApp() {
           '<p style="font-weight:700;margin:0 0 2px">' + (r.site_name || 'Unnamed') + '</p>',
           r.spill_cat ? '<p style="margin:0 0 1px;color:#555">' + r.spill_cat + (r.material ? ' — ' + r.material : '') + '</p>' : '',
           r.city ? '<p style="margin:0 0 1px;color:#555">' + [r.city, r.county ? r.county + ' Co.' : ''].filter(Boolean).join(', ') + '</p>' : '',
-          r.year ? '<p style="margin:0;color:#888">Report year: ' + r.year + '</p>' : '',
+          r.year ? '<p style="margin:0 0 2px;color:#888">Report year: ' + r.year + '</p>' : '',
+          r.pdf_url ? '<a href="' + r.pdf_url + '" target="_blank" rel="noopener noreferrer" style="color:#1d4ed8;font-size:12px">PDF ↗</a>' : '',
         ].filter(Boolean).join('');
         marker.bindPopup('<div style="font-size:13px;line-height:1.4">' + lines + '</div>');
         markers.push(marker);
