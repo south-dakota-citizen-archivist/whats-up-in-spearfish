@@ -745,8 +745,12 @@ def load_danr_spills() -> dict:
         return {}
     cutoff = (date.today() - timedelta(days=30)).isoformat()
     all_records = raw.get("new_records") or []
-    records = [r for r in all_records if (r.get("first_seen") or "") >= cutoff]
-    print(f"[build] DANR spills: {len(records)} record(s) in past 30 days (of {len(all_records)} total)")
+    records = sorted(
+        [r for r in all_records if (r.get("first_seen") or "") >= cutoff],
+        key=lambda r: r.get("first_seen") or "",
+        reverse=True,
+    )[:100]
+    print(f"[build] DANR spills: {len(records)} record(s) (capped at 100, past 30 days)")
     return {
         "records": records,
         "lookback_days": 30,
