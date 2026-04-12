@@ -19,6 +19,15 @@
   },
   {
     "url": "https://leonescreamery.com/flavors",
+    "image_url": "https://leonescreamery.com/images/uploads/cropped/0025C9FF-7582-4168-89E7-6A0E60B07F41-239-1535075972.jpg",
+    "title": "Chocolate Kit Kat",
+    "slug": "chocolate-kit-kat",
+    "description": "Creamy, malted chocolate ice cream full of chopped KitKat bars!",
+    "record_type": "flavor",
+    "source_label": "Leone's Creamery"
+  },
+  {
+    "url": "https://leonescreamery.com/flavors",
     "image_url": "https://leonescreamery.com/images/uploads/cropped/IMG_3467-472-1775837429.jpg",
     "title": "Tiramisu",
     "slug": "tiramisu",
@@ -32,15 +41,6 @@
     "title": "Jellybean",
     "slug": "jellybean",
     "description": "We churned up a creamy base with hints of vanilla and lemon, then riddled it with the holy grail of jelly beans (Starburst, obviously).",
-    "record_type": "flavor",
-    "source_label": "Leone's Creamery"
-  },
-  {
-    "url": "https://leonescreamery.com/flavors",
-    "image_url": "https://leonescreamery.com/images/uploads/cropped/268ACE90-B380-48D1-82BD-68FB6FE39350-195-1577658609.jpg",
-    "title": "Chocolate Peanut Butter Cup",
-    "slug": "chocolate-peanut-butter-cup",
-    "description": "Creamy chocolate ice cream studded with chopped peanut butter cups.",
     "record_type": "flavor",
     "source_label": "Leone's Creamery"
   },
