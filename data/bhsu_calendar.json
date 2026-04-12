@@ -1157,5 +1157,97 @@
     "category": "Campus Calendar/Events",
     "record_type": "event",
     "source_label": "BHSU Campus Calendar"
+  },
+  {
+    "event_id": "ca8e3e05-9003-4bba-84ec-1cc665ef62d7",
+    "url": "https://bhsu.edu/campus-calendar.html#event-details/ca8e3e05-9003-4bba-84ec-1cc665ef62d7",
+    "title": "Spring 2026 Preview Day",
+    "slug": "spring-2026-preview-day",
+    "description": "Discover your future at BHSU-RC! Meet faculty, staff, and current students to learn about: Degree programs and transfer options Financial aid and scholarships On-site FAFSA support Student organizations and campus life Career pathways and flexible class schedules SDSU Nursing & Counseling Programs All Are Welcome! Students, Parents, And Families! No RSVP Needed! Persons with disabilities requesting accommodations for this event or for more information call 605.718.4112 or email Carmen.AyalaOcampo@BHSU.edu, at least 48 hours prior to the start of the event.",
+    "start_dt": "2026-04-09T22:00",
+    "end_dt": "2026-04-10T00:00",
+    "location": "BHSU-Rapid City",
+    "image_url": "https://bhsu.edu/_images/images/events/events-images/PreviewDay2026Medium.jpeg",
+    "image_alt": "Headshot of the BHSU Yellow Jacket mascot standing with arms open in front of the BLACK HILLS STATE UNIVERSITY – Rapid City building under a blue sky, with large “Preview Day at BHSU–Rapid City!” text and event details “Thursday, April 9 | 4–6 p.m.” above",
+    "organizer": "Ashley Armstrong",
+    "tags": [
+      "BHSU Event",
+      "Academic Calendar",
+      "Home"
+    ],
+    "featured": false,
+    "ticket_url": "",
+    "category": "Campus Calendar/Events",
+    "record_type": "event",
+    "source_label": "BHSU Campus Calendar"
+  },
+  {
+    "event_id": "4e8aa135-fd5a-4f39-8215-9622593c14b0",
+    "url": "https://bhsu.edu/campus-calendar.html#event-details/4e8aa135-fd5a-4f39-8215-9622593c14b0",
+    "title": "Fukushima Stories - 15 Years of Resilience and Community",
+    "slug": "fukushima-stories-15-years-of-resilience-and-community",
+    "description": "Fukushima was deeply affected by the Great East Japan Earthquake in 2011, and its communities continue to rebuild with resilience and determination. However, the realities of this recovery and the region’s unique culture remain little known outside Japan. This event will highlight Fukushima’s ongoing recovery, the strength of its people, and its rich community-based culture. In addition to learning, the event will feature hands-on experiences such as making giant sushi rolls as well as tastings of sake and food from Fukushima. Through cultural experiences and engaging presentations, come discover Fukushima today—and explore what it means to build stronger, more resilient communities for the future. Tickets are $10 per person, $5 for Under 21!",
+    "start_dt": "2026-04-25T22:00",
+    "end_dt": "2026-04-26T00:00",
+    "location": "Joy (Proctor) Krautschun Alumni/Foundation Welcome Center",
+    "image_url": "https://bhsu.edu/_images/images/events/events-images/Fukushima_Stories.jpg",
+    "image_alt": "Poster of family walking along a bridge holding hands, with Fukushima Event details across the bottom.",
+    "organizer": "Yukari Tadano",
+    "tags": [
+      "Community Event",
+      "BHSU Event",
+      "Student Life",
+      "College of Liberal Arts",
+      "College of Education and Behavioral Sciences",
+      "Library"
+    ],
+    "featured": false,
+    "ticket_url": "https://partiful.com/e/NbGsZ9mLFQsUVwXPN1Rz",
+    "category": "Campus Calendar/Events",
+    "record_type": "event",
+    "source_label": "BHSU Campus Calendar"
+  },
+  {
+    "event_id": "5461ad22-2230-4d0f-a28c-93afbb1beebd",
+    "url": "https://bhsu.edu/campus-calendar.html#event-details/5461ad22-2230-4d0f-a28c-93afbb1beebd",
+    "title": "Celebrating 10th Annual Arbor Day: Come Plant A Tree!",
+    "slug": "celebrating-10th-annual-arbor-day-come-plant-a-tree",
+    "description": "Join us at Black Hills State University for our 10th annual Arbor Day celebration! Help us honor our decade of commitment to sustainability with a fun and educational afternoon of tree-focused activities: 1. Presentation of the 2025 Tree Campus Higher Education recognition plaque 2. Live demonstration of proper tree planting techniques 3. Hands-on pruning demonstration to keep trees healthy and beautiful We invite all students, faculty, staff, and community members to come out and celebrate with us! Questions? Contact Debbie Liddick or Rhyse Naylor at 605-642-6244 Let’s make year TEN the best one yet! See you there!",
+    "start_dt": "2026-04-29T20:00",
+    "end_dt": "2026-04-29T21:30",
+    "location": "Ida Henton Park",
+    "image_url": "https://bhsu.edu/_images/images/events/events-images/Arbor_Day_Event.jpg",
+    "image_alt": "Group picture of members of the Arbor Day Foundation Program",
+    "organizer": "Deborah Liddick",
+    "tags": [
+      "BHSU Event"
+    ],
+    "featured": false,
+    "ticket_url": "",
+    "category": "Campus Calendar/Events",
+    "record_type": "event",
+    "source_label": "BHSU Campus Calendar"
+  },
+  {
+    "event_id": "99bae0c3-e5ad-4e0d-b3dc-1c3f73c1a8fe",
+    "url": "https://bhsu.edu/campus-calendar.html#event-details/99bae0c3-e5ad-4e0d-b3dc-1c3f73c1a8fe",
+    "title": "Edamame Champ",
+    "slug": "edamame-champ",
+    "description": "Chopsticks ready? 🥢 The Edamame Champ is coming to BHSU!🫛 Think you have the fastest hands on campus? Put your skills to the test! How many edamame can you move in just one minute? But it’s more than just a game—your participation provides food education for one child through the TABLE FOR TWO program. Come have fun and make a difference!",
+    "start_dt": "2026-04-16T17:00",
+    "end_dt": "2026-04-16T19:00",
+    "location": "Atrium (Student Union) The Hive",
+    "image_url": "https://bhsu.edu/_images/images/events/events-images/edamame.jpg",
+    "image_alt": "Edamame champ poster with activity and date details, with surrounded by chopsticks and cartoon edamame.",
+    "organizer": "Yukari Tadano",
+    "tags": [
+      "Yellow Jacket Dining",
+      "BHSU Event"
+    ],
+    "featured": false,
+    "ticket_url": "",
+    "category": "Campus Calendar/Events",
+    "record_type": "event",
+    "source_label": "BHSU Campus Calendar"
   }
 ]

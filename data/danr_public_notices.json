@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-04-06T03:37:45.387812+00:00",
+  "fetched_at": "2026-04-11T17:28:04.320127+00:00",
   "notices": [
     {
       "notice_type": "Water Rights",
@@ -260,23 +260,6 @@
       ]
     },
     {
-      "notice_type": "Surface Water Enhancement & Restoration",
-      "deadline": "03/14/2026",
-      "comment_url": "https://danr.sd.gov/public/comment.aspx?d_comment=03/14/2026&name=Garrison Peel&pntype=sw_er&description=Garrison Peel is proposing a project on a tributary to Deer Creek. The project will shape and stabilize the creek banks and create a lined watering pool for wildlife",
-      "name": "Garrison Peel",
-      "description": "Garrison Peel is proposing a project on a tributary to Deer Creek. The project will shape and stabilize the creek banks and create a lined watering pool for wildlife",
-      "links": [
-        {
-          "label": "Public Notice",
-          "url": "https://danr.sd.gov/officeofwater/surfacewaterquality/pn/PeelDeerPN.pdf"
-        },
-        {
-          "label": "Application",
-          "url": "https://danr.sd.gov/officeofwater/surfacewaterquality/pn/TribDeerPeelapp.pdf"
-        }
-      ]
-    },
-    {
       "notice_type": "Water Rights",
       "deadline": "03/23/2026",
       "comment_url": "",
@@ -435,27 +418,6 @@
         {
           "label": "Recom. Action",
           "url": "https://danr.sd.gov/wrimage/pub/5003-3_rec.pdf"
-        }
-      ]
-    },
-    {
-      "notice_type": "Air Quality Permit",
-      "deadline": "04/05/2026",
-      "comment_url": "https://danr.sd.gov/public/comment.aspx?d_comment=04/05/2026&name=Prairie Aquatech Manufacturing, LLC dba Houdek Manufacturing&pntype=aq&description=Prairie Aquatech Manufacturing, LLC dba Houdek Manufacturing proposes to modify their construction permit for several permitted units at the animal health and nutrition company. DANR recommends issuance of a modified air quality construction permit.",
-      "description": "Prairie Aquatech Manufacturing, LLC dba Houdek Manufacturing proposes to modify their construction permit for several permitted units at the animal health and nutrition company. DANR recommends issuance of a modified air quality construction permit.",
-      "location": "Volga",
-      "links": [
-        {
-          "label": "Public Notice",
-          "url": "http://danr.sd.gov/Environment/AirQuality/PN/PAMpn.pdf"
-        },
-        {
-          "label": "Draft Permit",
-          "url": "http://danr.sd.gov/Environment/AirQuality/PN/PAMdp.pdf"
-        },
-        {
-          "label": "Application Review",
-          "url": "http://danr.sd.gov/Environment/AirQuality/PN/PAmsb.pdf"
         }
       ]
     },
@@ -940,112 +902,6 @@
       ]
     },
     {
-      "notice_type": "Air Quality Permit",
-      "deadline": "04/10/2026",
-      "comment_url": "https://danr.sd.gov/public/comment.aspx?d_comment=04/10/2026&name=Brookings Biogas LLC - Global Dairy&pntype=aq&description=Brookings Biogas LLC \u2013 Global Dairy operates a biogas production facility in Estelline. The department recommends issuance a minor air quality operating permit.",
-      "description": "Brookings Biogas LLC \u2013 Global Dairy operates a biogas production facility in Estelline. The department recommends issuance a minor air quality operating permit.",
-      "location": "Estelline",
-      "links": [
-        {
-          "label": "Public Notice",
-          "url": "http://danr.sd.gov/Environment/AirQuality/PN/BBLpn.pdf"
-        },
-        {
-          "label": "Draft Permit",
-          "url": "http://danr.sd.gov/Environment/AirQuality/PN/BBLdp.pdf"
-        },
-        {
-          "label": "Application Review",
-          "url": "http://danr.sd.gov/Environment/AirQuality/PN/BBLsb.pdf"
-        }
-      ]
-    },
-    {
-      "notice_type": "Air Quality Permit",
-      "deadline": "04/10/2026",
-      "comment_url": "https://danr.sd.gov/public/comment.aspx?d_comment=04/10/2026&name=Lakeside Biogas LLC - Lakeside Dairy&pntype=aq&description=Lakeside Biogas LLC \u2013 Lakeside Dairy operates a biogas production facility in Ortley. The department recommends issuance a minor air quality operating permit.",
-      "description": "Lakeside Biogas LLC \u2013 Lakeside Dairy operates a biogas production facility in Ortley. The department recommends issuance a minor air quality operating permit.",
-      "location": "Ortley",
-      "links": [
-        {
-          "label": "Public Notice",
-          "url": "http://danr.sd.gov/Environment/AirQuality/PN/LBLpn.pdf"
-        },
-        {
-          "label": "Draft Permit",
-          "url": "http://danr.sd.gov/Environment/AirQuality/PN/LBLdp.pdf"
-        },
-        {
-          "label": "Application Review",
-          "url": "http://danr.sd.gov/Environment/AirQuality/PN/LBLsb.pdf"
-        }
-      ]
-    },
-    {
-      "notice_type": "Air Quality Permit",
-      "deadline": "04/10/2026",
-      "comment_url": "https://danr.sd.gov/public/comment.aspx?d_comment=04/10/2026&name=Lakeside Biogas LLC - Lakeside Dairy&pntype=aq&description=Lakeside Biogas LLC \u2013 Lakeside Dairy operates a biogas production facility in Ortley. The department recommends modification to their air quality construction permit.",
-      "description": "Lakeside Biogas LLC \u2013 Lakeside Dairy operates a biogas production facility in Ortley. The department recommends modification to their air quality construction permit.",
-      "location": "Ortley",
-      "links": [
-        {
-          "label": "Public Notice",
-          "url": "http://danr.sd.gov/Environment/AirQuality/PN/LSBpn.pdf"
-        },
-        {
-          "label": "Draft Permit",
-          "url": "http://danr.sd.gov/Environment/AirQuality/PN/dp.pdf"
-        },
-        {
-          "label": "Application Review",
-          "url": "http://danr.sd.gov/Environment/AirQuality/PN/LSBsb.pdf"
-        }
-      ]
-    },
-    {
-      "notice_type": "Air Quality Permit",
-      "deadline": "04/10/2026",
-      "comment_url": "https://danr.sd.gov/public/comment.aspx?d_comment=04/10/2026&name=Brookings Biogas LLC - Global Dairy&pntype=aq&description=Brookings Biogas LLC \u2013 Global Dairy operates a biogas production facility in Estelline. The department recommends modification to their air quality construction permit.",
-      "description": "Brookings Biogas LLC \u2013 Global Dairy operates a biogas production facility in Estelline. The department recommends modification to their air quality construction permit.",
-      "location": "Estelline",
-      "links": [
-        {
-          "label": "Public Notice",
-          "url": "https://danr.sd.gov/Environment/AirQuality/PN/BBLpn.pdf"
-        },
-        {
-          "label": "Draft Permit",
-          "url": "https://danr.sd.gov/Environment/AirQuality/PN/dp.pdf"
-        },
-        {
-          "label": "Application Review",
-          "url": "https://danr.sd.gov/Environment/AirQuality/PN/BBLsb.pdf"
-        }
-      ]
-    },
-    {
-      "notice_type": "Surface Water Discharge (NPDES)",
-      "deadline": "04/10/2026",
-      "comment_url": "https://danr.sd.gov/public/comment.aspx?d_comment=04/10/2026&name=South Dakota Game, Fish, and Parks&pntype=sw_npdes&description=South Dakota Game, Fish, and Parks is authorized under this permit to discharge to Willow Creek from its wastewater treatment facility located in Custer County.",
-      "name": "South Dakota Game, Fish, and Parks",
-      "description": "South Dakota Game, Fish, and Parks is authorized under this permit to discharge to Willow Creek from its wastewater treatment facility located in Custer County.",
-      "location": "Custer County",
-      "links": [
-        {
-          "label": "Public Notice",
-          "url": "https://danr.sd.gov/officeofwater/surfacewaterquality/pn/SDGFPSylvanLakePNDraft.pdf"
-        },
-        {
-          "label": "Draft Permit",
-          "url": "https://danr.sd.gov/officeofwater/surfacewaterquality/pn/SDGFPSylvanLakePermitDraft.pdf"
-        },
-        {
-          "label": "Statement of Basis",
-          "url": "https://danr.sd.gov/officeofwater/surfacewaterquality/pn/SDGFPSylvanLakeSOBDraft.pdf"
-        }
-      ]
-    },
-    {
       "notice_type": "Waste Management \u2014 Solid Waste",
       "deadline": "4/11/2026",
       "comment_url": "",
@@ -1078,6 +934,20 @@
         {
           "label": "Draft Permit",
           "url": "https://danr.sd.gov/Press/docs/publicnotices/wastemanagementnotices/DRAFT_Huron_26_RU_XFR_IP.pdf"
+        }
+      ]
+    },
+    {
+      "notice_type": "Water Management Board (Miscellaneous)",
+      "deadline": "04/13/2026",
+      "comment_url": "https://danr.sd.gov/public/comment.aspx?d_comment=04/13/2026&name=City of Mitchell&pntype=wmb&description=Variance request from Safety of Dams Rules for Lake Mitchell Dam. Provided link includes public notice, variance request, report, and recommendation. Contact the Chief Engineer for information or documents - danrmail@state.sd.us.",
+      "name": "City of Mitchell",
+      "description": "Variance request from Safety of Dams Rules for Lake Mitchell Dam. Provided link includes public notice, variance request, report, and recommendation. Contact the Chief Engineer for information or documents - danrmail@state.sd.us.",
+      "location": "Davison County",
+      "links": [
+        {
+          "label": "Public Notice",
+          "url": "https://danr.sd.gov/wrimage/pub/Lake Mitchell Dam Varience.pdf"
         }
       ]
     },
@@ -1274,6 +1144,23 @@
       ]
     },
     {
+      "notice_type": "Surface Water Enhancement & Restoration",
+      "deadline": "04/14/2026",
+      "comment_url": "https://danr.sd.gov/public/comment.aspx?d_comment=04/14/2026&name=Garrison Peel&pntype=sw_er&description=Garrison Peel is proposing a project on a tributary to Deer Creek. The project will shape and stabilize the creek banks and create a lined watering pool for wildlife",
+      "name": "Garrison Peel",
+      "description": "Garrison Peel is proposing a project on a tributary to Deer Creek. The project will shape and stabilize the creek banks and create a lined watering pool for wildlife",
+      "links": [
+        {
+          "label": "Public Notice",
+          "url": "https://danr.sd.gov/officeofwater/surfacewaterquality/pn/PeelDeerPN.pdf"
+        },
+        {
+          "label": "Application",
+          "url": "https://danr.sd.gov/officeofwater/surfacewaterquality/pn/TribDeerPeelapp.pdf"
+        }
+      ]
+    },
+    {
       "notice_type": "Air Quality Permit",
       "deadline": "04/16/2026",
       "comment_url": "https://danr.sd.gov/public/comment.aspx?d_comment=04/16/2026&name=Sioux Falls Regional Sanitary Landfill&pntype=aq&description=Sioux Falls Regional Sanitary Landfill is a municipal solid waste landfill. The Department recommends approval of a renewed Title V air quality operating permit.",
@@ -1454,6 +1341,30 @@
       ]
     },
     {
+      "notice_type": "Water Rights",
+      "deadline": "04/17/2026",
+      "comment_url": "",
+      "application_no": "2904-2",
+      "name": "H & H Land Co. # 2 LLC, c/o Brian Hammerbeck,\u00a0Rapid City\u00a0SD",
+      "location": "Pennington",
+      "water_source": "Inyan Kara Aquifer",
+      "use_type": "Water Distribution System",
+      "links": [
+        {
+          "label": "Public Notice",
+          "url": "https://danr.sd.gov/wrimage/pub/2904-2_app.pdf"
+        },
+        {
+          "label": "Appl.",
+          "url": "https://danr.sd.gov/wrimage/pub/2904-2_apl.pdf"
+        },
+        {
+          "label": "Recom. Action",
+          "url": "https://danr.sd.gov/wrimage/pub/2904-2_rec.pdf"
+        }
+      ]
+    },
+    {
       "notice_type": "Surface Water Discharge (NPDES)",
       "deadline": "04/23/2026",
       "comment_url": "https://danr.sd.gov/public/comment.aspx?d_comment=04/23/2026&name=City of Summerset&pntype=sw_npdes&description=The City of Summerset is authorized under this permit to discharge to an unnamed tributary of Stagebarn Canyon Creek from its wastewater treatment facility located in Meade County.",
@@ -1546,16 +1457,24 @@
       ]
     },
     {
-      "notice_type": "Water Management Board (Miscellaneous)",
-      "deadline": "05/07/2026",
-      "comment_url": "https://danr.sd.gov/public/comment.aspx?d_comment=05/07/2026&name=City of Mitchell&pntype=wmb&description=Variance request from Safety of Dams Rules for Lake Mitchell Dam. Provided link includes public notice, variance request, report, and recommendation. Contact the Chief Engineer for information or documents - danrmail@state.sd.us.",
-      "name": "City of Mitchell",
-      "description": "Variance request from Safety of Dams Rules for Lake Mitchell Dam. Provided link includes public notice, variance request, report, and recommendation. Contact the Chief Engineer for information or documents - danrmail@state.sd.us.",
-      "location": "Davison County",
+      "notice_type": "Surface Water Discharge (NPDES)",
+      "deadline": "05/08/2026",
+      "comment_url": "https://danr.sd.gov/public/comment.aspx?d_comment=05/08/2026&name=International Paper Co&pntype=sw_npdes&description=International Paper Co is directed by the South Dakota Department of Agriculture and Natural Resources to have no discharge from its facility located southeast of the city of Whitewood in Lawrence County.",
+      "name": "International Paper Co",
+      "description": "International Paper Co is directed by the South Dakota Department of Agriculture and Natural Resources to have no discharge from its facility located southeast of the city of Whitewood in Lawrence County.",
+      "location": "Lawrence County",
       "links": [
         {
           "label": "Public Notice",
-          "url": "https://danr.sd.gov/wrimage/pub/Lake Mitchell Dam Varience.pdf"
+          "url": "https://danr.sd.gov/officeofwater/surfacewaterquality/pn/InternationalPaperPNDraft.pdf"
+        },
+        {
+          "label": "Draft Permit",
+          "url": "https://danr.sd.gov/officeofwater/surfacewaterquality/pn/InternationalPaperPermitDraft.pdf"
+        },
+        {
+          "label": "Statement of Basis",
+          "url": "https://danr.sd.gov/officeofwater/surfacewaterquality/pn/InternationalPaperSOBDraft.pdf"
         }
       ]
     },
@@ -1570,6 +1489,24 @@
         {
           "label": "Public Notice",
           "url": "https://danr.sd.gov/Press/docs/publicnotices/MineralsMining/EXNI469NoticeofIntent.pdf"
+        },
+        {
+          "label": "Application",
+          "url": "https://danr.sd.gov/Environment/MineralsMining/Exploration/NewEXNIS.aspx"
+        }
+      ]
+    },
+    {
+      "notice_type": "Mineral Exploration",
+      "deadline": "",
+      "comment_url": "https://danr.sd.gov/public/comment.aspx?d_comment=&name=Solitario Resources, Inc.&pntype=mm_ex&description=Notice of Intent for Gold and Silver Exploration",
+      "name": "Solitario Resources, Inc.",
+      "description": "Notice of Intent for Gold and Silver Exploration",
+      "location": "Seven miles southwest of Lead, SD",
+      "links": [
+        {
+          "label": "Public Notice",
+          "url": "https://danr.sd.gov/Press/docs/publicnotices/MineralsMining/EXNI470NOF.pdf"
         },
         {
           "label": "Application",

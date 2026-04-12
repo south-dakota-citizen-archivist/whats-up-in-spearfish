@@ -28,5 +28,15 @@
     "start_dt": "Thu, 02 Apr 2026 14:00:55 -0700",
     "record_type": "alert",
     "source_label": "City of Spearfish"
+  },
+  {
+    "url": "https://www.spearfish.gov/AlertCenter.aspx?AID=60",
+    "title": "City of Spearfish - Traffic Signal Outage - 27th St & Colo Blvd",
+    "slug": "city-of-spearfish-traffic-signal-outage-27th-st-colo-blvd",
+    "description": "The traffic signal at 27th St & Colo Blvd will be out for several hours on Wednesday April 8th starting at 9am.  The intersection will function as a 4-way stop until power is restored.  Please use caution in the area.",
+    "published": "Tue, 07 Apr 2026 16:54:24 -0700",
+    "start_dt": "Tue, 07 Apr 2026 16:54:24 -0700",
+    "record_type": "alert",
+    "source_label": "City of Spearfish"
   }
 ]

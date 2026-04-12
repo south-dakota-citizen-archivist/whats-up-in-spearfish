@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-04-06T03:39:46.701690+00:00",
+  "fetched_at": "2026-04-11T17:30:06.834797+00:00",
   "cases": [
     {
       "ccid": "123",
@@ -10,27 +10,27 @@
       "docs_url": "https://danr.sd.gov/public/ccdocs.aspx?CCID=CCID123",
       "documents": [
         {
+          "label": "April 8, 2026 DANR Notice of Filing of Sealed Report Which Includes Unredacted Versions of State Historical Preservation Office and Archaeological Research Center Reports",
+          "url": "https://danr.sd.gov/Environment/MineralsMining/Exploration/docs/4826DANRNoticeSealedFiling.pdf"
+        },
+        {
+          "label": "April 8, 2026 DANR Supplemental Exhibit List Which Includes Redacted Versions of State Historical Preservation Office and Archaeological Research Center Reports",
+          "url": "https://danr.sd.gov/Environment/MineralsMining/Exploration/docs/4826DANRRedactedExhibitList.pdf"
+        },
+        {
+          "label": "April 7, 2026 Notice of Postponement of April 13 through 17, 2026 Hearing on Clean Nuclear Energy's Uranium Exploration Permit Application",
+          "url": "https://danr.sd.gov/Environment/MineralsMining/Exploration/docs/CleanNuclearNOTICEOFPOSTPONEMENT.pdf"
+        },
+        {
           "label": "March 23, 2026 Additional Clean Nuclear Energy Hearing Exhibits Submitted by Lilias Jarding",
           "url": "https://danr.sd.gov/Environment/MineralsMining/Exploration/docs/032326JardingExhibits.pdf"
         },
         {
           "label": "March 5 and 6, 2026 Signed Protective Order Acknowledgements Submitted by Jeremiah J. Davis, George Nelson, and Linea Sundstrom",
           "url": "https://danr.sd.gov/Environment/MineralsMining/Exploration/docs/ProtectiveOrderAcknowledgments.pdf"
-        },
-        {
-          "label": "March 5,2026 Notice of Entry of Order on Motion for Access to Unredacted Archaeologic Reports and Motion to Withdraw as Intervenor",
-          "url": "https://danr.sd.gov/Environment/MineralsMining/Exploration/docs/030526MorrisOrders.pdf"
-        },
-        {
-          "label": "February 24, 2026 Notice of Hearing for March 18, 2026 Board of Minerals and Environment Hearing",
-          "url": "https://danr.sd.gov/Environment/MineralsMining/Exploration/docs/March182026NoticeofHearing.pdf"
-        },
-        {
-          "label": "February 23, 2026 Motion from Black Hills Group Sierra Club and Jeremiah \"Jay\" Davis for Access to Unredacted Archaeologic Report Pursuant to Protective Order",
-          "url": "https://danr.sd.gov/Environment/MineralsMining/Exploration/docs/022326SierraClubDavisAccessUnredactedArcReport.pdf"
         }
       ],
-      "total_docs": 83,
+      "total_docs": 86,
       "latest_doc_date": "0000-00-00"
     },
     {
