@@ -1,6 +1,71 @@
 {
-  "fetched_at": "2026-04-12T18:07:00.376275+00:00",
+  "fetched_at": "2026-04-12T18:25:20.682035+00:00",
   "observations": [
+    {
+      "species_code": "haiwoo",
+      "common_name": "Hairy Woodpecker",
+      "scientific_name": "Leuconotopicus villosus",
+      "observed_on": "2026-04-12",
+      "count": 1,
+      "location_name": "124 Sherman St, Deadwood US-SD 44.37302, -103.72860",
+      "lat": 44.373018,
+      "lng": -103.7286,
+      "location_id": "L62618324",
+      "checklist_id": "S320719840",
+      "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/1275/square.jpg"
+    },
+    {
+      "species_code": "blujay",
+      "common_name": "Blue Jay",
+      "scientific_name": "Cyanocitta cristata",
+      "observed_on": "2026-04-12",
+      "count": 2,
+      "location_name": "124 Sherman St, Deadwood US-SD 44.37302, -103.72860",
+      "lat": 44.373018,
+      "lng": -103.7286,
+      "location_id": "L62618324",
+      "checklist_id": "S320719840",
+      "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/530721418/square.jpg"
+    },
+    {
+      "species_code": "amedip",
+      "common_name": "American Dipper",
+      "scientific_name": "Cinclus mexicanus",
+      "observed_on": "2026-04-12",
+      "count": 1,
+      "location_name": "124 Sherman St, Deadwood US-SD 44.37302, -103.72860",
+      "lat": 44.373018,
+      "lng": -103.7286,
+      "location_id": "L62618324",
+      "checklist_id": "S320719840",
+      "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/247681814/square.jpeg"
+    },
+    {
+      "species_code": "amerob",
+      "common_name": "American Robin",
+      "scientific_name": "Turdus migratorius",
+      "observed_on": "2026-04-12",
+      "count": 3,
+      "location_name": "124 Sherman St, Deadwood US-SD 44.37302, -103.72860",
+      "lat": 44.373018,
+      "lng": -103.7286,
+      "location_id": "L62618324",
+      "checklist_id": "S320719840",
+      "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/34859026/square.jpg"
+    },
+    {
+      "species_code": "sonspa",
+      "common_name": "Song Sparrow",
+      "scientific_name": "Melospiza melodia",
+      "observed_on": "2026-04-12",
+      "count": 1,
+      "location_name": "124 Sherman St, Deadwood US-SD 44.37302, -103.72860",
+      "lat": 44.373018,
+      "lng": -103.7286,
+      "location_id": "L62618324",
+      "checklist_id": "S320719840",
+      "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/104749271/square.jpg"
+    },
     {
       "species_code": "shtgro",
       "common_name": "Sharp-tailed Grouse",
@@ -119,19 +184,6 @@
       "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/6903515/square.jpg"
     },
     {
-      "species_code": "sonspa",
-      "common_name": "Song Sparrow",
-      "scientific_name": "Melospiza melodia",
-      "observed_on": "2026-04-10",
-      "count": 1,
-      "location_name": "Devil’s Bathtub Trail",
-      "lat": 44.3994641,
-      "lng": -103.8921888,
-      "location_id": "L11142020",
-      "checklist_id": "S320083742",
-      "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/104749271/square.jpg"
-    },
-    {
       "species_code": "ferhaw",
       "common_name": "Ferruginous Hawk",
       "scientific_name": "Buteo regalis",
@@ -197,19 +249,6 @@
       "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/106405630/square.jpg"
     },
     {
-      "species_code": "amerob",
-      "common_name": "American Robin",
-      "scientific_name": "Turdus migratorius",
-      "observed_on": "2026-04-06",
-      "count": 12,
-      "location_name": "Savoy, Black Hills NF (44.351, -103.927)",
-      "lat": 44.3512466,
-      "lng": -103.9266615,
-      "location_id": "L62169048",
-      "checklist_id": "S318497542",
-      "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/34859026/square.jpg"
-    },
-    {
       "species_code": "pinsis",
       "common_name": "Pine Siskin",
       "scientific_name": "Spinus pinus",
@@ -223,19 +262,6 @@
       "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/13823002/square.jpg"
     },
     {
-      "species_code": "haiwoo",
-      "common_name": "Hairy Woodpecker",
-      "scientific_name": "Leuconotopicus villosus",
-      "observed_on": "2026-04-06",
-      "count": 1,
-      "location_name": "20686 Morning Star Road, Lead, South Dakota, US (44.405, -103.789)",
-      "lat": 44.4052093,
-      "lng": -103.7892059,
-      "location_id": "L36906449",
-      "checklist_id": "S317864739",
-      "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/1275/square.jpg"
-    },
-    {
       "species_code": "norfli",
       "common_name": "Northern Flicker",
       "scientific_name": "Colaptes auratus",
@@ -247,19 +273,6 @@
       "location_id": "L36906449",
       "checklist_id": "S317864739",
       "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/123812445/square.jpg"
-    },
-    {
-      "species_code": "blujay",
-      "common_name": "Blue Jay",
-      "scientific_name": "Cyanocitta cristata",
-      "observed_on": "2026-04-06",
-      "count": 1,
-      "location_name": "20686 Morning Star Road, Lead, South Dakota, US (44.405, -103.789)",
-      "lat": 44.4052093,
-      "lng": -103.7892059,
-      "location_id": "L36906449",
-      "checklist_id": "S317864739",
-      "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/530721418/square.jpg"
     },
     {
       "species_code": "bkcchi",
@@ -481,19 +494,6 @@
       "location_id": "L61874194",
       "checklist_id": "S317105183",
       "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/4661023/square.jpg"
-    },
-    {
-      "species_code": "amedip",
-      "common_name": "American Dipper",
-      "scientific_name": "Cinclus mexicanus",
-      "observed_on": "2026-04-04",
-      "count": 1,
-      "location_name": "Spearfish Canyon",
-      "lat": 44.452286,
-      "lng": -103.8629436,
-      "location_id": "L319424",
-      "checklist_id": "S318899569",
-      "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/247681814/square.jpeg"
     },
     {
       "species_code": "bkbmag1",
