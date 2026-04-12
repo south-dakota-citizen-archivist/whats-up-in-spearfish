@@ -32,7 +32,7 @@ HEADERS = {"User-Agent": "whats-up-in-spearfish/1.0 (public data aggregator)"}
 # SD Black Hills counties tracked
 BH_COUNTIES = ("Lawrence", "Pennington", "Custer", "Meade", "Fall River", "Butte")
 
-LOOKBACK_DAYS = 90
+LOOKBACK_DAYS = 30
 PAGE_SIZE = 1000
 
 OUT_FIELDS = ",".join(
@@ -130,17 +130,13 @@ def fetch_danr_spills() -> None:
 
     known_ids: set[int] = set(existing.get("known_ids", []))
     new_records: list[dict] = existing.get("new_records", [])
-    is_first_run = len(known_ids) == 0
-
-    # Retroactively add pdf_url to any existing records that lack it
-    for r in new_records:
-        if "pdf_url" not in r:
-            r["pdf_url"] = _pdf_url_from_id(r.get("id_raw"))
 
     # Prune new_records older than LOOKBACK_DAYS
     cutoff = (datetime.now(timezone.utc).date() - timedelta(days=LOOKBACK_DAYS)).isoformat()
     new_records = [r for r in new_records if r.get("first_seen", "") >= cutoff]
     new_record_ids = {r["objectid"] for r in new_records}
+
+    current_year = datetime.now(timezone.utc).year
 
     # Fetch all current BH records
     features = _fetch_all()
@@ -150,7 +146,10 @@ def fetch_danr_spills() -> None:
 
     today = datetime.now(timezone.utc).date().isoformat()
     all_ids: set[int] = set()
-    newly_found = 0
+    added = 0
+
+    # Index existing new_records by objectid for fast retroactive patching
+    new_records_by_id = {r["objectid"]: r for r in new_records}
 
     for feat in features:
         attrs = feat.get("attributes") or {}
@@ -160,10 +159,20 @@ def fetch_danr_spills() -> None:
             continue
 
         all_ids.add(objectid)
+        id_raw = attrs.get("id")
+        year = _year_from_id(id_raw)
 
-        if not is_first_run and objectid not in known_ids and objectid not in new_record_ids:
-            id_raw = attrs.get("id")
-            year = _year_from_id(id_raw)
+        # Backfill pdf_url on existing records that predate the id_raw field
+        if objectid in new_records_by_id:
+            existing_rec = new_records_by_id[objectid]
+            if existing_rec.get("pdf_url") is None and "id_raw" not in existing_rec:
+                existing_rec["id_raw"] = id_raw
+                existing_rec["pdf_url"] = _pdf_url_from_id(id_raw)
+
+        # Include all current-year records, plus any genuinely new records from prior years
+        is_new_to_known = objectid not in known_ids
+        is_current_year = year == current_year
+        if objectid not in new_record_ids and (is_current_year or is_new_to_known):
             lat = geom.get("y")
             lon = geom.get("x")
             new_records.append(
@@ -187,7 +196,7 @@ def fetch_danr_spills() -> None:
                     "lon": round(lon, 6) if lon else None,
                 }
             )
-            newly_found += 1
+            added += 1
 
     known_ids.update(all_ids)
 
@@ -199,7 +208,6 @@ def fetch_danr_spills() -> None:
                 "fetched_at": datetime.now(timezone.utc).isoformat(),
                 "lookback_days": LOOKBACK_DAYS,
                 "total_bh_sites": len(all_ids),
-                "is_seeded": not is_first_run,
                 "known_ids": sorted(known_ids),
                 "new_records": new_records,
             },
@@ -208,10 +216,9 @@ def fetch_danr_spills() -> None:
         encoding="utf-8",
     )
 
-    if is_first_run:
-        print(f"[DANR Spills] First run: seeded {len(all_ids)} known IDs → {DATA_FILE.name}")
-    else:
-        print(f"[DANR Spills] {len(all_ids)} total BH sites, {newly_found} new this run → {DATA_FILE.name}")
+    print(
+        f"[DANR Spills] {len(all_ids)} total BH sites, {added} added this run, {len(new_records)} in pool → {DATA_FILE.name}"
+    )  # noqa
 
 
 if __name__ == "__main__":

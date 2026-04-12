@@ -22,7 +22,7 @@ _Updated: April 12, 2026_
 | Black Hills National Forest | `bhnf` | `event`, `press_release` | 5 |
 | Black Hills National Forest (public projects) | `bhnf_projects` | — | 48 |
 | Black Hills Pioneer | `bhpioneer_jobs` | `job` | 12 |
-| Black Hills Pioneer | `black_hills_pioneer` | `news` | 132 |
+| Black Hills Pioneer | `black_hills_pioneer` | `news` | 190 |
 | Black Hills Wildflowers | `black_hills_wildflowers` | — | 5 |
 | Building Permits | `building_permits` | — | 3 |
 | City of Spearfish | `spearfish_city` | `document` | 2,100 |
@@ -32,7 +32,7 @@ _Updated: April 12, 2026_
 | City of Spearfish Jobs | `spearfish_jobs` | — | 0 |
 | City of Spearfish News Flash | `spearfish_news` | `press_release` | 5 |
 | Crow Peak Brewing | `crow_peak_brewing` | `beer` | 16 |
-| Danr Spills | `danr_spills` | — | 6 |
+| Danr Spills | `danr_spills` | — | 5 |
 | eBird (recent sightings) | `ebird` | — | 50 |
 | Elementary 3-5 Lunch | `spearfish_elem_35_lunch` | `school_menu` | 40 |
 | Elementary Breakfast | `spearfish_elem_breakfast` | `school_menu` | 40 |
@@ -52,7 +52,7 @@ _Updated: April 12, 2026_
 | OpenGov / Spearfish Planning & Zoning Portal | `planning_zoning` | `Change of Use or Occupancy`, `Commercial Alterations, Additions, or Tenant Improvements`, `Commercial Demolition`, `Commercial New Construction`, `Conditional Use Permit`, `Development Review District`, `Encroachment Agreement Request`, `Fire Code Permit`, `Floodplain Development`, `Grading Permit`, `Major Final Plat`, `Major Preliminary Plat`, `Minor Final Plat`, `Residential Additions or Alterations`, `Residential Decks, Covered Patios, or Fences`, `Residential Demolition`, `Residential New Construction`, `Rezone`, `Right of Way Permit`, `Sign Permit `, `Sketch Plat`, `Standalone Permits - Plumbing, Mechanical, Gas`, `Subdivision Development Plans`, `Tax Increment Financing (TIF)`, `Vacate of Right of Way or Easement`, `Variance Application`, `Water/Sewer Service Agreement Application` | 470 |
 | Public Bids | `public_bids` | `bid` | 1 |
 | Public Meetings (YouTube) | `public_meetings_youtube` | `youtube_video` | 31 |
-| Rapid City Journal | `rapid_city_journal` | `news` | 141 |
+| Rapid City Journal | `rapid_city_journal` | `news` | 205 |
 | Redwater Kitchen | `redwater_kitchen` | `beer` | 12 |
 | Regional News | `news_feeds` | `news` | 145 |
 | Roadkill | `roadkill` | — | 3 |

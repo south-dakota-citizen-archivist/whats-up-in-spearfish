@@ -27,10 +27,12 @@ from black_hills import BBOX
 
 DATA_FILE = Path(__file__).resolve().parent.parent.parent / "data" / "roadkill.json"
 
-BASE_URL = (
+SERVICE_BASE = (
     "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services"
-    "/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/query"
+    "/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0"
 )
+BASE_URL = f"{SERVICE_BASE}/query"
+ATTACHMENTS_URL = f"{SERVICE_BASE}/queryAttachments"
 
 HEADERS = {"User-Agent": "whats-up-in-spearfish/1.0 (public data aggregator)"}
 
@@ -61,7 +63,7 @@ def fetch_roadkill() -> None:
         "geometry": BH_ENVELOPE,
         "geometryType": "esriGeometryEnvelope",
         "spatialRel": "esriSpatialRelIntersects",
-        "outFields": "Date,Species,Highway,Sex,Present,Comments,Contractor",
+        "outFields": "OBJECTID,Date,Species,Highway,Sex,Present,Comments,Contractor",
         "orderByFields": "Date DESC",
         "resultRecordCount": 1000,
         "f": "json",
@@ -101,6 +103,7 @@ def fetch_roadkill() -> None:
 
         records.append(
             {
+                "objectid": attrs.get("objectid") or attrs.get("OBJECTID"),
                 "date": _ts_to_iso(attrs.get("Date")),
                 "species": species,
                 "highway": highway,
@@ -110,8 +113,44 @@ def fetch_roadkill() -> None:
                 "contractor": (attrs.get("Contractor") or "").strip() or None,
                 "lat": round(lat, 6),
                 "lon": round(lon, 6),
+                "image_url": None,
             }
         )
+
+    # Fetch attachments in batches and map image URLs back to records
+    oid_to_record = {r["objectid"]: r for r in records if r["objectid"] is not None}
+    oids = list(oid_to_record.keys())
+    batch_size = 100
+    for i in range(0, len(oids), batch_size):
+        batch = oids[i : i + batch_size]
+        try:
+            att_resp = requests.get(
+                ATTACHMENTS_URL,
+                params={
+                    "objectIds": ",".join(str(o) for o in batch),
+                    "definitionExpression": "1=1",
+                    "f": "json",
+                },
+                headers=HEADERS,
+                timeout=30,
+            )
+            att_resp.raise_for_status()
+            att_data = att_resp.json()
+        except Exception as exc:
+            print(f"[Roadkill] Warning: attachment fetch failed: {exc}")
+            continue
+
+        for group in att_data.get("attachmentGroups") or []:
+            oid = group.get("parentObjectId")
+            if oid not in oid_to_record:
+                continue
+            for info in group.get("attachmentInfos") or []:
+                if (info.get("contentType") or "").startswith("image/"):
+                    oid_to_record[oid]["image_url"] = f"{SERVICE_BASE}/{oid}/attachments/{info['id']}"
+                    break  # first image only
+
+    with_images = sum(1 for r in records if r["image_url"])
+    print(f"[Roadkill] {len(records)} records, {with_images} with images → {DATA_FILE.name}")
 
     DATA_FILE.write_text(
         json.dumps(
@@ -124,7 +163,6 @@ def fetch_roadkill() -> None:
         ),
         encoding="utf-8",
     )
-    print(f"[Roadkill] {len(records)} records (last {LOOKBACK_DAYS} days, BH bbox) → {DATA_FILE.name}")
 
 
 if __name__ == "__main__":

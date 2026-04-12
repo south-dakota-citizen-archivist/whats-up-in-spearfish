@@ -35,7 +35,7 @@
       {# row 2: conditions details + full forecast link #}
       <div class="flex items-center justify-between gap-x-4">
         <div class="flex flex-wrap gap-x-4 gap-y-0.5 text-xs text-gray-600">
-          <span x-show="current.wind"><span class="font-semibold">Wind</span> <span x-show="current.windArrow != null" :style="'display:inline-block;transform:rotate(' + current.windArrow + 'deg)'" aria-hidden="true">↑</span> <span x-text="current.wind"></span></span>
+          <span x-show="current.wind"><span class="font-semibold">Wind</span> <span x-show="current.windArrow" x-text="current.windArrow" aria-hidden="true"></span> <span x-text="current.wind"></span></span>
           <span x-show="current.humidity"><span class="font-semibold">Humidity</span> <span x-text="current.humidity"></span></span>
           <span x-show="current.visibility"><span class="font-semibold">Visibility</span> <span x-text="current.visibility"></span></span>
         </div>
@@ -95,23 +95,35 @@ function weather() {
         const tempF = tempC != null ? Math.round(tempC * 9 / 5 + 32) : null;
 
         const windKmh = p.windSpeed?.value;
-        const windMph = windKmh != null ? Math.round(windKmh / 1.60934) : null;
         const windDeg = p.windDirection?.value;
-        // KSPF often reports null windDirection (QC fail) — fall back to
-        // the current hourly forecast period which always has compass direction
-        const windDir = windDeg != null
-          ? this._deg2compass(windDeg)
-          : (hourly?.properties?.periods?.[0]?.windDirection || '');
+        const hourlyPeriod = hourly?.properties?.periods?.[0];
+
+        // Use obs when both speed and direction are available; otherwise fall
+        // back to hourly for both so text and arrow always agree on source.
+        let windMph = windKmh != null ? Math.round(windKmh / 1.60934) : null;
+        let windDir = windDeg != null ? this._deg2compass(windDeg) : null;
+
+        if (windMph == null || windDir == null) {
+          // At least one obs value missing — use hourly for everything
+          if (hourlyPeriod?.windSpeed) {
+            const m = String(hourlyPeriod.windSpeed).match(/(\d+)/);
+            if (m) windMph = parseInt(m[1]);
+          }
+          windDir = hourlyPeriod?.windDirection || windDir || '';
+        }
 
         const humidity = p.relativeHumidity?.value;
         const visM = p.visibility?.value;
         const visMi = visM != null ? (Math.round(visM / 1609.34 * 10) / 10) : null;
 
+        const WIND_ARROWS = {N:'↑',NNE:'↗',NE:'↗',ENE:'→',E:'→',ESE:'↘',SE:'↘',SSE:'↓',
+                             S:'↓',SSW:'↙',SW:'↙',WSW:'←',W:'←',WNW:'↖',NW:'↖',NNW:'↑'};
+
         this.current = {
           temp:        tempF   != null ? `${tempF}°F`                    : '',
           description: p.textDescription || '',
           wind:        windMph != null ? `${windDir} ${windMph} mph`.trim() : '',
-          windArrow:   windDeg ?? this._compass2deg(windDir),
+          windArrow:   WIND_ARROWS[windDir] || '',
           humidity:    humidity != null ? `${Math.round(humidity)}%`      : '',
           visibility:  visMi   != null ? `${visMi} mi`                   : '',
         };
@@ -135,11 +147,6 @@ function weather() {
     _deg2compass(deg) {
       const dirs = ['N','NNE','NE','ENE','E','ESE','SE','SSE','S','SSW','SW','WSW','W','WNW','NW','NNW'];
       return dirs[Math.round(deg / 22.5) % 16];
-    },
-    _compass2deg(dir) {
-      const map = {N:0,NNE:22.5,NE:45,ENE:67.5,E:90,ESE:112.5,SE:135,SSE:157.5,
-                   S:180,SSW:202.5,SW:225,WSW:247.5,W:270,WNW:292.5,NW:315,NNW:337.5};
-      return map[dir] ?? null;
     },
   };
 }

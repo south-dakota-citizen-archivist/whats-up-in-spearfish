@@ -1,8 +1,9 @@
 {
-  "fetched_at": "2026-04-11T17:30:26.560154+00:00",
+  "fetched_at": "2026-04-12T16:36:23.097873+00:00",
   "lookback_days": 30,
   "records": [
     {
+      "objectid": 66600,
       "date": "2026-04-11",
       "species": "White-tailed Deer",
       "highway": "231",
@@ -11,9 +12,11 @@
       "comments": null,
       "contractor": "Chris Moeller",
       "lat": 44.175706,
-      "lon": -103.332661
+      "lon": -103.332661,
+      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/66600/attachments/9298"
     },
     {
+      "objectid": 66538,
       "date": "2026-04-10",
       "species": "White-tailed Deer",
       "highway": "I90",
@@ -22,9 +25,11 @@
       "comments": null,
       "contractor": "Tony Hanig",
       "lat": 44.445516,
-      "lon": -103.591619
+      "lon": -103.591619,
+      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/66538/attachments/9236"
     },
     {
+      "objectid": 66539,
       "date": "2026-04-10",
       "species": "White-tailed Deer",
       "highway": "I90",
@@ -33,9 +38,11 @@
       "comments": null,
       "contractor": "Tony Hanig",
       "lat": 44.477405,
-      "lon": -103.661147
+      "lon": -103.661147,
+      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/66539/attachments/9237"
     },
     {
+      "objectid": 66540,
       "date": "2026-04-10",
       "species": "White-tailed Deer",
       "highway": "I90",
@@ -44,9 +51,11 @@
       "comments": null,
       "contractor": "Tony Hanig",
       "lat": 44.491613,
-      "lon": -103.845893
+      "lon": -103.845893,
+      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/66540/attachments/9238"
     },
     {
+      "objectid": 66541,
       "date": "2026-04-10",
       "species": "White-tailed Deer",
       "highway": "I90",
@@ -55,9 +64,11 @@
       "comments": null,
       "contractor": "Tony Hanig",
       "lat": 44.282638,
-      "lon": -103.423931
+      "lon": -103.423931,
+      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/66541/attachments/9239"
     },
     {
+      "objectid": 66545,
       "date": "2026-04-10",
       "species": "Mule Deer",
       "highway": "I90",
@@ -66,9 +77,11 @@
       "comments": null,
       "contractor": "Tony Hanig",
       "lat": 44.117911,
-      "lon": -103.009657
+      "lon": -103.009657,
+      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/66545/attachments/9243"
     },
     {
+      "objectid": 66591,
       "date": "2026-04-10",
       "species": "White-tailed Deer",
       "highway": "16",
@@ -77,9 +90,11 @@
       "comments": null,
       "contractor": "Chris Moeller",
       "lat": 43.774898,
-      "lon": -103.607777
+      "lon": -103.607777,
+      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/66591/attachments/9289"
     },
     {
+      "objectid": 66592,
       "date": "2026-04-10",
       "species": "White-tailed Deer",
       "highway": "79",
@@ -88,9 +103,11 @@
       "comments": null,
       "contractor": "Chris Moeller",
       "lat": 43.488924,
-      "lon": -103.332851
+      "lon": -103.332851,
+      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/66592/attachments/9290"
     },
     {
+      "objectid": 66593,
       "date": "2026-04-10",
       "species": "Mule Deer",
       "highway": "79",
@@ -99,9 +116,11 @@
       "comments": null,
       "contractor": "Chris Moeller",
       "lat": 43.701916,
-      "lon": -103.235037
+      "lon": -103.235037,
+      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/66593/attachments/9291"
     },
     {
+      "objectid": 66594,
       "date": "2026-04-10",
       "species": "White-tailed Deer",
       "highway": "36",
@@ -110,9 +129,11 @@
       "comments": null,
       "contractor": "Chris Moeller",
       "lat": 43.825286,
-      "lon": -103.215978
+      "lon": -103.215978,
+      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/66594/attachments/9292"
     },
     {
+      "objectid": 66595,
       "date": "2026-04-10",
       "species": "White-tailed Deer",
       "highway": "",
@@ -121,9 +142,11 @@
       "comments": "Hwy 16 mm66.2",
       "contractor": "Chris Moeller",
       "lat": 44.047447,
-      "lon": -103.242588
+      "lon": -103.242588,
+      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/66595/attachments/9293"
     },
     {
+      "objectid": 66596,
       "date": "2026-04-10",
       "species": "White-tailed Deer",
       "highway": "",
@@ -132,9 +155,11 @@
       "comments": "2121 W MAIN ST",
       "contractor": "Chris Moeller",
       "lat": 44.081385,
-      "lon": -103.255277
+      "lon": -103.255277,
+      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/66596/attachments/9294"
     },
     {
+      "objectid": 66597,
       "date": "2026-04-10",
       "species": "White-tailed Deer",
       "highway": "",
@@ -143,9 +168,11 @@
       "comments": "JACKSON/ 1 ST AVE",
       "contractor": "Chris Moeller",
       "lat": 44.065672,
-      "lon": -103.273907
+      "lon": -103.273907,
+      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/66597/attachments/9295"
     },
     {
+      "objectid": 66598,
       "date": "2026-04-10",
       "species": "White-tailed Deer",
       "highway": "",
@@ -154,9 +181,11 @@
       "comments": "4514 LOOKOUT MOUNTAIN RD",
       "contractor": "Chris Moeller",
       "lat": 44.040477,
-      "lon": -103.259064
+      "lon": -103.259064,
+      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/66598/attachments/9296"
     },
     {
+      "objectid": 66599,
       "date": "2026-04-10",
       "species": "White-tailed Deer",
       "highway": "",
@@ -165,9 +194,11 @@
       "comments": "4518 Buckhorn Dr",
       "contractor": "Chris Moeller",
       "lat": 44.038448,
-      "lon": -103.264453
+      "lon": -103.264453,
+      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/66599/attachments/9297"
     },
     {
+      "objectid": 66581,
       "date": "2026-04-08",
       "species": "White-tailed Deer",
       "highway": "",
@@ -176,9 +207,11 @@
       "comments": "Hwy 40",
       "contractor": "Chris Moeller",
       "lat": 43.834522,
-      "lon": -103.159799
+      "lon": -103.159799,
+      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/66581/attachments/9279"
     },
     {
+      "objectid": 66582,
       "date": "2026-04-08",
       "species": "White-tailed Deer",
       "highway": "385",
@@ -187,9 +220,11 @@
       "comments": null,
       "contractor": "Chris Moeller",
       "lat": 43.61926,
-      "lon": -103.593403
+      "lon": -103.593403,
+      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/66582/attachments/9280"
     },
     {
+      "objectid": 66583,
       "date": "2026-04-08",
       "species": "White-tailed Deer",
       "highway": "16",
@@ -198,9 +233,11 @@
       "comments": null,
       "contractor": "Chris Moeller",
       "lat": 43.895456,
-      "lon": -103.591716
+      "lon": -103.591716,
+      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/66583/attachments/9281"
     },
     {
+      "objectid": 66584,
       "date": "2026-04-08",
       "species": "White-tailed Deer",
       "highway": "16",
@@ -209,9 +246,11 @@
       "comments": null,
       "contractor": "Chris Moeller",
       "lat": 43.939408,
-      "lon": -103.380681
+      "lon": -103.380681,
+      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/66584/attachments/9282"
     },
     {
+      "objectid": 66585,
       "date": "2026-04-08",
       "species": "White-tailed Deer",
       "highway": "16",
@@ -220,9 +259,11 @@
       "comments": null,
       "contractor": "Chris Moeller",
       "lat": 43.950364,
-      "lon": -103.366261
+      "lon": -103.366261,
+      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/66585/attachments/9283"
     },
     {
+      "objectid": 66586,
       "date": "2026-04-08",
       "species": "White-tailed Deer",
       "highway": "",
@@ -231,9 +272,11 @@
       "comments": "3920 Moon Meadows Dr",
       "contractor": "Chris Moeller",
       "lat": 44.009327,
-      "lon": -103.281175
+      "lon": -103.281175,
+      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/66586/attachments/9284"
     },
     {
+      "objectid": 66587,
       "date": "2026-04-08",
       "species": "White-tailed Deer",
       "highway": "",
@@ -242,9 +285,11 @@
       "comments": "5112 Meadowlark Dr",
       "contractor": "Chris Moeller",
       "lat": 44.014795,
-      "lon": -103.30396
+      "lon": -103.30396,
+      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/66587/attachments/9285"
     },
     {
+      "objectid": 66588,
       "date": "2026-04-08",
       "species": "Mule Deer",
       "highway": "",
@@ -253,9 +298,11 @@
       "comments": "Hwy 16b mm66.3",
       "contractor": "Chris Moeller",
       "lat": 44.031103,
-      "lon": -103.217159
+      "lon": -103.217159,
+      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/66588/attachments/9286"
     },
     {
+      "objectid": 66589,
       "date": "2026-04-08",
       "species": "White-tailed Deer",
       "highway": "",
@@ -264,9 +311,11 @@
       "comments": "14673 Country Road",
       "contractor": "Chris Moeller",
       "lat": 44.12557,
-      "lon": -103.117414
+      "lon": -103.117414,
+      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/66589/attachments/9287"
     },
     {
+      "objectid": 66590,
       "date": "2026-04-08",
       "species": "White-tailed Deer",
       "highway": "",
@@ -275,9 +324,11 @@
       "comments": "14673 Country Road",
       "contractor": "Chris Moeller",
       "lat": 44.12557,
-      "lon": -103.11635
+      "lon": -103.11635,
+      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/66590/attachments/9288"
     },
     {
+      "objectid": 66526,
       "date": "2026-04-07",
       "species": "White-tailed Deer",
       "highway": "I90",
@@ -286,9 +337,11 @@
       "comments": null,
       "contractor": "Tony Hanig",
       "lat": 44.394994,
-      "lon": -103.502544
+      "lon": -103.502544,
+      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/66526/attachments/9224"
     },
     {
+      "objectid": 66527,
       "date": "2026-04-07",
       "species": "White-tailed Deer",
       "highway": "I90",
@@ -297,9 +350,11 @@
       "comments": null,
       "contractor": "Tony Hanig",
       "lat": 44.464939,
-      "lon": -103.628476
+      "lon": -103.628476,
+      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/66527/attachments/9225"
     },
     {
+      "objectid": 66528,
       "date": "2026-04-07",
       "species": "White-tailed Deer",
       "highway": "I90",
@@ -308,9 +363,11 @@
       "comments": null,
       "contractor": "Tony Hanig",
       "lat": 44.519878,
-      "lon": -103.863872
+      "lon": -103.863872,
+      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/66528/attachments/9226"
     },
     {
+      "objectid": 66529,
       "date": "2026-04-07",
       "species": "White-tailed Deer",
       "highway": "I90",
@@ -319,9 +376,11 @@
       "comments": null,
       "contractor": "Tony Hanig",
       "lat": 44.39617,
-      "lon": -103.508033
+      "lon": -103.508033,
+      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/66529/attachments/9227"
     },
     {
+      "objectid": 66568,
       "date": "2026-04-06",
       "species": "Small Animal",
       "highway": "44",
@@ -330,9 +389,11 @@
       "comments": null,
       "contractor": "Chris Moeller",
       "lat": 44.021527,
-      "lon": -103.062302
+      "lon": -103.062302,
+      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/66568/attachments/9266"
     },
     {
+      "objectid": 66569,
       "date": "2026-04-06",
       "species": "White-tailed Deer",
       "highway": "",
@@ -341,9 +402,11 @@
       "comments": "120 CLEVELAND ST",
       "contractor": "Chris Moeller",
       "lat": 44.061308,
-      "lon": -103.220262
+      "lon": -103.220262,
+      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/66569/attachments/9267"
     },
     {
+      "objectid": 66570,
       "date": "2026-04-06",
       "species": "White-tailed Deer",
       "highway": "",
@@ -352,9 +415,11 @@
       "comments": "4577 WINESTONE LN",
       "contractor": "Chris Moeller",
       "lat": 44.038552,
-      "lon": -103.282024
+      "lon": -103.282024,
+      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/66570/attachments/9268"
     },
     {
+      "objectid": 66571,
       "date": "2026-04-06",
       "species": "White-tailed Deer",
       "highway": "",
@@ -363,9 +428,11 @@
       "comments": "8617 Highland Hills road",
       "contractor": "Chris Moeller",
       "lat": 44.00089,
-      "lon": -103.295524
+      "lon": -103.295524,
+      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/66571/attachments/9269"
     },
     {
+      "objectid": 66572,
       "date": "2026-04-06",
       "species": "White-tailed Deer",
       "highway": "",
@@ -374,9 +441,11 @@
       "comments": "8989 Sheridan lake rd",
       "contractor": "Chris Moeller",
       "lat": 44.008725,
-      "lon": -103.327121
+      "lon": -103.327121,
+      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/66572/attachments/9270"
     },
     {
+      "objectid": 66573,
       "date": "2026-04-06",
       "species": "White-tailed Deer",
       "highway": "",
@@ -385,9 +454,11 @@
       "comments": "Aurora ave/ Colorado Blvd",
       "contractor": "Chris Moeller",
       "lat": 44.474226,
-      "lon": -103.751721
+      "lon": -103.751721,
+      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/66573/attachments/9271"
     },
     {
+      "objectid": 66574,
       "date": "2026-04-06",
       "species": "White-tailed Deer",
       "highway": "",
@@ -396,9 +467,11 @@
       "comments": "e Colorado blvd and stone gate dr",
       "contractor": "Chris Moeller",
       "lat": 44.480334,
-      "lon": -103.835573
+      "lon": -103.835573,
+      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/66574/attachments/9272"
     },
     {
+      "objectid": 66575,
       "date": "2026-04-06",
       "species": "White-tailed Deer",
       "highway": "",
@@ -407,9 +480,11 @@
       "comments": "Deer lot",
       "contractor": "Chris Moeller",
       "lat": 44.539794,
-      "lon": -103.861547
+      "lon": -103.861547,
+      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/66575/attachments/9273"
     },
     {
+      "objectid": 66576,
       "date": "2026-04-06",
       "species": "White-tailed Deer",
       "highway": "",
@@ -418,9 +493,11 @@
       "comments": "Deer lot",
       "contractor": "Chris Moeller",
       "lat": 44.539795,
-      "lon": -103.861543
+      "lon": -103.861543,
+      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/66576/attachments/9274"
     },
     {
+      "objectid": 66577,
       "date": "2026-04-06",
       "species": "White-tailed Deer",
       "highway": "85",
@@ -429,9 +506,11 @@
       "comments": null,
       "contractor": "Chris Moeller",
       "lat": 44.535658,
-      "lon": -103.860603
+      "lon": -103.860603,
+      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/66577/attachments/9275"
     },
     {
+      "objectid": 66578,
       "date": "2026-04-06",
       "species": "White-tailed Deer",
       "highway": "14A",
@@ -440,9 +519,11 @@
       "comments": null,
       "contractor": "Chris Moeller",
       "lat": 44.330007,
-      "lon": -103.795408
+      "lon": -103.795408,
+      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/66578/attachments/9276"
     },
     {
+      "objectid": 66579,
       "date": "2026-04-06",
       "species": "White-tailed Deer",
       "highway": "14A",
@@ -451,9 +532,11 @@
       "comments": null,
       "contractor": "Chris Moeller",
       "lat": 44.329424,
-      "lon": -103.797536
+      "lon": -103.797536,
+      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/66579/attachments/9277"
     },
     {
+      "objectid": 66580,
       "date": "2026-04-06",
       "species": "White-tailed Deer",
       "highway": "14A",
@@ -462,9 +545,11 @@
       "comments": null,
       "contractor": "Chris Moeller",
       "lat": 44.391126,
-      "lon": -103.617955
+      "lon": -103.617955,
+      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/66580/attachments/9278"
     },
     {
+      "objectid": 66551,
       "date": "2026-04-03",
       "species": "Mule Deer",
       "highway": "79",
@@ -473,9 +558,11 @@
       "comments": null,
       "contractor": "Chris Moeller",
       "lat": 43.731068,
-      "lon": -103.219025
+      "lon": -103.219025,
+      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/66551/attachments/9249"
     },
     {
+      "objectid": 66552,
       "date": "2026-04-03",
       "species": "Mule Deer",
       "highway": "",
@@ -484,9 +571,11 @@
       "comments": "RADAR HILL RD AND OLD CAVALRY RD",
       "contractor": "Chris Moeller",
       "lat": 44.09053,
-      "lon": -103.091281
+      "lon": -103.091281,
+      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/66552/attachments/9250"
     },
     {
+      "objectid": 66553,
       "date": "2026-04-03",
       "species": "White-tailed Deer",
       "highway": "",
@@ -495,9 +584,11 @@
       "comments": "23639 Wilderness Canyon Rd",
       "contractor": "Chris Moeller",
       "lat": 43.978612,
-      "lon": -103.323928
+      "lon": -103.323928,
+      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/66553/attachments/9251"
     },
     {
+      "objectid": 66554,
       "date": "2026-04-03",
       "species": "Mule Deer",
       "highway": "16",
@@ -506,9 +597,11 @@
       "comments": null,
       "contractor": "Chris Moeller",
       "lat": 43.974838,
-      "lon": -103.295265
+      "lon": -103.295265,
+      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/66554/attachments/9252"
     },
     {
+      "objectid": 66555,
       "date": "2026-04-03",
       "species": "White-tailed Deer",
       "highway": "",
@@ -517,9 +610,11 @@
       "comments": "SLR/Okpealuk st",
       "contractor": "Chris Moeller",
       "lat": 44.010262,
-      "lon": -103.300577
+      "lon": -103.300577,
+      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/66555/attachments/9253"
     },
     {
+      "objectid": 66556,
       "date": "2026-04-03",
       "species": "Mule Deer",
       "highway": "",
@@ -528,9 +623,11 @@
       "comments": "5659 Una Del Dr",
       "contractor": "Chris Moeller",
       "lat": 44.028896,
-      "lon": -103.27614
+      "lon": -103.27614,
+      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/66556/attachments/9254"
     },
     {
+      "objectid": 66557,
       "date": "2026-04-03",
       "species": "Mule Deer",
       "highway": "",
@@ -539,9 +636,11 @@
       "comments": "Corral Dr/ severson st",
       "contractor": "Chris Moeller",
       "lat": 44.038746,
-      "lon": -103.274413
+      "lon": -103.274413,
+      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/66557/attachments/9255"
     },
     {
+      "objectid": 66558,
       "date": "2026-04-03",
       "species": "White-tailed Deer",
       "highway": "44",
@@ -550,9 +649,11 @@
       "comments": null,
       "contractor": "Chris Moeller",
       "lat": 44.065862,
-      "lon": -103.398522
+      "lon": -103.398522,
+      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/66558/attachments/9256"
     },
     {
+      "objectid": 66559,
       "date": "2026-04-03",
       "species": "White-tailed Deer",
       "highway": "385",
@@ -561,9 +662,11 @@
       "comments": null,
       "contractor": "Chris Moeller",
       "lat": 44.127567,
-      "lon": -103.547374
+      "lon": -103.547374,
+      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/66559/attachments/9257"
     },
     {
+      "objectid": 66560,
       "date": "2026-04-03",
       "species": "White-tailed Deer",
       "highway": "385",
@@ -572,9 +675,11 @@
       "comments": null,
       "contractor": "Chris Moeller",
       "lat": 44.351179,
-      "lon": -103.738177
+      "lon": -103.738177,
+      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/66560/attachments/9258"
     },
     {
+      "objectid": 66561,
       "date": "2026-04-03",
       "species": "White-tailed Deer",
       "highway": "",
@@ -583,9 +688,11 @@
       "comments": "117 S 5th St",
       "contractor": "Chris Moeller",
       "lat": 44.484166,
-      "lon": -103.858905
+      "lon": -103.858905,
+      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/66561/attachments/9259"
     },
     {
+      "objectid": 66562,
       "date": "2026-04-03",
       "species": "White-tailed Deer",
       "highway": "",
@@ -594,9 +701,11 @@
       "comments": "McGuigan rd/Hillsview rd",
       "contractor": "Chris Moeller",
       "lat": 44.503138,
-      "lon": -103.887227
+      "lon": -103.887227,
+      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/66562/attachments/9260"
     },
     {
+      "objectid": 66563,
       "date": "2026-04-03",
       "species": "White-tailed Deer",
       "highway": "",
@@ -605,9 +714,11 @@
       "comments": "106 W HWY 14",
       "contractor": "Chris Moeller",
       "lat": 44.518011,
-      "lon": -103.870219
+      "lon": -103.870219,
+      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/66563/attachments/9261"
     },
     {
+      "objectid": 66564,
       "date": "2026-04-03",
       "species": "White-tailed Deer",
       "highway": "",
@@ -616,9 +727,11 @@
       "comments": "Middle creek ln/Roundup St",
       "contractor": "Chris Moeller",
       "lat": 44.671499,
-      "lon": -103.861799
+      "lon": -103.861799,
+      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/66564/attachments/9262"
     },
     {
+      "objectid": 66565,
       "date": "2026-04-03",
       "species": "White-tailed Deer",
       "highway": "212",
@@ -627,9 +740,11 @@
       "comments": null,
       "contractor": "Chris Moeller",
       "lat": 44.691177,
-      "lon": -103.778716
+      "lon": -103.778716,
+      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/66565/attachments/9263"
     },
     {
+      "objectid": 66311,
       "date": "2026-03-31",
       "species": "White-tailed Deer",
       "highway": "I90",
@@ -638,9 +753,11 @@
       "comments": null,
       "contractor": "Tony Hanig",
       "lat": 44.387358,
-      "lon": -103.487403
+      "lon": -103.487403,
+      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/66311/attachments/9008"
     },
     {
+      "objectid": 66313,
       "date": "2026-03-31",
       "species": "Mule Deer",
       "highway": "I90",
@@ -649,9 +766,11 @@
       "comments": null,
       "contractor": "Tony Hanig",
       "lat": 44.545106,
-      "lon": -103.970078
+      "lon": -103.970078,
+      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/66313/attachments/9010"
     },
     {
+      "objectid": 66341,
       "date": "2026-03-31",
       "species": "White-tailed Deer",
       "highway": "",
@@ -660,9 +779,11 @@
       "comments": "Steele Ave/ E main st n",
       "contractor": "Chris Moeller",
       "lat": 44.078622,
-      "lon": -103.205048
+      "lon": -103.205048,
+      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/66341/attachments/9039"
     },
     {
+      "objectid": 66342,
       "date": "2026-03-31",
       "species": "White-tailed Deer",
       "highway": "",
@@ -671,9 +792,11 @@
       "comments": "2506 Jackson blvd",
       "contractor": "Chris Moeller",
       "lat": 44.070306,
-      "lon": -103.261785
+      "lon": -103.261785,
+      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/66342/attachments/9040"
     },
     {
+      "objectid": 66343,
       "date": "2026-03-31",
       "species": "White-tailed Deer",
       "highway": "",
@@ -682,9 +805,11 @@
       "comments": "MOUNT RUSHMORE RD\\SAINT ANDREW ST",
       "contractor": "Chris Moeller",
       "lat": 44.06847,
-      "lon": -103.232824
+      "lon": -103.232824,
+      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/66343/attachments/9041"
     },
     {
+      "objectid": 66344,
       "date": "2026-03-31",
       "species": "Mule Deer",
       "highway": "",
@@ -693,9 +818,11 @@
       "comments": "3322 Hogan Ct",
       "contractor": "Chris Moeller",
       "lat": 44.054525,
-      "lon": -103.27356
+      "lon": -103.27356,
+      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/66344/attachments/9042"
     },
     {
+      "objectid": 66345,
       "date": "2026-03-31",
       "species": "White-tailed Deer",
       "highway": "",
@@ -704,9 +831,11 @@
       "comments": "N Emerald Ridge Rd/Nemo Road",
       "contractor": "Chris Moeller",
       "lat": 44.114396,
-      "lon": -103.362774
+      "lon": -103.362774,
+      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/66345/attachments/9043"
     },
     {
+      "objectid": 66346,
       "date": "2026-03-31",
       "species": "White-tailed Deer",
       "highway": "14A",
@@ -715,9 +844,11 @@
       "comments": null,
       "contractor": "Chris Moeller",
       "lat": 44.39148,
-      "lon": -103.649887
+      "lon": -103.649887,
+      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/66346/attachments/9044"
     },
     {
+      "objectid": 66347,
       "date": "2026-03-31",
       "species": "White-tailed Deer",
       "highway": "14A",
@@ -726,9 +857,11 @@
       "comments": null,
       "contractor": "Chris Moeller",
       "lat": 44.389519,
-      "lon": -103.666158
+      "lon": -103.666158,
+      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/66347/attachments/9045"
     },
     {
+      "objectid": 66348,
       "date": "2026-03-31",
       "species": "Small Animal",
       "highway": "14A",
@@ -737,9 +870,11 @@
       "comments": null,
       "contractor": "Chris Moeller",
       "lat": 44.38408,
-      "lon": -103.688695
+      "lon": -103.688695,
+      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/66348/attachments/9046"
     },
     {
+      "objectid": 66349,
       "date": "2026-03-31",
       "species": "Small Animal",
       "highway": "85",
@@ -748,9 +883,11 @@
       "comments": null,
       "contractor": "Chris Moeller",
       "lat": 44.409817,
-      "lon": -103.716752
+      "lon": -103.716752,
+      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/66349/attachments/9047"
     },
     {
+      "objectid": 66350,
       "date": "2026-03-31",
       "species": "White-tailed Deer",
       "highway": "85",
@@ -759,9 +896,11 @@
       "comments": null,
       "contractor": "Chris Moeller",
       "lat": 44.430059,
-      "lon": -103.715145
+      "lon": -103.715145,
+      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/66350/attachments/9048"
     },
     {
+      "objectid": 66351,
       "date": "2026-03-31",
       "species": "White-tailed Deer",
       "highway": "",
@@ -770,9 +909,11 @@
       "comments": "3550 E Colorado blvd",
       "contractor": "Chris Moeller",
       "lat": 44.47514,
-      "lon": -103.797748
+      "lon": -103.797748,
+      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/66351/attachments/9049"
     },
     {
+      "objectid": 66352,
       "date": "2026-03-31",
       "species": "White-tailed Deer",
       "highway": "",
@@ -781,9 +922,11 @@
       "comments": "224 PINE CONE AVE",
       "contractor": "Chris Moeller",
       "lat": 44.470433,
-      "lon": -103.865522
+      "lon": -103.865522,
+      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/66352/attachments/9050"
     },
     {
+      "objectid": 66353,
       "date": "2026-03-31",
       "species": "White-tailed Deer",
       "highway": "",
@@ -792,9 +935,11 @@
       "comments": "1450 mineral pl",
       "contractor": "Chris Moeller",
       "lat": 44.498035,
-      "lon": -103.8953
+      "lon": -103.8953,
+      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/66353/attachments/9051"
     },
     {
+      "objectid": 66354,
       "date": "2026-03-31",
       "species": "White-tailed Deer",
       "highway": "85",
@@ -803,9 +948,11 @@
       "comments": null,
       "contractor": "Chris Moeller",
       "lat": 44.624139,
-      "lon": -103.859989
+      "lon": -103.859989,
+      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/66354/attachments/9052"
     },
     {
+      "objectid": 66355,
       "date": "2026-03-31",
       "species": "Small Animal",
       "highway": "85",
@@ -814,9 +961,11 @@
       "comments": null,
       "contractor": "Chris Moeller",
       "lat": 44.619822,
-      "lon": -103.858106
+      "lon": -103.858106,
+      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/66355/attachments/9053"
     },
     {
+      "objectid": 66356,
       "date": "2026-03-31",
       "species": "Small Animal",
       "highway": "212",
@@ -825,9 +974,11 @@
       "comments": null,
       "contractor": "Chris Moeller",
       "lat": 44.67936,
-      "lon": -103.428425
+      "lon": -103.428425,
+      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/66356/attachments/9054"
     },
     {
+      "objectid": 66357,
       "date": "2026-03-31",
       "species": "White-tailed Deer",
       "highway": "212",
@@ -836,9 +987,11 @@
       "comments": null,
       "contractor": "Chris Moeller",
       "lat": 44.700608,
-      "lon": -103.42559
+      "lon": -103.42559,
+      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/66357/attachments/9055"
     },
     {
+      "objectid": 66358,
       "date": "2026-03-31",
       "species": "Small Animal",
       "highway": "212",
@@ -847,9 +1000,11 @@
       "comments": null,
       "contractor": "Chris Moeller",
       "lat": 44.676722,
-      "lon": -103.521828
+      "lon": -103.521828,
+      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/66358/attachments/9056"
     },
     {
+      "objectid": 66359,
       "date": "2026-03-31",
       "species": "Mule Deer",
       "highway": "34",
@@ -858,9 +1013,11 @@
       "comments": null,
       "contractor": "Chris Moeller",
       "lat": 44.60154,
-      "lon": -103.777271
+      "lon": -103.777271,
+      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/66359/attachments/9057"
     },
     {
+      "objectid": 66360,
       "date": "2026-03-31",
       "species": "White-tailed Deer",
       "highway": "34",
@@ -869,9 +1026,11 @@
       "comments": null,
       "contractor": "Chris Moeller",
       "lat": 44.560093,
-      "lon": -103.749604
+      "lon": -103.749604,
+      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/66360/attachments/9058"
     },
     {
+      "objectid": 66361,
       "date": "2026-03-31",
       "species": "Small Animal",
       "highway": "34",
@@ -880,9 +1039,11 @@
       "comments": null,
       "contractor": "Chris Moeller",
       "lat": 44.514039,
-      "lon": -103.684567
+      "lon": -103.684567,
+      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/66361/attachments/9059"
     },
     {
+      "objectid": 66362,
       "date": "2026-03-31",
       "species": "White-tailed Deer",
       "highway": "34",
@@ -891,9 +1052,11 @@
       "comments": null,
       "contractor": "Chris Moeller",
       "lat": 44.488992,
-      "lon": -103.659464
+      "lon": -103.659464,
+      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/66362/attachments/9060"
     },
     {
+      "objectid": 66363,
       "date": "2026-03-31",
       "species": "Small Animal",
       "highway": "34",
@@ -902,9 +1065,11 @@
       "comments": null,
       "contractor": "Chris Moeller",
       "lat": 44.485761,
-      "lon": -103.650912
+      "lon": -103.650912,
+      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/66363/attachments/9061"
     },
     {
+      "objectid": 66255,
       "date": "2026-03-30",
       "species": "White-tailed Deer",
       "highway": "89",
@@ -913,9 +1078,11 @@
       "comments": null,
       "contractor": "Chris Moeller",
       "lat": 43.514339,
-      "lon": -103.662559
+      "lon": -103.662559,
+      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/66255/attachments/8952"
     },
     {
+      "objectid": 66256,
       "date": "2026-03-30",
       "species": "Small Animal",
       "highway": "18",
@@ -924,9 +1091,11 @@
       "comments": null,
       "contractor": "Chris Moeller",
       "lat": 43.340746,
-      "lon": -103.379914
+      "lon": -103.379914,
+      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/66256/attachments/8953"
     },
     {
+      "objectid": 66257,
       "date": "2026-03-30",
       "species": "Small Animal",
       "highway": "18",
@@ -935,9 +1104,11 @@
       "comments": null,
       "contractor": "Chris Moeller",
       "lat": 43.336489,
-      "lon": -103.37531
+      "lon": -103.37531,
+      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/66257/attachments/8954"
     },
     {
+      "objectid": 66258,
       "date": "2026-03-30",
       "species": "White-tailed Deer",
       "highway": "18",
@@ -946,9 +1117,11 @@
       "comments": null,
       "contractor": "Chris Moeller",
       "lat": 43.316543,
-      "lon": -103.352695
+      "lon": -103.352695,
+      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/66258/attachments/8955"
     },
     {
+      "objectid": 66265,
       "date": "2026-03-30",
       "species": "Mule Deer",
       "highway": "18",
@@ -957,9 +1130,11 @@
       "comments": null,
       "contractor": "Chris Moeller",
       "lat": 43.360803,
-      "lon": -103.396073
+      "lon": -103.396073,
+      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/66265/attachments/8962"
     },
     {
+      "objectid": 66266,
       "date": "2026-03-30",
       "species": "Small Animal",
       "highway": "18",
@@ -968,9 +1143,11 @@
       "comments": null,
       "contractor": "Chris Moeller",
       "lat": 43.392012,
-      "lon": -103.40194
+      "lon": -103.40194,
+      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/66266/attachments/8963"
     },
     {
+      "objectid": 66267,
       "date": "2026-03-30",
       "species": "Small Animal",
       "highway": "79",
@@ -979,9 +1156,11 @@
       "comments": null,
       "contractor": "Chris Moeller",
       "lat": 43.461391,
-      "lon": -103.349832
+      "lon": -103.349832,
+      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/66267/attachments/8964"
     },
     {
+      "objectid": 66153,
       "date": "2026-03-27",
       "species": "White-tailed Deer",
       "highway": "I90",
@@ -990,9 +1169,11 @@
       "comments": null,
       "contractor": "Tony Hanig",
       "lat": 44.459947,
-      "lon": -103.617471
+      "lon": -103.617471,
+      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/66153/attachments/8850"
     },
     {
+      "objectid": 66154,
       "date": "2026-03-27",
       "species": "White-tailed Deer",
       "highway": "I90",
@@ -1001,9 +1182,11 @@
       "comments": null,
       "contractor": "Tony Hanig",
       "lat": 44.477506,
-      "lon": -103.666055
+      "lon": -103.666055,
+      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/66154/attachments/8851"
     },
     {
+      "objectid": 66236,
       "date": "2026-03-27",
       "species": "White-tailed Deer",
       "highway": "385",
@@ -1012,9 +1195,11 @@
       "comments": null,
       "contractor": "Chris Moeller",
       "lat": 43.633025,
-      "lon": -103.599875
+      "lon": -103.599875,
+      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/66236/attachments/8933"
     },
     {
+      "objectid": 66237,
       "date": "2026-03-27",
       "species": "Mule Deer",
       "highway": "385",
@@ -1023,9 +1208,11 @@
       "comments": null,
       "contractor": "Chris Moeller",
       "lat": 43.463672,
-      "lon": -103.471987
+      "lon": -103.471987,
+      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/66237/attachments/8934"
     },
     {
+      "objectid": 66238,
       "date": "2026-03-27",
       "species": "White-tailed Deer",
       "highway": "79",
@@ -1034,9 +1221,11 @@
       "comments": null,
       "contractor": "Chris Moeller",
       "lat": 43.700961,
-      "lon": -103.239836
+      "lon": -103.239836,
+      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/66238/attachments/8935"
     },
     {
+      "objectid": 66239,
       "date": "2026-03-27",
       "species": "White-tailed Deer",
       "highway": "",
@@ -1045,9 +1234,11 @@
       "comments": "6927 Dunsmore Rd",
       "contractor": "Chris Moeller",
       "lat": 44.017191,
-      "lon": -103.292249
+      "lon": -103.292249,
+      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/66239/attachments/8936"
     },
     {
+      "objectid": 66240,
       "date": "2026-03-27",
       "species": "White-tailed Deer",
       "highway": "",
@@ -1056,9 +1247,11 @@
       "comments": "6927 Dunsmore Rd",
       "contractor": "Chris Moeller",
       "lat": 44.017186,
-      "lon": -103.292248
+      "lon": -103.292248,
+      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/66240/attachments/8937"
     },
     {
+      "objectid": 66241,
       "date": "2026-03-27",
       "species": "Mule Deer",
       "highway": "",
@@ -1067,9 +1260,11 @@
       "comments": "2718 LAWNDALE DR",
       "contractor": "Chris Moeller",
       "lat": 44.068536,
-      "lon": -103.264619
+      "lon": -103.264619,
+      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/66241/attachments/8938"
     },
     {
+      "objectid": 66242,
       "date": "2026-03-27",
       "species": "Mule Deer",
       "highway": "",
@@ -1078,9 +1273,11 @@
       "comments": "1920 Twin Elms Rapid City",
       "contractor": "Chris Moeller",
       "lat": 44.066651,
-      "lon": -103.280711
+      "lon": -103.280711,
+      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/66242/attachments/8939"
     },
     {
+      "objectid": 66243,
       "date": "2026-03-27",
       "species": "Small Animal",
       "highway": "",
@@ -1089,9 +1286,11 @@
       "comments": "Chapel Ln/ Shore Dr",
       "contractor": "Chris Moeller",
       "lat": 44.05872,
-      "lon": -103.294816
+      "lon": -103.294816,
+      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/66243/attachments/8940"
     },
     {
+      "objectid": 66244,
       "date": "2026-03-27",
       "species": "White-tailed Deer",
       "highway": "44",
@@ -1100,9 +1299,11 @@
       "comments": null,
       "contractor": "Chris Moeller",
       "lat": 44.065671,
-      "lon": -103.382487
+      "lon": -103.382487,
+      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/66244/attachments/8941"
     },
     {
+      "objectid": 66245,
       "date": "2026-03-27",
       "species": "White-tailed Deer",
       "highway": "44",
@@ -1111,9 +1312,11 @@
       "comments": null,
       "contractor": "Chris Moeller",
       "lat": 44.087147,
-      "lon": -103.448725
+      "lon": -103.448725,
+      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/66245/attachments/8942"
     },
     {
+      "objectid": 66246,
       "date": "2026-03-27",
       "species": "White-tailed Deer",
       "highway": "",
@@ -1122,9 +1325,11 @@
       "comments": "6626 nemo rd",
       "contractor": "Chris Moeller",
       "lat": 44.092059,
-      "lon": -103.329401
+      "lon": -103.329401,
+      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/66246/attachments/8943"
     },
     {
+      "objectid": 66247,
       "date": "2026-03-27",
       "species": "White-tailed Deer",
       "highway": "",
@@ -1133,9 +1338,11 @@
       "comments": "Nemo road/schroeder rd",
       "contractor": "Chris Moeller",
       "lat": 44.092891,
-      "lon": -103.34944
+      "lon": -103.34944,
+      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/66247/attachments/8944"
     },
     {
+      "objectid": 66248,
       "date": "2026-03-27",
       "species": "White-tailed Deer",
       "highway": "",
@@ -1144,9 +1351,11 @@
       "comments": "2460 deadwood avenue",
       "contractor": "Chris Moeller",
       "lat": 44.106513,
-      "lon": -103.272122
+      "lon": -103.272122,
+      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/66248/attachments/8945"
     },
     {
+      "objectid": 66249,
       "date": "2026-03-27",
       "species": "White-tailed Deer",
       "highway": "",
@@ -1155,9 +1364,11 @@
       "comments": "COUNTRY RD AND WEST GATE RD",
       "contractor": "Chris Moeller",
       "lat": 44.12564,
-      "lon": -103.110776
+      "lon": -103.110776,
+      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/66249/attachments/8946"
     },
     {
+      "objectid": 66222,
       "date": "2026-03-26",
       "species": "White-tailed Deer",
       "highway": "34",
@@ -1166,9 +1377,11 @@
       "comments": null,
       "contractor": "Chris Moeller",
       "lat": 44.518044,
-      "lon": -103.689154
+      "lon": -103.689154,
+      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/66222/attachments/8919"
     },
     {
+      "objectid": 66223,
       "date": "2026-03-26",
       "species": "White-tailed Deer",
       "highway": "34",
@@ -1177,9 +1390,11 @@
       "comments": null,
       "contractor": "Chris Moeller",
       "lat": 44.565739,
-      "lon": -103.762082
+      "lon": -103.762082,
+      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/66223/attachments/8920"
     },
     {
+      "objectid": 66224,
       "date": "2026-03-26",
       "species": "White-tailed Deer",
       "highway": "34",
@@ -1188,9 +1403,11 @@
       "comments": null,
       "contractor": "Chris Moeller",
       "lat": 44.62544,
-      "lon": -103.827457
+      "lon": -103.827457,
+      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/66224/attachments/8921"
     },
     {
+      "objectid": 66225,
       "date": "2026-03-26",
       "species": "White-tailed Deer",
       "highway": "",
@@ -1199,9 +1416,11 @@
       "comments": "Old Belle Rd and Camp Comfort Rd",
       "contractor": "Chris Moeller",
       "lat": 44.541611,
-      "lon": -103.89003
+      "lon": -103.89003,
+      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/66225/attachments/8922"
     },
     {
+      "objectid": 66226,
       "date": "2026-03-26",
       "species": "White-tailed Deer",
       "highway": "",
@@ -1210,9 +1429,11 @@
       "comments": "2110 Meadow Lane",
       "contractor": "Chris Moeller",
       "lat": 44.505829,
-      "lon": -103.906307
+      "lon": -103.906307,
+      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/66226/attachments/8923"
     },
     {
+      "objectid": 66227,
       "date": "2026-03-26",
       "species": "White-tailed Deer",
       "highway": "",
@@ -1221,9 +1442,11 @@
       "comments": "Hillsview rd/ S Canyon St",
       "contractor": "Chris Moeller",
       "lat": 44.503097,
-      "lon": -103.867802
+      "lon": -103.867802,
+      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/66227/attachments/8924"
     },
     {
+      "objectid": 66228,
       "date": "2026-03-26",
       "species": "White-tailed Deer",
       "highway": "",
@@ -1232,9 +1455,11 @@
       "comments": "W. Dakota and 5th",
       "contractor": "Chris Moeller",
       "lat": 44.484846,
-      "lon": -103.857652
+      "lon": -103.857652,
+      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/66228/attachments/8925"
     },
     {
+      "objectid": 66229,
       "date": "2026-03-26",
       "species": "White-tailed Deer",
       "highway": "",
@@ -1243,9 +1468,11 @@
       "comments": "153 PINE CONE AVE",
       "contractor": "Chris Moeller",
       "lat": 44.473948,
-      "lon": -103.860562
+      "lon": -103.860562,
+      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/66229/attachments/8926"
     },
     {
+      "objectid": 66230,
       "date": "2026-03-26",
       "species": "White-tailed Deer",
       "highway": "",
@@ -1254,9 +1481,11 @@
       "comments": "2815 Bald Eagle Rd",
       "contractor": "Chris Moeller",
       "lat": 44.44419,
-      "lon": -103.809867
+      "lon": -103.809867,
+      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/66230/attachments/8927"
     },
     {
+      "objectid": 66231,
       "date": "2026-03-26",
       "species": "White-tailed Deer",
       "highway": "",
@@ -1265,9 +1494,11 @@
       "comments": "2330 Maitland rd",
       "contractor": "Chris Moeller",
       "lat": 44.449472,
-      "lon": -103.809098
+      "lon": -103.809098,
+      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/66231/attachments/8928"
     },
     {
+      "objectid": 66232,
       "date": "2026-03-26",
       "species": "White-tailed Deer",
       "highway": "231",
@@ -1276,9 +1507,11 @@
       "comments": null,
       "contractor": "Chris Moeller",
       "lat": 44.28915,
-      "lon": -103.428557
+      "lon": -103.428557,
+      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/66232/attachments/8929"
     },
     {
+      "objectid": 66233,
       "date": "2026-03-26",
       "species": "White-tailed Deer",
       "highway": "",
@@ -1287,9 +1520,11 @@
       "comments": "21673 Piedmont Meadows Rd",
       "contractor": "Chris Moeller",
       "lat": 44.258497,
-      "lon": -103.427165
+      "lon": -103.427165,
+      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/66233/attachments/8930"
     },
     {
+      "objectid": 66234,
       "date": "2026-03-26",
       "species": "White-tailed Deer",
       "highway": "",
@@ -1298,9 +1533,11 @@
       "comments": "6551 ANDERSON RD",
       "contractor": "Chris Moeller",
       "lat": 44.169236,
-      "lon": -103.326464
+      "lon": -103.326464,
+      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/66234/attachments/8931"
     },
     {
+      "objectid": 66235,
       "date": "2026-03-26",
       "species": "White-tailed Deer",
       "highway": "",
@@ -1309,9 +1546,11 @@
       "comments": "Quarry rd/Merritt Rd",
       "contractor": "Chris Moeller",
       "lat": 44.140154,
-      "lon": -103.311011
+      "lon": -103.311011,
+      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/66235/attachments/8932"
     },
     {
+      "objectid": 66104,
       "date": "2026-03-25",
       "species": "White-tailed Deer",
       "highway": "79",
@@ -1320,9 +1559,11 @@
       "comments": null,
       "contractor": "Chris Moeller",
       "lat": 44.006929,
-      "lon": -103.182696
+      "lon": -103.182696,
+      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/66104/attachments/8801"
     },
     {
+      "objectid": 66105,
       "date": "2026-03-25",
       "species": "Small Animal",
       "highway": "79",
@@ -1331,9 +1572,11 @@
       "comments": null,
       "contractor": "Chris Moeller",
       "lat": 43.974628,
-      "lon": -103.182369
+      "lon": -103.182369,
+      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/66105/attachments/8802"
     },
     {
+      "objectid": 66106,
       "date": "2026-03-25",
       "species": "White-tailed Deer",
       "highway": "",
@@ -1342,9 +1585,11 @@
       "comments": "Lower Spring Creek rd 500 yds off 79",
       "contractor": "Chris Moeller",
       "lat": 43.954296,
-      "lon": -103.180898
+      "lon": -103.180898,
+      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/66106/attachments/8803"
     },
     {
+      "objectid": 66107,
       "date": "2026-03-25",
       "species": "White-tailed Deer",
       "highway": "79",
@@ -1353,9 +1598,11 @@
       "comments": null,
       "contractor": "Chris Moeller",
       "lat": 43.831947,
-      "lon": -103.19934
+      "lon": -103.19934,
+      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/66107/attachments/8804"
     },
     {
+      "objectid": 66108,
       "date": "2026-03-25",
       "species": "Mule Deer",
       "highway": "79",
@@ -1364,9 +1611,11 @@
       "comments": null,
       "contractor": "Chris Moeller",
       "lat": 43.504806,
-      "lon": -103.330511
+      "lon": -103.330511,
+      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/66108/attachments/8805"
     },
     {
+      "objectid": 66109,
       "date": "2026-03-25",
       "species": "White-tailed Deer",
       "highway": "79",
@@ -1375,9 +1624,11 @@
       "comments": null,
       "contractor": "Chris Moeller",
       "lat": 43.4912,
-      "lon": -103.332765
+      "lon": -103.332765,
+      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/66109/attachments/8806"
     },
     {
+      "objectid": 66110,
       "date": "2026-03-25",
       "species": "Small Animal",
       "highway": "79",
@@ -1386,9 +1637,11 @@
       "comments": null,
       "contractor": "Chris Moeller",
       "lat": 43.403694,
-      "lon": -103.394677
+      "lon": -103.394677,
+      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/66110/attachments/8807"
     },
     {
+      "objectid": 66111,
       "date": "2026-03-25",
       "species": "White-tailed Deer",
       "highway": "16",
@@ -1397,9 +1650,11 @@
       "comments": null,
       "contractor": "Chris Moeller",
       "lat": 43.889872,
-      "lon": -103.589608
+      "lon": -103.589608,
+      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/66111/attachments/8808"
     },
     {
+      "objectid": 66112,
       "date": "2026-03-25",
       "species": "White-tailed Deer",
       "highway": "16",
@@ -1408,9 +1663,11 @@
       "comments": null,
       "contractor": "Chris Moeller",
       "lat": 43.893266,
-      "lon": -103.58912
+      "lon": -103.58912,
+      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/66112/attachments/8809"
     },
     {
+      "objectid": 66113,
       "date": "2026-03-25",
       "species": "White-tailed Deer",
       "highway": "16",
@@ -1419,9 +1676,11 @@
       "comments": null,
       "contractor": "Chris Moeller",
       "lat": 43.973254,
-      "lon": -103.312989
+      "lon": -103.312989,
+      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/66113/attachments/8810"
     },
     {
+      "objectid": 66051,
       "date": "2026-03-24",
       "species": "White-tailed Deer",
       "highway": "I90",
@@ -1430,9 +1689,11 @@
       "comments": null,
       "contractor": "Tony Hanig",
       "lat": 44.165072,
-      "lon": -103.310903
+      "lon": -103.310903,
+      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/66051/attachments/8746"
     },
     {
+      "objectid": 66053,
       "date": "2026-03-24",
       "species": "White-tailed Deer",
       "highway": "I90",
@@ -1441,9 +1702,11 @@
       "comments": null,
       "contractor": "Tony Hanig",
       "lat": 44.266779,
-      "lon": -103.413465
+      "lon": -103.413465,
+      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/66053/attachments/8748"
     },
     {
+      "objectid": 66057,
       "date": "2026-03-24",
       "species": "White-tailed Deer",
       "highway": "I90",
@@ -1452,9 +1715,11 @@
       "comments": null,
       "contractor": "Tony Hanig",
       "lat": 44.491105,
-      "lon": -103.845339
+      "lon": -103.845339,
+      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/66057/attachments/8752"
     },
     {
+      "objectid": 66059,
       "date": "2026-03-24",
       "species": "White-tailed Deer",
       "highway": "I90",
@@ -1463,9 +1728,11 @@
       "comments": null,
       "contractor": "Tony Hanig",
       "lat": 44.534634,
-      "lon": -103.951359
+      "lon": -103.951359,
+      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/66059/attachments/8754"
     },
     {
+      "objectid": 66079,
       "date": "2026-03-23",
       "species": "White-tailed Deer",
       "highway": "",
@@ -1474,9 +1741,11 @@
       "comments": "Spring Canyon Trl/SLR",
       "contractor": "Chris Moeller",
       "lat": 44.008204,
-      "lon": -103.317568
+      "lon": -103.317568,
+      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/66079/attachments/8776"
     },
     {
+      "objectid": 66080,
       "date": "2026-03-23",
       "species": "Small Animal",
       "highway": "",
@@ -1485,9 +1754,11 @@
       "comments": "Hwy 16b mm 70",
       "contractor": "Chris Moeller",
       "lat": 44.059674,
-      "lon": -103.164853
+      "lon": -103.164853,
+      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/66080/attachments/8777"
     },
     {
+      "objectid": 66081,
       "date": "2026-03-23",
       "species": "White-tailed Deer",
       "highway": "",
@@ -1496,9 +1767,11 @@
       "comments": "6551 Anderson rd.",
       "contractor": "Chris Moeller",
       "lat": 44.019481,
-      "lon": -103.111163
+      "lon": -103.111163,
+      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/66081/attachments/8778"
     },
     {
+      "objectid": 66082,
       "date": "2026-03-23",
       "species": "Small Animal",
       "highway": "79",
@@ -1507,9 +1780,11 @@
       "comments": null,
       "contractor": "Chris Moeller",
       "lat": 44.432548,
-      "lon": -103.428553
+      "lon": -103.428553,
+      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/66082/attachments/8779"
     },
     {
+      "objectid": 66083,
       "date": "2026-03-23",
       "species": "Mule Deer",
       "highway": "79",
@@ -1518,9 +1793,11 @@
       "comments": null,
       "contractor": "Chris Moeller",
       "lat": 44.481056,
-      "lon": -103.449438
+      "lon": -103.449438,
+      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/66083/attachments/8780"
     },
     {
+      "objectid": 66084,
       "date": "2026-03-23",
       "species": "Small Animal",
       "highway": "79",
@@ -1529,9 +1806,11 @@
       "comments": null,
       "contractor": "Chris Moeller",
       "lat": 44.573937,
-      "lon": -103.447004
+      "lon": -103.447004,
+      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/66084/attachments/8781"
     },
     {
+      "objectid": 66085,
       "date": "2026-03-23",
       "species": "Small Animal",
       "highway": "79",
@@ -1540,9 +1819,11 @@
       "comments": null,
       "contractor": "Chris Moeller",
       "lat": 44.582762,
-      "lon": -103.442854
+      "lon": -103.442854,
+      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/66085/attachments/8782"
     },
     {
+      "objectid": 66086,
       "date": "2026-03-23",
       "species": "White-tailed Deer",
       "highway": "79",
@@ -1551,9 +1832,11 @@
       "comments": null,
       "contractor": "Chris Moeller",
       "lat": 44.633529,
-      "lon": -103.427545
+      "lon": -103.427545,
+      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/66086/attachments/8783"
     },
     {
+      "objectid": 66087,
       "date": "2026-03-23",
       "species": "White-tailed Deer",
       "highway": "79",
@@ -1562,9 +1845,11 @@
       "comments": null,
       "contractor": "Chris Moeller",
       "lat": 44.62898,
-      "lon": -103.427403
+      "lon": -103.427403,
+      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/66087/attachments/8784"
     },
     {
+      "objectid": 66088,
       "date": "2026-03-23",
       "species": "White-tailed Deer",
       "highway": "79",
@@ -1573,9 +1858,11 @@
       "comments": null,
       "contractor": "Chris Moeller",
       "lat": 44.649969,
-      "lon": -103.427445
+      "lon": -103.427445,
+      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/66088/attachments/8785"
     },
     {
+      "objectid": 66089,
       "date": "2026-03-23",
       "species": "Small Animal",
       "highway": "212",
@@ -1584,9 +1871,11 @@
       "comments": null,
       "contractor": "Chris Moeller",
       "lat": 44.677097,
-      "lon": -103.470607
+      "lon": -103.470607,
+      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/66089/attachments/8786"
     },
     {
+      "objectid": 66090,
       "date": "2026-03-23",
       "species": "White-tailed Deer",
       "highway": "212",
@@ -1595,9 +1884,11 @@
       "comments": null,
       "contractor": "Chris Moeller",
       "lat": 44.67686,
-      "lon": -103.480204
+      "lon": -103.480204,
+      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/66090/attachments/8787"
     },
     {
+      "objectid": 66091,
       "date": "2026-03-23",
       "species": "White-tailed Deer",
       "highway": "212",
@@ -1606,9 +1897,11 @@
       "comments": null,
       "contractor": "Chris Moeller",
       "lat": 44.676937,
-      "lon": -103.560913
+      "lon": -103.560913,
+      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/66091/attachments/8788"
     },
     {
+      "objectid": 66092,
       "date": "2026-03-23",
       "species": "White-tailed Deer",
       "highway": "212",
@@ -1617,9 +1910,11 @@
       "comments": null,
       "contractor": "Chris Moeller",
       "lat": 44.690496,
-      "lon": -103.734655
+      "lon": -103.734655,
+      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/66092/attachments/8789"
     },
     {
+      "objectid": 66093,
       "date": "2026-03-23",
       "species": "White-tailed Deer",
       "highway": "212",
@@ -1628,9 +1923,11 @@
       "comments": null,
       "contractor": "Chris Moeller",
       "lat": 44.689734,
-      "lon": -103.749334
+      "lon": -103.749334,
+      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/66093/attachments/8790"
     },
     {
+      "objectid": 66094,
       "date": "2026-03-23",
       "species": "Small Animal",
       "highway": "212",
@@ -1639,9 +1936,11 @@
       "comments": null,
       "contractor": "Chris Moeller",
       "lat": 44.681156,
-      "lon": -103.848075
+      "lon": -103.848075,
+      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/66094/attachments/8791"
     },
     {
+      "objectid": 66095,
       "date": "2026-03-23",
       "species": "Small Animal",
       "highway": "85",
@@ -1650,9 +1949,11 @@
       "comments": null,
       "contractor": "Chris Moeller",
       "lat": 44.692336,
-      "lon": -103.851772
+      "lon": -103.851772,
+      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/66095/attachments/8792"
     },
     {
+      "objectid": 66097,
       "date": "2026-03-23",
       "species": "White-tailed Deer",
       "highway": "85",
@@ -1661,9 +1962,11 @@
       "comments": null,
       "contractor": "Chris Moeller",
       "lat": 44.686243,
-      "lon": -103.851913
+      "lon": -103.851913,
+      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/66097/attachments/8794"
     },
     {
+      "objectid": 66098,
       "date": "2026-03-23",
       "species": "White-tailed Deer",
       "highway": "85",
@@ -1672,9 +1975,11 @@
       "comments": null,
       "contractor": "Chris Moeller",
       "lat": 44.596497,
-      "lon": -103.862632
+      "lon": -103.862632,
+      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/66098/attachments/8795"
     },
     {
+      "objectid": 66099,
       "date": "2026-03-23",
       "species": "Small Animal",
       "highway": "34",
@@ -1683,9 +1988,11 @@
       "comments": null,
       "contractor": "Chris Moeller",
       "lat": 44.559683,
-      "lon": -103.748555
+      "lon": -103.748555,
+      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/66099/attachments/8796"
     },
     {
+      "objectid": 66100,
       "date": "2026-03-23",
       "species": "Mule Deer",
       "highway": "34",
@@ -1694,9 +2001,11 @@
       "comments": null,
       "contractor": "Chris Moeller",
       "lat": 44.561355,
-      "lon": -103.753669
+      "lon": -103.753669,
+      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/66100/attachments/8797"
     },
     {
+      "objectid": 66101,
       "date": "2026-03-23",
       "species": "Small Animal",
       "highway": "34",
@@ -1705,9 +2014,11 @@
       "comments": null,
       "contractor": "Chris Moeller",
       "lat": 44.545552,
-      "lon": -103.721645
+      "lon": -103.721645,
+      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/66101/attachments/8798"
     },
     {
+      "objectid": 66102,
       "date": "2026-03-23",
       "species": "Mule Deer",
       "highway": "34",
@@ -1716,9 +2027,11 @@
       "comments": null,
       "contractor": "Chris Moeller",
       "lat": 44.518154,
-      "lon": -103.689507
+      "lon": -103.689507,
+      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/66102/attachments/8799"
     },
     {
+      "objectid": 66103,
       "date": "2026-03-23",
       "species": "Small Animal",
       "highway": "34",
@@ -1727,9 +2040,11 @@
       "comments": null,
       "contractor": "Chris Moeller",
       "lat": 44.483919,
-      "lon": -103.647267
+      "lon": -103.647267,
+      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/66103/attachments/8800"
     },
     {
+      "objectid": 65963,
       "date": "2026-03-20",
       "species": "Small Animal",
       "highway": "I90",
@@ -1738,9 +2053,11 @@
       "comments": null,
       "contractor": "Tony Hanig",
       "lat": 44.43383,
-      "lon": -103.578779
+      "lon": -103.578779,
+      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/65963/attachments/8657"
     },
     {
+      "objectid": 65964,
       "date": "2026-03-20",
       "species": "White-tailed Deer",
       "highway": "79",
@@ -1749,9 +2066,11 @@
       "comments": null,
       "contractor": "Chris Moeller",
       "lat": 43.983584,
-      "lon": -103.181216
+      "lon": -103.181216,
+      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/65964/attachments/8658"
     },
     {
+      "objectid": 65965,
       "date": "2026-03-20",
       "species": "Small Animal",
       "highway": "79",
@@ -1760,9 +2079,11 @@
       "comments": null,
       "contractor": "Chris Moeller",
       "lat": 43.965326,
-      "lon": -103.185267
+      "lon": -103.185267,
+      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/65965/attachments/8659"
     },
     {
+      "objectid": 65966,
       "date": "2026-03-20",
       "species": "White-tailed Deer",
       "highway": "79",
@@ -1771,9 +2092,11 @@
       "comments": null,
       "contractor": "Chris Moeller",
       "lat": 43.831784,
-      "lon": -103.1993
+      "lon": -103.1993,
+      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/65966/attachments/8660"
     },
     {
+      "objectid": 65967,
       "date": "2026-03-20",
       "species": "Small Animal",
       "highway": "36",
@@ -1782,9 +2105,11 @@
       "comments": null,
       "contractor": "Chris Moeller",
       "lat": 43.820887,
-      "lon": -103.218981
+      "lon": -103.218981,
+      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/65967/attachments/8661"
     },
     {
+      "objectid": 65968,
       "date": "2026-03-20",
       "species": "White-tailed Deer",
       "highway": "16",
@@ -1793,9 +2118,11 @@
       "comments": null,
       "contractor": "Chris Moeller",
       "lat": 43.739054,
-      "lon": -103.66227
+      "lon": -103.66227,
+      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/65968/attachments/8662"
     },
     {
+      "objectid": 65969,
       "date": "2026-03-20",
       "species": "White-tailed Deer",
       "highway": "16",
@@ -1804,9 +2131,11 @@
       "comments": null,
       "contractor": "Chris Moeller",
       "lat": 43.736519,
-      "lon": -103.667446
+      "lon": -103.667446,
+      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/65969/attachments/8663"
     },
     {
+      "objectid": 65970,
       "date": "2026-03-20",
       "species": "Mule Deer",
       "highway": "",
@@ -1815,9 +2144,11 @@
       "comments": "2308 Hoefer Ave",
       "contractor": "Chris Moeller",
       "lat": 44.062441,
-      "lon": -103.197751
+      "lon": -103.197751,
+      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/65970/attachments/8664"
     },
     {
+      "objectid": 65971,
       "date": "2026-03-20",
       "species": "White-tailed Deer",
       "highway": "",
@@ -1826,9 +2157,11 @@
       "comments": "Slr & hidaway",
       "contractor": "Chris Moeller",
       "lat": 44.042645,
-      "lon": -103.269581
+      "lon": -103.269581,
+      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/65971/attachments/8665"
     },
     {
+      "objectid": 65972,
       "date": "2026-03-20",
       "species": "White-tailed Deer",
       "highway": "",
@@ -1837,9 +2170,11 @@
       "comments": "Slr & sumerset",
       "contractor": "Chris Moeller",
       "lat": 44.036588,
-      "lon": -103.272371
+      "lon": -103.272371,
+      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/65972/attachments/8666"
     },
     {
+      "objectid": 65973,
       "date": "2026-03-20",
       "species": "White-tailed Deer",
       "highway": "",
@@ -1848,9 +2183,11 @@
       "comments": "Timberline Road",
       "contractor": "Chris Moeller",
       "lat": 44.156977,
-      "lon": -103.324038
+      "lon": -103.324038,
+      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/65973/attachments/8667"
     },
     {
+      "objectid": 65974,
       "date": "2026-03-20",
       "species": "Mule Deer",
       "highway": "",
@@ -1859,9 +2196,11 @@
       "comments": "6316 Mountain Meadow Rd",
       "contractor": "Chris Moeller",
       "lat": 44.156161,
-      "lon": -103.325202
+      "lon": -103.325202,
+      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/65974/attachments/8668"
     },
     {
+      "objectid": 65975,
       "date": "2026-03-20",
       "species": "White-tailed Deer",
       "highway": "",
@@ -1870,9 +2209,11 @@
       "comments": "8061 s blukberh",
       "contractor": "Chris Moeller",
       "lat": 44.35929,
-      "lon": -103.456951
+      "lon": -103.456951,
+      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/65975/attachments/8669"
     },
     {
+      "objectid": 65976,
       "date": "2026-03-20",
       "species": "White-tailed Deer",
       "highway": "14A",
@@ -1881,9 +2222,11 @@
       "comments": null,
       "contractor": "Chris Moeller",
       "lat": 44.395965,
-      "lon": -103.606396
+      "lon": -103.606396,
+      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/65976/attachments/8670"
     },
     {
+      "objectid": 65977,
       "date": "2026-03-20",
       "species": "Mule Deer",
       "highway": "14A",
@@ -1892,9 +2235,11 @@
       "comments": null,
       "contractor": "Chris Moeller",
       "lat": 44.365875,
-      "lon": -103.771119
+      "lon": -103.771119,
+      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/65977/attachments/8671"
     },
     {
+      "objectid": 65978,
       "date": "2026-03-20",
       "species": "White-tailed Deer",
       "highway": "85",
@@ -1903,9 +2248,11 @@
       "comments": null,
       "contractor": "Chris Moeller",
       "lat": 44.337206,
-      "lon": -103.786293
+      "lon": -103.786293,
+      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/65978/attachments/8672"
     },
     {
+      "objectid": 65979,
       "date": "2026-03-20",
       "species": "White-tailed Deer",
       "highway": "",
@@ -1914,9 +2261,11 @@
       "comments": "3405 maitland rd",
       "contractor": "Chris Moeller",
       "lat": 44.437495,
-      "lon": -103.812289
+      "lon": -103.812289,
+      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/65979/attachments/8673"
     },
     {
+      "objectid": 65980,
       "date": "2026-03-20",
       "species": "White-tailed Deer",
       "highway": "",
@@ -1925,9 +2274,11 @@
       "comments": "Maitland road",
       "contractor": "Chris Moeller",
       "lat": 44.448372,
-      "lon": -103.809958
+      "lon": -103.809958,
+      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/65980/attachments/8674"
     },
     {
+      "objectid": 65981,
       "date": "2026-03-20",
       "species": "White-tailed Deer",
       "highway": "",
@@ -1936,9 +2287,11 @@
       "comments": "Maitlin road",
       "contractor": "Chris Moeller",
       "lat": 44.454598,
-      "lon": -103.80326
+      "lon": -103.80326,
+      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/65981/attachments/8675"
     },
     {
+      "objectid": 65982,
       "date": "2026-03-20",
       "species": "White-tailed Deer",
       "highway": "",
@@ -1947,9 +2300,11 @@
       "comments": "Matland rd",
       "contractor": "Chris Moeller",
       "lat": 44.461673,
-      "lon": -103.793888
+      "lon": -103.793888,
+      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/65982/attachments/8676"
     },
     {
+      "objectid": 65983,
       "date": "2026-03-20",
       "species": "White-tailed Deer",
       "highway": "",
@@ -1958,9 +2313,11 @@
       "comments": "2810 Diamond Dr",
       "contractor": "Chris Moeller",
       "lat": 44.519011,
-      "lon": -103.903724
+      "lon": -103.903724,
+      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/65983/attachments/8677"
     },
     {
+      "objectid": 65984,
       "date": "2026-03-20",
       "species": "White-tailed Deer",
       "highway": "85",
@@ -1969,9 +2326,11 @@
       "comments": null,
       "contractor": "Chris Moeller",
       "lat": 44.531658,
-      "lon": -103.860607
+      "lon": -103.860607,
+      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/65984/attachments/8678"
     },
     {
+      "objectid": 65985,
       "date": "2026-03-20",
       "species": "White-tailed Deer",
       "highway": "",
@@ -1980,9 +2339,11 @@
       "comments": null,
       "contractor": "Chris Moeller",
       "lat": 44.539772,
-      "lon": -103.861474
+      "lon": -103.861474,
+      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/65985/attachments/8679"
     },
     {
+      "objectid": 65986,
       "date": "2026-03-20",
       "species": "White-tailed Deer",
       "highway": "",
@@ -1991,9 +2352,11 @@
       "comments": null,
       "contractor": "Chris Moeller",
       "lat": 44.539776,
-      "lon": -103.861478
+      "lon": -103.861478,
+      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/65986/attachments/8680"
     },
     {
+      "objectid": 65987,
       "date": "2026-03-20",
       "species": "White-tailed Deer",
       "highway": "85",
@@ -2002,9 +2365,11 @@
       "comments": null,
       "contractor": "Chris Moeller",
       "lat": 44.539549,
-      "lon": -103.860551
+      "lon": -103.860551,
+      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/65987/attachments/8681"
     },
     {
+      "objectid": 65989,
       "date": "2026-03-20",
       "species": "Small Animal",
       "highway": "85",
@@ -2013,9 +2378,11 @@
       "comments": null,
       "contractor": "Chris Moeller",
       "lat": 44.718891,
-      "lon": -103.852466
+      "lon": -103.852466,
+      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/65989/attachments/8683"
     },
     {
+      "objectid": 65990,
       "date": "2026-03-20",
       "species": "White-tailed Deer",
       "highway": "",
@@ -2024,9 +2391,11 @@
       "comments": "18989 Helmer Rd",
       "contractor": "Chris Moeller",
       "lat": 44.650899,
-      "lon": -103.824378
+      "lon": -103.824378,
+      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/65990/attachments/8684"
     },
     {
+      "objectid": 65991,
       "date": "2026-03-20",
       "species": "White-tailed Deer",
       "highway": "",
@@ -2035,9 +2404,11 @@
       "comments": "12005 crook city road",
       "contractor": "Chris Moeller",
       "lat": 44.439134,
-      "lon": -103.648214
+      "lon": -103.648214,
+      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/65991/attachments/8685"
     },
     {
+      "objectid": 65992,
       "date": "2026-03-20",
       "species": "White-tailed Deer",
       "highway": "",
@@ -2046,9 +2417,11 @@
       "comments": "11851 Ranch Rd",
       "contractor": "Chris Moeller",
       "lat": 44.391814,
-      "lon": -103.681542
+      "lon": -103.681542,
+      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/65992/attachments/8686"
     },
     {
+      "objectid": 65993,
       "date": "2026-03-20",
       "species": "White-tailed Deer",
       "highway": "",
@@ -2057,9 +2430,11 @@
       "comments": "11851 Ranch Rd",
       "contractor": "Chris Moeller",
       "lat": 44.391899,
-      "lon": -103.681668
+      "lon": -103.681668,
+      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/65993/attachments/8687"
     },
     {
+      "objectid": 65994,
       "date": "2026-03-20",
       "species": "White-tailed Deer",
       "highway": "385",
@@ -2068,9 +2443,11 @@
       "comments": null,
       "contractor": "Chris Moeller",
       "lat": 44.103654,
-      "lon": -103.524925
+      "lon": -103.524925,
+      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/65994/attachments/8688"
     },
     {
+      "objectid": 65995,
       "date": "2026-03-20",
       "species": "White-tailed Deer",
       "highway": "44",
@@ -2079,9 +2456,11 @@
       "comments": null,
       "contractor": "Chris Moeller",
       "lat": 44.095923,
-      "lon": -103.468989
+      "lon": -103.468989,
+      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/65995/attachments/8689"
     },
     {
+      "objectid": 65996,
       "date": "2026-03-20",
       "species": "White-tailed Deer",
       "highway": "44",
@@ -2090,9 +2469,11 @@
       "comments": null,
       "contractor": "Chris Moeller",
       "lat": 44.09139,
-      "lon": -103.454941
+      "lon": -103.454941,
+      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/65996/attachments/8690"
     },
     {
+      "objectid": 65997,
       "date": "2026-03-20",
       "species": "White-tailed Deer",
       "highway": "44",
@@ -2101,9 +2482,11 @@
       "comments": null,
       "contractor": "Chris Moeller",
       "lat": 44.0648,
-      "lon": -103.402605
+      "lon": -103.402605,
+      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/65997/attachments/8691"
     },
     {
+      "objectid": 65998,
       "date": "2026-03-19",
       "species": "White-tailed Deer",
       "highway": "79",
@@ -2112,9 +2495,11 @@
       "comments": null,
       "contractor": "Chris Moeller",
       "lat": 43.941843,
-      "lon": -103.192198
+      "lon": -103.192198,
+      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/65998/attachments/8692"
     },
     {
+      "objectid": 65999,
       "date": "2026-03-19",
       "species": "White-tailed Deer",
       "highway": "79",
@@ -2123,9 +2508,11 @@
       "comments": null,
       "contractor": "Chris Moeller",
       "lat": 43.489359,
-      "lon": -103.333003
+      "lon": -103.333003,
+      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/65999/attachments/8693"
     },
     {
+      "objectid": 66000,
       "date": "2026-03-19",
       "species": "Small Animal",
       "highway": "79",
@@ -2134,9 +2521,11 @@
       "comments": null,
       "contractor": "Chris Moeller",
       "lat": 43.489363,
-      "lon": -103.332984
+      "lon": -103.332984,
+      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/66000/attachments/8694"
     },
     {
+      "objectid": 66001,
       "date": "2026-03-19",
       "species": "Small Animal",
       "highway": "79",
@@ -2145,9 +2534,11 @@
       "comments": null,
       "contractor": "Chris Moeller",
       "lat": 43.400672,
-      "lon": -103.396477
+      "lon": -103.396477,
+      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/66001/attachments/8695"
     },
     {
+      "objectid": 66002,
       "date": "2026-03-19",
       "species": "Small Animal",
       "highway": "18",
@@ -2156,9 +2547,11 @@
       "comments": null,
       "contractor": "Chris Moeller",
       "lat": 43.404503,
-      "lon": -103.435692
+      "lon": -103.435692,
+      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/66002/attachments/8696"
     },
     {
+      "objectid": 66003,
       "date": "2026-03-19",
       "species": "White-tailed Deer",
       "highway": "385",
@@ -2167,9 +2560,11 @@
       "comments": null,
       "contractor": "Chris Moeller",
       "lat": 43.670134,
-      "lon": -103.596437
+      "lon": -103.596437,
+      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/66003/attachments/8697"
     },
     {
+      "objectid": 66004,
       "date": "2026-03-19",
       "species": "Small Animal",
       "highway": "385",
@@ -2178,9 +2573,11 @@
       "comments": null,
       "contractor": "Chris Moeller",
       "lat": 43.693184,
-      "lon": -103.60447
+      "lon": -103.60447,
+      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/66004/attachments/8698"
     },
     {
+      "objectid": 66005,
       "date": "2026-03-19",
       "species": "White-tailed Deer",
       "highway": "385",
@@ -2189,9 +2586,11 @@
       "comments": null,
       "contractor": "Chris Moeller",
       "lat": 43.726743,
-      "lon": -103.607435
+      "lon": -103.607435,
+      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/66005/attachments/8699"
     },
     {
+      "objectid": 66006,
       "date": "2026-03-19",
       "species": "White-tailed Deer",
       "highway": "",
@@ -2200,9 +2599,11 @@
       "comments": "25268 Stagg Rd",
       "contractor": "Chris Moeller",
       "lat": 43.742591,
-      "lon": -103.641663
+      "lon": -103.641663,
+      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/66006/attachments/8700"
     },
     {
+      "objectid": 66007,
       "date": "2026-03-19",
       "species": "White-tailed Deer",
       "highway": "16",
@@ -2211,9 +2612,11 @@
       "comments": null,
       "contractor": "Chris Moeller",
       "lat": 43.925769,
-      "lon": -103.57871
+      "lon": -103.57871,
+      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/66007/attachments/8701"
     },
     {
+      "objectid": 66008,
       "date": "2026-03-19",
       "species": "White-tailed Deer",
       "highway": "16",
@@ -2222,9 +2625,11 @@
       "comments": null,
       "contractor": "Chris Moeller",
       "lat": 43.944427,
-      "lon": -103.374044
+      "lon": -103.374044,
+      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/66008/attachments/8702"
     },
     {
+      "objectid": 66009,
       "date": "2026-03-19",
       "species": "Small Animal",
       "highway": "16",
@@ -2233,9 +2638,11 @@
       "comments": null,
       "contractor": "Chris Moeller",
       "lat": 43.99199,
-      "lon": -103.268311
+      "lon": -103.268311,
+      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/66009/attachments/8703"
     },
     {
+      "objectid": 65929,
       "date": "2026-03-17",
       "species": "Mule Deer",
       "highway": "",
@@ -2244,9 +2651,11 @@
       "comments": "13519 Frontier Loop",
       "contractor": "Chris Moeller",
       "lat": 44.265458,
-      "lon": -103.348206
+      "lon": -103.348206,
+      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/65929/attachments/8622"
     },
     {
+      "objectid": 65930,
       "date": "2026-03-17",
       "species": "White-tailed Deer",
       "highway": "",
@@ -2255,9 +2664,11 @@
       "comments": "6978 elk creek rd",
       "contractor": "Chris Moeller",
       "lat": 44.23056,
-      "lon": -103.337256
+      "lon": -103.337256,
+      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/65930/attachments/8623"
     },
     {
+      "objectid": 65931,
       "date": "2026-03-17",
       "species": "White-tailed Deer",
       "highway": "",
@@ -2266,9 +2677,11 @@
       "comments": "1747 Iron Horse",
       "contractor": "Chris Moeller",
       "lat": 44.482249,
-      "lon": -103.830836
+      "lon": -103.830836,
+      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/65931/attachments/8624"
     },
     {
+      "objectid": 65932,
       "date": "2026-03-17",
       "species": "White-tailed Deer",
       "highway": "",
@@ -2277,9 +2690,11 @@
       "comments": "Deer lot.",
       "contractor": "Chris Moeller",
       "lat": 44.539837,
-      "lon": -103.861472
+      "lon": -103.861472,
+      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/65932/attachments/8625"
     },
     {
+      "objectid": 65933,
       "date": "2026-03-17",
       "species": "White-tailed Deer",
       "highway": "",
@@ -2288,9 +2703,11 @@
       "comments": "Deer lot",
       "contractor": "Chris Moeller",
       "lat": 44.539838,
-      "lon": -103.861466
+      "lon": -103.861466,
+      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/65933/attachments/8626"
     },
     {
+      "objectid": 65934,
       "date": "2026-03-17",
       "species": "Mule Deer",
       "highway": "34",
@@ -2299,9 +2716,11 @@
       "comments": null,
       "contractor": "Chris Moeller",
       "lat": 44.574873,
-      "lon": -103.769244
+      "lon": -103.769244,
+      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/65934/attachments/8627"
     },
     {
+      "objectid": 65935,
       "date": "2026-03-17",
       "species": "White-tailed Deer",
       "highway": "34",
@@ -2310,9 +2729,11 @@
       "comments": null,
       "contractor": "Chris Moeller",
       "lat": 44.619213,
-      "lon": -103.821168
+      "lon": -103.821168,
+      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/65935/attachments/8628"
     },
     {
+      "objectid": 65890,
       "date": "2026-03-13",
       "species": "White-tailed Deer",
       "highway": "I90",
@@ -2321,9 +2742,11 @@
       "comments": null,
       "contractor": "Tony Hanig",
       "lat": 44.545596,
-      "lon": -103.971619
+      "lon": -103.971619,
+      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/65890/attachments/8583"
     },
     {
+      "objectid": 65891,
       "date": "2026-03-13",
       "species": "White-tailed Deer",
       "highway": "I90",
@@ -2332,9 +2755,11 @@
       "comments": null,
       "contractor": "Tony Hanig",
       "lat": 44.527401,
-      "lon": -103.943308
+      "lon": -103.943308,
+      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/65891/attachments/8584"
     },
     {
+      "objectid": 65902,
       "date": "2026-03-13",
       "species": "White-tailed Deer",
       "highway": "16",
@@ -2343,9 +2768,11 @@
       "comments": null,
       "contractor": "Chris Moeller",
       "lat": 43.957091,
-      "lon": -103.357634
+      "lon": -103.357634,
+      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/65902/attachments/8595"
     },
     {
+      "objectid": 65903,
       "date": "2026-03-13",
       "species": "White-tailed Deer",
       "highway": "16",
@@ -2354,9 +2781,11 @@
       "comments": null,
       "contractor": "Chris Moeller",
       "lat": 43.958735,
-      "lon": -103.355517
+      "lon": -103.355517,
+      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/65903/attachments/8596"
     },
     {
+      "objectid": 65904,
       "date": "2026-03-13",
       "species": "White-tailed Deer",
       "highway": "16",
@@ -2365,9 +2794,11 @@
       "comments": null,
       "contractor": "Chris Moeller",
       "lat": 43.966796,
-      "lon": -103.348645
+      "lon": -103.348645,
+      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/65904/attachments/8597"
     },
     {
+      "objectid": 65905,
       "date": "2026-03-13",
       "species": "Mule Deer",
       "highway": "",
@@ -2376,9 +2807,11 @@
       "comments": "22389 Elk Vale Rd",
       "contractor": "Chris Moeller",
       "lat": 44.156056,
-      "lon": -103.151289
+      "lon": -103.151289,
+      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/65905/attachments/8598"
     },
     {
+      "objectid": 65906,
       "date": "2026-03-13",
       "species": "White-tailed Deer",
       "highway": "",
@@ -2387,9 +2820,11 @@
       "comments": "CORNER OF MYSTIC DR AND BENNETT RD",
       "contractor": "Chris Moeller",
       "lat": 44.136564,
-      "lon": -103.131068
+      "lon": -103.131068,
+      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/65906/attachments/8599"
     },
     {
+      "objectid": 65907,
       "date": "2026-03-13",
       "species": "Small Animal",
       "highway": "",
@@ -2398,9 +2833,11 @@
       "comments": "2910 E Mall Dr",
       "contractor": "Chris Moeller",
       "lat": 44.102705,
-      "lon": -103.167449
+      "lon": -103.167449,
+      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/65907/attachments/8600"
     },
     {
+      "objectid": 65908,
       "date": "2026-03-13",
       "species": "White-tailed Deer",
       "highway": "",
@@ -2409,9 +2846,11 @@
       "comments": "6862 elk cr rd",
       "contractor": "Chris Moeller",
       "lat": 44.231186,
-      "lon": -103.33246
+      "lon": -103.33246,
+      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/65908/attachments/8601"
     },
     {
+      "objectid": 65909,
       "date": "2026-03-13",
       "species": "White-tailed Deer",
       "highway": "231",
@@ -2420,161 +2859,8 @@
       "comments": null,
       "contractor": "Chris Moeller",
       "lat": 44.213049,
-      "lon": -103.368173
-    },
-    {
-      "date": "2026-03-12",
-      "species": "White-tailed Deer",
-      "highway": "16",
-      "sex": "Female",
-      "present": "Yes",
-      "comments": null,
-      "contractor": "Chris Moeller",
-      "lat": 43.973393,
-      "lon": -103.309718
-    },
-    {
-      "date": "2026-03-12",
-      "species": "White-tailed Deer",
-      "highway": "16",
-      "sex": "Male",
-      "present": "Yes",
-      "comments": null,
-      "contractor": "Chris Moeller",
-      "lat": 43.935165,
-      "lon": -103.418619
-    },
-    {
-      "date": "2026-03-12",
-      "species": "Small Animal",
-      "highway": "16",
-      "sex": "",
-      "present": "Yes",
-      "comments": null,
-      "contractor": "Chris Moeller",
-      "lat": 43.939634,
-      "lon": -103.410768
-    },
-    {
-      "date": "2026-03-12",
-      "species": "White-tailed Deer",
-      "highway": "",
-      "sex": "Male",
-      "present": "Yes",
-      "comments": "12748 Devin Ct",
-      "contractor": "Chris Moeller",
-      "lat": 43.912254,
-      "lon": -103.510747
-    },
-    {
-      "date": "2026-03-12",
-      "species": "White-tailed Deer",
-      "highway": "18",
-      "sex": "Female",
-      "present": "Yes",
-      "comments": null,
-      "contractor": "Chris Moeller",
-      "lat": 43.356592,
-      "lon": -103.393502
-    },
-    {
-      "date": "2026-03-12",
-      "species": "White-tailed Deer",
-      "highway": "18",
-      "sex": "Female",
-      "present": "Yes",
-      "comments": null,
-      "contractor": "Chris Moeller",
-      "lat": 43.368002,
-      "lon": -103.39691
-    },
-    {
-      "date": "2026-03-12",
-      "species": "Small Animal",
-      "highway": "18",
-      "sex": "",
-      "present": "Yes",
-      "comments": null,
-      "contractor": "Chris Moeller",
-      "lat": 43.369273,
-      "lon": -103.397377
-    },
-    {
-      "date": "2026-03-12",
-      "species": "Small Animal",
-      "highway": "18",
-      "sex": "",
-      "present": "Yes",
-      "comments": null,
-      "contractor": "Chris Moeller",
-      "lat": 43.378122,
-      "lon": -103.402226
-    },
-    {
-      "date": "2026-03-12",
-      "species": "Mule Deer",
-      "highway": "",
-      "sex": "Male",
-      "present": "Yes",
-      "comments": "3315 Parkview Dr",
-      "contractor": "Chris Moeller",
-      "lat": 44.053464,
-      "lon": -103.211058
-    },
-    {
-      "date": "2026-03-12",
-      "species": "White-tailed Deer",
-      "highway": "",
-      "sex": "Female",
-      "present": "Yes",
-      "comments": "Hwy 16b mm64.9",
-      "contractor": "Chris Moeller",
-      "lat": 44.024049,
-      "lon": -103.238394
-    },
-    {
-      "date": "2026-03-12",
-      "species": "Mule Deer",
-      "highway": "",
-      "sex": "Male",
-      "present": "Yes",
-      "comments": "Hwy 16bmm 65.4",
-      "contractor": "Chris Moeller",
-      "lat": 44.025857,
-      "lon": -103.234959
-    },
-    {
-      "date": "2026-03-12",
-      "species": "White-tailed Deer",
-      "highway": "44",
-      "sex": "Male",
-      "present": "Yes",
-      "comments": null,
-      "contractor": "Chris Moeller",
-      "lat": 44.060478,
-      "lon": -103.374166
-    },
-    {
-      "date": "2026-03-12",
-      "species": "Small Animal",
-      "highway": "",
-      "sex": "",
-      "present": "Yes",
-      "comments": "3102 W OMAHA ST",
-      "contractor": "Chris Moeller",
-      "lat": 44.084042,
-      "lon": -103.27126
-    },
-    {
-      "date": "2026-03-12",
-      "species": "White-tailed Deer",
-      "highway": "",
-      "sex": "Unknown",
-      "present": "No",
-      "comments": "3232 Calamity Rd",
-      "contractor": "Chris Moeller",
-      "lat": 44.132415,
-      "lon": -103.272027
+      "lon": -103.368173,
+      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/65909/attachments/8602"
     }
   ]
 }

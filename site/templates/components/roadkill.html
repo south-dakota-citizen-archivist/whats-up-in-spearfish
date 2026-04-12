@@ -4,6 +4,10 @@
 <script>
 (function () {
   window.__roadkillRecords = {{ roadkill.records | tojson }};
+  window.__roadkillByOid = {};
+  window.__roadkillRecords.forEach(function(r) {
+    if (r.objectid != null) window.__roadkillByOid[r.objectid] = r;
+  });
 })();
 </script>
 
@@ -87,7 +91,13 @@
               <p class="text-xs text-gray-400 truncate mt-0.5" x-text="r.comments"></p>
             </template>
           </div>
-          <span class="shrink-0 text-xs text-gray-400 tabular-nums" x-text="fmtDate(r.date)"></span>
+          <div class="shrink-0 flex flex-col items-end gap-1">
+            <span class="text-xs text-gray-400 tabular-nums" x-text="fmtDate(r.date)"></span>
+            <template x-if="r.image_url">
+              <button @click="viewPhoto(r)"
+                      class="cursor-pointer text-xs text-blue-700 hover:underline font-medium leading-none">Photo</button>
+            </template>
+          </div>
         </li>
       </template>
 
@@ -120,6 +130,18 @@
 </section>
 
 <script>
+function roadkillViewPhoto(oid) {
+  var r = window.__roadkillByOid[oid];
+  if (!r) return;
+  var data = {
+    title: r.species + (r.sex && r.sex !== 'Unknown' ? ' (' + r.sex + ')' : ''),
+    image: r.image_url,
+    description: [r.comments, r.highway ? 'Hwy ' + r.highway : ''].filter(Boolean).join(' · '),
+    fields: [], url: '', urlLabel: '', notes: '', prices: [],
+  };
+  Alpine.store('modal').show(data, [data], 0);
+}
+
 function roadkillApp() {
   var RECORDS = window.__roadkillRecords || [];
 
@@ -150,6 +172,8 @@ function roadkillApp() {
     _markerLayer: null,
 
     init: function() {},
+
+    viewPhoto: function(r) { roadkillViewPhoto(r.objectid); },
 
     get filtered() {
       var sp = this.activeSpecies;
@@ -230,7 +254,8 @@ function roadkillApp() {
           + '<p style="font-weight:700;margin:0 0 2px">' + r.species + '</p>'
           + (r.sex && r.sex !== 'Unknown' ? '<p style="margin:0 0 1px;color:#555">' + r.sex + '</p>' : '')
           + (hwayText ? '<p style="margin:0 0 1px;color:#555">' + hwayText + '</p>' : '')
-          + '<p style="margin:0;color:#888">' + self.fmtDate(r.date) + '</p>'
+          + '<p style="margin:0' + (r.image_url ? ' 0 4px' : '') + ';color:#888">' + self.fmtDate(r.date) + '</p>'
+          + (r.image_url ? '<button onclick="roadkillViewPhoto(' + r.objectid + ')" style="cursor:pointer;color:#1d4ed8;font-size:12px;border:none;background:none;padding:0">View photo</button>' : '')
           + '</div>';
         marker.bindPopup(html);
         markers.push(marker);
