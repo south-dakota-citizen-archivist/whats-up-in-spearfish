@@ -1,58 +1,46 @@
 {% extends "base.html" %}
 
-{% set _nav = [
-  ('#weather',      'Weather'),
-  ('#events',       'Events'),
-  ('#planning',     'City Permits'),
-  ('#news',         'News'),
-  ('#fire',         'Fire Info'),
-  ('#jobs',         'Jobs'),
-  ('#press',        'Press Releases'),
-  ('#documents',    'Documents'),
-  ('#library',      'Library'),
-  ('#bhnf-projects', 'BHNF Projects'),
-  ('#danr-notices', 'DANR Notices'),
-  ('#roadkill',     'Roadkill'),
-  ('#creek',        'Spearfish Creek'),
-  ('#plants',       'Native Plants'),
-  ('#birds',        'Birds'),
-  ('#drinks',       'On Tap'),
-  ('#creamery',     'Leone\'s'),
-  ('#school-menus', 'School Menus'),
-  ('#adoptable',    'Adopt a Pet'),
-  ('#meetings',     'Meetings'),
-  ('#bids',         'Bids'),
-] %}
-
 {#
   Widget layout config — controls both desktop column and mobile stack order.
-  col: 'left'  → 3/5-width desktop column
-  col: 'right' → 2/5-width desktop column
-  mo:  mobile order (lower = higher on screen); edit these numbers to restack on mobile
+  col:   'left'  → 3/5-width desktop column
+  col:   'right' → 2/5-width desktop column
+  mo:    section order (lower = higher on screen on all viewports)
+  href:  anchor ID for nav menus (omit for widgets with no nav entry, e.g. dump)
+  label: display name in nav menus
+  Nav order on all screens is derived from this list, sorted by mo.
 #}
 {% set _widgets = [
-  {'t': 'components/events.html',        'col': 'left',  'mo': 1  },
-  {'t': 'components/creek.html',         'col': 'right', 'mo': 2  },
-  {'t': 'components/planning.html',      'col': 'left',  'mo': 4  },
-  {'t': 'components/birds.html',         'col': 'right', 'mo': 3  },
-  {'t': 'components/news.html',          'col': 'left',  'mo': 6  },
-  {'t': 'components/plants.html',        'col': 'right', 'mo': 5  },
-  {'t': 'components/fire.html',          'col': 'left',  'mo': 7  },
-  {'t': 'components/drinks.html',        'col': 'right', 'mo': 8  },
-  {'t': 'components/jobs.html',          'col': 'left',  'mo': 11 },
-  {'t': 'components/dump.html',          'col': 'right', 'mo': 9  },
-  {'t': 'components/press.html',         'col': 'left',  'mo': 13 },
-  {'t': 'components/creamery.html',      'col': 'right', 'mo': 10 },
-  {'t': 'components/documents.html',     'col': 'left',  'mo': 14 },
-  {'t': 'components/school_menus.html',  'col': 'right', 'mo': 12 },
-  {'t': 'components/library.html',       'col': 'left',  'mo': 15 },
-  {'t': 'components/adoptable.html',     'col': 'right', 'mo': 16 },
-  {'t': 'components/bhnf_projects.html', 'col': 'left',  'mo': 18 },
-  {'t': 'components/meetings.html',      'col': 'right', 'mo': 17 },
-  {'t': 'components/danr_notices.html',  'col': 'left',  'mo': 19 },
-  {'t': 'components/bids.html',          'col': 'right', 'mo': 20 },
-  {'t': 'components/roadkill.html',      'col': 'left',  'mo': 21 },
+  {'t': 'components/events.html',        'col': 'left',  'mo': 1,  'href': '#events',       'label': 'Events'          },
+  {'t': 'components/creek.html',         'col': 'right', 'mo': 2,  'href': '#creek',         'label': 'Spearfish Creek' },
+  {'t': 'components/birds.html',         'col': 'right', 'mo': 3,  'href': '#birds',         'label': 'Birds'           },
+  {'t': 'components/planning.html',      'col': 'left',  'mo': 4,  'href': '#planning',      'label': 'City Permits'    },
+  {'t': 'components/plants.html',        'col': 'right', 'mo': 5,  'href': '#plants',        'label': 'Native Plants'   },
+  {'t': 'components/news.html',          'col': 'left',  'mo': 6,  'href': '#news',          'label': 'News'            },
+  {'t': 'components/fire.html',          'col': 'left',  'mo': 7,  'href': '#fire',          'label': 'Fire Info'       },
+  {'t': 'components/drinks.html',        'col': 'right', 'mo': 8,  'href': '#drinks',        'label': 'On Tap'          },
+  {'t': 'components/dump.html',          'col': 'right', 'mo': 9                                                          },
+  {'t': 'components/creamery.html',      'col': 'right', 'mo': 10, 'href': '#creamery',      'label': "Leone's"         },
+  {'t': 'components/jobs.html',          'col': 'left',  'mo': 11, 'href': '#jobs',          'label': 'Jobs'            },
+  {'t': 'components/school_menus.html',  'col': 'right', 'mo': 12, 'href': '#school-menus',  'label': 'School Menus'    },
+  {'t': 'components/press.html',         'col': 'left',  'mo': 13, 'href': '#press',         'label': 'Press Releases'  },
+  {'t': 'components/documents.html',     'col': 'left',  'mo': 14, 'href': '#documents',     'label': 'Documents'       },
+  {'t': 'components/library.html',       'col': 'left',  'mo': 15, 'href': '#library',       'label': 'Library'         },
+  {'t': 'components/adoptable.html',     'col': 'right', 'mo': 16, 'href': '#adoptable',     'label': 'Adopt a Pet'     },
+  {'t': 'components/meetings.html',      'col': 'right', 'mo': 17, 'href': '#meetings',      'label': 'Meetings'        },
+  {'t': 'components/bhnf_projects.html', 'col': 'left',  'mo': 18, 'href': '#bhnf-projects', 'label': 'BHNF Projects'   },
+  {'t': 'components/danr_notices.html',  'col': 'left',  'mo': 19, 'href': '#danr-notices',  'label': 'DANR Notices'    },
+  {'t': 'components/bids.html',          'col': 'right', 'mo': 20, 'href': '#bids',          'label': 'Bids'            },
+  {'t': 'components/roadkill.html',      'col': 'left',  'mo': 21, 'href': '#roadkill',      'label': 'Roadkill'        },
 ] %}
+
+{# Derive nav from _widgets sorted by mo; weather is always first (rendered above the grid) #}
+{% set _nav_ns = namespace(items=[('#weather', 'Weather')]) %}
+{% for w in _widgets | sort(attribute='mo') %}
+  {% if w.href is defined and w.label is defined %}
+    {% set _nav_ns.items = _nav_ns.items + [(w.href, w.label)] %}
+  {% endif %}
+{% endfor %}
+{% set _nav = _nav_ns.items %}
 
 {% block title %}What's up, Spearfish?{% endblock %}
 
