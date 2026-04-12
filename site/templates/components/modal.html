@@ -260,6 +260,7 @@ document.addEventListener('alpine:init', () => {
 
     close() {
       this.open = false;
+      this.image = '';
       document.body.style.overflow = '';
       document.body.style.top = '';
       document.body.classList.remove('modal-open');
