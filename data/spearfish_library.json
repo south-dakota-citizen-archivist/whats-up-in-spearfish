@@ -1,15 +1,15 @@
 [
   {
-    "url": "https://spearfish.blackhills.bywatersolutions.com/cgi-bin/koha/opac-detail.pl?biblionumber=516100",
-    "title": "The hybrid prince",
-    "image_url": "https://images-na.ssl-images-amazon.com/images/P/1546129545.01.LZZZZZZZ.jpg",
+    "url": "https://spearfish.blackhills.bywatersolutions.com/cgi-bin/koha/opac-detail.pl?biblionumber=518696",
+    "title": "Bones rock!",
+    "image_url": "https://images-na.ssl-images-amazon.com/images/P/1735222836.01.LZZZZZZZ.jpg",
     "record_type": "library_book",
     "source_label": "Grace Balloch Memorial Library"
   },
   {
-    "url": "https://spearfish.blackhills.bywatersolutions.com/cgi-bin/koha/opac-detail.pl?biblionumber=515744",
-    "title": "White River crossing",
-    "image_url": "",
+    "url": "https://spearfish.blackhills.bywatersolutions.com/cgi-bin/koha/opac-detail.pl?biblionumber=516100",
+    "title": "The hybrid prince",
+    "image_url": "https://images-na.ssl-images-amazon.com/images/P/1546129545.01.LZZZZZZZ.jpg",
     "record_type": "library_book",
     "source_label": "Grace Balloch Memorial Library"
   },
@@ -21,30 +21,30 @@
     "source_label": "Grace Balloch Memorial Library"
   },
   {
-    "url": "https://spearfish.blackhills.bywatersolutions.com/cgi-bin/koha/opac-detail.pl?biblionumber=520476",
-    "title": "I'm so happy you're here",
+    "url": "https://spearfish.blackhills.bywatersolutions.com/cgi-bin/koha/opac-detail.pl?biblionumber=240224",
+    "title": "Doctor Zhivago",
+    "image_url": "https://spearfish.blackhills.bywatersolutions.com/cgi-bin/koha/opac-image.pl?biblionumber=240224",
+    "record_type": "library_book",
+    "source_label": "Grace Balloch Memorial Library"
+  },
+  {
+    "url": "https://spearfish.blackhills.bywatersolutions.com/cgi-bin/koha/opac-detail.pl?biblionumber=518338",
+    "title": "We Bury the Dead",
     "image_url": "",
     "record_type": "library_book",
     "source_label": "Grace Balloch Memorial Library"
   },
   {
-    "url": "https://spearfish.blackhills.bywatersolutions.com/cgi-bin/koha/opac-detail.pl?biblionumber=129943",
-    "title": "The wall",
-    "image_url": "https://images-na.ssl-images-amazon.com/images/P/0395515882.01.LZZZZZZZ.jpg",
+    "url": "https://spearfish.blackhills.bywatersolutions.com/cgi-bin/koha/opac-detail.pl?biblionumber=518547",
+    "title": "Merrily We Roll Along",
+    "image_url": "",
     "record_type": "library_book",
     "source_label": "Grace Balloch Memorial Library"
   },
   {
-    "url": "https://spearfish.blackhills.bywatersolutions.com/cgi-bin/koha/opac-detail.pl?biblionumber=514515",
-    "title": "Jigsaw",
-    "image_url": "https://images-na.ssl-images-amazon.com/images/P/0593497716.01.LZZZZZZZ.jpg",
-    "record_type": "library_book",
-    "source_label": "Grace Balloch Memorial Library"
-  },
-  {
-    "url": "https://spearfish.blackhills.bywatersolutions.com/cgi-bin/koha/opac-detail.pl?biblionumber=308060",
-    "title": "Little Excavator",
-    "image_url": "https://images-na.ssl-images-amazon.com/images/P/1101999209.01.LZZZZZZZ.jpg",
+    "url": "https://spearfish.blackhills.bywatersolutions.com/cgi-bin/koha/opac-detail.pl?biblionumber=474844",
+    "title": "Party problems",
+    "image_url": "https://images-na.ssl-images-amazon.com/images/P/1515871800.01.LZZZZZZZ.jpg",
     "record_type": "library_book",
     "source_label": "Grace Balloch Memorial Library"
   },
@@ -56,44 +56,44 @@
     "source_label": "Grace Balloch Memorial Library"
   },
   {
-    "url": "https://spearfish.blackhills.bywatersolutions.com/cgi-bin/koha/opac-detail.pl?biblionumber=291518",
-    "title": "Where hope prevails",
-    "image_url": "https://images-na.ssl-images-amazon.com/images/P/0764217836.01.LZZZZZZZ.jpg",
+    "url": "https://spearfish.blackhills.bywatersolutions.com/cgi-bin/koha/opac-detail.pl?biblionumber=149853",
+    "title": "Lemony Snicket's A series of unfortunate events",
+    "image_url": "https://spearfish.blackhills.bywatersolutions.com/cgi-bin/koha/opac-image.pl?biblionumber=149853",
     "record_type": "library_book",
     "source_label": "Grace Balloch Memorial Library"
   },
   {
-    "url": "https://spearfish.blackhills.bywatersolutions.com/cgi-bin/koha/opac-detail.pl?biblionumber=57469",
-    "title": "The dangerous days of Daniel X",
-    "image_url": "https://images-na.ssl-images-amazon.com/images/P/0316002925.01.LZZZZZZZ.jpg",
+    "url": "https://spearfish.blackhills.bywatersolutions.com/cgi-bin/koha/opac-detail.pl?biblionumber=135668",
+    "title": "I love you, mom",
+    "image_url": "https://images-na.ssl-images-amazon.com/images/P/0816744408.01.LZZZZZZZ.jpg",
     "record_type": "library_book",
     "source_label": "Grace Balloch Memorial Library"
   },
   {
-    "url": "https://spearfish.blackhills.bywatersolutions.com/cgi-bin/koha/opac-detail.pl?biblionumber=160580",
-    "title": "A voice in the wind",
-    "image_url": "https://images-na.ssl-images-amazon.com/images/P/0842377506.01.LZZZZZZZ.jpg",
+    "url": "https://spearfish.blackhills.bywatersolutions.com/cgi-bin/koha/opac-detail.pl?biblionumber=167864",
+    "title": "Simple machines",
+    "image_url": "https://images-na.ssl-images-amazon.com/images/P/0823433099.01.LZZZZZZZ.jpg",
     "record_type": "library_book",
     "source_label": "Grace Balloch Memorial Library"
   },
   {
-    "url": "https://spearfish.blackhills.bywatersolutions.com/cgi-bin/koha/opac-detail.pl?biblionumber=48085",
-    "title": "The measure of a man",
-    "image_url": "https://images-na.ssl-images-amazon.com/images/P/0061357901.01.LZZZZZZZ.jpg",
+    "url": "https://spearfish.blackhills.bywatersolutions.com/cgi-bin/koha/opac-detail.pl?biblionumber=253073",
+    "title": "Dreams",
+    "image_url": "https://images-na.ssl-images-amazon.com/images/P/0760709300.01.LZZZZZZZ.jpg",
     "record_type": "library_book",
     "source_label": "Grace Balloch Memorial Library"
   },
   {
-    "url": "https://spearfish.blackhills.bywatersolutions.com/cgi-bin/koha/opac-detail.pl?biblionumber=99785",
-    "title": "Confessions of a sociopath",
-    "image_url": "https://images-na.ssl-images-amazon.com/images/P/0307956644.01.LZZZZZZZ.jpg",
+    "url": "https://spearfish.blackhills.bywatersolutions.com/cgi-bin/koha/opac-detail.pl?biblionumber=257750",
+    "title": "Kiss her goodbye",
+    "image_url": "https://images-na.ssl-images-amazon.com/images/P/0312358393.01.LZZZZZZZ.jpg",
     "record_type": "library_book",
     "source_label": "Grace Balloch Memorial Library"
   },
   {
-    "url": "https://spearfish.blackhills.bywatersolutions.com/cgi-bin/koha/opac-detail.pl?biblionumber=253090",
-    "title": "Custer's Fall",
-    "image_url": "https://images-na.ssl-images-amazon.com/images/P/0452010950.01.LZZZZZZZ.jpg",
+    "url": "https://spearfish.blackhills.bywatersolutions.com/cgi-bin/koha/opac-detail.pl?biblionumber=65869",
+    "title": "Watch the skies",
+    "image_url": "https://images-na.ssl-images-amazon.com/images/P/0316036188.01.LZZZZZZZ.jpg",
     "record_type": "library_book",
     "source_label": "Grace Balloch Memorial Library"
   },
@@ -105,128 +105,58 @@
     "source_label": "Grace Balloch Memorial Library"
   },
   {
-    "url": "https://spearfish.blackhills.bywatersolutions.com/cgi-bin/koha/opac-detail.pl?biblionumber=519478",
-    "title": "Beyond a reasonable stout",
-    "image_url": "https://images-na.ssl-images-amazon.com/images/P/1250766109.01.LZZZZZZZ.jpg",
+    "url": "https://spearfish.blackhills.bywatersolutions.com/cgi-bin/koha/opac-detail.pl?biblionumber=519489",
+    "title": "This land",
+    "image_url": "https://images-na.ssl-images-amazon.com/images/P/0593651448.01.LZZZZZZZ.jpg",
     "record_type": "library_book",
     "source_label": "Grace Balloch Memorial Library"
   },
   {
-    "url": "https://spearfish.blackhills.bywatersolutions.com/cgi-bin/koha/opac-detail.pl?biblionumber=163382",
-    "title": "Traveling the Lewis & Clark Trail",
-    "image_url": "https://images-na.ssl-images-amazon.com/images/P/1585920428.01.LZZZZZZZ.jpg",
+    "url": "https://spearfish.blackhills.bywatersolutions.com/cgi-bin/koha/opac-detail.pl?biblionumber=520412",
+    "title": "Decoy saves Opening Day",
+    "image_url": "https://images-na.ssl-images-amazon.com/images/P/0063460777.01.LZZZZZZZ.jpg",
     "record_type": "library_book",
     "source_label": "Grace Balloch Memorial Library"
   },
   {
-    "url": "https://spearfish.blackhills.bywatersolutions.com/cgi-bin/koha/opac-detail.pl?biblionumber=399692",
-    "title": "Ghost island",
-    "image_url": "https://images-na.ssl-images-amazon.com/images/P/1534478663.01.LZZZZZZZ.jpg",
+    "url": "https://spearfish.blackhills.bywatersolutions.com/cgi-bin/koha/opac-detail.pl?biblionumber=470339",
+    "title": "The library of borrowed hearts",
+    "image_url": "https://images-na.ssl-images-amazon.com/images/P/1728256240.01.LZZZZZZZ.jpg",
     "record_type": "library_book",
     "source_label": "Grace Balloch Memorial Library"
   },
   {
-    "url": "https://spearfish.blackhills.bywatersolutions.com/cgi-bin/koha/opac-detail.pl?biblionumber=519496",
-    "title": "Kingdom",
-    "image_url": "https://images-na.ssl-images-amazon.com/images/P/1974761339.01.LZZZZZZZ.jpg",
+    "url": "https://spearfish.blackhills.bywatersolutions.com/cgi-bin/koha/opac-detail.pl?biblionumber=315253",
+    "title": "Above the paw",
+    "image_url": "https://images-na.ssl-images-amazon.com/images/P/1250094844.01.LZZZZZZZ.jpg",
     "record_type": "library_book",
     "source_label": "Grace Balloch Memorial Library"
   },
   {
-    "url": "https://spearfish.blackhills.bywatersolutions.com/cgi-bin/koha/opac-detail.pl?biblionumber=373689",
-    "title": "Pete the Kitty and the unicorn's missing colors",
-    "image_url": "https://images-na.ssl-images-amazon.com/images/P/0062868462.01.LZZZZZZZ.jpg",
+    "url": "https://spearfish.blackhills.bywatersolutions.com/cgi-bin/koha/opac-detail.pl?biblionumber=285720",
+    "title": "Here comes Peter Cottontail",
+    "image_url": "https://images-na.ssl-images-amazon.com/images/P/0738931063.01.LZZZZZZZ.jpg",
     "record_type": "library_book",
     "source_label": "Grace Balloch Memorial Library"
   },
   {
-    "url": "https://spearfish.blackhills.bywatersolutions.com/cgi-bin/koha/opac-detail.pl?biblionumber=520383",
-    "title": "Life in the great ice age",
-    "image_url": "https://images-na.ssl-images-amazon.com/images/P/0890511675.01.LZZZZZZZ.jpg",
+    "url": "https://spearfish.blackhills.bywatersolutions.com/cgi-bin/koha/opac-detail.pl?biblionumber=519603",
+    "title": "The key to Skull Rock",
+    "image_url": "https://images-na.ssl-images-amazon.com/images/P/1423163974.01.LZZZZZZZ.jpg",
     "record_type": "library_book",
     "source_label": "Grace Balloch Memorial Library"
   },
   {
-    "url": "https://spearfish.blackhills.bywatersolutions.com/cgi-bin/koha/opac-detail.pl?biblionumber=518313",
-    "title": "Lady Tremaine",
-    "image_url": "https://images-na.ssl-images-amazon.com/images/P/1250396344.01.LZZZZZZZ.jpg",
+    "url": "https://spearfish.blackhills.bywatersolutions.com/cgi-bin/koha/opac-detail.pl?biblionumber=505583",
+    "title": "Minecraft.",
+    "image_url": "https://images-na.ssl-images-amazon.com/images/P/0593984161.01.LZZZZZZZ.jpg",
     "record_type": "library_book",
     "source_label": "Grace Balloch Memorial Library"
   },
   {
-    "url": "https://spearfish.blackhills.bywatersolutions.com/cgi-bin/koha/opac-detail.pl?biblionumber=515404",
-    "title": "At Morning's Light",
-    "image_url": "https://images-na.ssl-images-amazon.com/images/P/1420533576.01.LZZZZZZZ.jpg",
-    "record_type": "library_book",
-    "source_label": "Grace Balloch Memorial Library"
-  },
-  {
-    "url": "https://spearfish.blackhills.bywatersolutions.com/cgi-bin/koha/opac-detail.pl?biblionumber=518814",
-    "title": "The rare bird",
-    "image_url": "https://images-na.ssl-images-amazon.com/images/P/1250364396.01.LZZZZZZZ.jpg",
-    "record_type": "library_book",
-    "source_label": "Grace Balloch Memorial Library"
-  },
-  {
-    "url": "https://spearfish.blackhills.bywatersolutions.com/cgi-bin/koha/opac-detail.pl?biblionumber=519681",
-    "title": "An Amish widow's hope",
-    "image_url": "https://images-na.ssl-images-amazon.com/images/P/1420533754.01.LZZZZZZZ.jpg",
-    "record_type": "library_book",
-    "source_label": "Grace Balloch Memorial Library"
-  },
-  {
-    "url": "https://spearfish.blackhills.bywatersolutions.com/cgi-bin/koha/opac-detail.pl?biblionumber=519463",
-    "title": "Son of nobody",
-    "image_url": "https://images-na.ssl-images-amazon.com/images/P/132411813X.01.LZZZZZZZ.jpg",
-    "record_type": "library_book",
-    "source_label": "Grace Balloch Memorial Library"
-  },
-  {
-    "url": "https://spearfish.blackhills.bywatersolutions.com/cgi-bin/koha/opac-detail.pl?biblionumber=520170",
-    "title": "Final Victim.",
-    "image_url": "https://images-na.ssl-images-amazon.com/images/P/1836183569.01.LZZZZZZZ.jpg",
-    "record_type": "library_book",
-    "source_label": "Grace Balloch Memorial Library"
-  },
-  {
-    "url": "https://spearfish.blackhills.bywatersolutions.com/cgi-bin/koha/opac-detail.pl?biblionumber=519680",
-    "title": "Plain Jane's secret admirer",
-    "image_url": "https://images-na.ssl-images-amazon.com/images/P/1420533746.01.LZZZZZZZ.jpg",
-    "record_type": "library_book",
-    "source_label": "Grace Balloch Memorial Library"
-  },
-  {
-    "url": "https://spearfish.blackhills.bywatersolutions.com/cgi-bin/koha/opac-detail.pl?biblionumber=516291",
-    "title": "One bad mother",
-    "image_url": "https://images-na.ssl-images-amazon.com/images/P/1668051117.01.LZZZZZZZ.jpg",
-    "record_type": "library_book",
-    "source_label": "Grace Balloch Memorial Library"
-  },
-  {
-    "url": "https://spearfish.blackhills.bywatersolutions.com/cgi-bin/koha/opac-detail.pl?biblionumber=516680",
-    "title": "The Astral Library",
-    "image_url": "https://images-na.ssl-images-amazon.com/images/P/0063479753.01.LZZZZZZZ.jpg",
-    "record_type": "library_book",
-    "source_label": "Grace Balloch Memorial Library"
-  },
-  {
-    "url": "https://spearfish.blackhills.bywatersolutions.com/cgi-bin/koha/opac-detail.pl?biblionumber=520369",
-    "title": "The secrets of seabrook",
-    "image_url": "https://spearfish.blackhills.bywatersolutions.com/cgi-bin/koha/opac-image.pl?biblionumber=520369",
-    "record_type": "library_book",
-    "source_label": "Grace Balloch Memorial Library"
-  },
-  {
-    "url": "https://spearfish.blackhills.bywatersolutions.com/cgi-bin/koha/opac-detail.pl?biblionumber=495152",
-    "title": "The butcher's masquerade",
-    "image_url": "https://images-na.ssl-images-amazon.com/images/P/0593955994.01.LZZZZZZZ.jpg",
-    "record_type": "library_book",
-    "source_label": "Grace Balloch Memorial Library"
-  },
-  {
-    "url": "https://spearfish.blackhills.bywatersolutions.com/cgi-bin/koha/opac-detail.pl?biblionumber=426332",
-    "title": "My dear Hamilton",
-    "image_url": "https://images-na.ssl-images-amazon.com/images/P/006246616X.01.LZZZZZZZ.jpg",
+    "url": "https://spearfish.blackhills.bywatersolutions.com/cgi-bin/koha/opac-detail.pl?biblionumber=515067",
+    "title": "Dire bound",
+    "image_url": "https://images-na.ssl-images-amazon.com/images/P/031660139X.01.LZZZZZZZ.jpg",
     "record_type": "library_book",
     "source_label": "Grace Balloch Memorial Library"
   },
@@ -238,37 +168,72 @@
     "source_label": "Grace Balloch Memorial Library"
   },
   {
-    "url": "https://spearfish.blackhills.bywatersolutions.com/cgi-bin/koha/opac-detail.pl?biblionumber=493174",
-    "title": "We do not part",
-    "image_url": "https://images-na.ssl-images-amazon.com/images/P/0593595459.01.LZZZZZZZ.jpg",
-    "record_type": "library_book",
-    "source_label": "Grace Balloch Memorial Library"
-  },
-  {
-    "url": "https://spearfish.blackhills.bywatersolutions.com/cgi-bin/koha/opac-detail.pl?biblionumber=519344",
-    "title": "Faithful of Heart",
-    "image_url": "https://images-na.ssl-images-amazon.com/images/P/1420533568.01.LZZZZZZZ.jpg",
-    "record_type": "library_book",
-    "source_label": "Grace Balloch Memorial Library"
-  },
-  {
-    "url": "https://spearfish.blackhills.bywatersolutions.com/cgi-bin/koha/opac-detail.pl?biblionumber=514842",
-    "title": "The hard line",
-    "image_url": "https://images-na.ssl-images-amazon.com/images/P/0593954815.01.LZZZZZZZ.jpg",
-    "record_type": "library_book",
-    "source_label": "Grace Balloch Memorial Library"
-  },
-  {
-    "url": "https://spearfish.blackhills.bywatersolutions.com/cgi-bin/koha/opac-detail.pl?biblionumber=519902",
-    "title": "Go bananas!",
-    "image_url": "https://images-na.ssl-images-amazon.com/images/P/166595356X.01.LZZZZZZZ.jpg",
-    "record_type": "library_book",
-    "source_label": "Grace Balloch Memorial Library"
-  },
-  {
     "url": "https://spearfish.blackhills.bywatersolutions.com/cgi-bin/koha/opac-detail.pl?biblionumber=482582",
     "title": "Dungeon crawler Carl",
     "image_url": "https://images-na.ssl-images-amazon.com/images/P/059382024X.01.LZZZZZZZ.jpg",
+    "record_type": "library_book",
+    "source_label": "Grace Balloch Memorial Library"
+  },
+  {
+    "url": "https://spearfish.blackhills.bywatersolutions.com/cgi-bin/koha/opac-detail.pl?biblionumber=484145",
+    "title": "Carl's doomsday scenario",
+    "image_url": "https://images-na.ssl-images-amazon.com/images/P/0593820266.01.LZZZZZZZ.jpg",
+    "record_type": "library_book",
+    "source_label": "Grace Balloch Memorial Library"
+  },
+  {
+    "url": "https://spearfish.blackhills.bywatersolutions.com/cgi-bin/koha/opac-detail.pl?biblionumber=515711",
+    "title": "Half his age",
+    "image_url": "https://images-na.ssl-images-amazon.com/images/P/0593723732.01.LZZZZZZZ.jpg",
+    "record_type": "library_book",
+    "source_label": "Grace Balloch Memorial Library"
+  },
+  {
+    "url": "https://spearfish.blackhills.bywatersolutions.com/cgi-bin/koha/opac-detail.pl?biblionumber=520397",
+    "title": "A choice made",
+    "image_url": "https://spearfish.blackhills.bywatersolutions.com/cgi-bin/koha/opac-image.pl?biblionumber=520397",
+    "record_type": "library_book",
+    "source_label": "Grace Balloch Memorial Library"
+  },
+  {
+    "url": "https://spearfish.blackhills.bywatersolutions.com/cgi-bin/koha/opac-detail.pl?biblionumber=520170",
+    "title": "Final Victim.",
+    "image_url": "https://images-na.ssl-images-amazon.com/images/P/1836183569.01.LZZZZZZZ.jpg",
+    "record_type": "library_book",
+    "source_label": "Grace Balloch Memorial Library"
+  },
+  {
+    "url": "https://spearfish.blackhills.bywatersolutions.com/cgi-bin/koha/opac-detail.pl?biblionumber=492194",
+    "title": "There is no place for us",
+    "image_url": "https://images-na.ssl-images-amazon.com/images/P/0593237145.01.LZZZZZZZ.jpg",
+    "record_type": "library_book",
+    "source_label": "Grace Balloch Memorial Library"
+  },
+  {
+    "url": "https://spearfish.blackhills.bywatersolutions.com/cgi-bin/koha/opac-detail.pl?biblionumber=520177",
+    "title": "Post Malone's Big Rig Vol. 1",
+    "image_url": "https://images-na.ssl-images-amazon.com/images/P/1638493154.01.LZZZZZZZ.jpg",
+    "record_type": "library_book",
+    "source_label": "Grace Balloch Memorial Library"
+  },
+  {
+    "url": "https://spearfish.blackhills.bywatersolutions.com/cgi-bin/koha/opac-detail.pl?biblionumber=518316",
+    "title": "Honeysuckle",
+    "image_url": "https://images-na.ssl-images-amazon.com/images/P/1639736735.01.LZZZZZZZ.jpg",
+    "record_type": "library_book",
+    "source_label": "Grace Balloch Memorial Library"
+  },
+  {
+    "url": "https://spearfish.blackhills.bywatersolutions.com/cgi-bin/koha/opac-detail.pl?biblionumber=484139",
+    "title": "The dungeon anarchist's cookbook",
+    "image_url": "https://images-na.ssl-images-amazon.com/images/P/0593820282.01.LZZZZZZZ.jpg",
+    "record_type": "library_book",
+    "source_label": "Grace Balloch Memorial Library"
+  },
+  {
+    "url": "https://spearfish.blackhills.bywatersolutions.com/cgi-bin/koha/opac-detail.pl?biblionumber=519469",
+    "title": "Someone is after LuLu Dupree",
+    "image_url": "https://images-na.ssl-images-amazon.com/images/P/1420533673.01.LZZZZZZZ.jpg",
     "record_type": "library_book",
     "source_label": "Grace Balloch Memorial Library"
   },
@@ -280,65 +245,58 @@
     "source_label": "Grace Balloch Memorial Library"
   },
   {
-    "url": "https://spearfish.blackhills.bywatersolutions.com/cgi-bin/koha/opac-detail.pl?biblionumber=493255",
-    "title": "The favorites",
-    "image_url": "https://images-na.ssl-images-amazon.com/images/P/0593732049.01.LZZZZZZZ.jpg",
+    "url": "https://spearfish.blackhills.bywatersolutions.com/cgi-bin/koha/opac-detail.pl?biblionumber=516291",
+    "title": "One bad mother",
+    "image_url": "https://images-na.ssl-images-amazon.com/images/P/1668051117.01.LZZZZZZZ.jpg",
     "record_type": "library_book",
     "source_label": "Grace Balloch Memorial Library"
   },
   {
-    "url": "https://spearfish.blackhills.bywatersolutions.com/cgi-bin/koha/opac-detail.pl?biblionumber=495150",
-    "title": "The eye of the Bedlam Bride",
-    "image_url": "https://images-na.ssl-images-amazon.com/images/P/059395601X.01.LZZZZZZZ.jpg",
+    "url": "https://spearfish.blackhills.bywatersolutions.com/cgi-bin/koha/opac-detail.pl?biblionumber=520369",
+    "title": "The secrets of seabrook",
+    "image_url": "https://spearfish.blackhills.bywatersolutions.com/cgi-bin/koha/opac-image.pl?biblionumber=520369",
     "record_type": "library_book",
     "source_label": "Grace Balloch Memorial Library"
   },
   {
-    "url": "https://spearfish.blackhills.bywatersolutions.com/cgi-bin/koha/opac-detail.pl?biblionumber=517076",
-    "title": "Wolf hour",
-    "image_url": "",
+    "url": "https://spearfish.blackhills.bywatersolutions.com/cgi-bin/koha/opac-detail.pl?biblionumber=516444",
+    "title": "This story might save your life",
+    "image_url": "https://images-na.ssl-images-amazon.com/images/P/1250395232.01.LZZZZZZZ.jpg",
     "record_type": "library_book",
     "source_label": "Grace Balloch Memorial Library"
   },
   {
-    "url": "https://spearfish.blackhills.bywatersolutions.com/cgi-bin/koha/opac-detail.pl?biblionumber=93394",
-    "title": "Goodnight, goodnight, construction site",
-    "image_url": "https://images-na.ssl-images-amazon.com/images/P/0811877825.01.LZZZZZZZ.jpg",
+    "url": "https://spearfish.blackhills.bywatersolutions.com/cgi-bin/koha/opac-detail.pl?biblionumber=519678",
+    "title": "As good as dead",
+    "image_url": "https://images-na.ssl-images-amazon.com/images/P/1420531913.01.LZZZZZZZ.jpg",
     "record_type": "library_book",
     "source_label": "Grace Balloch Memorial Library"
   },
   {
-    "url": "https://spearfish.blackhills.bywatersolutions.com/cgi-bin/koha/opac-detail.pl?biblionumber=486654",
-    "title": "Kristy and the walking disaster",
-    "image_url": "https://images-na.ssl-images-amazon.com/images/P/1338835564.01.LZZZZZZZ.jpg",
+    "url": "https://spearfish.blackhills.bywatersolutions.com/cgi-bin/koha/opac-detail.pl?biblionumber=519907",
+    "title": "Killing me softly",
+    "image_url": "https://images-na.ssl-images-amazon.com/images/P/1250910072.01.LZZZZZZZ.jpg",
     "record_type": "library_book",
     "source_label": "Grace Balloch Memorial Library"
   },
   {
-    "url": "https://spearfish.blackhills.bywatersolutions.com/cgi-bin/koha/opac-detail.pl?biblionumber=454184",
-    "title": "The lost heir",
-    "image_url": "https://images-na.ssl-images-amazon.com/images/P/0545942217.01.LZZZZZZZ.jpg",
+    "url": "https://spearfish.blackhills.bywatersolutions.com/cgi-bin/koha/opac-detail.pl?biblionumber=514514",
+    "title": "It's not her",
+    "image_url": "https://images-na.ssl-images-amazon.com/images/P/0778387992.01.LZZZZZZZ.jpg",
     "record_type": "library_book",
     "source_label": "Grace Balloch Memorial Library"
   },
   {
-    "url": "https://spearfish.blackhills.bywatersolutions.com/cgi-bin/koha/opac-detail.pl?biblionumber=336765",
-    "title": "Kristy's big day",
-    "image_url": "https://images-na.ssl-images-amazon.com/images/P/1338067680.01.LZZZZZZZ.jpg",
+    "url": "https://spearfish.blackhills.bywatersolutions.com/cgi-bin/koha/opac-detail.pl?biblionumber=516519",
+    "title": "Daughter of Egypt",
+    "image_url": "https://images-na.ssl-images-amazon.com/images/P/1250280737.01.LZZZZZZZ.jpg",
     "record_type": "library_book",
     "source_label": "Grace Balloch Memorial Library"
   },
   {
-    "url": "https://spearfish.blackhills.bywatersolutions.com/cgi-bin/koha/opac-detail.pl?biblionumber=298407",
-    "title": "Empire of storms",
-    "image_url": "https://images-na.ssl-images-amazon.com/images/P/1619636077.01.LZZZZZZZ.jpg",
-    "record_type": "library_book",
-    "source_label": "Grace Balloch Memorial Library"
-  },
-  {
-    "url": "https://spearfish.blackhills.bywatersolutions.com/cgi-bin/koha/opac-detail.pl?biblionumber=423059",
-    "title": "Good-bye Stacey, good-bye",
-    "image_url": "https://images-na.ssl-images-amazon.com/images/P/1338616056.01.LZZZZZZZ.jpg",
+    "url": "https://spearfish.blackhills.bywatersolutions.com/cgi-bin/koha/opac-detail.pl?biblionumber=51116",
+    "title": "One piece.",
+    "image_url": "https://images-na.ssl-images-amazon.com/images/P/1421504065.01.LZZZZZZZ.jpg",
     "record_type": "library_book",
     "source_label": "Grace Balloch Memorial Library"
   },
@@ -350,30 +308,86 @@
     "source_label": "Grace Balloch Memorial Library"
   },
   {
-    "url": "https://spearfish.blackhills.bywatersolutions.com/cgi-bin/koha/opac-detail.pl?biblionumber=371570",
-    "title": "Camp Jupiter classified",
-    "image_url": "https://images-na.ssl-images-amazon.com/images/P/136802405X.01.LZZZZZZZ.jpg",
+    "url": "https://spearfish.blackhills.bywatersolutions.com/cgi-bin/koha/opac-detail.pl?biblionumber=81276",
+    "title": "One Piece",
+    "image_url": "https://images-na.ssl-images-amazon.com/images/P/1591163374.01.LZZZZZZZ.jpg",
     "record_type": "library_book",
     "source_label": "Grace Balloch Memorial Library"
   },
   {
-    "url": "https://spearfish.blackhills.bywatersolutions.com/cgi-bin/koha/opac-detail.pl?biblionumber=487149",
-    "title": "Escaping peril",
-    "image_url": "https://images-na.ssl-images-amazon.com/images/P/1339001233.01.LZZZZZZZ.jpg",
+    "url": "https://spearfish.blackhills.bywatersolutions.com/cgi-bin/koha/opac-detail.pl?biblionumber=441268",
+    "title": "Heir of fire",
+    "image_url": "https://images-na.ssl-images-amazon.com/images/P/1619630656.01.LZZZZZZZ.jpg",
     "record_type": "library_book",
     "source_label": "Grace Balloch Memorial Library"
   },
   {
-    "url": "https://spearfish.blackhills.bywatersolutions.com/cgi-bin/koha/opac-detail.pl?biblionumber=376832",
-    "title": "Wings of Fire",
-    "image_url": "https://images-na.ssl-images-amazon.com/images/P/1338344226.01.LZZZZZZZ.jpg",
+    "url": "https://spearfish.blackhills.bywatersolutions.com/cgi-bin/koha/opac-detail.pl?biblionumber=454184",
+    "title": "The lost heir",
+    "image_url": "https://images-na.ssl-images-amazon.com/images/P/0545942217.01.LZZZZZZZ.jpg",
     "record_type": "library_book",
     "source_label": "Grace Balloch Memorial Library"
   },
   {
-    "url": "https://spearfish.blackhills.bywatersolutions.com/cgi-bin/koha/opac-detail.pl?biblionumber=331160",
-    "title": "Supernova",
-    "image_url": "https://images-na.ssl-images-amazon.com/images/P/0545850029.01.LZZZZZZZ.jpg",
+    "url": "https://spearfish.blackhills.bywatersolutions.com/cgi-bin/koha/opac-detail.pl?biblionumber=353892",
+    "title": "The tyrant's tomb",
+    "image_url": "https://images-na.ssl-images-amazon.com/images/P/1484746449.01.LZZZZZZZ.jpg",
+    "record_type": "library_book",
+    "source_label": "Grace Balloch Memorial Library"
+  },
+  {
+    "url": "https://spearfish.blackhills.bywatersolutions.com/cgi-bin/koha/opac-detail.pl?biblionumber=444861",
+    "title": "Moon rising",
+    "image_url": "https://images-na.ssl-images-amazon.com/images/P/1338730908.01.LZZZZZZZ.jpg",
+    "record_type": "library_book",
+    "source_label": "Grace Balloch Memorial Library"
+  },
+  {
+    "url": "https://spearfish.blackhills.bywatersolutions.com/cgi-bin/koha/opac-detail.pl?biblionumber=110733",
+    "title": "Percy Jackson's Greek gods",
+    "image_url": "https://images-na.ssl-images-amazon.com/images/P/1423183649.01.LZZZZZZZ.jpg",
+    "record_type": "library_book",
+    "source_label": "Grace Balloch Memorial Library"
+  },
+  {
+    "url": "https://spearfish.blackhills.bywatersolutions.com/cgi-bin/koha/opac-detail.pl?biblionumber=505501",
+    "title": "The end of the world as we know it",
+    "image_url": "https://images-na.ssl-images-amazon.com/images/P/1668057557.01.LZZZZZZZ.jpg",
+    "record_type": "library_book",
+    "source_label": "Grace Balloch Memorial Library"
+  },
+  {
+    "url": "https://spearfish.blackhills.bywatersolutions.com/cgi-bin/koha/opac-detail.pl?biblionumber=117284",
+    "title": "Queen of shadows",
+    "image_url": "https://images-na.ssl-images-amazon.com/images/P/1619636042.01.LZZZZZZZ.jpg",
+    "record_type": "library_book",
+    "source_label": "Grace Balloch Memorial Library"
+  },
+  {
+    "url": "https://spearfish.blackhills.bywatersolutions.com/cgi-bin/koha/opac-detail.pl?biblionumber=81277",
+    "title": "One piece.",
+    "image_url": "https://images-na.ssl-images-amazon.com/images/P/1591166152.01.LZZZZZZZ.jpg",
+    "record_type": "library_book",
+    "source_label": "Grace Balloch Memorial Library"
+  },
+  {
+    "url": "https://spearfish.blackhills.bywatersolutions.com/cgi-bin/koha/opac-detail.pl?biblionumber=290323",
+    "title": "One Piece",
+    "image_url": "https://images-na.ssl-images-amazon.com/images/P/1421506653.01.LZZZZZZZ.jpg",
+    "record_type": "library_book",
+    "source_label": "Grace Balloch Memorial Library"
+  },
+  {
+    "url": "https://spearfish.blackhills.bywatersolutions.com/cgi-bin/koha/opac-detail.pl?biblionumber=168825",
+    "title": "The lost heir",
+    "image_url": "https://images-na.ssl-images-amazon.com/images/P/0545349192.01.LZZZZZZZ.jpg",
+    "record_type": "library_book",
+    "source_label": "Grace Balloch Memorial Library"
+  },
+  {
+    "url": "https://spearfish.blackhills.bywatersolutions.com/cgi-bin/koha/opac-detail.pl?biblionumber=166562",
+    "title": "The assassin's blade",
+    "image_url": "https://images-na.ssl-images-amazon.com/images/P/1619633612.01.LZZZZZZZ.jpg",
     "record_type": "library_book",
     "source_label": "Grace Balloch Memorial Library"
   },
@@ -385,226 +399,212 @@
     "source_label": "Grace Balloch Memorial Library"
   },
   {
-    "url": "https://spearfish.blackhills.bywatersolutions.com/cgi-bin/koha/opac-detail.pl?biblionumber=84001",
-    "title": "One Piece",
-    "image_url": "https://images-na.ssl-images-amazon.com/images/P/1421515148.01.LZZZZZZZ.jpg",
+    "url": "https://spearfish.blackhills.bywatersolutions.com/cgi-bin/koha/opac-detail.pl?biblionumber=43530",
+    "title": "Robert Ludlum's Jason Bourne in The Bourne legacy",
+    "image_url": "https://images-na.ssl-images-amazon.com/images/P/0312331754.01.LZZZZZZZ.jpg",
     "record_type": "library_book",
     "source_label": "Grace Balloch Memorial Library"
   },
   {
-    "url": "https://spearfish.blackhills.bywatersolutions.com/cgi-bin/koha/opac-detail.pl?biblionumber=461392",
-    "title": "Claudia and the bad joke",
-    "image_url": "https://images-na.ssl-images-amazon.com/images/P/1338835513.01.LZZZZZZZ.jpg",
+    "url": "https://spearfish.blackhills.bywatersolutions.com/cgi-bin/koha/opac-detail.pl?biblionumber=32270",
+    "title": "Hissy Fit",
+    "image_url": "https://images-na.ssl-images-amazon.com/images/P/0060564644.01.LZZZZZZZ.jpg",
     "record_type": "library_book",
     "source_label": "Grace Balloch Memorial Library"
   },
   {
-    "url": "https://spearfish.blackhills.bywatersolutions.com/cgi-bin/koha/opac-detail.pl?biblionumber=400355",
-    "title": "The paper palace",
-    "image_url": "https://images-na.ssl-images-amazon.com/images/P/0593329821.01.LZZZZZZZ.jpg",
+    "url": "https://spearfish.blackhills.bywatersolutions.com/cgi-bin/koha/opac-detail.pl?biblionumber=93617",
+    "title": "The storyteller",
+    "image_url": "https://images-na.ssl-images-amazon.com/images/P/1439102767.01.LZZZZZZZ.jpg",
     "record_type": "library_book",
     "source_label": "Grace Balloch Memorial Library"
   },
   {
-    "url": "https://spearfish.blackhills.bywatersolutions.com/cgi-bin/koha/opac-detail.pl?biblionumber=226855",
-    "title": "Druids",
-    "image_url": "https://images-na.ssl-images-amazon.com/images/P/0688088198.01.LZZZZZZZ.jpg",
+    "url": "https://spearfish.blackhills.bywatersolutions.com/cgi-bin/koha/opac-detail.pl?biblionumber=496746",
+    "title": "Broken country",
+    "image_url": "https://images-na.ssl-images-amazon.com/images/P/166807818X.01.LZZZZZZZ.jpg",
     "record_type": "library_book",
     "source_label": "Grace Balloch Memorial Library"
   },
   {
-    "url": "https://spearfish.blackhills.bywatersolutions.com/cgi-bin/koha/opac-detail.pl?biblionumber=198757",
-    "title": "The bone labyrinth",
-    "image_url": "https://images-na.ssl-images-amazon.com/images/P/0062381644.01.LZZZZZZZ.jpg",
+    "url": "https://spearfish.blackhills.bywatersolutions.com/cgi-bin/koha/opac-detail.pl?biblionumber=334243",
+    "title": "A magical beginning",
+    "image_url": "https://images-na.ssl-images-amazon.com/images/P/0545928907.01.LZZZZZZZ.jpg",
     "record_type": "library_book",
     "source_label": "Grace Balloch Memorial Library"
   },
   {
-    "url": "https://spearfish.blackhills.bywatersolutions.com/cgi-bin/koha/opac-detail.pl?biblionumber=339235",
-    "title": "Hippie",
-    "image_url": "https://images-na.ssl-images-amazon.com/images/P/0525655611.01.LZZZZZZZ.jpg",
+    "url": "https://spearfish.blackhills.bywatersolutions.com/cgi-bin/koha/opac-detail.pl?biblionumber=473207",
+    "title": "Funny story",
+    "image_url": "https://images-na.ssl-images-amazon.com/images/P/0593441281.01.LZZZZZZZ.jpg",
     "record_type": "library_book",
     "source_label": "Grace Balloch Memorial Library"
   },
   {
-    "url": "https://spearfish.blackhills.bywatersolutions.com/cgi-bin/koha/opac-detail.pl?biblionumber=226588",
-    "title": "The tale of two bad mice",
-    "image_url": "https://images-na.ssl-images-amazon.com/images/P/0723234647.01.LZZZZZZZ.jpg",
+    "url": "https://spearfish.blackhills.bywatersolutions.com/cgi-bin/koha/opac-detail.pl?biblionumber=228559",
+    "title": "Ralph the rabbit",
+    "image_url": "https://images-na.ssl-images-amazon.com/images/P/0752546309.01.LZZZZZZZ.jpg",
     "record_type": "library_book",
     "source_label": "Grace Balloch Memorial Library"
   },
   {
-    "url": "https://spearfish.blackhills.bywatersolutions.com/cgi-bin/koha/opac-detail.pl?biblionumber=99408",
-    "title": "The Final Cut",
-    "image_url": "https://images-na.ssl-images-amazon.com/images/P/0399164731.01.LZZZZZZZ.jpg",
+    "url": "https://spearfish.blackhills.bywatersolutions.com/cgi-bin/koha/opac-detail.pl?biblionumber=116516",
+    "title": "Palace of treason",
+    "image_url": "https://images-na.ssl-images-amazon.com/images/P/1476793743.01.LZZZZZZZ.jpg",
     "record_type": "library_book",
     "source_label": "Grace Balloch Memorial Library"
   },
   {
-    "url": "https://spearfish.blackhills.bywatersolutions.com/cgi-bin/koha/opac-detail.pl?biblionumber=13226",
-    "title": "Galilee",
-    "image_url": "https://images-na.ssl-images-amazon.com/images/P/0060179473.01.LZZZZZZZ.jpg",
+    "url": "https://spearfish.blackhills.bywatersolutions.com/cgi-bin/koha/opac-detail.pl?biblionumber=231635",
+    "title": "Justice League. Meet the Justice League",
+    "image_url": "https://images-na.ssl-images-amazon.com/images/P/0062210025.01.LZZZZZZZ.jpg",
     "record_type": "library_book",
     "source_label": "Grace Balloch Memorial Library"
   },
   {
-    "url": "https://spearfish.blackhills.bywatersolutions.com/cgi-bin/koha/opac-detail.pl?biblionumber=151882",
-    "title": "Obsession",
-    "image_url": "https://images-na.ssl-images-amazon.com/images/P/0345452631.01.LZZZZZZZ.jpg",
+    "url": "https://spearfish.blackhills.bywatersolutions.com/cgi-bin/koha/opac-detail.pl?biblionumber=5935",
+    "title": "Christmas stalkings",
+    "image_url": "https://images-na.ssl-images-amazon.com/images/P/0816155763.01.LZZZZZZZ.jpg",
     "record_type": "library_book",
     "source_label": "Grace Balloch Memorial Library"
   },
   {
-    "url": "https://spearfish.blackhills.bywatersolutions.com/cgi-bin/koha/opac-detail.pl?biblionumber=228140",
-    "title": "Copper Hill",
-    "image_url": "https://images-na.ssl-images-amazon.com/images/P/0786218053.01.LZZZZZZZ.jpg",
+    "url": "https://spearfish.blackhills.bywatersolutions.com/cgi-bin/koha/opac-detail.pl?biblionumber=411912",
+    "title": "Wahala",
+    "image_url": "https://images-na.ssl-images-amazon.com/images/P/0063084244.01.LZZZZZZZ.jpg",
     "record_type": "library_book",
     "source_label": "Grace Balloch Memorial Library"
   },
   {
-    "url": "https://spearfish.blackhills.bywatersolutions.com/cgi-bin/koha/opac-detail.pl?biblionumber=20829",
-    "title": "Minnie and Moo Meet Frankenswine",
-    "image_url": "https://images-na.ssl-images-amazon.com/images/P/0066237483.01.LZZZZZZZ.jpg",
+    "url": "https://spearfish.blackhills.bywatersolutions.com/cgi-bin/koha/opac-detail.pl?biblionumber=174088",
+    "title": "Squanto and the first Thanksgiving",
+    "image_url": "https://images-na.ssl-images-amazon.com/images/P/0817235116.01.LZZZZZZZ.jpg",
     "record_type": "library_book",
     "source_label": "Grace Balloch Memorial Library"
   },
   {
-    "url": "https://spearfish.blackhills.bywatersolutions.com/cgi-bin/koha/opac-detail.pl?biblionumber=228495",
-    "title": "The Next Accident",
-    "image_url": "https://images-na.ssl-images-amazon.com/images/P/0553802380.01.LZZZZZZZ.jpg",
+    "url": "https://spearfish.blackhills.bywatersolutions.com/cgi-bin/koha/opac-detail.pl?biblionumber=48793",
+    "title": "False impression",
+    "image_url": "https://images-na.ssl-images-amazon.com/images/P/0312353723.01.LZZZZZZZ.jpg",
     "record_type": "library_book",
     "source_label": "Grace Balloch Memorial Library"
   },
   {
-    "url": "https://spearfish.blackhills.bywatersolutions.com/cgi-bin/koha/opac-detail.pl?biblionumber=298557",
-    "title": "Mia and the too big tutu",
-    "image_url": "https://images-na.ssl-images-amazon.com/images/P/0061733024.01.LZZZZZZZ.jpg",
+    "url": "https://spearfish.blackhills.bywatersolutions.com/cgi-bin/koha/opac-detail.pl?biblionumber=75761",
+    "title": "Santa Fe edge",
+    "image_url": "https://images-na.ssl-images-amazon.com/images/P/0399156917.01.LZZZZZZZ.jpg",
     "record_type": "library_book",
     "source_label": "Grace Balloch Memorial Library"
   },
   {
-    "url": "https://spearfish.blackhills.bywatersolutions.com/cgi-bin/koha/opac-detail.pl?biblionumber=152392",
-    "title": "Carved in bone",
-    "image_url": "https://images-na.ssl-images-amazon.com/images/P/006075981X.01.LZZZZZZZ.jpg",
+    "url": "https://spearfish.blackhills.bywatersolutions.com/cgi-bin/koha/opac-detail.pl?biblionumber=226777",
+    "title": "The dressed up book",
+    "image_url": "https://images-na.ssl-images-amazon.com/images/P/1550371037.01.LZZZZZZZ.jpg",
     "record_type": "library_book",
     "source_label": "Grace Balloch Memorial Library"
   },
   {
-    "url": "https://spearfish.blackhills.bywatersolutions.com/cgi-bin/koha/opac-detail.pl?biblionumber=227502",
-    "title": "Grandfather's Trolley",
-    "image_url": "https://images-na.ssl-images-amazon.com/images/P/1564026337.01.LZZZZZZZ.jpg",
+    "url": "https://spearfish.blackhills.bywatersolutions.com/cgi-bin/koha/opac-detail.pl?biblionumber=422648",
+    "title": "The Usborne Internet-linked first thousand words in Spanish",
+    "image_url": "https://images-na.ssl-images-amazon.com/images/P/0794530613.01.LZZZZZZZ.jpg",
     "record_type": "library_book",
     "source_label": "Grace Balloch Memorial Library"
   },
   {
-    "url": "https://spearfish.blackhills.bywatersolutions.com/cgi-bin/koha/opac-detail.pl?biblionumber=100380",
-    "title": "The day the crayons quit",
-    "image_url": "https://images-na.ssl-images-amazon.com/images/P/0399255370.01.LZZZZZZZ.jpg",
+    "url": "https://spearfish.blackhills.bywatersolutions.com/cgi-bin/koha/opac-detail.pl?biblionumber=520315",
+    "title": "Derringer",
+    "image_url": "",
     "record_type": "library_book",
     "source_label": "Grace Balloch Memorial Library"
   },
   {
-    "url": "https://spearfish.blackhills.bywatersolutions.com/cgi-bin/koha/opac-detail.pl?biblionumber=379091",
-    "title": "How do dinosaurs say happy birthday?",
-    "image_url": "https://images-na.ssl-images-amazon.com/images/P/0545153530.01.LZZZZZZZ.jpg",
+    "url": "https://spearfish.blackhills.bywatersolutions.com/cgi-bin/koha/opac-detail.pl?biblionumber=519630",
+    "title": "Piece by Piece: How Stephen Sondheim Made Musical Puzzles Come Alive.",
+    "image_url": "https://images-na.ssl-images-amazon.com/images/P/1662680953.01.LZZZZZZZ.jpg",
     "record_type": "library_book",
     "source_label": "Grace Balloch Memorial Library"
   },
   {
-    "url": "https://spearfish.blackhills.bywatersolutions.com/cgi-bin/koha/opac-detail.pl?biblionumber=519628",
-    "title": "Diamond Fever!: A True Crime Story in the Wild West.",
-    "image_url": "https://images-na.ssl-images-amazon.com/images/P/1250265746.01.LZZZZZZZ.jpg",
+    "url": "https://spearfish.blackhills.bywatersolutions.com/cgi-bin/koha/opac-detail.pl?biblionumber=520029",
+    "title": "The better mother",
+    "image_url": "",
     "record_type": "library_book",
     "source_label": "Grace Balloch Memorial Library"
   },
   {
-    "url": "https://spearfish.blackhills.bywatersolutions.com/cgi-bin/koha/opac-detail.pl?biblionumber=519604",
-    "title": "No way never sisters",
-    "image_url": "https://images-na.ssl-images-amazon.com/images/P/1665974125.01.LZZZZZZZ.jpg",
+    "url": "https://spearfish.blackhills.bywatersolutions.com/cgi-bin/koha/opac-detail.pl?biblionumber=351120",
+    "title": "Attack of the clones",
+    "image_url": "https://images-na.ssl-images-amazon.com/images/P/0756686954.01.LZZZZZZZ.jpg",
     "record_type": "library_book",
     "source_label": "Grace Balloch Memorial Library"
   },
   {
-    "url": "https://spearfish.blackhills.bywatersolutions.com/cgi-bin/koha/opac-detail.pl?biblionumber=516521",
-    "title": "Pomona Afton Can Totally Catch a Killer",
-    "image_url": "https://images-na.ssl-images-amazon.com/images/P/1668075687.01.LZZZZZZZ.jpg",
+    "url": "https://spearfish.blackhills.bywatersolutions.com/cgi-bin/koha/opac-detail.pl?biblionumber=520055",
+    "title": "Dragon girl and the awakened flames",
+    "image_url": "https://images-na.ssl-images-amazon.com/images/P/1464254044.01.LZZZZZZZ.jpg",
     "record_type": "library_book",
     "source_label": "Grace Balloch Memorial Library"
   },
   {
-    "url": "https://spearfish.blackhills.bywatersolutions.com/cgi-bin/koha/opac-detail.pl?biblionumber=519622",
-    "title": "Bug Ego, Vol. 1",
-    "image_url": "https://images-na.ssl-images-amazon.com/images/P/1974762645.01.LZZZZZZZ.jpg",
+    "url": "https://spearfish.blackhills.bywatersolutions.com/cgi-bin/koha/opac-detail.pl?biblionumber=519648",
+    "title": "Love more, fight less",
+    "image_url": "https://images-na.ssl-images-amazon.com/images/P/0593196651.01.LZZZZZZZ.jpg",
     "record_type": "library_book",
     "source_label": "Grace Balloch Memorial Library"
   },
   {
-    "url": "https://spearfish.blackhills.bywatersolutions.com/cgi-bin/koha/opac-detail.pl?biblionumber=520045",
-    "title": "The neon sky",
-    "image_url": "https://images-na.ssl-images-amazon.com/images/P/0316574988.01.LZZZZZZZ.jpg",
+    "url": "https://spearfish.blackhills.bywatersolutions.com/cgi-bin/koha/opac-detail.pl?biblionumber=500673",
+    "title": "Theo of golden",
+    "image_url": "",
     "record_type": "library_book",
     "source_label": "Grace Balloch Memorial Library"
   },
   {
-    "url": "https://spearfish.blackhills.bywatersolutions.com/cgi-bin/koha/opac-detail.pl?biblionumber=520512",
-    "title": "Shrinking Violet",
-    "image_url": "https://images-na.ssl-images-amazon.com/images/P/1797200720.01.LZZZZZZZ.jpg",
+    "url": "https://spearfish.blackhills.bywatersolutions.com/cgi-bin/koha/opac-detail.pl?biblionumber=520100",
+    "title": "Making plans for Nigel Binty",
+    "image_url": "https://images-na.ssl-images-amazon.com/images/P/1682635880.01.LZZZZZZZ.jpg",
     "record_type": "library_book",
     "source_label": "Grace Balloch Memorial Library"
   },
   {
-    "url": "https://spearfish.blackhills.bywatersolutions.com/cgi-bin/koha/opac-detail.pl?biblionumber=520507",
-    "title": "Chasing shadows",
-    "image_url": "https://images-na.ssl-images-amazon.com/images/P/006335716X.01.LZZZZZZZ.jpg",
+    "url": "https://spearfish.blackhills.bywatersolutions.com/cgi-bin/koha/opac-detail.pl?biblionumber=520054",
+    "title": "Styx and stones",
+    "image_url": "https://images-na.ssl-images-amazon.com/images/P/0063380978.01.LZZZZZZZ.jpg",
     "record_type": "library_book",
     "source_label": "Grace Balloch Memorial Library"
   },
   {
-    "url": "https://spearfish.blackhills.bywatersolutions.com/cgi-bin/koha/opac-detail.pl?biblionumber=476424",
-    "title": "Pizza face",
-    "image_url": "https://images-na.ssl-images-amazon.com/images/P/133857504X.01.LZZZZZZZ.jpg",
+    "url": "https://spearfish.blackhills.bywatersolutions.com/cgi-bin/koha/opac-detail.pl?biblionumber=515026",
+    "title": "The night we met",
+    "image_url": "https://images-na.ssl-images-amazon.com/images/P/1538780798.01.LZZZZZZZ.jpg",
     "record_type": "library_book",
     "source_label": "Grace Balloch Memorial Library"
   },
   {
-    "url": "https://spearfish.blackhills.bywatersolutions.com/cgi-bin/koha/opac-detail.pl?biblionumber=519154",
-    "title": "Elizabeth Cady Stanton",
-    "image_url": "https://images-na.ssl-images-amazon.com/images/P/1541647513.01.LZZZZZZZ.jpg",
+    "url": "https://spearfish.blackhills.bywatersolutions.com/cgi-bin/koha/opac-detail.pl?biblionumber=519174",
+    "title": "The good shepherd and the stubborn sheep",
+    "image_url": "https://images-na.ssl-images-amazon.com/images/P/0310161495.01.LZZZZZZZ.jpg",
     "record_type": "library_book",
     "source_label": "Grace Balloch Memorial Library"
   },
   {
-    "url": "https://spearfish.blackhills.bywatersolutions.com/cgi-bin/koha/opac-detail.pl?biblionumber=492047",
-    "title": "Diabetes cookbook & meal plan for the newly diagnosed",
-    "image_url": "https://images-na.ssl-images-amazon.com/images/P/164152023X.01.LZZZZZZZ.jpg",
+    "url": "https://spearfish.blackhills.bywatersolutions.com/cgi-bin/koha/opac-detail.pl?biblionumber=516092",
+    "title": "Hikaru in the light!",
+    "image_url": "https://images-na.ssl-images-amazon.com/images/P/1546141057.01.LZZZZZZZ.jpg",
     "record_type": "library_book",
     "source_label": "Grace Balloch Memorial Library"
   },
   {
-    "url": "https://spearfish.blackhills.bywatersolutions.com/cgi-bin/koha/opac-detail.pl?biblionumber=519810",
-    "title": "Storey's guide to raising dairy goats",
-    "image_url": "https://images-na.ssl-images-amazon.com/images/P/1603425802.01.LZZZZZZZ.jpg",
+    "url": "https://spearfish.blackhills.bywatersolutions.com/cgi-bin/koha/opac-detail.pl?biblionumber=516526",
+    "title": "The best little motel in Texas",
+    "image_url": "https://images-na.ssl-images-amazon.com/images/P/0063469324.01.LZZZZZZZ.jpg",
     "record_type": "library_book",
     "source_label": "Grace Balloch Memorial Library"
   },
   {
-    "url": "https://spearfish.blackhills.bywatersolutions.com/cgi-bin/koha/opac-detail.pl?biblionumber=519471",
-    "title": "Heir of illusion",
-    "image_url": "https://images-na.ssl-images-amazon.com/images/P/1638934444.01.LZZZZZZZ.jpg",
-    "record_type": "library_book",
-    "source_label": "Grace Balloch Memorial Library"
-  },
-  {
-    "url": "https://spearfish.blackhills.bywatersolutions.com/cgi-bin/koha/opac-detail.pl?biblionumber=520513",
-    "title": "Honor flight",
-    "image_url": "https://images-na.ssl-images-amazon.com/images/P/1536230154.01.LZZZZZZZ.jpg",
-    "record_type": "library_book",
-    "source_label": "Grace Balloch Memorial Library"
-  },
-  {
-    "url": "https://spearfish.blackhills.bywatersolutions.com/cgi-bin/koha/opac-detail.pl?biblionumber=517909",
-    "title": "The New Girl: First Crush: A Graphic Novel (the New Girl #2)",
-    "image_url": "https://images-na.ssl-images-amazon.com/images/P/1338762494.01.LZZZZZZZ.jpg",
+    "url": "https://spearfish.blackhills.bywatersolutions.com/cgi-bin/koha/opac-detail.pl?biblionumber=520280",
+    "title": "Devious prey",
+    "image_url": "https://images-na.ssl-images-amazon.com/images/P/1665978937.01.LZZZZZZZ.jpg",
     "record_type": "library_book",
     "source_label": "Grace Balloch Memorial Library"
   }
