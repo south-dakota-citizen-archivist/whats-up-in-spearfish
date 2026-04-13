@@ -745,9 +745,21 @@ def load_danr_spills() -> dict:
         return {}
     cutoff = (date.today() - timedelta(days=30)).isoformat()
     all_records = raw.get("new_records") or []
+
+    def _spill_sort_key(r):
+        # id_raw is stored as a float; regular spills use YYYY.NNN (e.g. 2026.044)
+        # while ATP cleanup records use large integer IDs (e.g. 2024011.0).
+        # Sort regular spills newest-first; push non-standard IDs to the bottom.
+        raw = float(r.get("id_raw") or 0)
+        year = int(raw)
+        seq = raw - year
+        if year < 1900 or year > 2100:  # non-standard ID (ATP/withdrawn/future) — sort last
+            return (0, 0)
+        return (year, seq)
+
     records = sorted(
         [r for r in all_records if (r.get("first_seen") or "") >= cutoff],
-        key=lambda r: r.get("first_seen") or "",
+        key=_spill_sort_key,
         reverse=True,
     )[:100]
     print(f"[build] DANR spills: {len(records)} record(s) (capped at 100, past 30 days)")
