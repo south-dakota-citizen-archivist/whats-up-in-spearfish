@@ -19,15 +19,6 @@
   },
   {
     "url": "https://leonescreamery.com/flavors",
-    "image_url": "https://leonescreamery.com/images/uploads/cropped/0AAC4A34-E741-4CFE-95F6-0ABD152D7FF0-176-1526843464.jpg",
-    "title": "Cherry Chip",
-    "slug": "cherry-chip",
-    "description": "Sweet, nostalgic cherry ice cream, chock-full of mini chocolate chips",
-    "record_type": "flavor",
-    "source_label": "Leone's Creamery"
-  },
-  {
-    "url": "https://leonescreamery.com/flavors",
     "image_url": "https://leonescreamery.com/images/uploads/cropped/0025C9FF-7582-4168-89E7-6A0E60B07F41-239-1535075972.jpg",
     "title": "Chocolate Kit Kat",
     "slug": "chocolate-kit-kat",
@@ -37,10 +28,10 @@
   },
   {
     "url": "https://leonescreamery.com/flavors",
-    "image_url": "https://leonescreamery.com/images/uploads/cropped/IMG_3467-472-1775837429.jpg",
-    "title": "Tiramisu",
-    "slug": "tiramisu",
-    "description": "We made you a mascarpone and espresso ice cream, and swirled in a batch of our housemade tiramisu!",
+    "image_url": "https://leonescreamery.com/images/uploads/cropped/D333DDE8-4B8B-4FCE-BB44-7284B95F20B9-197-1528419924.jpg",
+    "title": "Peanut Butter M&M",
+    "slug": "peanut-butter-m-m",
+    "description": "",
     "record_type": "flavor",
     "source_label": "Leone's Creamery"
   },
@@ -59,6 +50,15 @@
     "title": "Lemon Poppy Seed",
     "slug": "lemon-poppy-seed",
     "description": "A Leones' Creamery classic! Sweet, lemony ice cream that tastes JUST like one of our favorite pound cakes.",
+    "record_type": "flavor",
+    "source_label": "Leone's Creamery"
+  },
+  {
+    "url": "https://leonescreamery.com/flavors",
+    "image_url": "https://leonescreamery.com/images/uploads/cropped/0AAC4A34-E741-4CFE-95F6-0ABD152D7FF0-176-1526843464.jpg",
+    "title": "Cherry Chip",
+    "slug": "cherry-chip",
+    "description": "Sweet, nostalgic cherry ice cream, chock-full of mini chocolate chips",
     "record_type": "flavor",
     "source_label": "Leone's Creamery"
   },

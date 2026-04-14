@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-04-13T17:57:44.010772+00:00",
+  "fetched_at": "2026-04-14T18:02:37.273263+00:00",
   "records": [
     {
       "id": 11764,
@@ -522,7 +522,7 @@
       "status": 1,
       "date_created": "2026-03-09T17:10:40.236Z",
       "date_submitted": "2026-03-09T17:15:52.000Z",
-      "last_updated": "2026-03-24T13:38:59.000Z",
+      "last_updated": "2026-04-14T14:32:28.000Z",
       "address": "701 5th  St, Spearfish, SD 57783",
       "lat": 44.490008,
       "lon": -103.860837,
@@ -586,7 +586,7 @@
       "status": 1,
       "date_created": "2026-03-05T22:22:32.147Z",
       "date_submitted": "2026-03-05T22:25:19.000Z",
-      "last_updated": "2026-03-09T15:15:56.000Z",
+      "last_updated": "2026-04-14T14:31:31.000Z",
       "address": "",
       "lat": null,
       "lon": null,
@@ -810,7 +810,7 @@
       "status": 1,
       "date_created": "2026-02-10T23:11:38.962Z",
       "date_submitted": "2026-02-11T14:31:12.000Z",
-      "last_updated": "2026-04-13T15:08:24.000Z",
+      "last_updated": "2026-04-13T19:29:25.000Z",
       "address": "",
       "lat": 44.478439,
       "lon": -103.730281,
@@ -1802,7 +1802,7 @@
       "status": 1,
       "date_created": "2025-11-14T18:59:20.100Z",
       "date_submitted": "2025-11-14T19:13:40.000Z",
-      "last_updated": "2026-03-25T19:56:21.000Z",
+      "last_updated": "2026-04-14T15:24:18.000Z",
       "address": "545 W JACKSON BLVD, SPEARFISH, SD 57783",
       "lat": 44.489902,
       "lon": -103.86679,

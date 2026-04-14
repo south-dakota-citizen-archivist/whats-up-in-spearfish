@@ -1456,5 +1456,35 @@
     "description": "The federal government has eliminated a Biden-era program aimed at helping new or minority farmers learn the business and get some money to jumpstart their careers.",
     "record_type": "news",
     "source_label": "SD Newswatch"
+  },
+  {
+    "url": "https://www.sdnewswatch.org/fact-brief-black-elk-peak-rocky-mountains-alps/",
+    "title": "Fact brief: Is Black Elk Peak the highest point between the Rockies and the Alps?",
+    "slug": "sd-newswatch-fact-brief-is-black-elk-peak-the-highest-point-between-the-rockies",
+    "published": "2026-04-14",
+    "byline": "Michael Klinski",
+    "description": "Black Elk Peak, which was officially named Harney Peak until 2016, is 7,231 feet above sea level.",
+    "record_type": "news",
+    "source_label": "SD Newswatch"
+  },
+  {
+    "url": "https://southdakotasearchlight.com/2026/04/13/three-candidates-pledge-changes-on-medicaid-ag-taxes-and-education-while-governor-touts-results/",
+    "title": "Three candidates pledge changes on Medicaid, ag, taxes and education while governor touts results",
+    "slug": "south-dakota-searchlight-three-candidates-pledge-changes-on-medicaid-ag-taxes",
+    "published": "2026-04-14",
+    "byline": "Joshua Haiar, Seth Tupper",
+    "description": "SIOUX FALLS — Three men who want to be governor of South Dakota vowed to do things differently than the current administration on topics including Medicaid, agriculture, taxes and education, while the governor said his results justify keeping him in the job. The four candidates for the Republican nomination met in their second televised debate [&#8230;]",
+    "record_type": "news",
+    "source_label": "South Dakota Searchlight"
+  },
+  {
+    "url": "https://southdakotasearchlight.com/briefs/black-hills-uranium-exploration-permit-hearing-postponed-to-may/",
+    "title": "Black Hills uranium exploration permit hearing postponed to May",
+    "slug": "south-dakota-searchlight-black-hills-uranium-exploration-permit-hearing-to-may",
+    "published": "2026-04-13",
+    "byline": "Meghan O'Brien",
+    "description": "A public hearing about an application to explore underground for uranium in the Black Hills has been rescheduled to May 18 through May 22. The hearing will take place in Hot Springs at the Mueller Civic Center. It had previously been scheduled for this week but was postponed. In March 2024, Clean Nuclear Energy Corporation and [&#8230;]",
+    "record_type": "news",
+    "source_label": "South Dakota Searchlight"
   }
 ]

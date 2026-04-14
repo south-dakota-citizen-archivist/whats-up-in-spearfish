@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-04-13T18:00:36.422349+00:00",
+  "fetched_at": "2026-04-14T18:05:46.479183+00:00",
   "cases": [
     {
       "ccid": "123",
@@ -9,6 +9,14 @@
       "description": "Proposed uranium exploration project seven miles north of Edgemont, SD.  Up to 50 holes will be drilled to a maximum vertical depth of 700 feet.  In addition, 50 drill platforms will be created with a dimension of 60 feet by 60 feet.  Exploration will be conducted using reverse circulation drilling with sumps.",
       "docs_url": "https://danr.sd.gov/public/ccdocs.aspx?CCID=CCID123",
       "documents": [
+        {
+          "label": "April 13, 2026 Notice of Hearing for Clean Nuclear Energy's Uranium Exploration Permit Application to Intervening Parties",
+          "url": "https://danr.sd.gov/Environment/MineralsMining/Exploration/docs/41326NoticeofHearingtoParties.pdf"
+        },
+        {
+          "label": "April 13, 2026 Notice of Unavailability of Steven Gunn from May 13 Through 15, 2026 for any potential Board of Minerals and Environment Hearing on Clean Nuclear Energy's Uranium Exploration Permit Application",
+          "url": "https://danr.sd.gov/Environment/MineralsMining/Exploration/docs/41326GunnNoticeofUnavailability.pdf"
+        },
         {
           "label": "April 8, 2026 DANR Notice of Filing of Sealed Report Which Includes Unredacted Versions of State Historical Preservation Office and Archaeological Research Center Reports",
           "url": "https://danr.sd.gov/Environment/MineralsMining/Exploration/docs/4826DANRNoticeSealedFiling.pdf"
@@ -20,17 +28,9 @@
         {
           "label": "April 7, 2026 Notice of Postponement of April 13 through 17, 2026 Hearing on Clean Nuclear Energy's Uranium Exploration Permit Application",
           "url": "https://danr.sd.gov/Environment/MineralsMining/Exploration/docs/CleanNuclearNOTICEOFPOSTPONEMENT.pdf"
-        },
-        {
-          "label": "March 23, 2026 Additional Clean Nuclear Energy Hearing Exhibits Submitted by Lilias Jarding",
-          "url": "https://danr.sd.gov/Environment/MineralsMining/Exploration/docs/032326JardingExhibits.pdf"
-        },
-        {
-          "label": "March 5 and 6, 2026 Signed Protective Order Acknowledgements Submitted by Jeremiah J. Davis, George Nelson, and Linea Sundstrom",
-          "url": "https://danr.sd.gov/Environment/MineralsMining/Exploration/docs/ProtectiveOrderAcknowledgments.pdf"
         }
       ],
-      "total_docs": 86,
+      "total_docs": 88,
       "latest_doc_date": "0000-00-00"
     },
     {
@@ -158,6 +158,10 @@
       "docs_url": "https://danr.sd.gov/public/ccdocs.aspx?CCID=CCID129",
       "documents": [
         {
+          "label": "Response to Motion to Dismiss a Petitioner - Abarca",
+          "url": "https://danr.sd.gov/wrimage/pub/8991-3_Abarca.pdf"
+        },
+        {
           "label": "Filings Submitted by Counsel for Chief Engineer",
           "url": "https://danr.sd.gov/wrimage/pub/8991-3_mot_con_SO.pdf"
         },
@@ -172,13 +176,9 @@
         {
           "label": "Notice of Hearing",
           "url": "https://danr.sd.gov/wrimage/pub/8991-3_not2.pdf"
-        },
-        {
-          "label": "Comments",
-          "url": "https://danr.sd.gov/wrimage/pub/8991-3_com.pdf"
         }
       ],
-      "total_docs": 11,
+      "total_docs": 12,
       "latest_doc_date": "0000-00-00"
     },
     {

@@ -20750,5 +20750,53 @@
     "status": "CONFIRMED",
     "record_type": "event",
     "source_label": "Spearfish HS Sports"
+  },
+  {
+    "uid": "h202506110736506911a650136a96c4d",
+    "url": "https://gobound.com/direct/comps/h202506110736506911a650136a96c4d/show",
+    "title": "Girls Golf: Spearfish Invitational (Varsity)",
+    "slug": "girls-golf-spearfish-invitational-varsity",
+    "sport": "Girls Golf",
+    "level": "Varsity",
+    "sex": "female",
+    "description": "Varsity Girls Golf - Spearfish Invitational",
+    "start_dt": "2027-04-13T16:00:00",
+    "end_dt": "",
+    "location": "Spearfish Canyon Country Club",
+    "status": "CONFIRMED",
+    "record_type": "event",
+    "source_label": "Spearfish HS Sports"
+  },
+  {
+    "uid": "h20260130054746485d2d22ff04d5248",
+    "url": "https://gobound.com/direct/comps/h20260130054746485d2d22ff04d5248/show",
+    "title": "Boys Track & Field: Spearfish JV Invite (Junior Varsity)",
+    "slug": "boys-track-field-spearfish-jv-invite-junior-varsity",
+    "sport": "Boys Track & Field",
+    "level": "Junior Varsity",
+    "sex": "male",
+    "description": "Junior Varsity Boys Track & Field - Spearfish JV Invite",
+    "start_dt": "2027-04-13T17:00:00",
+    "end_dt": "2027-04-13T23:00:00",
+    "location": "Lyle Hare Stadium Lyle Hare Stadium",
+    "status": "CONFIRMED",
+    "record_type": "event",
+    "source_label": "Spearfish HS Sports"
+  },
+  {
+    "uid": "h202601300547220907dea22b9e7cf47",
+    "url": "https://gobound.com/direct/comps/h202601300547220907dea22b9e7cf47/show",
+    "title": "Girls Track & Field: Spearfish JV Invite (Junior Varsity)",
+    "slug": "girls-track-field-spearfish-jv-invite-junior-varsity",
+    "sport": "Girls Track & Field",
+    "level": "Junior Varsity",
+    "sex": "female",
+    "description": "Junior Varsity Girls Track & Field - Spearfish JV Invite",
+    "start_dt": "2027-04-13T17:00:00",
+    "end_dt": "2027-04-13T23:00:00",
+    "location": "Lyle Hare Stadium Lyle Hare Stadium",
+    "status": "CONFIRMED",
+    "record_type": "event",
+    "source_label": "Spearfish HS Sports"
   }
 ]

@@ -284,5 +284,49 @@
     "image_url": "https://npr.brightspotcdn.com/legacy/prod/filer_public/kusd-bento-live-pbs/Entertainment%20Blog/Melissa%20Sievers/Chickens/95bde5f43c_3%20Chickens.jpg",
     "record_type": "news",
     "source_label": "SDPB"
+  },
+  {
+    "url": "https://www.sdpb.org/politics/2026-04-14/clear-contrasts-in-republican-taxation-policy-highlighted-in-debate",
+    "title": "Clear contrasts in Republican taxation policy highlighted in debate",
+    "slug": "sdpb-clear-contrasts-in-republican-taxation-policy-highlighted-in-debate",
+    "published": "2026-04-14",
+    "byline": "By C.J. Keene",
+    "description": "Taxation drew some of the sharpest contrasts in the SDPB/South Dakota New watch Republican primary debate.",
+    "image_url": "https://npr.brightspotcdn.com/22/20/9b285abf4f12b3f4dd33666913f4/gob-debate.jpg",
+    "record_type": "news",
+    "source_label": "SDPB"
+  },
+  {
+    "url": "https://www.sdpb.org/politics/2026-04-13/2026-republican-gubernatorial-candidate-debate",
+    "title": "2026 Republican Gubernatorial Candidate Debate",
+    "slug": "sdpb-2026-republican-gubernatorial-candidate-debate",
+    "published": "2026-04-13",
+    "byline": "By SDPB Staff, SDPB News Staff",
+    "description": "SDPB News presents the 2026 South Dakota Republican Gubernatorial Candidate Debate.",
+    "image_url": "https://i.ytimg.com/vi/hVCnumpnfj8/hqdefault.jpg",
+    "record_type": "news",
+    "source_label": "SDPB"
+  },
+  {
+    "url": "https://www.sdpb.org/politics/2026-04-13/republicans-distinguish-themselves-in-latest-debate",
+    "title": "Republicans distinguish themselves in latest debate",
+    "slug": "sdpb-republicans-distinguish-themselves-in-latest-debate",
+    "published": "2026-04-14",
+    "byline": "By Lori Walsh",
+    "description": "Four Republican candidates for governor sought to separate themselves from each other in order to woo primary voters. SDPB's Dakota Political Junkies ask: Were any of them successful?",
+    "image_url": "https://npr.brightspotcdn.com/c1/8a/4a1ee3104d89a930ca42658449df/2026-political-junkies-logo-sdpb-1920x1080.png",
+    "record_type": "news",
+    "source_label": "SDPB"
+  },
+  {
+    "url": "https://www.sdpb.org/politics/2026-04-13/sdpb-republican-gubernatorial-debate-offers-insight-into-priorities-before-primaries",
+    "title": "SDPB Republican gubernatorial debate offers insight into priorities before primaries",
+    "slug": "sdpb-sdpb-republican-gubernatorial-debate-offers-insight-into-priorities-before",
+    "published": "2026-04-14",
+    "byline": "By C.J. Keene",
+    "description": "With several candidates vying for governor, each brings their own working philosophy to the table. SDPB’s Republican primary debate dug into their plans of attack on several key policy issues.",
+    "image_url": "https://npr.brightspotcdn.com/0c/51/8f3a22ff4594ac39da4e561e4f1d/debate.png",
+    "record_type": "news",
+    "source_label": "SDPB"
   }
 ]

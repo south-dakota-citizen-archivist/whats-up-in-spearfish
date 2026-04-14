@@ -1249,5 +1249,72 @@
     "category": "Campus Calendar/Events",
     "record_type": "event",
     "source_label": "BHSU Campus Calendar"
+  },
+  {
+    "event_id": "0c931813-fa6c-49ef-b4c6-bc4a37a2762a",
+    "url": "https://bhsu.edu/campus-calendar.html#event-details/0c931813-fa6c-49ef-b4c6-bc4a37a2762a",
+    "title": "JHA Blood Drive - Help Save Lives",
+    "slug": "jha-blood-drive-help-save-lives",
+    "description": "The Jacket Health Association (JHA) is hosting a campus blood drive this Wednesday from 9:00 AM to 3:30 PM. We are encouraging students, faculty, and staff to sign up for a donation appointment or stop by as a walk-in to help support local blood needs and save lives. Appointments can be reserved using the QR code on the official blood drive flyer, and walk-ins are welcome throughout the day as space allows. Every donation can make a direct impact on patients in need, and we would love to see the BHSU community help us reach our donor goal.",
+    "start_dt": "2026-04-15T15:00",
+    "end_dt": "2026-04-15T21:30",
+    "location": "",
+    "image_url": "",
+    "image_alt": "",
+    "organizer": "Dylan Webb",
+    "tags": [
+      "Student Life"
+    ],
+    "featured": false,
+    "ticket_url": "https://donors.vitalant.org/dwp/portal/dwa ",
+    "category": "Campus Calendar/Events",
+    "record_type": "event",
+    "source_label": "BHSU Campus Calendar"
+  },
+  {
+    "event_id": "fda6cbd7-622d-4b47-8559-f3581fe445b7",
+    "url": "https://bhsu.edu/campus-calendar.html#event-details/fda6cbd7-622d-4b47-8559-f3581fe445b7",
+    "title": "Beautify Spearfish - Trash Pick Up Day - St. Joe Street and Spearfish Creek/Rec Path",
+    "slug": "beautify-spearfish-trash-pick-up-day-st-joe-street-and-spearfish-creek-rec-path",
+    "description": "We are joined by The Joy Center, BHSU, and Spearfish 4-H for our first 2026 Trash Clean up! Please join us in keeping Spearfish Beautiful! Why? We have a beautiful community and beautiful planet. We have a responsibility to be kind to our planet so future generations can enjoy her like we do. We need to be the change we want to see in others. 💚 🌎 💙 🌎 💚 This month's Cleanup is Sponsored & Directed by Donald Hlava of United Country Real Estate & Ag Land Brokers. DISTANCE: approx. 1 mile from the starting point for each crew. We will clean both sides of the road. TOTAL MILEAGE CLEANED: 2 PARKING: Meet in The Joy Center parking lot We have some vests to use from the State if you'd like. If not, please wear a bright colored shirt that is easily seen. We will equip children with vests first. After all, they are our future! We will have gloves available along with trash grabbers and hand sanitizer. Buckets are courtesy of TUF Storm Restoration and Quiksigns! Feel free to bring your own gloves, hand sanitizer, and another protective gear you feel is important to your safety. Children must be supervised. Please use your best judgment on the appropriate age for your children to participate. Parents/Legal guardians are the only responsible party for their child/children's safety. Please NO pets at this event. Please respect private property - do not go through fences, open fences, or walk through yards. Thank you to our sponsors for providing the equipment needed to safely collect trash: TUF Storm Restoration QuikSigns",
+    "start_dt": "2026-04-29T23:45",
+    "end_dt": "2026-04-30T01:00",
+    "location": "Joy (Proctor) Krautschun Alumni/Foundation Welcome Center Parking Lot",
+    "image_url": "https://bhsu.edu/_images/images/events/events-images/Beautify.Spearfish.jpg",
+    "image_alt": "Group picture of volunteer participants for Beautify Spearfish trash pick up.",
+    "organizer": "Kanda Guthmiller",
+    "tags": [
+      "Community Event"
+    ],
+    "featured": false,
+    "ticket_url": "",
+    "category": "Campus Calendar/Events",
+    "record_type": "event",
+    "source_label": "BHSU Campus Calendar"
+  },
+  {
+    "event_id": "67e3c57d-a463-4bb9-9aea-0a578fd748b7",
+    "url": "https://bhsu.edu/campus-calendar.html#event-details/67e3c57d-a463-4bb9-9aea-0a578fd748b7",
+    "title": "Business Reboot",
+    "slug": "business-reboot",
+    "description": "This one-day course provides participants with an overview of business fundamentals, while introducing techniques for evaluating the feasibility of business concepts. This class is perfect for those interested in exploring business ownership or other self-employment opportunities by leading participants through the key steps for evaluating business concepts and providing foundational knowledge required to develop a business plan. Participants are introduced to a broad spectrum of entrepreneurial business concepts and resources available to access start-up capital, technical assistance, contracting opportunities, and more. While portions of the training have a military focus, we encourage anyone interested in learning the fundamentals of business ownership take the course.",
+    "start_dt": "2026-05-04T14:00",
+    "end_dt": "2026-05-04T22:00",
+    "location": "Student Union 205, Crow Peak Conference Room",
+    "image_url": "https://bhsu.edu/_images/images/events/events-images/Business%20Reboot.jpg",
+    "image_alt": "Two business women working with Business Event, Free Entrepreneurial Event lettering over them. ",
+    "organizer": "Ashley Wingert",
+    "tags": [
+      "Alumni Event",
+      "BHSU Event",
+      "Academics",
+      "Career Development",
+      "SDCEO"
+    ],
+    "featured": false,
+    "ticket_url": "https://sdceo.ecenterdirect.com/events/1019246",
+    "category": "Campus Calendar/Events",
+    "record_type": "event",
+    "source_label": "BHSU Campus Calendar"
   }
 ]
