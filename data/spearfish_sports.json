@@ -21102,5 +21102,21 @@
     "status": "CONFIRMED",
     "record_type": "event",
     "source_label": "Spearfish HS Sports"
+  },
+  {
+    "uid": "h202604180815524047bdded4f776649",
+    "url": "https://gobound.com/direct/comps/h202604180815524047bdded4f776649/show",
+    "title": "Boys Tennis: Spearfish vs Rapid City Stevens (Junior Varsity)",
+    "slug": "boys-tennis-spearfish-vs-rapid-city-stevens-junior-varsity",
+    "sport": "Boys Tennis",
+    "level": "Junior Varsity",
+    "sex": "male",
+    "description": "Junior Varsity Boys Tennis - Spearfish vs Rapid City Stevens",
+    "start_dt": "2026-04-21T20:00:00",
+    "end_dt": "2026-04-21T23:00:00",
+    "location": "Sioux Park Complex",
+    "status": "CONFIRMED",
+    "record_type": "event",
+    "source_label": "Spearfish HS Sports"
   }
 ]
