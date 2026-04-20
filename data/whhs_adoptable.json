@@ -330,6 +330,39 @@
     "source_label": "Western Hills Humane Society"
   },
   {
+    "url": "https://www.westernhillshumanesociety.com/cats",
+    "title": "Ragu",
+    "slug": "cat-ragu",
+    "species": "cat",
+    "description": "Female | Born 2.24.26 \nTaking applications & available 2.21.26\nRagu is a little female (mother is Prego) and the family was named after sauces! Ragu has extra toes, she’s playful, and she has some crazy whiskers!",
+    "image_url": "https://images.squarespace-cdn.com/content/v1/6833638f52663f7b5354620e/d0a6e431-2e83-4541-a65e-d8a43477bb73/Ragu.jpg?format=500w",
+    "image_alt": "Ragu",
+    "record_type": "adoptable",
+    "source_label": "Western Hills Humane Society"
+  },
+  {
+    "url": "https://www.westernhillshumanesociety.com/cats",
+    "title": "Bertolli",
+    "slug": "cat-bertolli",
+    "species": "cat",
+    "description": "Male | Born 2.24.26 \nTaking applications & available 2.21.26\nBertolli is a little male (mother is Prego) and the family was named after sauces! Bertolli has lots to say, he’s the most playful of his siblings, and he has some adorable white mittens. If you want a crazy kitten - he’s purrrfect!",
+    "image_url": "https://images.squarespace-cdn.com/content/v1/6833638f52663f7b5354620e/63637a30-b2cd-42d6-a71d-c08496ce838a/Bertolli.jpg?format=500w",
+    "image_alt": "Bertolli",
+    "record_type": "adoptable",
+    "source_label": "Western Hills Humane Society"
+  },
+  {
+    "url": "https://www.westernhillshumanesociety.com/cats",
+    "title": "Ortega",
+    "slug": "cat-ortega",
+    "species": "cat",
+    "description": "Male | Born 2.25.26 \nTaking applications & available 2.21.26\nOrtega is a little male (mother is Prego) and the family was named after sauces! Ortega has a super cool white/grey undercoat, he’s playful & stealthy and he was a C-section baby born a day after his siblings.",
+    "image_url": "https://images.squarespace-cdn.com/content/v1/6833638f52663f7b5354620e/506389a8-61b0-4fd1-a799-95fa593a6096/Ortega.jpg?format=500w",
+    "image_alt": "Ortega",
+    "record_type": "adoptable",
+    "source_label": "Western Hills Humane Society"
+  },
+  {
     "url": "https://www.westernhillshumanesociety.com/dogs",
     "title": "Nova",
     "slug": "dog-nova",
@@ -408,28 +441,6 @@
   },
   {
     "url": "https://www.westernhillshumanesociety.com/dogs",
-    "title": "Buckey",
-    "slug": "dog-buckey",
-    "species": "dog",
-    "description": "Male | Mini Australian Shepherd | Born 2023 \nBuckey was surrendered to us after his owner moved and was unable to take him with. Buckey is a sweet boy that listens well but does still jump when he excited. He has lived with men and other dogs. He seems curious of cats but has not shown aggression and we have not seen him interact with kids. Buckey likes to run, fetch, dig, lounge on laps, and go on car rides. He’s currently a hefty 32 lbs.",
-    "image_url": "https://images.squarespace-cdn.com/content/v1/6833638f52663f7b5354620e/3dd76f10-7e7b-4565-8486-c76f01a78aae/1000039005+%281%29.jpg?format=500w",
-    "image_alt": "Buckey",
-    "record_type": "adoptable",
-    "source_label": "Western Hills Humane Society"
-  },
-  {
-    "url": "https://www.westernhillshumanesociety.com/dogs",
-    "title": "Schatzi",
-    "slug": "dog-schatzi",
-    "species": "dog",
-    "description": "Female | Corgi | Born May 11, 2026\nPersonality: Affectionate, high-energy, and incredibly bright\nHer name is German for Treasure. She is a vibrant, busy girl looking for the right environment to help her settle into her name. She is a velcro dog, has lots of energy to burn, and is a good listener. She is food-motivated and already has a great foundation of manners—she will sit and wait patiently for her “take” command before enjoying a meal or a treat. She also knows “sit” and “stay” and “go to your room” (aka kennel). \nHer Ideal Forever Home: Schatzi is looking for a partner in adventure. Because she was kenneled during the workday, she is bursting with untapped potential. Her dream home would include room to run, a job to do, and patience with potty training. Because of her intense drive and energy levels, her veterinarian noted that anxiety medication could be an option to help her settle in a confined environment. She is also a loyal protector of her territory and will need a patient owner to help socialize her with strangers and other dogs. She is prone to bark; the former owners have had some success with a training collar.\nA Note for Adopters:\nSchatzi Ruhe is a wonderful dog who simply outgrew our townhome life and busy schedules. If you have the space and the time to help a smart, loyal puppy reach her full potential, she will be the greatest treasure you ever find.",
-    "image_url": "https://images.squarespace-cdn.com/content/v1/6833638f52663f7b5354620e/7adbaef3-7265-47e4-8cbc-709366e928a7/1000039116.jpg?format=500w",
-    "image_alt": "Schatzi",
-    "record_type": "adoptable",
-    "source_label": "Western Hills Humane Society"
-  },
-  {
-    "url": "https://www.westernhillshumanesociety.com/dogs",
     "title": "Pepper",
     "slug": "dog-pepper",
     "species": "dog",
@@ -452,12 +463,12 @@
   },
   {
     "url": "https://www.westernhillshumanesociety.com/dogs",
-    "title": "Stephen",
-    "slug": "dog-stephen",
+    "title": "Schatzi",
+    "slug": "dog-schatzi",
     "species": "dog",
-    "description": "Male | Cane Corso (Italian Mastiff) | Born 1/14/25\nNeuter scheduled 4.29.26\nStephen is just over a year old and came to us on 4.17.26. He’s a very sweet boy that needs work on his manners. He’s pretty timid of his loud neighbors but we think he’s eager to make friends with the other dogs here. Stephen is pretty darn scared of cats - poor guy! He is 84 lbs and we are hoping to get him up to his ideal weight of 100 lbs.",
-    "image_url": "https://images.squarespace-cdn.com/content/v1/6833638f52663f7b5354620e/c79cf7de-9963-4138-ba10-cf8ef5252a18/Stephen.jpg?format=500w",
-    "image_alt": "Stephen",
+    "description": "Female | Corgi | Born May 11, 2026\nApplication Pending\nPersonality: Affectionate, high-energy, and incredibly bright\nHer name is German for Treasure. She is a vibrant, busy girl looking for the right environment to help her settle into her name. She is a velcro dog, has lots of energy to burn, and is a good listener. She is food-motivated and already has a great foundation of manners—she will sit and wait patiently for her “take” command before enjoying a meal or a treat. She also knows “sit” and “stay” and “go to your room” (aka kennel). \nHer Ideal Forever Home: Schatzi is looking for a partner in adventure. Because she was kenneled during the workday, she is bursting with untapped potential. Her dream home would include room to run, a job to do, and patience with potty training. Because of her intense drive and energy levels, her veterinarian noted that anxiety medication could be an option to help her settle in a confined environment. She is also a loyal protector of her territory and will need a patient owner to help socialize her with strangers and other dogs. She is prone to bark; the former owners have had some success with a training collar.\nA Note for Adopters:\nSchatzi Ruhe is a wonderful dog who simply outgrew our townhome life and busy schedules. If you have the space and the time to help a smart, loyal puppy reach her full potential, she will be the greatest treasure you ever find.",
+    "image_url": "https://images.squarespace-cdn.com/content/v1/6833638f52663f7b5354620e/7adbaef3-7265-47e4-8cbc-709366e928a7/1000039116.jpg?format=500w",
+    "image_alt": "Schatzi",
     "record_type": "adoptable",
     "source_label": "Western Hills Humane Society"
   }

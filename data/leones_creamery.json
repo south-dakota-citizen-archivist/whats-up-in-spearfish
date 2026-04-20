@@ -1,10 +1,10 @@
 [
   {
     "url": "https://leonescreamery.com/flavors",
-    "image_url": "https://leonescreamery.com/images/uploads/cropped/VanillaBean-5ad129052039e-130-1539449209.jpg",
-    "title": "Vanilla Bean",
-    "slug": "vanilla-bean",
-    "description": "A tried and true classic! Made with whole Madagascar vanilla beans, it's the perfect scoop.",
+    "image_url": "https://leonescreamery.com/images/uploads/cropped/SweetCream-123-1528425973.jpg",
+    "title": "Sweet Cream",
+    "slug": "sweet-cream",
+    "description": "An old-style classic that never disappoints! Made from the simplest ingredients-- milk, cream, sugar, eggs. Bonus: perfect with any topping!",
     "record_type": "flavor",
     "source_label": "Leone's Creamery"
   },
