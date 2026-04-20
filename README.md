@@ -38,12 +38,12 @@ _Updated: April 19, 2026_
 | Elementary 3-5 Lunch | `spearfish_elem_35_lunch` | `school_menu` | 60 |
 | Elementary Breakfast | `spearfish_elem_breakfast` | `school_menu` | 60 |
 | Elementary K-2 Lunch | `spearfish_elem_k2_lunch` | `school_menu` | 60 |
-| Grace Balloch Memorial Library | `spearfish_library` | `library_book` | 86 |
+| Grace Balloch Memorial Library | `spearfish_library` | `library_book` | 88 |
 | Grace Balloch Memorial Library (circulation) | `library_circulation` | — | 124 |
 | High School Lunch | `spearfish_hs_lunch` | `school_menu` | 60 |
 | Inaturalist Plant Cache | `inaturalist_plant_cache` | — | 317 |
 | Killian's | `killians` | `beer` | 17 |
-| KOTA Territory News | `kota` | `news` | 65 |
+| KOTA Territory News | `kota` | `news` | 58 |
 | Lawrence County | `lawrence_county` | `document` | 57 |
 | Lawrence County Jobs | `lawrence_county_jobs` | — | 0 |
 | Lawrence County News Flash | `lawrence_county_news` | `press_release` | 1 |
@@ -55,7 +55,7 @@ _Updated: April 19, 2026_
 | Public Bids | `public_bids` | `bid` | 1 |
 | Public Meetings (YouTube) | `public_meetings_youtube` | `youtube_video` | 34 |
 | Rapid City Journal | `rapid_city_journal` | `news` | 273 |
-| Rapid City Post | `rapid_city_post` | `news` | 136 |
+| Rapid City Post | `rapid_city_post` | `news` | 123 |
 | Redwater Kitchen | `redwater_kitchen` | `beer` | 12 |
 | Regional News | `news_feeds` | `news` | 162 |
 | Roadkill | `roadkill` | — | 3 |
