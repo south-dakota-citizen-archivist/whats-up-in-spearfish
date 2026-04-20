@@ -71,6 +71,7 @@ _Updated: April 19, 2026_
 | Spearfish HS Sports | `spearfish_sports` | `event` | 1,320 |
 | Spearfish MS Sports | `spearfish_ms_sports` | `event` | 189 |
 | Spearfish Sasquatch | `spearfish_sasquatch` | `event` | 32 |
+| Spearfish Sasquatch Theme | `spearfish_sasquatch_theme` | — | 3 |
 | Spearfish School Board | `spearfish_school_board_docs` | `document` | 117 |
 | Spearfish School District | `spearfish_school_news` | `press_release` | 3 |
 | Spearfish School District | `spearfish_schools` | `event` | 20 |

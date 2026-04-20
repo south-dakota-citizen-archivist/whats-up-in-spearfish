@@ -92,6 +92,7 @@ def load_data() -> dict[str, list[dict]]:
         "building_permits",
         "roadkill",
         "danr_spills",
+        "spearfish_sasquatch_theme",
     }
 
     for json_file in sorted(DATA_DIR.glob("*.json")):
@@ -770,6 +771,38 @@ def load_danr_spills() -> dict:
     }
 
 
+def load_sasquatch_theme() -> list[dict]:
+    """Convert Sasquatch theme-night JSON into event records."""
+    path = DATA_DIR / "spearfish_sasquatch_theme.json"
+    if not path.exists():
+        return []
+    try:
+        raw = json.loads(path.read_text(encoding="utf-8"))
+    except Exception as exc:
+        print(f"[build] Warning: could not load spearfish_sasquatch_theme.json: {exc}")
+        return []
+    records = []
+    for night in raw.get("theme_nights") or []:
+        d = night.get("date", "")
+        theme = night.get("theme", "")
+        if not d or not theme:
+            continue
+        description = "Fireworks after the game" if night.get("fireworks") else ""
+        records.append(
+            {
+                "title": f"Sasquatch: {theme}",
+                "start_dt": d,
+                "url": "https://www.spearfishsasquatch.com/theme-night-promo-schedule",
+                "location": "Black Hills Federal Credit Union Stadium, Spearfish",
+                "description": description,
+                "source_label": "Spearfish Sasquatch",
+                "record_type": "event",
+            }
+        )
+    print(f"[build] Sasquatch theme nights: {len(records)}")
+    return records
+
+
 def load_bhnf_projects() -> list[dict]:
     """Load BHNF public projects, returning only in-progress ones with a past flag."""
     path = DATA_DIR / "bhnf_projects.json"
@@ -1089,6 +1122,7 @@ def build() -> None:
     OUTPUT_DIR.mkdir(parents=True)
 
     data = load_data()
+    data["spearfish_sasquatch_theme"] = load_sasquatch_theme()
     groups = group_records(data)
 
     source_count = len(data)

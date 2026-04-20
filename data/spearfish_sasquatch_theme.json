@@ -1,0 +1,166 @@
+{
+  "team": "Spearfish Sasquatch Baseball",
+  "season": 2026,
+  "theme_nights": [
+    {
+      "date": "2026-05-25",
+      "theme": "Salute to Service Night",
+      "fireworks": false
+    },
+    {
+      "date": "2026-05-26",
+      "theme": "Cars Night",
+      "fireworks": false
+    },
+    {
+      "date": "2026-05-27",
+      "theme": "Kids Day Game",
+      "fireworks": false
+    },
+    {
+      "date": "2026-06-08",
+      "theme": "Bark in the Park Night",
+      "fireworks": false
+    },
+    {
+      "date": "2026-06-09",
+      "theme": "Teacher Appreciation Night",
+      "fireworks": false
+    },
+    {
+      "date": "2026-06-12",
+      "theme": "Fireworks & Disney Night",
+      "fireworks": true
+    },
+    {
+      "date": "2026-06-13",
+      "theme": "Ring Ceremony Night",
+      "fireworks": false
+    },
+    {
+      "date": "2026-06-14",
+      "theme": "Faith & Family Night",
+      "fireworks": false
+    },
+    {
+      "date": "2026-06-16",
+      "theme": "Pirate Night",
+      "fireworks": false
+    },
+    {
+      "date": "2026-06-17",
+      "theme": "St. Patty's in June",
+      "fireworks": false
+    },
+    {
+      "date": "2026-06-18",
+      "theme": "Samson's Birthday & Mascot Night",
+      "fireworks": false
+    },
+    {
+      "date": "2026-06-19",
+      "theme": "Fireworks & Blue Out Night",
+      "fireworks": true
+    },
+    {
+      "date": "2026-06-22",
+      "theme": "First Responders Night",
+      "fireworks": false
+    },
+    {
+      "date": "2026-06-23",
+      "theme": "Star Wars Night",
+      "fireworks": false
+    },
+    {
+      "date": "2026-06-29",
+      "theme": "80s Night",
+      "fireworks": false
+    },
+    {
+      "date": "2026-06-30",
+      "theme": "90s Night",
+      "fireworks": false
+    },
+    {
+      "date": "2026-07-01",
+      "theme": "Country Night",
+      "fireworks": false
+    },
+    {
+      "date": "2026-07-02",
+      "theme": "Fireworks & America's 250th Night",
+      "fireworks": true
+    },
+    {
+      "date": "2026-07-05",
+      "theme": "Bluey Night",
+      "fireworks": false
+    },
+    {
+      "date": "2026-07-06",
+      "theme": "Post 164 Night",
+      "fireworks": false
+    },
+    {
+      "date": "2026-07-07",
+      "theme": "Mr. Sasquatch Night",
+      "fireworks": false
+    },
+    {
+      "date": "2026-07-08",
+      "theme": "Ladies Night",
+      "fireworks": false
+    },
+    {
+      "date": "2026-07-09",
+      "theme": "Free Jersey Night",
+      "fireworks": false
+    },
+    {
+      "date": "2026-07-16",
+      "theme": "Margaritaville Night",
+      "fireworks": false
+    },
+    {
+      "date": "2026-07-17",
+      "theme": "Fireworks & Biker Night",
+      "fireworks": true
+    },
+    {
+      "date": "2026-07-18",
+      "theme": "World Cup Night",
+      "fireworks": false
+    },
+    {
+      "date": "2026-07-20",
+      "theme": "Casino Night",
+      "fireworks": false
+    },
+    {
+      "date": "2026-07-21",
+      "theme": "Bobblehead Night",
+      "fireworks": false
+    },
+    {
+      "date": "2026-07-22",
+      "theme": "Nerf Night",
+      "fireworks": false
+    },
+    {
+      "date": "2026-07-23",
+      "theme": "Fan Appreciation Night",
+      "fireworks": false
+    },
+    {
+      "date": "2026-07-24",
+      "theme": "Beef Night",
+      "fireworks": false
+    },
+    {
+      "date": "2026-07-25",
+      "theme": "Christmas in July",
+      "fireworks": false
+    }
+  ]
+}
