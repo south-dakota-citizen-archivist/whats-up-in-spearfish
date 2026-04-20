@@ -1,6 +1,19 @@
 {
-  "fetched_at": "2026-04-20T03:24:09.501364+00:00",
+  "fetched_at": "2026-04-20T17:54:30.100766+00:00",
   "observations": [
+    {
+      "species_code": "logshr",
+      "common_name": "Loggerhead Shrike",
+      "scientific_name": "Lanius ludovicianus",
+      "observed_on": "2026-04-19",
+      "count": 1,
+      "location_name": "home",
+      "lat": 44.705664,
+      "lng": -103.4131842,
+      "location_id": "L45249760",
+      "checklist_id": "S324447728",
+      "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/223288/square.jpg"
+    },
     {
       "species_code": "fiespa",
       "common_name": "Field Sparrow",
@@ -637,19 +650,6 @@
       "location_id": "L5160695",
       "checklist_id": "S321779870",
       "photo_url": "https://static.inaturalist.org/photos/31423761/square.jpg"
-    },
-    {
-      "species_code": "pinsis",
-      "common_name": "Pine Siskin",
-      "scientific_name": "Spinus pinus",
-      "observed_on": "2026-04-11",
-      "count": 2,
-      "location_name": "Centennial Trail--Dalton Lake to Elk Creek",
-      "lat": 44.2312146,
-      "lng": -103.4741414,
-      "location_id": "L5160695",
-      "checklist_id": "S321779870",
-      "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/13823002/square.jpg"
     }
   ]
 }

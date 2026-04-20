@@ -438,5 +438,27 @@
     "image_url": "https://npr.brightspotcdn.com/10/b4/fafedad846d5a9049d95e6774166/image-33.jpg",
     "record_type": "news",
     "source_label": "SDPB"
+  },
+  {
+    "url": "https://www.sdpb.org/environment/2026-04-20/testifiers-say-missouri-river-water-needed-for-national-security-at-ellsworth",
+    "title": "Testifiers say Missouri River water needed for 'national security' at Ellsworth",
+    "slug": "sdpb-testifiers-say-missouri-river-water-needed-for-national-security-at",
+    "published": "2026-04-20",
+    "byline": "By Jackson Dircks",
+    "description": "A U.S. House committee hears testimony on <a href=\"https://www.congress.gov/119/bills/hr7288/BILLS-119hr7288ih.pdf\" target=\"_blank\" link-data=\"{\"cms.site.owner\":{\"_ref\":\"00000178-5ae7-d19d-a1fa-ffef051d0000\",\"_type\":\"ae3387cc-b875-31b7-b82d-63fd8d758c20\"},\"cms.content.publishDate\":1776371790005,\"cms.content.publishUser\":{\"_ref\":\"0000018f-9cae-de7b-a1df-ffef3dcd0000\",\"_type\":\"6aa69ae1-35be-30dc-87e9-410da9e1cdcc\"},\"cms.content.updateDate\":1776371790005,\"cms.content.updateUser\":{\"_ref\":\"0000018f-9cae-de7b-a1df-ffef3dcd0000\",\"_type\":\"6aa69ae1-35be-30dc-87e9-410da9e1cdcc\"},\"cms.directory.paths\":[],\"anchorable.showAnchor\":false,\"link\":{\"cms.directory.paths\":[],\"attributes\":[],\"linkText\":\"<b>a bill ordering a study done</b>\",\"target\":\"NEW\",\"attachSourceUrl\":false,\"url\":\"https://www.congress.gov/119/bills/hr7288/BILLS-119hr7288ih.pdf\",\"_id\":\"0000019d-9802-df45-a5ff-da765dfe0000\",\"_type\":\"ff658216-e70f-39d0-b660-bdfe57a5599a\"},\"_id\":\"0000019d-9802-df45-a5ff-da765dfe0001\",\"_type\":\"809caec9-30e2-3666-8b71-b32ddbffc288\"}\"><b>a bill ordering a study done</b></a> on the feasibility of using Missouri River Water for western South Dakota use.",
+    "image_url": "https://npr.brightspotcdn.com/2a/3d/5a84a25d421ca08f0dc340cc886a/fc87ab7f-3039-aecf-5bd1-50b56dba9a25.jpg",
+    "record_type": "news",
+    "source_label": "SDPB"
+  },
+  {
+    "url": "https://www.sdpb.org/arts-life/2026-04-20/america-at-250-what-to-keep-what-not-to-rep",
+    "title": "America at 250: What to keep? What not to repeat?",
+    "slug": "sdpb-america-at-250-what-to-keep-what-not-to-repeat",
+    "published": "2026-04-20",
+    "byline": "By Lori Walsh",
+    "description": "The Dakota Conference on the Northern Plains envisions the future of the region. We talk with Christel Gollnick about the \"Stone Soup\" metaphor of community abundance.",
+    "image_url": "https://npr.brightspotcdn.com/52/a4/27ad8392458d90c0af200f3647e9/website-photo-1.png",
+    "record_type": "news",
+    "source_label": "SDPB"
   }
 ]

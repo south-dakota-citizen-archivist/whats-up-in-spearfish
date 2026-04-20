@@ -1024,5 +1024,23 @@
     "scraped_by": "civic-scraper_0.1.0",
     "record_type": "document",
     "source_label": "Lawrence County"
+  },
+  {
+    "asset_id": "civicplus_www_04202026-1316__agenda",
+    "url": "https://www.lawrence.sd.us/AgendaCenter/ViewFile/Agenda/_04202026-1316",
+    "title": "Lawrence County Invasive Species Management Proposed Meeting Agenda and Information",
+    "asset_type": "agenda",
+    "committee": "Invasive Species Management",
+    "place": "no_data",
+    "state": "no_data",
+    "meeting_id": "civicplus_www_04202026-1316",
+    "meeting_date": "2026-04-20 00:00:00",
+    "meeting_time": null,
+    "start_dt": "2026-04-20 00:00:00",
+    "content_type": "application/pdf",
+    "content_length": "146931",
+    "scraped_by": "civic-scraper_0.1.0",
+    "record_type": "document",
+    "source_label": "Lawrence County"
   }
 ]
