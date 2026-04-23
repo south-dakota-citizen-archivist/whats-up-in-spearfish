@@ -1,31 +1,109 @@
 {
-  "fetched_at": "2026-04-22T17:57:46.485911+00:00",
+  "fetched_at": "2026-04-23T18:08:07.559263+00:00",
   "observations": [
     {
       "species_code": "baleag",
       "common_name": "Bald Eagle",
       "scientific_name": "Haliaeetus leucocephalus",
-      "observed_on": "2026-04-21",
+      "observed_on": "2026-04-22",
       "count": 1,
-      "location_name": "Upper Mirror Lake Road, Spearfish, South Dakota, US (44.561, -104.021)",
-      "lat": 44.5612663,
-      "lng": -104.0209299,
-      "location_id": "L63515285",
-      "checklist_id": "S325232814",
+      "location_name": "Fort Meade Recreation Area--Alkali Creek Campground",
+      "lat": 44.3752145,
+      "lng": -103.4670201,
+      "location_id": "L454291",
+      "checklist_id": "S325509945",
       "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/349074095/square.jpeg"
+    },
+    {
+      "species_code": "norfli",
+      "common_name": "Northern Flicker",
+      "scientific_name": "Colaptes auratus",
+      "observed_on": "2026-04-22",
+      "count": 1,
+      "location_name": "Fort Meade Recreation Area--Alkali Creek Campground",
+      "lat": 44.3752145,
+      "lng": -103.4670201,
+      "location_id": "L454291",
+      "checklist_id": "S325509945",
+      "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/123812445/square.jpg"
+    },
+    {
+      "species_code": "blujay",
+      "common_name": "Blue Jay",
+      "scientific_name": "Cyanocitta cristata",
+      "observed_on": "2026-04-22",
+      "count": 2,
+      "location_name": "Fort Meade Recreation Area--Alkali Creek Campground",
+      "lat": 44.3752145,
+      "lng": -103.4670201,
+      "location_id": "L454291",
+      "checklist_id": "S325509945",
+      "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/530721418/square.jpg"
+    },
+    {
+      "species_code": "whbnut",
+      "common_name": "White-breasted Nuthatch",
+      "scientific_name": "Sitta carolinensis",
+      "observed_on": "2026-04-22",
+      "count": 2,
+      "location_name": "Fort Meade Recreation Area--Alkali Creek Campground",
+      "lat": 44.3752145,
+      "lng": -103.4670201,
+      "location_id": "L454291",
+      "checklist_id": "S325509945",
+      "photo_url": "https://static.inaturalist.org/photos/25544020/square.jpeg"
+    },
+    {
+      "species_code": "amerob",
+      "common_name": "American Robin",
+      "scientific_name": "Turdus migratorius",
+      "observed_on": "2026-04-22",
+      "count": 2,
+      "location_name": "Fort Meade Recreation Area--Alkali Creek Campground",
+      "lat": 44.3752145,
+      "lng": -103.4670201,
+      "location_id": "L454291",
+      "checklist_id": "S325509945",
+      "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/34859026/square.jpg"
     },
     {
       "species_code": "wesmea",
       "common_name": "Western Meadowlark",
       "scientific_name": "Sturnella neglecta",
-      "observed_on": "2026-04-21",
-      "count": 1,
-      "location_name": "Upper Mirror Lake Road, Spearfish, South Dakota, US (44.561, -104.021)",
-      "lat": 44.5612663,
-      "lng": -104.0209299,
-      "location_id": "L63515285",
-      "checklist_id": "S325232814",
+      "observed_on": "2026-04-22",
+      "count": 3,
+      "location_name": "Fort Meade Recreation Area--Alkali Creek Campground",
+      "lat": 44.3752145,
+      "lng": -103.4670201,
+      "location_id": "L454291",
+      "checklist_id": "S325509945",
       "photo_url": "https://static.inaturalist.org/photos/490722638/square.jpg"
+    },
+    {
+      "species_code": "houwre",
+      "common_name": "Northern House Wren",
+      "scientific_name": "Troglodytes aedon",
+      "observed_on": "2026-04-22",
+      "count": 1,
+      "location_name": "home",
+      "lat": 44.705664,
+      "lng": -103.4131842,
+      "location_id": "L45249760",
+      "checklist_id": "S325469497",
+      "photo_url": "https://static.inaturalist.org/photos/103258086/square.jpeg"
+    },
+    {
+      "species_code": "easblu",
+      "common_name": "Eastern Bluebird",
+      "scientific_name": "Sialia sialis",
+      "observed_on": "2026-04-22",
+      "count": 1,
+      "location_name": "Our Field",
+      "lat": 44.6631873,
+      "lng": -103.400613,
+      "location_id": "L47015509",
+      "checklist_id": "S325439470",
+      "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/356151567/square.jpeg"
     },
     {
       "species_code": "wooduc",
@@ -158,19 +236,6 @@
       "photo_url": "https://static.inaturalist.org/photos/25544008/square.jpeg"
     },
     {
-      "species_code": "norfli",
-      "common_name": "Northern Flicker",
-      "scientific_name": "Colaptes auratus",
-      "observed_on": "2026-04-21",
-      "count": 8,
-      "location_name": "Sand Creek Public Access Area to Dugout Gulch",
-      "lat": 44.496003,
-      "lng": -104.10497,
-      "location_id": "L19762506",
-      "checklist_id": "S325312408",
-      "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/123812445/square.jpg"
-    },
-    {
       "species_code": "amekes",
       "common_name": "American Kestrel",
       "scientific_name": "Falco sparverius",
@@ -182,19 +247,6 @@
       "location_id": "L19762506",
       "checklist_id": "S325312408",
       "photo_url": "https://static.inaturalist.org/photos/174574440/square.jpg"
-    },
-    {
-      "species_code": "blujay",
-      "common_name": "Blue Jay",
-      "scientific_name": "Cyanocitta cristata",
-      "observed_on": "2026-04-21",
-      "count": 5,
-      "location_name": "Sand Creek Public Access Area to Dugout Gulch",
-      "lat": 44.496003,
-      "lng": -104.10497,
-      "location_id": "L19762506",
-      "checklist_id": "S325312408",
-      "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/530721418/square.jpg"
     },
     {
       "species_code": "amecro",
@@ -221,19 +273,6 @@
       "location_id": "L19762506",
       "checklist_id": "S325312408",
       "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/178279576/square.jpg"
-    },
-    {
-      "species_code": "whbnut",
-      "common_name": "White-breasted Nuthatch",
-      "scientific_name": "Sitta carolinensis",
-      "observed_on": "2026-04-21",
-      "count": 1,
-      "location_name": "Sand Creek Public Access Area to Dugout Gulch",
-      "lat": 44.496003,
-      "lng": -104.10497,
-      "location_id": "L19762506",
-      "checklist_id": "S325312408",
-      "photo_url": "https://static.inaturalist.org/photos/25544020/square.jpeg"
     },
     {
       "species_code": "rebnut",
@@ -273,19 +312,6 @@
       "location_id": "L19762506",
       "checklist_id": "S325312408",
       "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/106405630/square.jpg"
-    },
-    {
-      "species_code": "amerob",
-      "common_name": "American Robin",
-      "scientific_name": "Turdus migratorius",
-      "observed_on": "2026-04-21",
-      "count": 5,
-      "location_name": "Sand Creek Public Access Area to Dugout Gulch",
-      "lat": 44.496003,
-      "lng": -104.10497,
-      "location_id": "L19762506",
-      "checklist_id": "S325312408",
-      "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/34859026/square.jpg"
     },
     {
       "species_code": "houfin",
@@ -624,32 +650,6 @@
       "location_id": "L319397",
       "checklist_id": "S323168842",
       "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/399154969/square.jpg"
-    },
-    {
-      "species_code": "shtgro",
-      "common_name": "Sharp-tailed Grouse",
-      "scientific_name": "Tympanuchus phasianellus",
-      "observed_on": "2026-04-14",
-      "count": 4,
-      "location_name": "Bear Butte Lake",
-      "lat": 44.4563502,
-      "lng": -103.4452331,
-      "location_id": "L319397",
-      "checklist_id": "S323168842",
-      "photo_url": "https://static.inaturalist.org/photos/16142680/square.jpg"
-    },
-    {
-      "species_code": "y00475",
-      "common_name": "American Coot",
-      "scientific_name": "Fulica americana",
-      "observed_on": "2026-04-14",
-      "count": 8,
-      "location_name": "Bear Butte Lake",
-      "lat": 44.4563502,
-      "lng": -103.4452331,
-      "location_id": "L319397",
-      "checklist_id": "S323168842",
-      "photo_url": "https://static.inaturalist.org/photos/113612953/square.jpeg"
     }
   ]
 }

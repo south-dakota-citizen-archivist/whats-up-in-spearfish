@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-04-22T17:58:16.005534+00:00",
+  "fetched_at": "2026-04-23T18:08:53.751737+00:00",
   "notices": [
     {
       "notice_type": "Water Rights",
@@ -1359,6 +1359,50 @@
         {
           "label": "Application Review",
           "url": "https://danr.sd.gov/Environment/AirQuality/PN/KNTCsb.pdf"
+        }
+      ]
+    },
+    {
+      "notice_type": "Surface Water Discharge (NPDES)",
+      "deadline": "05/26/2026",
+      "comment_url": "https://danr.sd.gov/public/comment.aspx?d_comment=05/26/2026&name=City of Beresford&pntype=sw_npdes&description=The City of Beresford is authorized under this permit to discharge to Blind Creek from its wastewater treatment facility located in Lincoln County.",
+      "name": "City of Beresford",
+      "description": "The City of Beresford is authorized under this permit to discharge to Blind Creek from its wastewater treatment facility located in Lincoln County.",
+      "location": "Lincoln County",
+      "links": [
+        {
+          "label": "Public Notice",
+          "url": "https://danr.sd.gov/officeofwater/surfacewaterquality/pn/BeresfordPNDraftFR.pdf"
+        },
+        {
+          "label": "Draft Permit",
+          "url": "https://danr.sd.gov/officeofwater/surfacewaterquality/pn/BeresfordPermitDraftFR.pdf"
+        },
+        {
+          "label": "Statement of Basis",
+          "url": "https://danr.sd.gov/officeofwater/surfacewaterquality/pn/BeresfordSOBDraftFR.pdf"
+        }
+      ]
+    },
+    {
+      "notice_type": "Surface Water Discharge (NPDES)",
+      "deadline": "05/26/2026",
+      "comment_url": "https://danr.sd.gov/public/comment.aspx?d_comment=05/26/2026&name=POET Biorefining - Hudson&pntype=sw_npdes&description=POET Biorefining - Hudson is authorized under this permit to discharge to an unnamed tributary of Pattee Creek from its facility located in Lincoln County,",
+      "name": "POET Biorefining - Hudson",
+      "description": "POET Biorefining - Hudson is authorized under this permit to discharge to an unnamed tributary of Pattee Creek from its facility located in Lincoln County,",
+      "location": "Lincoln County",
+      "links": [
+        {
+          "label": "Public Notice",
+          "url": "https://danr.sd.gov/officeofwater/surfacewaterquality/pn/POETBiorefiningHudsonPNDraftFR.pdf"
+        },
+        {
+          "label": "Draft Permit",
+          "url": "https://danr.sd.gov/officeofwater/surfacewaterquality/pn/POETBiorefiningHudsonPermitDraftFR.pdf"
+        },
+        {
+          "label": "Statement of Basis",
+          "url": "https://danr.sd.gov/officeofwater/surfacewaterquality/pn/POETBiorefiningHudsonSOBDraftFR.pdf"
         }
       ]
     },

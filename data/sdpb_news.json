@@ -548,5 +548,49 @@
     "image_url": "https://npr.brightspotcdn.com/5f/eb/b9a480b249f08a41dae7d523b58a/image-35.jpg",
     "record_type": "news",
     "source_label": "SDPB"
+  },
+  {
+    "url": "https://www.sdpb.org/arts-life/2026-04-23/artists-gather-to-explore-connection-between-arts-and-healing",
+    "title": "Artists gather to explore connection between arts and healing",
+    "slug": "sdpb-artists-gather-to-explore-connection-between-arts-and-healing",
+    "published": "2026-04-23",
+    "byline": "By Lori Walsh",
+    "description": "The 2026 South Dakota State Arts Conference kicks off this week. Keynote speaker Christopher Bailey shares stories of arts, healing, and the ways we become fully human.",
+    "image_url": "https://npr.brightspotcdn.com/52/a4/27ad8392458d90c0af200f3647e9/website-photo-1.png",
+    "record_type": "news",
+    "source_label": "SDPB"
+  },
+  {
+    "url": "https://www.sdpb.org/politics/2026-04-22/new-prison-groundbreaking-comes-with-call-to-fund-support-rehabilitation",
+    "title": "New prison groundbreaking comes with call to fund, support rehabilitation",
+    "slug": "sdpb-new-prison-groundbreaking-comes-with-call-to-fund-support-rehabilitation",
+    "published": "2026-04-22",
+    "byline": "By Jackson Dircks",
+    "description": "South Dakota breaks ground on a new men’s penitentiary in Sioux Falls. However, officials say buildings alone don’t equate to meaningful prison reform.",
+    "image_url": "https://npr.brightspotcdn.com/15/bf/cf846ca643ba9c8d69cc1786e0f7/image-38.jpg",
+    "record_type": "news",
+    "source_label": "SDPB"
+  },
+  {
+    "url": "https://www.sdpb.org/education/2026-04-22/rcas-teacher-raises-above-legislative-minimum-below-inflation-rate",
+    "title": "RCAS teacher raises above legislative minimum, below inflation rate",
+    "slug": "sdpb-rcas-teacher-raises-above-legislative-minimum-below-inflation-rate",
+    "published": "2026-04-22",
+    "byline": "By C.J. Keene",
+    "description": "Rapid City Area schoolteachers are slated for a 2.5 percent wage increase beginning in FY27. While above the amount allocated by the Legislature, it remains below the rate of inflation that has nagged consumers across the country.",
+    "image_url": "https://npr.brightspotcdn.com/17/99/3bdc33624e41b652ee905a8ed656/rapid-city-schools.jpg",
+    "record_type": "news",
+    "source_label": "SDPB"
+  },
+  {
+    "url": "https://www.sdpb.org/environment/2026-04-22/youth-trapping-program-closed-for-2026",
+    "title": "Youth trapping program closed for 2026",
+    "slug": "sdpb-youth-trapping-program-closed-for-2026",
+    "published": "2026-04-22",
+    "byline": "By SDPB News Staff",
+    "description": "South Dakota’s Youth Trapping Recruitment Program is closed for the season.",
+    "image_url": "https://npr.brightspotcdn.com/27/7e/71088d4240c3948f83478a494867/raccoon.jpg",
+    "record_type": "news",
+    "source_label": "SDPB"
   }
 ]

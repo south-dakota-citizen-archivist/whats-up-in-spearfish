@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-04-22T18:00:19.974952+00:00",
+  "fetched_at": "2026-04-23T18:11:14.141104+00:00",
   "cases": [
     {
       "ccid": "123",
@@ -190,6 +190,10 @@
       "docs_url": "https://danr.sd.gov/public/ccdocs.aspx?CCID=CCID127",
       "documents": [
         {
+          "label": "Notice of Entry of Procedural and Scheduling Order",
+          "url": "https://danr.sd.gov/wrimage/pub/8987-3_mcvey.pdf"
+        },
+        {
           "label": "Filings Submitted by Counsel for the Petitioner",
           "url": "https://danr.sd.gov/wrimage/pub/8987-3_SOresponse2.pdf"
         },
@@ -204,13 +208,9 @@
         {
           "label": "Notice of Appearance - Legal Counsel for Chief Engineer",
           "url": "https://danr.sd.gov/wrimage/pub/8987-3_notappear3.pdf"
-        },
-        {
-          "label": "Notice of Withdrawal of Counsel",
-          "url": "https://danr.sd.gov/wrimage/pub/8987-3_Withdrawal of Cousel.pdf"
         }
       ],
-      "total_docs": 15,
+      "total_docs": 16,
       "latest_doc_date": "0000-00-00"
     },
     {

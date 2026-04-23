@@ -67342,5 +67342,21 @@
     "title": "City Council Study Session Minutes 4/15/2026",
     "doc_type": "Minutes",
     "file_url": "https://spearfishsd.portal.civicclerk.com/event/2184/files/minutes/6490"
+  },
+  {
+    "event_id": 2220,
+    "event_name": "Planning Commission Meeting",
+    "category": "Planning Commission",
+    "start_dt": "2026-04-07T16:00:00Z",
+    "location": "City Hall, 625 N 5th St, Spearfish, SD, 57783",
+    "portal_url": "https://spearfishsd.portal.civicclerk.com/event/2220",
+    "has_media": true,
+    "media_url": "SPEARFISHSD/fdd776fd-febf-4391-a67a-f3e7bd7a5e35.mp4",
+    "record_type": "document",
+    "source_label": "City of Spearfish",
+    "url": "https://spearfishsd.portal.civicclerk.com/event/2220/files/minutes/6456",
+    "title": "04072026 Planning Commission Minutes",
+    "doc_type": "Minutes",
+    "file_url": "https://spearfishsd.portal.civicclerk.com/event/2220/files/minutes/6456"
   }
 ]

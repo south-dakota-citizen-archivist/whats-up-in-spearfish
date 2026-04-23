@@ -19,6 +19,15 @@
   },
   {
     "url": "https://leonescreamery.com/flavors",
+    "image_url": "https://leonescreamery.com/images/uploads/cropped/EBCFE440-7DA8-4CB3-AF30-9D6254AA9513-169-1549072771.jpg",
+    "title": "Salted Caramel Cone",
+    "slug": "salted-caramel-cone",
+    "description": "Ice cream made with our signature salted caramel sauce, and full of our gluten-free cone pieces folded in!",
+    "record_type": "flavor",
+    "source_label": "Leone's Creamery"
+  },
+  {
+    "url": "https://leonescreamery.com/flavors",
     "image_url": "https://leonescreamery.com/images/uploads/cropped/65630E5D-FB51-4AE5-AFCF-79FA31710AB8-287-1556081408.jpg",
     "title": "Planet Earth",
     "slug": "planet-earth",
@@ -32,15 +41,6 @@
     "title": "Black Licorice",
     "slug": "black-licorice",
     "description": "An old-timey classic flavor we love to bring bring back every now and again! Pure anise goodness (no icky food coloring required).",
-    "record_type": "flavor",
-    "source_label": "Leone's Creamery"
-  },
-  {
-    "url": "https://leonescreamery.com/flavors",
-    "image_url": "https://leonescreamery.com/images/uploads/cropped/D02BA8D6-F0D8-4AFE-8EFF-B05C7D3DF5AB-194-1534649868.jpg",
-    "title": "Lemon Poppy Seed",
-    "slug": "lemon-poppy-seed",
-    "description": "A Leones' Creamery classic! Sweet, lemony ice cream that tastes JUST like one of our favorite pound cakes.",
     "record_type": "flavor",
     "source_label": "Leone's Creamery"
   },

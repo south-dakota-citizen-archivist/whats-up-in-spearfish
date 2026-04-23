@@ -1,5 +1,31 @@
 [
   {
+    "url": "https://untappd.com/b/phat-fish-brewery-double-shot-stout/3472613",
+    "title": "Double Shot Stout",
+    "slug": "double-shot-stout",
+    "category": "Stout - Coffee",
+    "abv": "5.6%",
+    "ibu": "18",
+    "brewery": "Phat Fish Brewery",
+    "rating": "3.73",
+    "image_url": "https://labels.untappd.com/3472613",
+    "record_type": "beer",
+    "source_label": "Redwater Kitchen"
+  },
+  {
+    "url": "https://untappd.com/b/ben-s-brewing-co-west-side-park/2246176",
+    "title": "West Side Park",
+    "slug": "west-side-park",
+    "category": "IPA - American",
+    "abv": "6%",
+    "ibu": "56",
+    "brewery": "Ben's Brewing Co.",
+    "rating": "3.88",
+    "image_url": "https://labels.untappd.com/2246176",
+    "record_type": "beer",
+    "source_label": "Redwater Kitchen"
+  },
+  {
     "url": "https://untappd.com/b/modist-brewing-co-heated-rivalry/6634660",
     "title": "Heated Rivalry",
     "slug": "heated-rivalry",
@@ -7,7 +33,7 @@
     "abv": "10%",
     "ibu": "",
     "brewery": "Modist Brewing Co.",
-    "rating": "4.14",
+    "rating": "4.13",
     "image_url": "https://labels.untappd.com/6634660",
     "record_type": "beer",
     "source_label": "Redwater Kitchen"
@@ -65,19 +91,6 @@
     "source_label": "Redwater Kitchen"
   },
   {
-    "url": "https://untappd.com/b/central-waters-brewing-company-el-ganador/1511947",
-    "title": "El Ganador",
-    "slug": "el-ganador",
-    "category": "Stout - Imperial / Double",
-    "abv": "10.8%",
-    "ibu": "",
-    "brewery": "Central Waters Brewing Company",
-    "rating": "4.06",
-    "image_url": "https://labels.untappd.com/1511947",
-    "record_type": "beer",
-    "source_label": "Redwater Kitchen"
-  },
-  {
     "url": "https://untappd.com/b/buffalo-ridge-brewing-project-oaksville-amber/2937051",
     "title": "Oaksville Amber",
     "slug": "oaksville-amber",
@@ -87,19 +100,6 @@
     "brewery": "Buffalo Ridge Brewing Project",
     "rating": "3.71",
     "image_url": "https://labels.untappd.com/2937051",
-    "record_type": "beer",
-    "source_label": "Redwater Kitchen"
-  },
-  {
-    "url": "https://untappd.com/b/laughing-sun-brewing-co-droppin-cones/1391906",
-    "title": "Droppin' Cones",
-    "slug": "droppin-cones",
-    "category": "IPA - Imperial / Double",
-    "abv": "9.5%",
-    "ibu": "100",
-    "brewery": "Laughing Sun Brewing Co.",
-    "rating": "3.86",
-    "image_url": "https://labels.untappd.com/1391906",
     "record_type": "beer",
     "source_label": "Redwater Kitchen"
   },

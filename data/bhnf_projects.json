@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-04-22T18:00:35.680188+00:00",
+  "fetched_at": "2026-04-23T18:11:23.842628+00:00",
   "projects": [
     {
       "project_id": "67625",
@@ -78,37 +78,6 @@
         "phone": "605-443-3081"
       },
       "last_updated": "4/16/2026"
-    },
-    {
-      "project_id": "232189",
-      "title": "Harlan Ridge Trail",
-      "url": "https://www.fs.usda.gov/r02/blackhills/projects/232189",
-      "status": "In Progress",
-      "district": "Northern Hills Ranger District",
-      "purpose": "Recreation Management",
-      "description": "The recreation staff on the Northern Hills Ranger District are proposing to officially designate the user\u2011created Harlan Ridge Trail and adopt it into the nonmotorized trail system.",
-      "milestones": [
-        {
-          "name": "Scoping Start",
-          "date": "9/1/2025"
-        },
-        {
-          "name": "Decision",
-          "date": "2/2026 (Estimated)"
-        }
-      ],
-      "comment_period_date": null,
-      "comment_period_sort": "9999-99",
-      "location_summary": "3 miles North of Hwy 85 adjacent on Tinton Rd.",
-      "counties": [
-        "Lawrence"
-      ],
-      "contact": {
-        "name": "Jeff Burdine",
-        "email": "Jeff.Burdine@usda.gov",
-        "phone": "605-443-3075"
-      },
-      "last_updated": "3/16/2026"
     },
     {
       "project_id": "66463",
@@ -393,6 +362,22 @@
       "district": "Northern Hills Ranger District",
       "purpose": "Special Use Management|Road Management",
       "description": "CANCELLED - REQUEST RESCINDED. Issuance of a road use permit to allow a private landowner to haul timber harvested from private land across National Forest System (NFS)land on a NFS road.",
+      "milestones": [],
+      "comment_period_date": null,
+      "comment_period_sort": "9999-99",
+      "location_summary": "",
+      "counties": [],
+      "contact": {},
+      "last_updated": ""
+    },
+    {
+      "project_id": "232189",
+      "title": "Harlan Ridge Trail",
+      "url": "https://www.fs.usda.gov/r02/blackhills/projects/232189",
+      "status": "Completed",
+      "district": "Northern Hills Ranger District",
+      "purpose": "Recreation Management",
+      "description": "The recreation staff on the Northern Hills Ranger District are proposing to officially designate the user\u2011created Harlan Ridge Trail and adopt it into the nonmotorized trail system.",
       "milestones": [],
       "comment_period_date": null,
       "comment_period_sort": "9999-99",
@@ -841,22 +826,6 @@
       "district": "Northern Hills Ranger District",
       "purpose": "Special Use Management",
       "description": "This project would amend the special use permit for Wonderland Cave to allow the owners use of a National Forest System road to transport visitors from Vanocker Canyon Road to the cave.",
-      "milestones": [],
-      "comment_period_date": null,
-      "comment_period_sort": "9999-99",
-      "location_summary": "",
-      "counties": [],
-      "contact": {},
-      "last_updated": ""
-    },
-    {
-      "project_id": "63845",
-      "title": "Zeppelin Forest Health",
-      "url": "https://www.fs.usda.gov/r02/blackhills/projects/63845",
-      "status": "Completed",
-      "district": "Northern Hills Ranger District",
-      "purpose": "Forest Products|Vegetation Management (Other Than Forest Products)|Fuels Management",
-      "description": "The purpose of the Zeppelin Project is to increase the resiliency of forest landscapes to mountain pine beetle outbreaks and the potential for high severity wildfires by implementing vegetation treatments that would thin dense pine stands.",
       "milestones": [],
       "comment_period_date": null,
       "comment_period_sort": "9999-99",

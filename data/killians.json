@@ -33,7 +33,7 @@
     "abv": "4.9%",
     "ibu": "",
     "brewery": "Eponymous Brewing Company",
-    "rating": "3.92",
+    "rating": "3.91",
     "image_url": "https://labels.untappd.com/4758330",
     "record_type": "beer",
     "source_label": "Killian's"
@@ -130,15 +130,15 @@
     "source_label": "Killian's"
   },
   {
-    "url": "https://untappd.com/b/lupulin-brewing-company-squizzle-snozzberry/6524075",
-    "title": "Squizzle - Snozzberry",
-    "slug": "squizzle-snozzberry",
+    "url": "https://untappd.com/b/cohort-craft-brewery-belle-ciao/6648222",
+    "title": "Belle Ciao",
+    "slug": "belle-ciao",
     "category": "Sour - Fruited",
-    "abv": "5.5%",
-    "ibu": "",
-    "brewery": "Lupulin Brewing Company",
-    "rating": "4.12",
-    "image_url": "https://labels.untappd.com/6524075",
+    "abv": "6%",
+    "ibu": "10",
+    "brewery": "Cohort Craft Brewery",
+    "rating": "N/A",
+    "image_url": "https://labels.untappd.com/6648222",
     "record_type": "beer",
     "source_label": "Killian's"
   },
