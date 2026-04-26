@@ -19,6 +19,15 @@
   },
   {
     "url": "https://leonescreamery.com/flavors",
+    "image_url": "https://leonescreamery.com/images/uploads/cropped/IMG_0716-120-1523320712.jpg",
+    "title": "Rum Raisin",
+    "slug": "rum-raisin",
+    "description": "Perfectly nostalgic and classic! With notes of caramel and rum, and riddled with plump rum-soaked raisins throughout.",
+    "record_type": "flavor",
+    "source_label": "Leone's Creamery"
+  },
+  {
+    "url": "https://leonescreamery.com/flavors",
     "image_url": "https://leonescreamery.com/images/uploads/cropped/EBCFE440-7DA8-4CB3-AF30-9D6254AA9513-169-1549072771.jpg",
     "title": "Salted Caramel Cone",
     "slug": "salted-caramel-cone",
@@ -32,15 +41,6 @@
     "title": "Planet Earth",
     "slug": "planet-earth",
     "description": "Our vanilla ice cream that we dye blue with butterfly pea flower powder! We toss in pieces of housemade brownies and matcha cake, so each scoop looks like a little planet Earth!",
-    "record_type": "flavor",
-    "source_label": "Leone's Creamery"
-  },
-  {
-    "url": "https://leonescreamery.com/flavors",
-    "image_url": "https://leonescreamery.com/images/uploads/cropped/72502AF8-1036-4234-82E1-26493A7C0CF1-173-1540101306.jpg",
-    "title": "Black Licorice",
-    "slug": "black-licorice",
-    "description": "An old-timey classic flavor we love to bring bring back every now and again! Pure anise goodness (no icky food coloring required).",
     "record_type": "flavor",
     "source_label": "Leone's Creamery"
   },
