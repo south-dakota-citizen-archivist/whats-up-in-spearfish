@@ -38,5 +38,15 @@
     "start_dt": "Tue, 07 Apr 2026 16:54:24 -0700",
     "record_type": "alert",
     "source_label": "City of Spearfish"
+  },
+  {
+    "url": "https://www.spearfish.gov/AlertCenter.aspx?AID=61",
+    "title": "City of Spearfish - Memorial Day Closure & Trash Collection",
+    "slug": "city-of-spearfish-memorial-day-closure-trash-collection",
+    "description": "City Hall, Library and Restricted Use Site will be closed on Monday, May 25th for Memorial Day. Monday trash customers will be picked up on Tuesday.",
+    "published": "Tue, 19 May 2026 14:15:22 -0700",
+    "start_dt": "Tue, 19 May 2026 14:15:22 -0700",
+    "record_type": "alert",
+    "source_label": "City of Spearfish"
   }
 ]

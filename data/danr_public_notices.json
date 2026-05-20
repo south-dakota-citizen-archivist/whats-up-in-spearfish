@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-05-19T18:58:44.234707+00:00",
+  "fetched_at": "2026-05-20T19:19:46.880635+00:00",
   "notices": [
     {
       "notice_type": "Water Rights",
@@ -488,6 +488,19 @@
       ]
     },
     {
+      "notice_type": "Surface Water \u2014 401 Certification",
+      "deadline": "06/04/2026",
+      "comment_url": "https://danr.sd.gov/public/comment.aspx?d_comment=06/04/2026&name=City of Sioux Falls&pntype=sw_401&description=The City of Sioux Falls is proposing drainage improvements to a severely eroded tributary to the Big Sioux River located within Tuthill Park and adjacent residential properties in Minnehaha County.",
+      "name": "City of Sioux Falls",
+      "description": "The City of Sioux Falls is proposing drainage improvements to a severely eroded tributary to the Big Sioux River located within Tuthill Park and adjacent residential properties in Minnehaha County.",
+      "links": [
+        {
+          "label": "Public Notice",
+          "url": "https://danr.sd.gov/officeofwater/surfacewaterquality/pn/NWO200801866PIEPN.pdf"
+        }
+      ]
+    },
+    {
       "notice_type": "Air Quality Permit",
       "deadline": "06/05/2026",
       "comment_url": "https://danr.sd.gov/public/comment.aspx?d_comment=06/05/2026&name=Chevron Mill Valley RNG LLC&pntype=aq&description=Chevron Mill Valley proposes a new minor air quality operating permit for their biogas facility. DANR recommends issuance of a new minor air quality operating permit.",
@@ -687,6 +700,38 @@
         {
           "label": "Statement of Basis",
           "url": "https://danr.sd.gov/officeofwater/surfacewaterquality/pn/CanistotaSOB.pdf"
+        }
+      ]
+    },
+    {
+      "notice_type": "Concentrated Animal Feeding Operations (State Permit)",
+      "deadline": "06/19/2026",
+      "comment_url": "https://danr.sd.gov/public/comment.aspx?d_comment=06/19/2026&name=Spink Hutterian Brethren, Inc.&pntype=fp_cafo&description=Expanding Swine Feeding Operation - State Permit",
+      "name": "Spink Hutterian Brethren, Inc.",
+      "description": "Expanding Swine Feeding Operation - State Permit",
+      "location": "Spink County",
+      "links": [
+        {
+          "label": "Public Notice",
+          "url": "https://danr.sd.gov/Press/docs/publicnotices/FeedlotPermit/SpinkHBIExpansionPN.pdf"
+        }
+      ]
+    },
+    {
+      "notice_type": "Waste Management \u2014 Solid Waste",
+      "deadline": "6/19/2026",
+      "comment_url": "",
+      "name": "City of Faulkton",
+      "description": "Permit renewal application to continue operation of a Type IV Restricted Use Solid Waste Facility",
+      "location": "Faulkton, SD",
+      "links": [
+        {
+          "label": "Public Notice",
+          "url": "https://danr.sd.gov/Press/docs/publicnotices/wastemanagementnotices/Faulkton_PN.pdf"
+        },
+        {
+          "label": "Draft Permit",
+          "url": "https://danr.sd.gov/Press/docs/publicnotices/wastemanagementnotices/DRAFT_Faulkton_26_IP.pdf"
         }
       ]
     },

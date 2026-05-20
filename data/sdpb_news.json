@@ -1340,5 +1340,60 @@
     "image_url": "https://npr.brightspotcdn.com/legacy/prod/filer_public/kusd-bento-live-pbs/9b864fd196_RCPD_Parade_Charger.jpg",
     "record_type": "news",
     "source_label": "SDPB"
+  },
+  {
+    "url": "https://www.sdpb.org/politics/2026-05-20/super-pac-backed-by-state-business-community-funded-anti-rhoden-ads-local-races",
+    "title": "Super PAC, backed by state business community, funded anti-Rhoden ads, local races",
+    "slug": "sdpb-super-pac-backed-by-state-business-community-funded-anti-rhoden-ads-local",
+    "published": "2026-05-20",
+    "byline": "By Jackson Dircks",
+    "description": "Some South Dakota companies and business leaders funded a federal Super Political Action Committee that dispersed cash into other state committees attempting to influence elections.",
+    "image_url": "https://npr.brightspotcdn.com/0e/d7/4bbe540e498bb479f7676b79a34f/capitol-money-legislature-tax-south-dakota.jpg",
+    "record_type": "news",
+    "source_label": "SDPB"
+  },
+  {
+    "url": "https://www.sdpb.org/education/2026-05-20/tuition-to-increase-at-state-universities",
+    "title": "Tuition to increase at state universities",
+    "slug": "sdpb-tuition-to-increase-at-state-universities",
+    "published": "2026-05-20",
+    "byline": "By SDPB News Staff",
+    "description": "The state Board of Regents approved a 2.4 percent increase for the 2026-27 academic year.",
+    "image_url": "https://npr.brightspotcdn.com/legacy/prod/filer_public/kusd-bento-live-pbs/NOV5/12a6607aa4_sdsu_campus_outside.png",
+    "record_type": "news",
+    "source_label": "SDPB"
+  },
+  {
+    "url": "https://www.sdpb.org/politics/2026-05-20/ag-releases-final-ballot-explanations-for-2026-constitutional-amendments",
+    "title": "AG releases final ballot explanations for 2026 constitutional amendments",
+    "slug": "sdpb-ag-releases-final-ballot-explanations-for-2026-constitutional-amendments",
+    "published": "2026-05-20",
+    "byline": "By SDPB News Staff",
+    "description": "Attorney General Marty Jackley has released the final ballot explanations for four constitutional amendments set to appear on the South Dakota ballot.",
+    "image_url": "https://npr.brightspotcdn.com/26/36/3d75f9394ba5a5d122c63d59f7c4/microsoftteams-image-1.png",
+    "record_type": "news",
+    "source_label": "SDPB"
+  },
+  {
+    "url": "https://www.sdpb.org/politics/2026-05-20/analysis-fractured-media-landscape-makes-campaign-ad-differentiation-a-powerful-tool-for-candidates",
+    "title": "Analysis: Fractured media landscape makes campaign ad differentiation a powerful tool for candidates",
+    "slug": "sdpb-analysis-fractured-media-landscape-makes-campaign-ad-differentiation-a-tool",
+    "published": "2026-05-20",
+    "byline": "By Lori Walsh",
+    "description": "Voters might see entirely different ads in the two weeks leading up to the South Dakota primary. SDPB's Dakota Political Junkies discuss whose ads are working, whose are nonexistent, and whether or not the Republican race for governor has a \"nice guy\" poised for a surge.",
+    "image_url": "https://npr.brightspotcdn.com/c1/8a/4a1ee3104d89a930ca42658449df/2026-political-junkies-logo-sdpb-1920x1080.png",
+    "record_type": "news",
+    "source_label": "SDPB"
+  },
+  {
+    "url": "https://www.sdpb.org/business-economics/2026-05-19/interpreters-secured-for-hot-springs-uranium-debate",
+    "title": "Interpreters secured for Hot Springs uranium debate",
+    "slug": "sdpb-interpreters-secured-for-hot-springs-uranium-debate",
+    "published": "2026-05-19",
+    "byline": "By C.J. Keene",
+    "description": "A newly passed law that mandates expanded interpretative services at public hearings is getting an early test at a uranium mining hearing.",
+    "image_url": "https://npr.brightspotcdn.com/46/c7/5320abeb4db68e91c6ebe41076e5/uranium-mining-nuisance.jpg",
+    "record_type": "news",
+    "source_label": "SDPB"
   }
 ]

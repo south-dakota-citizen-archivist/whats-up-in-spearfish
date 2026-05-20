@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-05-19T19:00:53.028750+00:00",
+  "fetched_at": "2026-05-20T19:21:55.323795+00:00",
   "cases": [
     {
       "ccid": "123",
@@ -9,6 +9,14 @@
       "description": "Proposed uranium exploration project seven miles north of Edgemont, SD.  Up to 50 holes will be drilled to a maximum vertical depth of 700 feet.  In addition, 50 drill platforms will be created with a dimension of 60 feet by 60 feet.  Exploration will be conducted using reverse circulation drilling with sumps.",
       "docs_url": "https://danr.sd.gov/public/ccdocs.aspx?CCID=CCID123",
       "documents": [
+        {
+          "label": "May 16, 2026 CRST and OST Supplemental Exhibit",
+          "url": "https://danr.sd.gov/Environment/MineralsMining/Exploration/docs/051926GunnSupplementalExhibit437.pdf"
+        },
+        {
+          "label": "May 18, 2026 Supplemental Witness and Exhibit by Dr. Ben Sharp",
+          "url": "https://danr.sd.gov/Environment/MineralsMining/Exploration/docs/51826SharpSupplementalExhibit.pdf"
+        },
         {
           "label": "May 17, 2026 Additional Exhibits from Bruce Ellison",
           "url": "https://danr.sd.gov/Environment/MineralsMining/Exploration/docs/51726EllisonAdditionalExhibits.pdf"
@@ -20,14 +28,6 @@
         {
           "label": "May 16, 2026 CRST and OST Supplemental Exhibits 2",
           "url": "https://danr.sd.gov/Environment/MineralsMining/Exploration/docs/51626Gunn435.pdf"
-        },
-        {
-          "label": "May 16, 2026 CRST and OST Supplemental Exhibits 1",
-          "url": "https://danr.sd.gov/Environment/MineralsMining/Exploration/docs/51626Gunn434.pdf"
-        },
-        {
-          "label": "May 15, 2026 Supplemental Notice of Witnesses and Exhibits by Dr. Ben Sharp",
-          "url": "https://danr.sd.gov/Environment/MineralsMining/Exploration/docs/51526SharpExhibits.pdf"
         }
       ],
       "total_docs": 100,

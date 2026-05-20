@@ -349,5 +349,14 @@
     "source_label": "Lawrence County",
     "channel_url": "https://www.youtube.com/channel/UC2CZKGr9OGrsMcCZkW0_HMA",
     "record_type": "youtube_video"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=tlKaysfDZpI",
+    "title": "School Candidate Forum 5:56 PM 05/19/2026",
+    "published": "2026-05-20",
+    "thumbnail_url": "https://i1.ytimg.com/vi/tlKaysfDZpI/hqdefault.jpg",
+    "source_label": "Spearfish School District",
+    "channel_url": "https://www.youtube.com/@spearfishschooldistrictliv3794/streams",
+    "record_type": "youtube_video"
   }
 ]
