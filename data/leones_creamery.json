@@ -19,15 +19,6 @@
   },
   {
     "url": "https://leonescreamery.com/flavors",
-    "image_url": "https://leonescreamery.com/images/uploads/cropped/3F83621C-C716-4654-A355-38F8DA690745-231-1532984950.jpg",
-    "title": "Mountain Huckleberry",
-    "slug": "mountain-huckleberry",
-    "description": "We use real huckleberries (no syrups or extracts!) to make this deeeelicious, fruity concoction. This crowd-favorite goes fast, so stop in soon if you catch it on our board!",
-    "record_type": "flavor",
-    "source_label": "Leone's Creamery"
-  },
-  {
-    "url": "https://leonescreamery.com/flavors",
     "image_url": "https://leonescreamery.com/images/uploads/cropped/4247D09E-2D5C-4A7B-BA78-6B03F724194C-216-1531075261.jpg",
     "title": "Maple Walnut",
     "slug": "maple-walnut",
@@ -59,6 +50,15 @@
     "title": "Rum Raisin",
     "slug": "rum-raisin",
     "description": "Perfectly nostalgic and classic! With notes of caramel and rum, and riddled with plump rum-soaked raisins throughout.",
+    "record_type": "flavor",
+    "source_label": "Leone's Creamery"
+  },
+  {
+    "url": "https://leonescreamery.com/flavors",
+    "image_url": "https://leonescreamery.com/images/uploads/cropped/Blue-Goat-159-1534649838.jpg",
+    "title": "Blueberry Goat’s Cheese",
+    "slug": "blueberry-goats-cheese",
+    "description": "An OG favorite at Leones' Creamery. Bursting with sweet blueberries and a lil' bit of goat cheese funk. It's creamy, sweet, tangy, and perfect.",
     "record_type": "flavor",
     "source_label": "Leone's Creamery"
   },

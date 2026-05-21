@@ -1395,5 +1395,49 @@
     "image_url": "https://npr.brightspotcdn.com/46/c7/5320abeb4db68e91c6ebe41076e5/uranium-mining-nuisance.jpg",
     "record_type": "news",
     "source_label": "SDPB"
+  },
+  {
+    "url": "https://www.sdpb.org/business-economics/2026-05-21/craven-canyon-uranium-hearings-put-on-temporary-pause",
+    "title": "Craven Canyon uranium hearings put on temporary pause",
+    "slug": "sdpb-craven-canyon-uranium-hearings-put-on-temporary-pause",
+    "published": "2026-05-21",
+    "byline": "By C.J. Keene",
+    "description": "Meetings are on pause for a contentious uranium project in the Black Hills. The Craven Canyon project hearings, near Hot Springs, are halted until further notice after several speed bumps in the process.",
+    "image_url": "https://npr.brightspotcdn.com/ad/8f/e28bff5b414594c5872c98ae5797/image-80.jpg",
+    "record_type": "news",
+    "source_label": "SDPB"
+  },
+  {
+    "url": "https://www.sdpb.org/rural-life-and-history/2026-05-21/presentation-sisters-look-forward-to-new-beginning-with-community",
+    "title": "Presentation Sisters look forward to new beginning with community",
+    "slug": "sdpb-presentation-sisters-look-forward-to-new-beginning-with-community",
+    "published": "2026-05-21",
+    "byline": "By C.J. Keene",
+    "description": "After the closure of Presentation College, the question for the Presentation Sisters has been how to look forward. Now, a green space on the old campus gives a look at the group’s priorities as they enter the next generation of local activism.",
+    "image_url": "https://npr.brightspotcdn.com/1c/8e/9a88885e41e580c7782455282dde/presentation-green-space.jpg",
+    "record_type": "news",
+    "source_label": "SDPB"
+  },
+  {
+    "url": "https://www.sdpb.org/healthcare/2026-05-21/stroke-survivor-uses-poetry-to-heal-to-document-and-to-teach-others-about-stroke-recovery",
+    "title": "Stroke survivor uses poetry to heal, to document and to teach others about stroke recovery",
+    "slug": "sdpb-stroke-survivor-uses-poetry-to-heal-to-document-and-to-teach-others-about",
+    "published": "2026-05-21",
+    "byline": "By Lori Walsh",
+    "description": "Marcella Remund survived her stroke. Then came the arduous recovery. We talk with Remund about her latest poetry collection and check in with South Dakota's efforts to streamline stroke services to save lives.",
+    "image_url": "https://npr.brightspotcdn.com/52/a4/27ad8392458d90c0af200f3647e9/website-photo-1.png",
+    "record_type": "news",
+    "source_label": "SDPB"
+  },
+  {
+    "url": "https://www.sdpb.org/politics/2026-05-20/super-pac-spending-over-600-000-on-messaging-against-rep-dusty-johnson",
+    "title": "Super PAC spending over $600,000 on messaging against Rep. Dusty Johnson",
+    "slug": "sdpb-super-pac-spending-over-600000-on-messaging-against-rep-dusty-johnson",
+    "published": "2026-05-20",
+    "byline": "By Jackson Dircks",
+    "description": "A Virginia-based group is spending over $600,000 on attack ads and mail opposing U.S. Representative Dusty Johnson.",
+    "image_url": "https://npr.brightspotcdn.com/d6/82/c16229534eb79a75818b5b6a6839/dj4gov-00-01-49-16-still002.png",
+    "record_type": "news",
+    "source_label": "SDPB"
   }
 ]

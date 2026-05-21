@@ -1,198 +1,6 @@
 {
-  "fetched_at": "2026-05-20T19:19:46.880635+00:00",
+  "fetched_at": "2026-05-21T18:58:26.024908+00:00",
   "notices": [
-    {
-      "notice_type": "Water Rights",
-      "deadline": "05/11/2026",
-      "comment_url": "",
-      "application_no": "8993-3",
-      "name": "Bixler Farms, c/o Jake Bixler,\u00a0Hitchcock\u00a0SD",
-      "location": "Spink",
-      "water_source": "Tulare: Western Spink Hitchcock Aquifer",
-      "use_type": "Irrigation (12 acres)",
-      "links": [
-        {
-          "label": "Public Notice",
-          "url": "https://danr.sd.gov/wrimage/pub/8993-3_app.pdf"
-        },
-        {
-          "label": "Appl.",
-          "url": "https://danr.sd.gov/wrimage/pub/8993-3_apl.pdf"
-        },
-        {
-          "label": "Recom. Action",
-          "url": "https://danr.sd.gov/wrimage/pub/8993-3_rec.pdf"
-        }
-      ]
-    },
-    {
-      "notice_type": "Water Rights",
-      "deadline": "05/11/2026",
-      "comment_url": "",
-      "application_no": "8994-3",
-      "name": "Bixler Farms, c/o Jake Bixler,\u00a0Hitchcock\u00a0SD",
-      "location": "Spink",
-      "water_source": "Tulare: Western Spink Hitchcock Aquifer",
-      "use_type": "Irrigation (160 acres)",
-      "links": [
-        {
-          "label": "Public Notice",
-          "url": "https://danr.sd.gov/wrimage/pub/8994-3_app.pdf"
-        },
-        {
-          "label": "Appl.",
-          "url": "https://danr.sd.gov/wrimage/pub/8994-3_apl.pdf"
-        },
-        {
-          "label": "Recom. Action",
-          "url": "https://danr.sd.gov/wrimage/pub/8994-3_rec.pdf"
-        }
-      ]
-    },
-    {
-      "notice_type": "Water Rights",
-      "deadline": "05/11/2026",
-      "comment_url": "",
-      "application_no": "8995-3",
-      "name": "Bixler Farms, c/o Jake Bixler,\u00a0Hitchcock\u00a0SD",
-      "location": "Spink",
-      "water_source": "Tulare: Western Spink Hitchcock Aquifer",
-      "use_type": "Irrigation (no add'l acres)",
-      "links": [
-        {
-          "label": "Public Notice",
-          "url": "https://danr.sd.gov/wrimage/pub/8995-3_app.pdf"
-        },
-        {
-          "label": "Appl.",
-          "url": "https://danr.sd.gov/wrimage/pub/8995-3_apl.pdf"
-        },
-        {
-          "label": "Recom. Action",
-          "url": "https://danr.sd.gov/wrimage/pub/8995-3_rec.pdf"
-        }
-      ]
-    },
-    {
-      "notice_type": "Water Rights",
-      "deadline": "05/11/2026",
-      "comment_url": "",
-      "application_no": "9027-3",
-      "name": "FermentationExperts USA, LLC, c/o Brandon Wienk,\u00a0Sioux Falls\u00a0SD",
-      "location": "Minnehaha",
-      "water_source": "Big Sioux: Southern Skunk Creek Aquifer",
-      "use_type": "Industrial (swine feed production)",
-      "links": [
-        {
-          "label": "Public Notice",
-          "url": "https://danr.sd.gov/wrimage/pub/9027-3_app.pdf"
-        },
-        {
-          "label": "Appl.",
-          "url": "https://danr.sd.gov/wrimage/pub/9027-3_apl.pdf"
-        },
-        {
-          "label": "Recom. Action",
-          "url": "https://danr.sd.gov/wrimage/pub/9027-3_rec.pdf"
-        }
-      ]
-    },
-    {
-      "notice_type": "Water Rights",
-      "deadline": "05/11/2026",
-      "comment_url": "",
-      "application_no": "9026-3",
-      "name": "Boadwine Farms, Inc., c/o Lynn Boadwine,\u00a0Sioux Falls\u00a0SD",
-      "location": "Minnehaha",
-      "water_source": "Big Sioux: Middle Skunk Creek Aquifer",
-      "use_type": "Commercial (dairy)",
-      "links": [
-        {
-          "label": "Public Notice",
-          "url": "https://danr.sd.gov/wrimage/pub/9026-3_app.pdf"
-        },
-        {
-          "label": "Appl.",
-          "url": "https://danr.sd.gov/wrimage/pub/9026-3_apl.pdf"
-        },
-        {
-          "label": "Recom. Action",
-          "url": "https://danr.sd.gov/wrimage/pub/9026-3_rec.pdf"
-        }
-      ]
-    },
-    {
-      "notice_type": "Water Rights",
-      "deadline": "05/11/2026",
-      "comment_url": "",
-      "application_no": "9025-3",
-      "name": "City of Lake Norden, c/o Kimberly St. John, Mayor,\u00a0Lake Norden\u00a0SD",
-      "location": "Hamlin",
-      "water_source": "Prairie Coteau Aquifer",
-      "use_type": "Municipal & Water Distribution System",
-      "links": [
-        {
-          "label": "Public Notice",
-          "url": "https://danr.sd.gov/wrimage/pub/9025-3_app.pdf"
-        },
-        {
-          "label": "Appl.",
-          "url": "https://danr.sd.gov/wrimage/pub/9025-3_apl.pdf"
-        },
-        {
-          "label": "Recom. Action",
-          "url": "https://danr.sd.gov/wrimage/pub/9025-3_rec.pdf"
-        }
-      ]
-    },
-    {
-      "notice_type": "Water Rights",
-      "deadline": "05/18/2026",
-      "comment_url": "",
-      "application_no": "9028-3",
-      "name": "Dakota Deere Farms, LLC, c/o Allen Andrews,\u00a0Beresford\u00a0SD",
-      "location": "Union",
-      "water_source": "Brule Creek Aquifer",
-      "use_type": "Irrigation (187 acres)",
-      "links": [
-        {
-          "label": "Public Notice",
-          "url": "https://danr.sd.gov/wrimage/pub/9028-3_app.pdf"
-        },
-        {
-          "label": "Appl.",
-          "url": "https://danr.sd.gov/wrimage/pub/9028-3_apl.pdf"
-        },
-        {
-          "label": "Recom. Action",
-          "url": "https://danr.sd.gov/wrimage/pub/9028-3_rec.pdf"
-        }
-      ]
-    },
-    {
-      "notice_type": "Water Rights",
-      "deadline": "05/18/2026",
-      "comment_url": "",
-      "application_no": "9029-3",
-      "name": "Craig Vanderlei,\u00a0Springfield\u00a0SD",
-      "location": "Bon Homme",
-      "water_source": "Niobrara Aquifer",
-      "use_type": "Irrigation (120 acres)",
-      "links": [
-        {
-          "label": "Public Notice",
-          "url": "https://danr.sd.gov/wrimage/pub/9029-3_app.pdf"
-        },
-        {
-          "label": "Appl.",
-          "url": "https://danr.sd.gov/wrimage/pub/9029-3_apl.pdf"
-        },
-        {
-          "label": "Recom. Action",
-          "url": "https://danr.sd.gov/wrimage/pub/9029-3_rec.pdf"
-        }
-      ]
-    },
     {
       "notice_type": "Air Quality Permit",
       "deadline": "05/22/2026",
@@ -732,6 +540,69 @@
         {
           "label": "Draft Permit",
           "url": "https://danr.sd.gov/Press/docs/publicnotices/wastemanagementnotices/DRAFT_Faulkton_26_IP.pdf"
+        }
+      ]
+    },
+    {
+      "notice_type": "Air Quality Permit",
+      "deadline": "06/20/2026",
+      "comment_url": "https://danr.sd.gov/public/comment.aspx?d_comment=06/20/2026&name=Astec&pntype=aq&description=Astec is adding a new laser cutting table to their facility in Yankton. DANR recommends approval of an air quality construction permit.",
+      "description": "Astec is adding a new laser cutting table to their facility in Yankton. DANR recommends approval of an air quality construction permit.",
+      "location": "Yankton",
+      "links": [
+        {
+          "label": "Public Notice",
+          "url": "http://danr.sd.gov/Environment/AirQuality/PN/ASTpn.pdf"
+        },
+        {
+          "label": "Draft Permit",
+          "url": "http://danr.sd.gov/Environment/AirQuality/PN/ASTdp.pdf"
+        },
+        {
+          "label": "Application Review",
+          "url": "http://danr.sd.gov/Environment/AirQuality/PN/ASTsb.pdf"
+        }
+      ]
+    },
+    {
+      "notice_type": "Air Quality Permit",
+      "deadline": "06/20/2026",
+      "comment_url": "https://danr.sd.gov/public/comment.aspx?d_comment=06/20/2026&name=MJF State Veterans Home&pntype=aq&description=MJF State Veterans Home is a healthcare facility in Hot Springs. DANR recommends approval of a Title V air quality operating permit renewal.",
+      "description": "MJF State Veterans Home is a healthcare facility in Hot Springs. DANR recommends approval of a Title V air quality operating permit renewal.",
+      "location": "Hot Springs",
+      "links": [
+        {
+          "label": "Public Notice",
+          "url": "http://danr.sd.gov/Environment/AirQuality/PN/MFJpn.pdf"
+        },
+        {
+          "label": "Draft Permit",
+          "url": "http://danr.sd.gov/Environment/AirQuality/PN/MJFdp.pdf"
+        },
+        {
+          "label": "Application Review",
+          "url": "http://danr.sd.gov/Environment/AirQuality/PN/MJFsb.pdf"
+        }
+      ]
+    },
+    {
+      "notice_type": "Air Quality Permit",
+      "deadline": "06/20/2026",
+      "comment_url": "https://danr.sd.gov/public/comment.aspx?d_comment=06/20/2026&name=Astec&pntype=aq&description=Astec is adding a new laser cutting table to their facility in Yankton. DANR recommends approval of a minor air quality operating permit modification.",
+      "description": "Astec is adding a new laser cutting table to their facility in Yankton. DANR recommends approval of a minor air quality operating permit modification.",
+      "location": "Yankton",
+      "links": [
+        {
+          "label": "Public Notice",
+          "url": "https://danr.sd.gov/Environment/AirQuality/PN/ASTpn.pdf"
+        },
+        {
+          "label": "Draft Permit",
+          "url": "https://danr.sd.gov/Environment/AirQuality/PN/dp.pdf"
+        },
+        {
+          "label": "Application Review",
+          "url": "https://danr.sd.gov/Environment/AirQuality/PN/ASTsb.pdf"
         }
       ]
     },

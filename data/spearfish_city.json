@@ -67854,5 +67854,53 @@
     "title": "Historic Preservation Commission Minutes 3-19-2026",
     "doc_type": "Minutes",
     "file_url": "https://spearfishsd.portal.civicclerk.com/event/3315/files/minutes/6573"
+  },
+  {
+    "event_id": 2241,
+    "event_name": "Park, Recreation, and Forestry Advisory Board Meeting",
+    "category": "Parks, Recreation, and Forestry Advisory Board",
+    "start_dt": "2026-05-21T07:30:00Z",
+    "location": "City Hall, 625 N 5th St, Spearfish, SD, 57783",
+    "portal_url": "https://spearfishsd.portal.civicclerk.com/event/2241",
+    "has_media": true,
+    "media_url": "",
+    "record_type": "document",
+    "source_label": "City of Spearfish",
+    "url": "https://spearfishsd.portal.civicclerk.com/event/2241/files/agenda-packet/6575",
+    "title": "UPDATED May 21, 2026 Packet",
+    "doc_type": "Agenda Packet",
+    "file_url": "https://spearfishsd.portal.civicclerk.com/event/2241/files/agenda-packet/6575"
+  },
+  {
+    "event_id": 3333,
+    "event_name": "Planning Commission Meeting",
+    "category": "Planning Commission",
+    "start_dt": "2026-05-07T16:00:00Z",
+    "location": "625 N 5th Street, Spearfish, SD, 57783",
+    "portal_url": "https://spearfishsd.portal.civicclerk.com/event/3333",
+    "has_media": true,
+    "media_url": "https://cpmedia.azureedge.net/spearfishsd/ba26d465ff.mp4",
+    "record_type": "document",
+    "source_label": "City of Spearfish",
+    "url": "https://spearfishsd.portal.civicclerk.com/event/3333/files/minutes/6557",
+    "title": "05072026 Planning Commission Minutes ",
+    "doc_type": "Minutes",
+    "file_url": "https://spearfishsd.portal.civicclerk.com/event/3333/files/minutes/6557"
+  },
+  {
+    "event_id": 2304,
+    "event_name": "Building Board of Appeals Initial Meeting",
+    "category": "General",
+    "start_dt": "2026-02-02T10:00:00Z",
+    "location": "625 N 5th Street, Spearfish, SD, 57783",
+    "portal_url": "https://spearfishsd.portal.civicclerk.com/event/2304",
+    "has_media": true,
+    "media_url": "SPEARFISHSD/f33e38ef-0df5-434f-a823-d03b036facde.mp4",
+    "record_type": "document",
+    "source_label": "City of Spearfish",
+    "url": "https://spearfishsd.portal.civicclerk.com/event/2304/files/minutes/6553",
+    "title": "02022026 BBOA Minutes",
+    "doc_type": "Minutes",
+    "file_url": "https://spearfishsd.portal.civicclerk.com/event/2304/files/minutes/6553"
   }
 ]

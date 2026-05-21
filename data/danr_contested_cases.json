@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-05-20T19:21:55.323795+00:00",
+  "fetched_at": "2026-05-21T19:00:41.235731+00:00",
   "cases": [
     {
       "ccid": "123",
@@ -42,6 +42,10 @@
       "docs_url": "https://danr.sd.gov/public/ccdocs.aspx?CCID=CCID124",
       "documents": [
         {
+          "label": "City of Rapid City's Notices of Deposition of Fern Johnson, Ross Johnson, and Harold P. Barber",
+          "url": "https://danr.sd.gov/Environment/WasteManagement/docs/RapidCityContestedCase2025/City_of_Rapid_City_Notice_of_Depositions.pdf"
+        },
+        {
           "label": "Letter to Binegar with Petitioners' Objections to City's Proposed Modification of Pending Permit's Solid Waste Operations Plan",
           "url": "https://danr.sd.gov/Environment/WasteManagement/docs/RapidCityContestedCase2025/5.04.2026 to Binegar.pdf"
         },
@@ -56,13 +60,9 @@
         {
           "label": "City of Rapid City's Witness Disclosures",
           "url": "https://danr.sd.gov/Environment/WasteManagement/docs/RapidCityContestedCase2025/City_of_Rapid_City_Witness_Disclosures.pdf"
-        },
-        {
-          "label": "Department's Witness Disclosure",
-          "url": "https://danr.sd.gov/Environment/WasteManagement/docs/RapidCityContestedCase2025/DANR Witness Disclosure.RC Landfill Renewal Application.service 02 06 2025.pdf"
         }
       ],
-      "total_docs": 24,
+      "total_docs": 25,
       "latest_doc_date": "0000-00-00"
     },
     {
@@ -115,6 +115,38 @@
         }
       ],
       "total_docs": 2,
+      "latest_doc_date": "0000-00-00"
+    },
+    {
+      "ccid": "130",
+      "board": "DANR Secretary's Office Proceeding",
+      "permit_type": "Surface Water Discharge Individual Permit",
+      "title": "City of Custer Surface Water Discharge Permit",
+      "description": "Reissuance of the city of Custer's Surface Water Discharge Permit.",
+      "docs_url": "https://danr.sd.gov/public/ccdocs.aspx?CCID=CCID130",
+      "documents": [
+        {
+          "label": "Motion to Recuse",
+          "url": "https://danr.sd.gov/OfficeOfWater/SurfaceWaterQuality/docs/CCH/Custer/Motion to Recuse.pdf"
+        },
+        {
+          "label": "Video of French Creek USGS 06403300",
+          "url": "https://danr.sd.gov/OfficeOfWater/SurfaceWaterQuality/docs/CCH/Custer/S_Video USGS 06403300 102022.mp4"
+        },
+        {
+          "label": "Video of French Creek Site 4",
+          "url": "https://danr.sd.gov/OfficeOfWater/SurfaceWaterQuality/docs/CCH/Custer/S_video site 4 090725.mp4"
+        },
+        {
+          "label": "Video of French Creek Site 1",
+          "url": "https://danr.sd.gov/OfficeOfWater/SurfaceWaterQuality/docs/CCH/Custer/S_video site 1 090725.mp4"
+        },
+        {
+          "label": "Video of French Creek near Site 1",
+          "url": "https://danr.sd.gov/OfficeOfWater/SurfaceWaterQuality/docs/CCH/Custer/S_Video near Site 1 102022.mp4"
+        }
+      ],
+      "total_docs": 11,
       "latest_doc_date": "0000-00-00"
     },
     {
