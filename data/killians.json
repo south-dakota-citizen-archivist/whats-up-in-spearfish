@@ -65,15 +65,15 @@
     "source_label": "Killian's"
   },
   {
-    "url": "https://untappd.com/b/jefferson-beer-supply-toast-malone/6230270",
-    "title": "Toast Malone",
-    "slug": "toast-malone",
-    "category": "Brown Ale - American",
-    "abv": "4.7%",
-    "ibu": "",
-    "brewery": "Jefferson Beer Supply",
-    "rating": "3.68",
-    "image_url": "https://labels.untappd.com/6230270",
+    "url": "https://untappd.com/b/lost-cabin-beer-co-de-la-luna/5434880",
+    "title": "De la Luna",
+    "slug": "de-la-luna",
+    "category": "Lager - Mexican",
+    "abv": "4.5%",
+    "ibu": "17",
+    "brewery": "Lost Cabin Beer Co.",
+    "rating": "3.89",
+    "image_url": "https://labels.untappd.com/5434880",
     "record_type": "beer",
     "source_label": "Killian's"
   },
@@ -202,7 +202,7 @@
     "abv": "4.5%",
     "ibu": "13",
     "brewery": "Crow Peak Brewing Company",
-    "rating": "3.52",
+    "rating": "3.53",
     "image_url": "https://labels.untappd.com/4706119",
     "record_type": "beer",
     "source_label": "Killian's"

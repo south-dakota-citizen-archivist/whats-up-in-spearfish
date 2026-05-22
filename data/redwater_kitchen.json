@@ -1,5 +1,18 @@
 [
   {
+    "url": "https://untappd.com/b/2-towns-ciderhouse-pacific-pineapple/2474142",
+    "title": "Pacific Pineapple",
+    "slug": "pacific-pineapple",
+    "category": "Cider - Other Fruit",
+    "abv": "5%",
+    "ibu": "",
+    "brewery": "2 Towns Ciderhouse",
+    "rating": "4.01",
+    "image_url": "https://labels.untappd.com/2474142",
+    "record_type": "beer",
+    "source_label": "Redwater Kitchen"
+  },
+  {
     "url": "https://untappd.com/b/sawyer-brewing-co-4lo-pale-ale/6562340",
     "title": "4LO Pale Ale",
     "slug": "4lo-pale-ale",
@@ -33,7 +46,7 @@
     "abv": "6.9%",
     "ibu": "69",
     "brewery": "Dakota Point Brewing",
-    "rating": "3.81",
+    "rating": "3.82",
     "image_url": "https://labels.untappd.com/3792761",
     "record_type": "beer",
     "source_label": "Redwater Kitchen"
@@ -48,19 +61,6 @@
     "brewery": "Anderson Valley Brewing Company",
     "rating": "3.52",
     "image_url": "https://labels.untappd.com/4481",
-    "record_type": "beer",
-    "source_label": "Redwater Kitchen"
-  },
-  {
-    "url": "https://untappd.com/b/2-towns-ciderhouse-mango-cosmic-crisp/5884541",
-    "title": "Mango Cosmic Crisp®",
-    "slug": "mango-cosmic-crisp-r",
-    "category": "Cider - Other Fruit",
-    "abv": "9%",
-    "ibu": "",
-    "brewery": "2 Towns Ciderhouse",
-    "rating": "3.87",
-    "image_url": "https://labels.untappd.com/5884541",
     "record_type": "beer",
     "source_label": "Redwater Kitchen"
   },

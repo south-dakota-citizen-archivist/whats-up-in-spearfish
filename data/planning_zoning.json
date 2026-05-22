@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-05-21T18:58:10.252249+00:00",
+  "fetched_at": "2026-05-22T18:51:39.035786+00:00",
   "records": [
     {
       "id": 11953,
@@ -106,7 +106,7 @@
       "status": 1,
       "date_created": "2026-05-14T18:43:49.892Z",
       "date_submitted": "2026-05-14T19:11:13.000Z",
-      "last_updated": "2026-05-14T19:31:24.283Z",
+      "last_updated": "2026-05-21T21:36:24.519Z",
       "address": "",
       "lat": 44.488287,
       "lon": -103.737789,
@@ -250,7 +250,7 @@
       "status": 1,
       "date_created": "2026-05-05T20:50:10.107Z",
       "date_submitted": "2026-05-05T21:01:22.000Z",
-      "last_updated": "2026-05-20T14:51:26.000Z",
+      "last_updated": "2026-05-22T18:16:49.000Z",
       "address": "1030 Maitland  Rd, Spearfish, SD 57783",
       "lat": 44.466685,
       "lon": -103.78928,
@@ -1834,7 +1834,7 @@
       "status": 1,
       "date_created": "2026-02-02T18:44:19.779Z",
       "date_submitted": "2026-02-05T17:07:50.000Z",
-      "last_updated": "2026-04-28T22:14:10.000Z",
+      "last_updated": "2026-05-22T17:40:55.000Z",
       "address": "1830 N MAIN ST, SPEARFISH, SD 57783",
       "lat": 44.502398,
       "lon": -103.860394,
@@ -2682,7 +2682,7 @@
       "status": 1,
       "date_created": "2025-11-14T18:59:20.100Z",
       "date_submitted": "2025-11-14T19:13:40.000Z",
-      "last_updated": "2026-04-29T14:24:00.000Z",
+      "last_updated": "2026-05-22T17:43:26.000Z",
       "address": "545 W JACKSON BLVD, SPEARFISH, SD 57783",
       "lat": 44.489902,
       "lon": -103.86679,

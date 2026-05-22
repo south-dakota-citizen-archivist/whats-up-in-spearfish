@@ -1439,5 +1439,49 @@
     "image_url": "https://npr.brightspotcdn.com/d6/82/c16229534eb79a75818b5b6a6839/dj4gov-00-01-49-16-still002.png",
     "record_type": "news",
     "source_label": "SDPB"
+  },
+  {
+    "url": "https://www.sdpb.org/politics/2026-05-22/candidates-react-to-new-poll-showing-shakeup-in-gop-gubernatorial-race",
+    "title": "Candidates react to new poll showing shakeup in GOP gubernatorial race",
+    "slug": "sdpb-candidates-react-to-new-poll-showing-shakeup-in-gop-gubernatorial-race",
+    "published": "2026-05-22",
+    "byline": "By Jackson Dircks",
+    "description": "A new public poll shows a shakeup at the top of the GOP Republican Primary race for governor. Though some candidates are pushing back at the results.",
+    "image_url": "https://npr.brightspotcdn.com/c0/69/499be1714c58a3c1272f6d2522ae/gop-governor-candidates-sdpb-2026.jpg",
+    "record_type": "news",
+    "source_label": "SDPB"
+  },
+  {
+    "url": "https://www.sdpb.org/arts-life/2026-05-22/in-canyon-song-former-preacher-writes-songs-for-strangers-and-finds-his-way-back-to-community",
+    "title": "In 'Canyon Song' former preacher writes songs for strangers and finds his way back to community",
+    "slug": "sdpb-in-canyon-song-former-preacher-writes-songs-for-strangers-and-finds-his-way",
+    "published": "2026-05-22",
+    "byline": "By Lori Walsh",
+    "description": "South Dakota author Scott Simpson's latest novella introduces songwriter Aubrey Larkin and a town of gently bent-not-broken humans.",
+    "image_url": "https://npr.brightspotcdn.com/52/a4/27ad8392458d90c0af200f3647e9/website-photo-1.png",
+    "record_type": "news",
+    "source_label": "SDPB"
+  },
+  {
+    "url": "https://www.sdpb.org/environment/2026-05-21/badlands-national-park-close-to-achieving-international-dark-sky-certification",
+    "title": "Badlands National Park close to achieving International Dark Sky Certification",
+    "slug": "sdpb-badlands-national-park-close-to-achieving-international-dark-sky",
+    "published": "2026-05-21",
+    "byline": "By Delainey LaHood-Burns",
+    "description": "Badlands National Park is in the final stages of becoming an International Dark Sky Park.",
+    "image_url": "https://npr.brightspotcdn.com/69/9a/125409834c6b9b162bb4684d058c/badlands-night-sky-2.png",
+    "record_type": "news",
+    "source_label": "SDPB"
+  },
+  {
+    "url": "https://www.sdpb.org/healthcare/2026-05-21/first-consultants-for-sd-rural-health-transformation-project-announced",
+    "title": "First consultants for SD Rural Health Transformation Project announced",
+    "slug": "sdpb-first-consultants-for-sd-rural-health-transformation-project-announced",
+    "published": "2026-05-21",
+    "byline": "By Jackie Hendry",
+    "description": "The state has awarded three contracts to local consulting firms to support different aspects of the Rural Health Transformation project.",
+    "image_url": "https://npr.brightspotcdn.com/a2/ee/a3d5589f4b7299735562834eb7d5/health-medical-stethoscope.jpg",
+    "record_type": "news",
+    "source_label": "SDPB"
   }
 ]

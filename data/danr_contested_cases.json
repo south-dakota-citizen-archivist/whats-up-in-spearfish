@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-05-21T19:00:41.235731+00:00",
+  "fetched_at": "2026-05-22T18:54:37.079373+00:00",
   "cases": [
     {
       "ccid": "123",
@@ -220,30 +220,9 @@
       "title": "8987-3 Vic Utech",
       "description": "Application for a water permit to appropriate up to 2.45 acre-feet of water annually at a maximum pump rate of 0.22 cubic feet of water per second from one existing well completed into the Grey Goose Aquifer (90 feet deep). The well, located in the NW 1/4 SE 1/4 Section 34, will supply water for commercial use at an RV Park to be located in the SE 1/4 Section 34; all in T113N-R80W.",
       "docs_url": "https://danr.sd.gov/public/ccdocs.aspx?CCID=CCID127",
-      "documents": [
-        {
-          "label": "Notice of Entry of Order",
-          "url": "https://danr.sd.gov/wrimage/pub/8987-3_Utech_denied.pdf"
-        },
-        {
-          "label": "Petitioner's Response to Applicant's Pre-Hearing Submission",
-          "url": "https://danr.sd.gov/wrimage/pub/8987-3_petresponse.pdf"
-        },
-        {
-          "label": "Filings Submitted by Counsel for the Chief Engineer",
-          "url": "https://danr.sd.gov/wrimage/pub/8987-3_greco_2.pdf"
-        },
-        {
-          "label": "Proposed Exhibits Submitted by Counsel for the Applicant",
-          "url": "https://danr.sd.gov/wrimage/pub/8797-3_UtechExhibits.pdf"
-        },
-        {
-          "label": "Filings Submitted by Counsel for the Applicant",
-          "url": "https://danr.sd.gov/wrimage/pub/8797-3_Utech_breif_witlist.pdf"
-        }
-      ],
-      "total_docs": 23,
-      "latest_doc_date": "0000-00-00"
+      "documents": [],
+      "total_docs": 0,
+      "latest_doc_date": ""
     },
     {
       "ccid": "126",
