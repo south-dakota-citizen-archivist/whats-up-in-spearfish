@@ -37,15 +37,6 @@
   },
   {
     "url": "https://leonescreamery.com/flavors",
-    "image_url": "https://leonescreamery.com/images/uploads/cropped/4B256FB4-8C1F-432B-A4B5-88E1ACF59E8D-207-1530283492.jpg",
-    "title": "Orange Speckled Chocolate",
-    "slug": "orange-speckled-chocolate",
-    "description": "Our favorite citrus/chocolate combo! Creamy orange ice cream and melt-in-your-mouth chocolate flakes make for one tasty treat.",
-    "record_type": "flavor",
-    "source_label": "Leone's Creamery"
-  },
-  {
-    "url": "https://leonescreamery.com/flavors",
     "image_url": "https://leonescreamery.com/images/uploads/cropped/IMG_0716-120-1523320712.jpg",
     "title": "Rum Raisin",
     "slug": "rum-raisin",
@@ -59,6 +50,15 @@
     "title": "Blueberry Goat’s Cheese",
     "slug": "blueberry-goats-cheese",
     "description": "An OG favorite at Leones' Creamery. Bursting with sweet blueberries and a lil' bit of goat cheese funk. It's creamy, sweet, tangy, and perfect.",
+    "record_type": "flavor",
+    "source_label": "Leone's Creamery"
+  },
+  {
+    "url": "https://leonescreamery.com/flavors",
+    "image_url": "https://leonescreamery.com/images/uploads/cropped/MintOreo-146-1524171221.jpg",
+    "title": "Mint Oreo",
+    "slug": "mint-oreo",
+    "description": "Our cool peppermint ice cream is riddled with Oreo cookie pieces (no pesky green dye included).",
     "record_type": "flavor",
     "source_label": "Leone's Creamery"
   },

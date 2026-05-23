@@ -1,27 +1,6 @@
 {
-  "fetched_at": "2026-05-22T18:51:57.666801+00:00",
+  "fetched_at": "2026-05-23T17:58:34.771455+00:00",
   "notices": [
-    {
-      "notice_type": "Air Quality Permit",
-      "deadline": "05/22/2026",
-      "comment_url": "https://danr.sd.gov/public/comment.aspx?d_comment=05/22/2026&name=KNTC, LLC, dba Sioux Marble&pntype=aq&description=Sioux Marble proposes to renew their minor operating permit for manufacturing cultured marble products. DANR recommends issuance of a renewed minor air quality permit.",
-      "description": "Sioux Marble proposes to renew their minor operating permit for manufacturing cultured marble products. DANR recommends issuance of a renewed minor air quality permit.",
-      "location": "Brandon",
-      "links": [
-        {
-          "label": "Public Notice",
-          "url": "https://danr.sd.gov/Environment/AirQuality/PN/KNTCpn.pdf"
-        },
-        {
-          "label": "Draft Permit",
-          "url": "https://danr.sd.gov/Environment/AirQuality/PN/KNTCdp.pdf"
-        },
-        {
-          "label": "Application Review",
-          "url": "https://danr.sd.gov/Environment/AirQuality/PN/KNTCsb.pdf"
-        }
-      ]
-    },
     {
       "notice_type": "Surface Water Discharge (NPDES)",
       "deadline": "05/26/2026",
@@ -645,6 +624,24 @@
         {
           "label": "Application Review",
           "url": "http://danr.sd.gov/Environment/AirQuality/PN/LKTcsb.pdf"
+        }
+      ]
+    },
+    {
+      "notice_type": "Waste Management \u2014 Solid Waste",
+      "deadline": "6/22/2026",
+      "comment_url": "",
+      "name": "Waste Management of Huron",
+      "description": "Permit renewal application to continue operation of a Type IIB Municipal Solid Waste Transfer Station Solid Waste Facility",
+      "location": "Huron, SD",
+      "links": [
+        {
+          "label": "Public Notice",
+          "url": "https://danr.sd.gov/Press/docs/publicnotices/wastemanagementnotices/Waste_Management_of_Huron_26_PN.pdf"
+        },
+        {
+          "label": "Draft Permit",
+          "url": "https://danr.sd.gov/Press/docs/publicnotices/wastemanagementnotices/DRAFT_Waste_Management_of_Huron_26_IP.pdf"
         }
       ]
     },

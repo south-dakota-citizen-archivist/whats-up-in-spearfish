@@ -258,7 +258,7 @@
     "slug": "cat-eggo",
     "species": "cat",
     "description": "Male | Undetermined age (~3 years)\nEggo came to us as a stray on 4.29.26. He’s a big gentle boy with beautiful blue eyes that appears to have once had a home because he’s not feral like we first thought - he’s just scared. He was definitely in some fights in his day and has some scars. There may have been a human that was unkind to him, so he needs a quiet home where he can feel safe and come out of his shell. We are not sure how he does with other cats or dogs.",
-    "image_url": "https://images.squarespace-cdn.com/content/v1/6833638f52663f7b5354620e/45b60ecb-41e3-49d9-ba4c-4900c5939cce/1000042773.jpg?format=500w",
+    "image_url": "https://images.squarespace-cdn.com/content/v1/6833638f52663f7b5354620e/c1ef3855-0667-4c38-8b5e-bcd3060a3dee/1000043070.jpg?format=500w",
     "image_alt": "Eggo",
     "record_type": "adoptable",
     "source_label": "Western Hills Humane Society"
@@ -480,6 +480,28 @@
     "description": "Male | Shih-Tzu/Maltese Mix | 6 years old \nCannot do stairs\nScooter came to us on 5.21.26 after his owner couldn’t physically continue to care for him. Other than needing a bath and his nails trimmed, he appears happy! Scooter has two deformed front legs so he just scoots around. He has not been to our vet yet and is not yet up-to-date on his vaccinations. We were told he is neutered. He uses the bathroom just fine, but cannot do stairs and too much exercise can be a bit much for his front legs. He is used to regular baths but needs shallow water or he risks drowning. He needs a patient and able owner to help him get around.",
     "image_url": "https://images.squarespace-cdn.com/content/v1/6833638f52663f7b5354620e/6cca0b88-6168-4274-ab48-96c46aa83a23/1000043060.jpg?format=500w",
     "image_alt": "Scooter",
+    "record_type": "adoptable",
+    "source_label": "Western Hills Humane Society"
+  },
+  {
+    "url": "https://www.westernhillshumanesociety.com/dogs",
+    "title": "Akasha",
+    "slug": "dog-akasha",
+    "species": "dog",
+    "description": "Female | \nSpay scheduled for 5.27.26",
+    "image_url": "https://images.squarespace-cdn.com/content/v1/6833638f52663f7b5354620e/57470a2a-a7ef-4bc8-ba4d-38716e47935d/image2+%287%29.jpeg?format=500w",
+    "image_alt": "Akasha",
+    "record_type": "adoptable",
+    "source_label": "Western Hills Humane Society"
+  },
+  {
+    "url": "https://www.westernhillshumanesociety.com/dogs",
+    "title": "Harlequin",
+    "slug": "dog-harlequin",
+    "species": "dog",
+    "description": "Female | \nSpay scheduled for 5.27.26",
+    "image_url": "https://images.squarespace-cdn.com/content/v1/6833638f52663f7b5354620e/ea40c579-6b2f-4914-864e-d92b0d624a88/image1+%287%29.jpeg?format=500w",
+    "image_alt": "Harlequin",
     "record_type": "adoptable",
     "source_label": "Western Hills Humane Society"
   }

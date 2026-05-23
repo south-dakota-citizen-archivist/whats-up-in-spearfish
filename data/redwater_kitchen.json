@@ -1,5 +1,18 @@
 [
   {
+    "url": "https://untappd.com/b/outer-range-brewing-co-in-the-steep/2002572",
+    "title": "In the Steep",
+    "slug": "in-the-steep",
+    "category": "IPA - New England / Hazy",
+    "abv": "6.7%",
+    "ibu": "",
+    "brewery": "Outer Range Brewing Co.",
+    "rating": "4.1",
+    "image_url": "https://labels.untappd.com/2002572",
+    "record_type": "beer",
+    "source_label": "Redwater Kitchen"
+  },
+  {
     "url": "https://untappd.com/b/2-towns-ciderhouse-pacific-pineapple/2474142",
     "title": "Pacific Pineapple",
     "slug": "pacific-pineapple",
@@ -35,19 +48,6 @@
     "brewery": "Surly Brewing Company",
     "rating": "3.53",
     "image_url": "https://labels.untappd.com/6097469",
-    "record_type": "beer",
-    "source_label": "Redwater Kitchen"
-  },
-  {
-    "url": "https://untappd.com/b/dakota-point-brewing-long-trek-ipa/3792761",
-    "title": "Long Trek IPA",
-    "slug": "long-trek-ipa",
-    "category": "IPA - American",
-    "abv": "6.9%",
-    "ibu": "69",
-    "brewery": "Dakota Point Brewing",
-    "rating": "3.82",
-    "image_url": "https://labels.untappd.com/3792761",
     "record_type": "beer",
     "source_label": "Redwater Kitchen"
   },
