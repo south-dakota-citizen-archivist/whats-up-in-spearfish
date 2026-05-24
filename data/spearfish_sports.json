@@ -23582,5 +23582,21 @@
     "status": "CONFIRMED",
     "record_type": "event",
     "source_label": "Spearfish HS Sports"
+  },
+  {
+    "uid": "h2025061807005744279b43c58f65842",
+    "url": "https://gobound.com/direct/comps/h2025061807005744279b43c58f65842/show",
+    "title": "Softball: Spearfish vs Sioux Falls Jefferson (Varsity)",
+    "slug": "softball-spearfish-vs-sioux-falls-jefferson-varsity",
+    "sport": "Softball",
+    "level": "Varsity",
+    "sex": "female",
+    "description": "Varsity Softball - Spearfish vs Sioux Falls Jefferson",
+    "start_dt": "2026-05-26T20:00:00",
+    "end_dt": "2026-05-26T22:00:00",
+    "location": "Sanford Sports Complex Field 10",
+    "status": "CONFIRMED",
+    "record_type": "event",
+    "source_label": "Spearfish HS Sports"
   }
 ]

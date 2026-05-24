@@ -261,32 +261,6 @@
   },
   {
     "url": "https://www.sawyerbrewingco.com/menu",
-    "image_url": "https://images.squarespace-cdn.com/content/v1/5c484d047c9327393b19dc04/0d65bfca-005c-40c7-a58d-9663e45f2525/keylimewebsitedark.jpg",
-    "title": "Key Lime Sour Ale",
-    "slug": "key-lime-sour-ale",
-    "category": "Sour Power",
-    "description": "Key Lime Sour is a rollercoaster of awesome for your tastebuds. Brewed with real limes and vanilla. The sweet/ tart lime flavors roll into a subtle Citra hop twist, rounding out with a smooth vanilla finish.",
-    "abv": "6.1%",
-    "notes": "",
-    "prices": [
-      {
-        "price": 3.0,
-        "ounces": 5
-      },
-      {
-        "price": 5.0,
-        "ounces": 10
-      },
-      {
-        "price": 7.5,
-        "ounces": 16
-      }
-    ],
-    "record_type": "beer",
-    "source_label": "Sawyer Brewing Co."
-  },
-  {
-    "url": "https://www.sawyerbrewingco.com/menu",
     "image_url": "https://images.squarespace-cdn.com/content/v1/5c484d047c9327393b19dc04/18f7624c-4710-4df6-b35e-20775dc1d7ab/pinneapplepeacheswebsitedark.jpg",
     "title": "pinneapplepeacheswebsitedark.jpg",
     "slug": "pinneapplepeacheswebsitedark-jpg",
