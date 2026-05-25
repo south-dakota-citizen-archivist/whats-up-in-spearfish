@@ -19,19 +19,28 @@
   },
   {
     "url": "https://leonescreamery.com/flavors",
-    "image_url": "https://leonescreamery.com/images/uploads/cropped/CFE2B888-A0E7-47D9-A7E6-1F2965124785-432-1721271140.jpg",
-    "title": "Salted Butterscotch Toffee",
-    "slug": "salted-butterscotch-toffee",
-    "description": "Salty butterscotch ice cream riddled with Heath toffee bits!",
+    "image_url": "https://leonescreamery.com/images/uploads/cropped/BirthdayCake-132-1523658762.jpg",
+    "title": "Birthday Cake",
+    "slug": "birthday-cake",
+    "description": "Just like your favorite funfetti birthday cake...in ice cream form!",
     "record_type": "flavor",
     "source_label": "Leone's Creamery"
   },
   {
     "url": "https://leonescreamery.com/flavors",
-    "image_url": "https://leonescreamery.com/images/uploads/cropped/22E41F35-FC42-43EF-AB82-057EDC16ACB6-401-1678640208.jpg",
-    "title": "New York Cheesecake",
-    "slug": "new-york-cheesecake",
-    "description": "The flavors of a classic cheesecake, made into a dreamy, scoopable dessert. Made with plenty of graham crumbs, cream cheese, and sweet notes of vanilla.",
+    "image_url": "https://leonescreamery.com/images/uploads/cropped/MintOreo-146-1524171221.jpg",
+    "title": "Mint Oreo",
+    "slug": "mint-oreo",
+    "description": "Our cool peppermint ice cream is riddled with Oreo cookie pieces (no pesky green dye included).",
+    "record_type": "flavor",
+    "source_label": "Leone's Creamery"
+  },
+  {
+    "url": "https://leonescreamery.com/flavors",
+    "image_url": "https://leonescreamery.com/images/uploads/cropped/CFE2B888-A0E7-47D9-A7E6-1F2965124785-432-1721271140.jpg",
+    "title": "Salted Butterscotch Toffee",
+    "slug": "salted-butterscotch-toffee",
+    "description": "Salty butterscotch ice cream riddled with Heath toffee bits!",
     "record_type": "flavor",
     "source_label": "Leone's Creamery"
   },
@@ -55,19 +64,10 @@
   },
   {
     "url": "https://leonescreamery.com/flavors",
-    "image_url": "https://leonescreamery.com/images/uploads/cropped/MintOreo-146-1524171221.jpg",
-    "title": "Mint Oreo",
-    "slug": "mint-oreo",
-    "description": "Our cool peppermint ice cream is riddled with Oreo cookie pieces (no pesky green dye included).",
-    "record_type": "flavor",
-    "source_label": "Leone's Creamery"
-  },
-  {
-    "url": "https://leonescreamery.com/flavors",
-    "image_url": "https://leonescreamery.com/images/uploads/cropped/VeganCoconutChip-144-1567270733.jpg",
-    "title": "Vegan Coconut Chip",
-    "slug": "vegan-coconut-chip",
-    "description": "",
+    "image_url": "https://leonescreamery.com/images/uploads/cropped/Vegan-Banana-Creme-152-1532991387.jpg",
+    "title": "Vegan Banana Creme",
+    "slug": "vegan-banana-creme",
+    "description": "Made from coconut milk and vegan! We churn this ice cream up with plenty of fresh bananas, coconut milk, and turbinado sugar. Bananas Foster inspired!",
     "record_type": "flavor",
     "source_label": "Leone's Creamery"
   }
