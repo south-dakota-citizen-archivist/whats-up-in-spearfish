@@ -1,6 +1,38 @@
 {
-  "fetched_at": "2026-05-25T18:24:15.350545+00:00",
+  "fetched_at": "2026-05-26T19:15:32.556472+00:00",
   "records": [
+    {
+      "id": 11969,
+      "record_no": "",
+      "record_type": "Major Final Plat",
+      "record_type_id": 6439,
+      "category": "planning",
+      "status": 0,
+      "date_created": "2026-05-26T16:32:22.769Z",
+      "date_submitted": "",
+      "last_updated": "2026-05-26T16:32:22.000Z",
+      "address": "",
+      "lat": null,
+      "lon": null,
+      "applicant": "",
+      "portal_url": "https://spearfishsd.portal.opengov.com/records/11969"
+    },
+    {
+      "id": 11968,
+      "record_no": "",
+      "record_type": "Major Final Plat",
+      "record_type_id": 6439,
+      "category": "planning",
+      "status": 0,
+      "date_created": "2026-05-26T16:20:25.083Z",
+      "date_submitted": "",
+      "last_updated": "2026-05-26T16:22:47.000Z",
+      "address": "",
+      "lat": 44.480799,
+      "lon": -103.819851,
+      "applicant": "Joshua Vanderwerf",
+      "portal_url": "https://spearfishsd.portal.opengov.com/records/11968"
+    },
     {
       "id": 11963,
       "record_no": "",
@@ -74,7 +106,7 @@
       "status": 1,
       "date_created": "2026-05-18T21:45:33.633Z",
       "date_submitted": "2026-05-18T21:47:47.000Z",
-      "last_updated": "2026-05-19T16:23:41.663Z",
+      "last_updated": "2026-05-26T17:33:11.200Z",
       "address": "Platinum  Dr, Spearfish, SD 57783",
       "lat": 44.479581,
       "lon": -103.815322,

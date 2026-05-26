@@ -1494,5 +1494,27 @@
     "image_url": "https://npr.brightspotcdn.com/7f/63/24b9992046359544ad3df0438293/prairie-lakes-sanford-watertown.jpg",
     "record_type": "news",
     "source_label": "SDPB"
+  },
+  {
+    "url": "https://www.sdpb.org/politics/2026-05-26/rapid-city-legislative-forum-brings-voters-closer-to-pierre-representation",
+    "title": "Rapid City legislative forum brings voters closer to Pierre representation",
+    "slug": "sdpb-rapid-city-legislative-forum-brings-voters-closer-to-pierre-representation",
+    "published": "2026-05-26",
+    "byline": "By C.J. Keene",
+    "description": "A District 32 forum brought most of the Rapid City district’s candidates to the table for the public. The organizer of the event says clear-eyed debates on policy and living conditions is what politics should be at the local level.",
+    "image_url": "https://npr.brightspotcdn.com/26/36/3d75f9394ba5a5d122c63d59f7c4/microsoftteams-image-1.png",
+    "record_type": "news",
+    "source_label": "SDPB"
+  },
+  {
+    "url": "https://www.sdpb.org/education/2026-05-26/rooted-in-schools-program-focuses-on-student-mental-health",
+    "title": "Rooted in Schools program focuses on student mental health",
+    "slug": "sdpb-rooted-in-schools-program-focuses-on-student-mental-health",
+    "published": "2026-05-26",
+    "byline": "By Lori Walsh",
+    "description": "A new mental health program is already showing promise through a pilot program at the biggest school district in South Dakota.",
+    "image_url": "https://npr.brightspotcdn.com/7b/40/d61e7dc048e6bd25727b2b15fd15/in-the-moment-itmo-daily-podcast-web-photo.png",
+    "record_type": "news",
+    "source_label": "SDPB"
   }
 ]

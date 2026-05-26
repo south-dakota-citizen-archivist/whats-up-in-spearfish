@@ -526,5 +526,17 @@
     "image_url": "https://www.matthewsopera.com/wp-content/uploads/2026/05/Event-Brite-2160-x-1080-px-6.jpg",
     "record_type": "event",
     "source_label": "Matthews Opera House"
+  },
+  {
+    "title": "RCA Classics at The Matthews | Night 1",
+    "url": "https://www.matthewsopera.com/event/2026-rca-classics-at-the-matthews-night1/",
+    "slug": "rca-classics-at-the-matthews-night-1",
+    "start_dt": "2026-06-30T19:00:00-06:00",
+    "end_dt": "2026-06-30T21:00:00-06:00",
+    "description": "Event Description: Experience world-class chamber music in the heart of Spearfish as The Matthews and Rushmore Music Festival present RCA Classics at The Matthews. This three-part summer concert series features […] \\n",
+    "location": "The Matthews Opera House – Theatre",
+    "image_url": "https://www.matthewsopera.com/wp-content/uploads/2026/05/RCA-Classics-Website.jpg",
+    "record_type": "event",
+    "source_label": "Matthews Opera House"
   }
 ]

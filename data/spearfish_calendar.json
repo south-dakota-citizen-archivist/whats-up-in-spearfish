@@ -878,5 +878,35 @@
     "start_dt": "Fri, 15 May 2026 16:30:25 -0700",
     "record_type": "event",
     "source_label": "City of Spearfish"
+  },
+  {
+    "url": "https://www.spearfish.gov/Calendar.aspx?EID=3515",
+    "title": "Toddler Story Time",
+    "slug": "toddler-story-time",
+    "description": "<strong>Event date:</strong> June 9, 2026 <br /><strong>Event Time: </strong>09:30 AM - 10:15 AM<br /><strong>Location:</strong> <br />Spearfish, SD 57783<br /><strong>Description:</strong><br />Early literacy activities for ages 1-3.",
+    "published": "Fri, 10 Apr 2026 14:29:16 -0700",
+    "start_dt": "Fri, 10 Apr 2026 14:29:16 -0700",
+    "record_type": "event",
+    "source_label": "City of Spearfish"
+  },
+  {
+    "url": "https://www.spearfish.gov/Calendar.aspx?EID=3542",
+    "title": "Story Time",
+    "slug": "story-time",
+    "description": "<strong>Event date:</strong> June 9, 2026 <br /><strong>Event Time: </strong>10:30 AM - 11:15 AM<br /><strong>Location:</strong> <br />Spearfish, SD 57783<br /><strong>Description:</strong><br />Stories and activities for ages 4+",
+    "published": "Fri, 10 Apr 2026 14:34:31 -0700",
+    "start_dt": "Fri, 10 Apr 2026 14:34:31 -0700",
+    "record_type": "event",
+    "source_label": "City of Spearfish"
+  },
+  {
+    "url": "https://www.spearfish.gov/Calendar.aspx?EID=3416",
+    "title": "Unearthing Deadwood's History",
+    "slug": "unearthing-deadwood-s-history",
+    "description": "<strong>Event date:</strong> June 9, 2026 <br /><strong>Event Time: </strong>05:30 PM - 06:30 PM<br /><strong>Location:</strong> <br />Spearfish, SD 57783<br /><strong>Description:</strong><br />Unearthing Deadwood's History: An Overview into the Lives & Legacy of Chinese in Deadwood with Mike Runge, Deadwood City Archivist",
+    "published": "Fri, 15 May 2026 16:03:23 -0700",
+    "start_dt": "Fri, 15 May 2026 16:03:23 -0700",
+    "record_type": "event",
+    "source_label": "City of Spearfish"
   }
 ]

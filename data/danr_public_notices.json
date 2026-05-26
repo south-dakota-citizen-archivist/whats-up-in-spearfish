@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-05-25T18:24:39.015404+00:00",
+  "fetched_at": "2026-05-26T19:15:48.123609+00:00",
   "notices": [
     {
       "notice_type": "Surface Water Discharge (NPDES)",
@@ -642,6 +642,24 @@
         {
           "label": "Draft Permit",
           "url": "https://danr.sd.gov/Press/docs/publicnotices/wastemanagementnotices/DRAFT_Waste_Management_of_Huron_26_IP.pdf"
+        }
+      ]
+    },
+    {
+      "notice_type": "Waste Management \u2014 Solid Waste",
+      "deadline": "6/25/2026",
+      "comment_url": "",
+      "name": "City of Corsica",
+      "description": "Permit renewal application to continue operation of a Type IV Restricted Use Solid Waste Facility",
+      "location": "Corsica, SD",
+      "links": [
+        {
+          "label": "Public Notice",
+          "url": "https://danr.sd.gov/Press/docs/publicnotices/wastemanagementnotices/Corsica_PN.pdf"
+        },
+        {
+          "label": "Draft Permit",
+          "url": "https://danr.sd.gov/Press/docs/publicnotices/wastemanagementnotices/DRAFT_Corsica_26_IP.pdf"
         }
       ]
     },

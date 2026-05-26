@@ -72,7 +72,7 @@
     "abv": "4.5%",
     "ibu": "17",
     "brewery": "Lost Cabin Beer Co.",
-    "rating": "3.89",
+    "rating": "3.9",
     "image_url": "https://labels.untappd.com/5434880",
     "record_type": "beer",
     "source_label": "Killian's"
@@ -111,7 +111,7 @@
     "abv": "6.5%",
     "ibu": "",
     "brewery": "Austin Eastciders",
-    "rating": "3.69",
+    "rating": "3.7",
     "image_url": "https://labels.untappd.com/6441182",
     "record_type": "beer",
     "source_label": "Killian's"
@@ -130,15 +130,15 @@
     "source_label": "Killian's"
   },
   {
-    "url": "https://untappd.com/b/sawyer-brewing-co-pineapple-and-peaches-sour-ale/4974343",
-    "title": "Pineapple & Peaches Sour Ale",
-    "slug": "pineapple-peaches-sour-ale",
+    "url": "https://untappd.com/b/surly-brewing-company-grapefruit-supreme/3155770",
+    "title": "Grapefruit Supreme",
+    "slug": "grapefruit-supreme",
     "category": "Sour - Fruited",
-    "abv": "5.5%",
+    "abv": "4.5%",
     "ibu": "",
-    "brewery": "Sawyer Brewing Co",
-    "rating": "3.87",
-    "image_url": "https://labels.untappd.com/4974343",
+    "brewery": "Surly Brewing Company",
+    "rating": "3.68",
+    "image_url": "https://labels.untappd.com/3155770",
     "record_type": "beer",
     "source_label": "Killian's"
   },
@@ -150,7 +150,7 @@
     "abv": "5%",
     "ibu": "",
     "brewery": "Mount Saint Bernard Abbey",
-    "rating": "3.53",
+    "rating": "3.54",
     "image_url": "https://labels.untappd.com/5571049",
     "record_type": "beer",
     "source_label": "Killian's"
@@ -169,15 +169,15 @@
     "source_label": "Killian's"
   },
   {
-    "url": "https://untappd.com/b/modist-brewing-co-sea-salt-lime-supra-deluxe/3770803",
-    "title": "Sea Salt Lime Supra Deluxe",
-    "slug": "sea-salt-lime-supra-deluxe",
+    "url": "https://untappd.com/b/crow-peak-brewing-company-live-at-budokan/6680339",
+    "title": "Live At Budokan",
+    "slug": "live-at-budokan",
     "category": "Lager - Japanese Rice",
-    "abv": "5%",
-    "ibu": "",
-    "brewery": "Modist Brewing Co.",
-    "rating": "3.76",
-    "image_url": "https://labels.untappd.com/3770803",
+    "abv": "4.7%",
+    "ibu": "45",
+    "brewery": "Crow Peak Brewing Company",
+    "rating": "N/A",
+    "image_url": "https://labels.untappd.com/6680339",
     "record_type": "beer",
     "source_label": "Killian's"
   },
