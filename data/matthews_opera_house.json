@@ -538,5 +538,53 @@
     "image_url": "https://www.matthewsopera.com/wp-content/uploads/2026/05/RCA-Classics-Website.jpg",
     "record_type": "event",
     "source_label": "Matthews Opera House"
+  },
+  {
+    "title": "Guided Imagery & Creative Expression",
+    "url": "https://www.matthewsopera.com/event/guided-imagery-creative-expression-2/",
+    "slug": "guided-imagery-creative-expression",
+    "start_dt": "2026-05-27T17:00:00-06:00",
+    "end_dt": "2026-05-27T18:00:00-06:00",
+    "description": "This offering begins with a gentle warm-up, followed by a guided imagery journey that invites participants to connect with their inner landscape through embodied awareness, visualization, imagination, and intuition. Following […] \\n",
+    "location": "The Matthews Opera House – Theatre",
+    "image_url": "https://www.matthewsopera.com/wp-content/uploads/2026/03/Guided-Imagery-Creative-Expression-1.jpg",
+    "record_type": "event",
+    "source_label": "Matthews Opera House"
+  },
+  {
+    "title": "The Lowest Pair",
+    "url": "https://www.matthewsopera.com/event/the-lowest-pair/",
+    "slug": "the-lowest-pair",
+    "start_dt": "2026-07-02T19:00:00-06:00",
+    "end_dt": "2026-07-02T21:30:00-06:00",
+    "description": "The Lowest Pair brings the kind of folk music that feels like a conversation between old friends. This acoustic duo has built a devoted following across the country with their […] \\n",
+    "location": "The Matthews Opera House – Theatre",
+    "image_url": "https://www.matthewsopera.com/wp-content/uploads/2026/05/The-Lowest-Pair-Website.jpg",
+    "record_type": "event",
+    "source_label": "Matthews Opera House"
+  },
+  {
+    "title": "RCA Classics at The Matthews | Night 2",
+    "url": "https://www.matthewsopera.com/event/rca-classics-at-the-matthews-night-2/",
+    "slug": "rca-classics-at-the-matthews-night-2",
+    "start_dt": "2026-07-14T19:00:00-06:00",
+    "end_dt": "2026-07-14T21:00:00-06:00",
+    "description": "Event Description: Experience world-class chamber music in the heart of Spearfish as The Matthews and Rushmore Music Festival present RCA Classics at The Matthews. This three-part summer concert series features […] \\n",
+    "location": "The Matthews Opera House – Theatre",
+    "image_url": "https://www.matthewsopera.com/wp-content/uploads/2026/05/RCA-Classics-Website.jpg",
+    "record_type": "event",
+    "source_label": "Matthews Opera House"
+  },
+  {
+    "title": "RCA Classics at The Matthews | Night 3",
+    "url": "https://www.matthewsopera.com/event/rca-classics-at-the-matthews-night-3/",
+    "slug": "rca-classics-at-the-matthews-night-3",
+    "start_dt": "2026-07-28T19:00:00-06:00",
+    "end_dt": "2026-07-28T21:00:00-06:00",
+    "description": "Event Description: Experience world-class chamber music in the heart of Spearfish as The Matthews and Rushmore Music Festival present RCA Classics at The Matthews. This three-part summer concert series features […] \\n",
+    "location": "The Matthews Opera House – Theatre",
+    "image_url": "https://www.matthewsopera.com/wp-content/uploads/2026/05/RCA-Classics-Website.jpg",
+    "record_type": "event",
+    "source_label": "Matthews Opera House"
   }
 ]

@@ -48,5 +48,15 @@
     "start_dt": "Tue, 19 May 2026 14:15:22 -0700",
     "record_type": "alert",
     "source_label": "City of Spearfish"
+  },
+  {
+    "url": "https://www.spearfish.gov/AlertCenter.aspx?AID=62",
+    "title": "City of Spearfish - Weather Siren Test",
+    "slug": "city-of-spearfish-weather-siren-test",
+    "description": "The Police Dept will be conducting a Spring Weather Siren Test on Thursday, May 28th at 2:00PM. This is to test the functionality of our sirens as we approach our sever weather season.",
+    "published": "Tue, 26 May 2026 11:03:37 -0700",
+    "start_dt": "Tue, 26 May 2026 11:03:37 -0700",
+    "record_type": "alert",
+    "source_label": "City of Spearfish"
   }
 ]

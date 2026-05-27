@@ -1516,5 +1516,38 @@
     "image_url": "https://npr.brightspotcdn.com/7b/40/d61e7dc048e6bd25727b2b15fd15/in-the-moment-itmo-daily-podcast-web-photo.png",
     "record_type": "news",
     "source_label": "SDPB"
+  },
+  {
+    "url": "https://www.sdpb.org/education/2026-05-27/state-teachers-pay-down-4-26-since-2017-when-considering-inflation",
+    "title": "State teachers' pay down 4.26% since 2017 when considering inflation",
+    "slug": "sdpb-state-teachers-pay-down-4-26-since-2017-when-considering-inflation",
+    "published": "2026-05-27",
+    "byline": "By C.J. Keene",
+    "description": "With national rankings from the 2025 school year paired with expectations of the year ahead public, South Dakota remains near the bottom of many key education metrics. Notably, that includes keeping schools and teachers up with inflation rates.",
+    "image_url": "https://npr.brightspotcdn.com/53/29/87d810b7477c9a17a29c95d97ec9/cd138eee76-ed-school-hallway.png",
+    "record_type": "news",
+    "source_label": "SDPB"
+  },
+  {
+    "url": "https://www.sdpb.org/politics/2026-05-27/thune-johnson-not-sold-on-anti-weaponization-fund-yet",
+    "title": "Thune, Johnson not sold on Anti-Weaponization Fund yet",
+    "slug": "sdpb-thune-johnson-not-sold-on-anti-weaponization-fund-yet",
+    "published": "2026-05-27",
+    "byline": "By Jackson Dircks",
+    "description": "As Congress wraps its arms around the Trump-IRS settlement, at least two of South Dakota’s three delegates aren’t entirely sold on the idea.",
+    "image_url": "https://npr.brightspotcdn.com/47/0c/e039fd7748edbd74892facf8d86a/dusty-johnson.jpg",
+    "record_type": "news",
+    "source_label": "SDPB"
+  },
+  {
+    "url": "https://www.sdpb.org/environment/2026-05-27/gfp-rhoden-kickoff-blue-dog-state-fish-hatchery-fundraising-campaign",
+    "title": "GFP, Rhoden kickoff Blue Dog State Fish Hatchery fundraising campaign",
+    "slug": "sdpb-gfp-rhoden-kickoff-blue-dog-state-fish-hatchery-fundraising-campaign",
+    "published": "2026-05-27",
+    "byline": "By Jackson Dircks",
+    "description": "Game, Fish and Parks announces a fundraising campaign to support the Blue Dog State Fish Hatchery. Gov. Larry Rhoden and GFP announced the campaign at an event Tuesday.",
+    "image_url": "https://npr.brightspotcdn.com/c6/96/bb6a50fb41329e5ab0f9ac7746a4/bluedog-fundraising-kickoff-01.jpg",
+    "record_type": "news",
+    "source_label": "SDPB"
   }
 ]

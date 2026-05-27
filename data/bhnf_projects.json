@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-05-26T19:18:18.949683+00:00",
+  "fetched_at": "2026-05-27T19:21:36.732458+00:00",
   "projects": [
     {
       "project_id": "67625",
@@ -186,6 +186,22 @@
       "district": "Northern Hills Ranger District",
       "purpose": "Special Use Management|Recreation Management",
       "description": "Over the snow grooming of fat bike trails across the Northern Hills Ranger District for use during the 2018/2019 winter season (December 15 through March 31, depending on snow conditions).",
+      "milestones": [],
+      "comment_period_date": null,
+      "comment_period_sort": "9999-99",
+      "location_summary": "",
+      "counties": [],
+      "contact": {},
+      "last_updated": ""
+    },
+    {
+      "project_id": "304272",
+      "title": "Benchmark Vegetation Management",
+      "url": "https://www.fs.usda.gov/r02/blackhills/projects/304272",
+      "status": "Developing Proposal",
+      "district": "Northern Hills Ranger District",
+      "purpose": "Forest Products|Fuels Management|Vegetation Management (Other Than Forest Products)",
+      "description": "This project would allow for the commercial harvest of timber to provide volume to local industry and to reduce fire hazard and the risk of insect infestation in the wildland urban interface. Non-commercial harvest to reduce fuels and maintain hardwood and meadows would also occur.",
       "milestones": [],
       "comment_period_date": null,
       "comment_period_sort": "9999-99",

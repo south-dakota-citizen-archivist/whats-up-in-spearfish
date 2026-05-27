@@ -1974,5 +1974,31 @@
     "website": "http://www.spearfishseniorcenter.com",
     "record_type": "event",
     "source_label": "Spearfish Chamber"
+  },
+  {
+    "url": "https://business.spearfishchamber.org/events/details/perkins-restaurant-fundraiser-30798",
+    "title": "Perkins Restaurant Fundraiser",
+    "slug": "perkins-restaurant-fundraiser",
+    "start_dt": "2026-06-08 4:00 PM MDT",
+    "end_dt": "2026-06-08 9:00 PM MDT",
+    "location": "Perkins Restaurant and Bakery 2301 E Colorado Blvd. Spearfish, SD 57783",
+    "fees": "See Menu for prices",
+    "description": "Let's eat out at Perkins Restaurant and Bakery! On Monday, June 8th from 4PM-9PM the Spearfish Senior Center will get a portion from the total sales. You can dine in, order take out, & even order from the bakery. Invite your family, neighbors, & friends to eat at Perkins to benefit the Senior Center!",
+    "website": "http://www.spearfishseniorcenter.com",
+    "record_type": "event",
+    "source_label": "Spearfish Chamber"
+  },
+  {
+    "url": "https://business.spearfishchamber.org/events/details/social-security-101-30799",
+    "title": "Social Security 101",
+    "slug": "social-security-101",
+    "start_dt": "2026-06-12 4:30 PM MDT",
+    "end_dt": "2026-06-12 5:30 PM MDT",
+    "location": "Spearfish Senior Center 1306 N 10th St Spearfish, SD 57783",
+    "fees": "Free",
+    "description": "Social Security 101 educational seminar on Friday, June 12th from 4:30PM-5:30PM. National Social Security Advisors, Deb and Mark Meyer will answer a variety of questions including how to sign up and spousal benefits. No charge, open to the public. Located at the Spearfish Senior Center 1306 N 10th St. Spearfish.",
+    "website": "http://www.spearfishseniorcenter.com",
+    "record_type": "event",
+    "source_label": "Spearfish Chamber"
   }
 ]

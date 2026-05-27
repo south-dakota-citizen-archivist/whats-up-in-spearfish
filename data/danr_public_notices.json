@@ -1,50 +1,6 @@
 {
-  "fetched_at": "2026-05-26T19:15:48.123609+00:00",
+  "fetched_at": "2026-05-27T19:19:10.794307+00:00",
   "notices": [
-    {
-      "notice_type": "Surface Water Discharge (NPDES)",
-      "deadline": "05/26/2026",
-      "comment_url": "https://danr.sd.gov/public/comment.aspx?d_comment=05/26/2026&name=City of Beresford&pntype=sw_npdes&description=The City of Beresford is authorized under this permit to discharge to Blind Creek from its wastewater treatment facility located in Lincoln County.",
-      "name": "City of Beresford",
-      "description": "The City of Beresford is authorized under this permit to discharge to Blind Creek from its wastewater treatment facility located in Lincoln County.",
-      "location": "Lincoln County",
-      "links": [
-        {
-          "label": "Public Notice",
-          "url": "https://danr.sd.gov/officeofwater/surfacewaterquality/pn/BeresfordPNDraftFR.pdf"
-        },
-        {
-          "label": "Draft Permit",
-          "url": "https://danr.sd.gov/officeofwater/surfacewaterquality/pn/BeresfordPermitDraftFR.pdf"
-        },
-        {
-          "label": "Statement of Basis",
-          "url": "https://danr.sd.gov/officeofwater/surfacewaterquality/pn/BeresfordSOBDraftFR.pdf"
-        }
-      ]
-    },
-    {
-      "notice_type": "Surface Water Discharge (NPDES)",
-      "deadline": "05/26/2026",
-      "comment_url": "https://danr.sd.gov/public/comment.aspx?d_comment=05/26/2026&name=POET Biorefining - Hudson&pntype=sw_npdes&description=POET Biorefining - Hudson is authorized under this permit to discharge to an unnamed tributary of Pattee Creek from its facility located in Lincoln County,",
-      "name": "POET Biorefining - Hudson",
-      "description": "POET Biorefining - Hudson is authorized under this permit to discharge to an unnamed tributary of Pattee Creek from its facility located in Lincoln County,",
-      "location": "Lincoln County",
-      "links": [
-        {
-          "label": "Public Notice",
-          "url": "https://danr.sd.gov/officeofwater/surfacewaterquality/pn/POETBiorefiningHudsonPNDraftFR.pdf"
-        },
-        {
-          "label": "Draft Permit",
-          "url": "https://danr.sd.gov/officeofwater/surfacewaterquality/pn/POETBiorefiningHudsonPermitDraftFR.pdf"
-        },
-        {
-          "label": "Statement of Basis",
-          "url": "https://danr.sd.gov/officeofwater/surfacewaterquality/pn/POETBiorefiningHudsonSOBDraftFR.pdf"
-        }
-      ]
-    },
     {
       "notice_type": "Air Quality Permit",
       "deadline": "05/28/2026",
@@ -660,6 +616,42 @@
         {
           "label": "Draft Permit",
           "url": "https://danr.sd.gov/Press/docs/publicnotices/wastemanagementnotices/DRAFT_Corsica_26_IP.pdf"
+        }
+      ]
+    },
+    {
+      "notice_type": "Waste Management \u2014 Solid Waste",
+      "deadline": "6/26/2026",
+      "comment_url": "",
+      "name": "City of Scotland",
+      "description": "Permit renewal application to continue operation of a Type IV Restricted Use Solid Waste Facility",
+      "location": "Scotland, SD",
+      "links": [
+        {
+          "label": "Public Notice",
+          "url": "https://danr.sd.gov/Press/docs/publicnotices/wastemanagementnotices/Scotland_PN.pdf"
+        },
+        {
+          "label": "Draft Permit",
+          "url": "https://danr.sd.gov/Press/docs/publicnotices/wastemanagementnotices/DRAFT_Scotland_26_IP.pdf"
+        }
+      ]
+    },
+    {
+      "notice_type": "Waste Management \u2014 Solid Waste",
+      "deadline": "6/26/2026",
+      "comment_url": "",
+      "name": "City of Spearfish",
+      "description": "Permit renewal application to continue operation of a Type IIB Restricted Use Solid Waste Facility",
+      "location": "Spearfish, SD",
+      "links": [
+        {
+          "label": "Public Notice",
+          "url": "https://danr.sd.gov/Press/docs/publicnotices/wastemanagementnotices/Spearfish_PN.pdf"
+        },
+        {
+          "label": "Draft Permit",
+          "url": "https://danr.sd.gov/Press/docs/publicnotices/wastemanagementnotices/DRAFT_Spearfish_26_IP.pdf"
         }
       ]
     },
