@@ -1549,5 +1549,49 @@
     "image_url": "https://npr.brightspotcdn.com/c6/96/bb6a50fb41329e5ab0f9ac7746a4/bluedog-fundraising-kickoff-01.jpg",
     "record_type": "news",
     "source_label": "SDPB"
+  },
+  {
+    "url": "https://www.sdpb.org/science/2026-05-28/surf-school-of-mines-researchers-make-potential-climate-science-microbiology-breakthrough",
+    "title": "SURF, School of Mines researchers make potential climate science, microbiology breakthrough",
+    "slug": "sdpb-surf-school-of-mines-researchers-make-potential-climate-science",
+    "published": "2026-05-28",
+    "byline": "By C.J. Keene",
+    "description": "A graduate student working a late night in a lab at the South Dakota School of Mines may have made a discovery that could have serious implications for microbiology and climate science.",
+    "image_url": "https://npr.brightspotcdn.com/20/6c/94d7f96a40d4b164aa9adb08ec7f/microorganism-govil.jpg",
+    "record_type": "news",
+    "source_label": "SDPB"
+  },
+  {
+    "url": "https://www.sdpb.org/politics/2026-05-28/south-dakota-delegate-ready-for-resolution-as-white-house-negotiates-with-iran",
+    "title": "South Dakota delegate ready for resolution as White House negotiates with Iran",
+    "slug": "sdpb-south-dakota-delegate-ready-for-resolution-as-white-house-negotiates-with",
+    "published": "2026-05-28",
+    "byline": "By Jackson Dircks",
+    "description": "As the White House seeks to negotiate an end to the war in Iran, one of South Dakota’s delegates says he’s eagerly awaiting an end as well.",
+    "image_url": "https://npr.brightspotcdn.com/7b/41/0ff4228745eb963b26453c68413d/mount-rushmore-naturalization-ceremony-54845711861.jpg",
+    "record_type": "news",
+    "source_label": "SDPB"
+  },
+  {
+    "url": "https://www.sdpb.org/healthcare/2026-05-28/pregnancy-after-stillbirth-can-require-enhanced-mental-health-support",
+    "title": "Pregnancy after stillbirth can require enhanced mental health support",
+    "slug": "sdpb-pregnancy-after-stillbirth-can-require-enhanced-mental-health-support",
+    "published": "2026-05-28",
+    "byline": "By Lori Walsh",
+    "description": "SDSU journalism student Jenny Albers used her personal experience with pregnancy loss to report on mental health as a Pulitzer Reporting Fellow.",
+    "image_url": "https://npr.brightspotcdn.com/52/a4/27ad8392458d90c0af200f3647e9/website-photo-1.png",
+    "record_type": "news",
+    "source_label": "SDPB"
+  },
+  {
+    "url": "https://www.sdpb.org/politics/2026-05-27/candidate-profile-james-bialota-for-u-s-house",
+    "title": "Candidate Profile: James Bialota for U.S. House",
+    "slug": "sdpb-candidate-profile-james-bialota-for-u-s-house",
+    "published": "2026-05-27",
+    "byline": "By Jackson Dircks",
+    "description": "James Bialota is a Republican Candidate for South Dakota’s only seat in the U.S. House of Representatives. He grew up in Piedmont, is a business owner and Air Force veteran.",
+    "image_url": "https://npr.brightspotcdn.com/c3/f8/58a414ea4e11abf8f260ba020018/untitled-may-06-2026-at-14-58-11.png",
+    "record_type": "news",
+    "source_label": "SDPB"
   }
 ]

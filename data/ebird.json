@@ -1,6 +1,19 @@
 {
-  "fetched_at": "2026-05-27T19:18:27.640185+00:00",
+  "fetched_at": "2026-05-28T19:35:22.959551+00:00",
   "observations": [
+    {
+      "species_code": "grycat",
+      "common_name": "Gray Catbird",
+      "scientific_name": "Dumetella carolinensis",
+      "observed_on": "2026-05-27",
+      "count": 1,
+      "location_name": "Hay Creek Riverwalk Tr., Belle Fourche",
+      "lat": 44.6607556,
+      "lng": -103.8511922,
+      "location_id": "L9299971",
+      "checklist_id": "S348017123",
+      "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/196664043/square.jpg"
+    },
     {
       "species_code": "wooduc",
       "common_name": "Wood Duck",
@@ -129,7 +142,7 @@
       "lng": -103.4452331,
       "location_id": "L319397",
       "checklist_id": "S347228710",
-      "photo_url": "https://static.inaturalist.org/photos/490722638/square.jpg"
+      "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/28781133/square.jpeg"
     },
     {
       "species_code": "rewbla",
@@ -340,19 +353,6 @@
       "photo_url": "https://static.inaturalist.org/photos/103258086/square.jpeg"
     },
     {
-      "species_code": "grycat",
-      "common_name": "Gray Catbird",
-      "scientific_name": "Dumetella carolinensis",
-      "observed_on": "2026-05-26",
-      "count": 1,
-      "location_name": "5817–5851 Old Highway 14, Beulah US-WY 44.54573, -104.09455",
-      "lat": 44.545729,
-      "lng": -104.094554,
-      "location_id": "L67853340",
-      "checklist_id": "S347048603",
-      "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/196664043/square.jpg"
-    },
-    {
       "species_code": "houspa",
       "common_name": "House Sparrow",
       "scientific_name": "Passer domesticus",
@@ -441,7 +441,7 @@
       "lng": -103.468648,
       "location_id": "L67807207",
       "checklist_id": "S346799890",
-      "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/288034385/square.jpeg"
+      "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/530721418/square.jpg"
     },
     {
       "species_code": "bkcchi",
