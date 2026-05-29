@@ -93,5 +93,24 @@
     "description": "Rapid City, S.D., May 29, 2025 — The Black Hills National Forest is proposing to perform forest health treatments on approximately 1,153 acres on…",
     "record_type": "press_release",
     "source_label": "Black Hills National Forest"
+  },
+  {
+    "url": "https://www.fs.usda.gov/r02/blackhills/newsroom/releases/us-forest-service-south-dakota-sign-5-year-stewardship-agreement",
+    "title": "U.S. Forest Service, South Dakota sign 5-year stewardship agreement",
+    "slug": "bhnf-release-u-s-forest-service-south-dakota-sign-5-year-stewardship-agreement",
+    "published": "2026-05-29",
+    "description": "(WASHINGTON, D.C., May 29, 2026 ) - The U.S. Department of Agriculture’s Forest Service and the State of South Dakota’s Department of Agriculture…",
+    "record_type": "press_release",
+    "source_label": "Black Hills National Forest"
+  },
+  {
+    "url": "https://www.fs.usda.gov/r02/blackhills/events/hiking-hell-canyon-national-trails-day",
+    "title": "Hiking into Hell Canyon on National Trails Day",
+    "slug": "bhnf-event-hiking-into-hell-canyon-on-national-trails-day",
+    "start_dt": "2026-06-06",
+    "location": "Black Hills National Forest",
+    "description": "Enjoy a guided National Trails Day hike on the scenic Hell Canyon Trail, with geology insights, cultural history, and beautiful Black Hills views. Times: 1:00pm - 4:00pm Dates: June 6, 2026 Contact information: (605) 673-9200",
+    "record_type": "event",
+    "source_label": "Black Hills National Forest"
   }
 ]

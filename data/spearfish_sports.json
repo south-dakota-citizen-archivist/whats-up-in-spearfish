@@ -24270,5 +24270,37 @@
     "status": "CONFIRMED",
     "record_type": "event",
     "source_label": "Spearfish HS Sports"
+  },
+  {
+    "uid": "h20260520061856532ae258e2f9aee4f",
+    "url": "https://gobound.com/direct/comps/h20260520061856532ae258e2f9aee4f/show",
+    "title": "Girls Track & Field: SDHSAA State Track Meet (Varsity)",
+    "slug": "girls-track-field-sdhsaa-state-track-meet-varsity",
+    "sport": "Girls Track & Field",
+    "level": "Varsity",
+    "sex": "female",
+    "description": "Varsity Girls Track & Field - SDHSAA State Track Meet",
+    "start_dt": "2027-05-28T14:00:00",
+    "end_dt": "2027-05-28T21:00:00",
+    "location": "Howard Wood Field Track",
+    "status": "CONFIRMED",
+    "record_type": "event",
+    "source_label": "Spearfish HS Sports"
+  },
+  {
+    "uid": "h202605200619261113d86f5c613d041",
+    "url": "https://gobound.com/direct/comps/h202605200619261113d86f5c613d041/show",
+    "title": "Boys Track & Field: SDHSAA State Track Meet (Varsity)",
+    "slug": "boys-track-field-sdhsaa-state-track-meet-varsity",
+    "sport": "Boys Track & Field",
+    "level": "Varsity",
+    "sex": "male",
+    "description": "Varsity Boys Track & Field - SDHSAA State Track Meet",
+    "start_dt": "2027-05-28T14:00:00",
+    "end_dt": "2027-05-28T21:00:00",
+    "location": "Howard Wood Field Track",
+    "status": "CONFIRMED",
+    "record_type": "event",
+    "source_label": "Spearfish HS Sports"
   }
 ]

@@ -1,7 +1,33 @@
 {
-  "fetched_at": "2026-05-28T19:38:21.696856+00:00",
+  "fetched_at": "2026-05-29T19:34:11.932993+00:00",
   "lookback_days": 30,
   "records": [
+    {
+      "objectid": 67922,
+      "date": "2026-05-29",
+      "species": "White-tailed Deer",
+      "highway": "I90",
+      "sex": "Female",
+      "present": "Yes",
+      "comments": null,
+      "contractor": "Tony Hanig",
+      "lat": 44.225153,
+      "lon": -103.379363,
+      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/67922/attachments/10629"
+    },
+    {
+      "objectid": 67923,
+      "date": "2026-05-29",
+      "species": "Mule Deer",
+      "highway": "I90",
+      "sex": "Unknown",
+      "present": "Yes",
+      "comments": null,
+      "contractor": "Tony Hanig",
+      "lat": 44.522801,
+      "lon": -103.899787,
+      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/67923/attachments/10630"
+    },
     {
       "objectid": 67906,
       "date": "2026-05-27",
@@ -2926,84 +2952,6 @@
       "lat": 44.011676,
       "lon": -103.298033,
       "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/67269/attachments/9973"
-    },
-    {
-      "objectid": 67262,
-      "date": "2026-04-29",
-      "species": "Mule Deer",
-      "highway": "",
-      "sex": "Female",
-      "present": "Yes",
-      "comments": "4823 Summerset Dr",
-      "contractor": "Chris Moeller",
-      "lat": 44.036073,
-      "lon": -103.26767,
-      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/67262/attachments/9966"
-    },
-    {
-      "objectid": 67263,
-      "date": "2026-04-29",
-      "species": "White-tailed Deer",
-      "highway": "44",
-      "sex": "Unknown",
-      "present": "No",
-      "comments": null,
-      "contractor": "Chris Moeller",
-      "lat": 44.06545,
-      "lon": -103.411218,
-      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/67263/attachments/9967"
-    },
-    {
-      "objectid": 67264,
-      "date": "2026-04-29",
-      "species": "White-tailed Deer",
-      "highway": "231",
-      "sex": "Male",
-      "present": "Yes",
-      "comments": null,
-      "contractor": "Chris Moeller",
-      "lat": 44.276898,
-      "lon": -103.420696,
-      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/67264/attachments/9968"
-    },
-    {
-      "objectid": 67265,
-      "date": "2026-04-29",
-      "species": "Mule Deer",
-      "highway": "85",
-      "sex": "Male",
-      "present": "Yes",
-      "comments": null,
-      "contractor": "Chris Moeller",
-      "lat": 44.365378,
-      "lon": -103.775613,
-      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/67265/attachments/9969"
-    },
-    {
-      "objectid": 67266,
-      "date": "2026-04-29",
-      "species": "White-tailed Deer",
-      "highway": "85",
-      "sex": "Male",
-      "present": "Yes",
-      "comments": null,
-      "contractor": "Chris Moeller",
-      "lat": 44.537643,
-      "lon": -103.860691,
-      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/67266/attachments/9970"
-    },
-    {
-      "objectid": 67267,
-      "date": "2026-04-29",
-      "species": "Mule Deer",
-      "highway": "85",
-      "sex": "Female",
-      "present": "Yes",
-      "comments": null,
-      "contractor": "Chris Moeller",
-      "lat": 44.781219,
-      "lon": -103.852696,
-      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/67267/attachments/9971"
     }
   ]
 }

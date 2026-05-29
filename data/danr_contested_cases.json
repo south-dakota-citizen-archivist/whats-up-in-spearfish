@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-05-28T19:38:02.817073+00:00",
+  "fetched_at": "2026-05-29T19:33:50.602057+00:00",
   "cases": [
     {
       "ccid": "123",
@@ -126,6 +126,10 @@
       "docs_url": "https://danr.sd.gov/public/ccdocs.aspx?CCID=CCID130",
       "documents": [
         {
+          "label": "City of Custer Answer to Petitions",
+          "url": "https://danr.sd.gov/OfficeOfWater/SurfaceWaterQuality/docs/CCH/Custer/Custer Answer to Petitions.pdf"
+        },
+        {
           "label": "Motion to Recuse",
           "url": "https://danr.sd.gov/OfficeOfWater/SurfaceWaterQuality/docs/CCH/Custer/Motion to Recuse.pdf"
         },
@@ -140,13 +144,9 @@
         {
           "label": "Video of French Creek Site 1",
           "url": "https://danr.sd.gov/OfficeOfWater/SurfaceWaterQuality/docs/CCH/Custer/S_video site 1 090725.mp4"
-        },
-        {
-          "label": "Video of French Creek near Site 1",
-          "url": "https://danr.sd.gov/OfficeOfWater/SurfaceWaterQuality/docs/CCH/Custer/S_Video near Site 1 102022.mp4"
         }
       ],
-      "total_docs": 11,
+      "total_docs": 12,
       "latest_doc_date": "0000-00-00"
     },
     {
