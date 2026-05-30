@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-05-29T19:34:11.932993+00:00",
+  "fetched_at": "2026-05-30T18:04:26.846648+00:00",
   "lookback_days": 30,
   "records": [
     {
@@ -2939,19 +2939,6 @@
       "lat": 43.987481,
       "lon": -103.273055,
       "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/67435/attachments/10141"
-    },
-    {
-      "objectid": 67269,
-      "date": "2026-04-30",
-      "species": "White-tailed Deer",
-      "highway": "",
-      "sex": "Female",
-      "present": "Yes",
-      "comments": "SLR/Tanager dr",
-      "contractor": "Chris Moeller",
-      "lat": 44.011676,
-      "lon": -103.298033,
-      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/67269/attachments/9973"
     }
   ]
 }

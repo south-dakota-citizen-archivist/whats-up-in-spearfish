@@ -1637,5 +1637,16 @@
     "image_url": "https://npr.brightspotcdn.com/49/6c/404ac55f49ac8cd0f10eb588a20b/8aebdd8d94-mine-draw-fire.jpg",
     "record_type": "news",
     "source_label": "SDPB"
+  },
+  {
+    "url": "https://www.sdpb.org/crime-courts/2026-05-29/state-supreme-court-rules-in-workers-compensation-case",
+    "title": "State Supreme Court rules in workers compensation case",
+    "slug": "sdpb-state-supreme-court-rules-in-workers-compensation-case",
+    "published": "2026-05-29",
+    "byline": "By C.J. Keene",
+    "description": "The state Supreme Court ruled that a decision connected to workers’ compensation was not final and was indeed appealable. The legal battle, which orbits two falls, also resulted in lower court rulings being vacated.",
+    "image_url": "https://npr.brightspotcdn.com/legacy/prod/filer_public/kusd-bento-live-pbs/News%20Blog/Josh%20Haiar/2146702d0a_supreme%20court%2029jg.jpg",
+    "record_type": "news",
+    "source_label": "SDPB"
   }
 ]

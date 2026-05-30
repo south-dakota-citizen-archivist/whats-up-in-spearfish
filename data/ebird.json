@@ -1,6 +1,175 @@
 {
-  "fetched_at": "2026-05-29T19:31:11.538229+00:00",
+  "fetched_at": "2026-05-30T18:01:02.276250+00:00",
   "observations": [
+    {
+      "species_code": "turvul",
+      "common_name": "Turkey Vulture",
+      "scientific_name": "Cathartes aura",
+      "observed_on": "2026-05-29",
+      "count": 4,
+      "location_name": "Bogus Jim Road",
+      "lat": 44.1181811,
+      "lng": -103.5017537,
+      "location_id": "L68263474",
+      "checklist_id": "S349064798",
+      "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/52277010/square.jpg"
+    },
+    {
+      "species_code": "rethaw",
+      "common_name": "Red-tailed Hawk",
+      "scientific_name": "Buteo jamaicensis",
+      "observed_on": "2026-05-29",
+      "count": 1,
+      "location_name": "Bogus Jim Road",
+      "lat": 44.1181811,
+      "lng": -103.5017537,
+      "location_id": "L68263474",
+      "checklist_id": "S349064798",
+      "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/101327658/square.jpg"
+    },
+    {
+      "species_code": "norfli",
+      "common_name": "Northern Flicker",
+      "scientific_name": "Colaptes auratus",
+      "observed_on": "2026-05-29",
+      "count": 4,
+      "location_name": "Bogus Jim Road",
+      "lat": 44.1181811,
+      "lng": -103.5017537,
+      "location_id": "L68263474",
+      "checklist_id": "S349064798",
+      "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/123812445/square.jpg"
+    },
+    {
+      "species_code": "blujay",
+      "common_name": "Blue Jay",
+      "scientific_name": "Cyanocitta cristata",
+      "observed_on": "2026-05-29",
+      "count": 2,
+      "location_name": "Bogus Jim Road",
+      "lat": 44.1181811,
+      "lng": -103.5017537,
+      "location_id": "L68263474",
+      "checklist_id": "S349064798",
+      "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/530721418/square.jpg"
+    },
+    {
+      "species_code": "cliswa",
+      "common_name": "Cliff Swallow",
+      "scientific_name": "Petrochelidon pyrrhonota",
+      "observed_on": "2026-05-29",
+      "count": 20,
+      "location_name": "Bogus Jim Road",
+      "lat": 44.1181811,
+      "lng": -103.5017537,
+      "location_id": "L68263474",
+      "checklist_id": "S349064798",
+      "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/27372454/square.jpeg"
+    },
+    {
+      "species_code": "amerob",
+      "common_name": "American Robin",
+      "scientific_name": "Turdus migratorius",
+      "observed_on": "2026-05-29",
+      "count": null,
+      "location_name": "Bogus Jim Road",
+      "lat": 44.1181811,
+      "lng": -103.5017537,
+      "location_id": "L68263474",
+      "checklist_id": "S349064798",
+      "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/34859026/square.jpg"
+    },
+    {
+      "species_code": "chispa",
+      "common_name": "Chipping Sparrow",
+      "scientific_name": "Spizella passerina",
+      "observed_on": "2026-05-29",
+      "count": 2,
+      "location_name": "Bogus Jim Road",
+      "lat": 44.1181811,
+      "lng": -103.5017537,
+      "location_id": "L68263474",
+      "checklist_id": "S349064798",
+      "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/273251789/square.jpg"
+    },
+    {
+      "species_code": "spotow",
+      "common_name": "Spotted Towhee",
+      "scientific_name": "Pipilo maculatus",
+      "observed_on": "2026-05-29",
+      "count": 3,
+      "location_name": "Bogus Jim Road",
+      "lat": 44.1181811,
+      "lng": -103.5017537,
+      "location_id": "L68263474",
+      "checklist_id": "S349064798",
+      "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/30818274/square.jpg"
+    },
+    {
+      "species_code": "rewbla",
+      "common_name": "Red-winged Blackbird",
+      "scientific_name": "Agelaius phoeniceus",
+      "observed_on": "2026-05-29",
+      "count": 8,
+      "location_name": "Bogus Jim Road",
+      "lat": 44.1181811,
+      "lng": -103.5017537,
+      "location_id": "L68263474",
+      "checklist_id": "S349064798",
+      "photo_url": "https://static.inaturalist.org/photos/368048127/square.jpg"
+    },
+    {
+      "species_code": "ovenbi1",
+      "common_name": "Ovenbird",
+      "scientific_name": "Seiurus aurocapilla",
+      "observed_on": "2026-05-29",
+      "count": 3,
+      "location_name": "Bogus Jim Road",
+      "lat": 44.1181811,
+      "lng": -103.5017537,
+      "location_id": "L68263474",
+      "checklist_id": "S349064798",
+      "photo_url": "https://static.inaturalist.org/photos/25928382/square.jpg"
+    },
+    {
+      "species_code": "comyel",
+      "common_name": "Common Yellowthroat",
+      "scientific_name": "Geothlypis trichas",
+      "observed_on": "2026-05-29",
+      "count": 1,
+      "location_name": "Bogus Jim Road",
+      "lat": 44.1181811,
+      "lng": -103.5017537,
+      "location_id": "L68263474",
+      "checklist_id": "S349064798",
+      "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/35803961/square.jpg"
+    },
+    {
+      "species_code": "amered",
+      "common_name": "American Redstart",
+      "scientific_name": "Setophaga ruticilla",
+      "observed_on": "2026-05-29",
+      "count": 2,
+      "location_name": "Bogus Jim Road",
+      "lat": 44.1181811,
+      "lng": -103.5017537,
+      "location_id": "L68263474",
+      "checklist_id": "S349064798",
+      "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/2770073/square.jpg"
+    },
+    {
+      "species_code": "yerwar",
+      "common_name": "Yellow-rumped Warbler",
+      "scientific_name": "Setophaga coronata",
+      "observed_on": "2026-05-29",
+      "count": 2,
+      "location_name": "Bogus Jim Road",
+      "lat": 44.1181811,
+      "lng": -103.5017537,
+      "location_id": "L68263474",
+      "checklist_id": "S349064798",
+      "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/128439522/square.jpg"
+    },
     {
       "species_code": "bkbmag1",
       "common_name": "Black-billed Magpie",
@@ -106,19 +275,6 @@
       "photo_url": "https://static.inaturalist.org/photos/13820186/square.jpg"
     },
     {
-      "species_code": "rethaw",
-      "common_name": "Red-tailed Hawk",
-      "scientific_name": "Buteo jamaicensis",
-      "observed_on": "2026-05-29",
-      "count": 2,
-      "location_name": "194th St",
-      "lat": 44.5897117,
-      "lng": -103.5537409,
-      "location_id": "L68223675",
-      "checklist_id": "S348889256",
-      "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/101327658/square.jpg"
-    },
-    {
       "species_code": "barswa",
       "common_name": "Barn Swallow",
       "scientific_name": "Hirundo rustica",
@@ -184,19 +340,6 @@
       "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/28781133/square.jpeg"
     },
     {
-      "species_code": "rewbla",
-      "common_name": "Red-winged Blackbird",
-      "scientific_name": "Agelaius phoeniceus",
-      "observed_on": "2026-05-29",
-      "count": 5,
-      "location_name": "194th St",
-      "lat": 44.5897117,
-      "lng": -103.5537409,
-      "location_id": "L68223675",
-      "checklist_id": "S348889256",
-      "photo_url": "https://static.inaturalist.org/photos/368048127/square.jpg"
-    },
-    {
       "species_code": "bnhcow",
       "common_name": "Brown-headed Cowbird",
       "scientific_name": "Molothrus ater",
@@ -249,19 +392,6 @@
       "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/95268822/square.jpg"
     },
     {
-      "species_code": "amerob",
-      "common_name": "American Robin",
-      "scientific_name": "Turdus migratorius",
-      "observed_on": "2026-05-29",
-      "count": 1,
-      "location_name": "11481 Brownsville Road, Lead, South Dakota, US (44.277, -103.765)",
-      "lat": 44.2770532,
-      "lng": -103.7651014,
-      "location_id": "L68189188",
-      "checklist_id": "S348720746",
-      "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/34859026/square.jpg"
-    },
-    {
       "species_code": "redcro",
       "common_name": "Red Crossbill",
       "scientific_name": "Loxia curvirostra",
@@ -299,19 +429,6 @@
       "location_id": "L68189188",
       "checklist_id": "S348721279",
       "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/95736689/square.jpg"
-    },
-    {
-      "species_code": "norfli",
-      "common_name": "Northern Flicker",
-      "scientific_name": "Colaptes auratus",
-      "observed_on": "2026-05-29",
-      "count": 1,
-      "location_name": "21294 US Highway 14a, Lead, South Dakota, US (44.315, -103.883)",
-      "lat": 44.3151728,
-      "lng": -103.8828439,
-      "location_id": "L68186620",
-      "checklist_id": "S348705238",
-      "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/123812445/square.jpg"
     },
     {
       "species_code": "wesfly",
@@ -390,19 +507,6 @@
       "location_id": "L68186620",
       "checklist_id": "S348705238",
       "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/13823002/square.jpg"
-    },
-    {
-      "species_code": "yerwar",
-      "common_name": "Yellow-rumped Warbler",
-      "scientific_name": "Setophaga coronata",
-      "observed_on": "2026-05-29",
-      "count": 1,
-      "location_name": "21294 US Highway 14a, Lead, South Dakota, US (44.315, -103.883)",
-      "lat": 44.3151728,
-      "lng": -103.8828439,
-      "location_id": "L68186620",
-      "checklist_id": "S348705238",
-      "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/128439522/square.jpg"
     },
     {
       "species_code": "bkhgro",
@@ -522,19 +626,6 @@
       "photo_url": "https://static.inaturalist.org/photos/103258086/square.jpeg"
     },
     {
-      "species_code": "chispa",
-      "common_name": "Chipping Sparrow",
-      "scientific_name": "Spizella passerina",
-      "observed_on": "2026-05-29",
-      "count": 3,
-      "location_name": "21155 Coyote Lane, Lead, South Dakota, US (44.338, -103.914)",
-      "lat": 44.3381915,
-      "lng": -103.913648,
-      "location_id": "L68186012",
-      "checklist_id": "S348701651",
-      "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/273251789/square.jpg"
-    },
-    {
       "species_code": "sonspa",
       "common_name": "Song Sparrow",
       "scientific_name": "Melospiza melodia",
@@ -559,97 +650,6 @@
       "location_id": "L68186012",
       "checklist_id": "S348701651",
       "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/265296529/square.jpg"
-    },
-    {
-      "species_code": "macwar",
-      "common_name": "MacGillivray's Warbler",
-      "scientific_name": "Geothlypis tolmiei",
-      "observed_on": "2026-05-29",
-      "count": 2,
-      "location_name": "21155 Coyote Lane, Lead, South Dakota, US (44.338, -103.914)",
-      "lat": 44.3381915,
-      "lng": -103.913648,
-      "location_id": "L68186012",
-      "checklist_id": "S348701651",
-      "photo_url": "https://static.inaturalist.org/photos/72354309/square.jpeg"
-    },
-    {
-      "species_code": "comyel",
-      "common_name": "Common Yellowthroat",
-      "scientific_name": "Geothlypis trichas",
-      "observed_on": "2026-05-29",
-      "count": 1,
-      "location_name": "21155 Coyote Lane, Lead, South Dakota, US (44.338, -103.914)",
-      "lat": 44.3381915,
-      "lng": -103.913648,
-      "location_id": "L68186012",
-      "checklist_id": "S348701651",
-      "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/35803961/square.jpg"
-    },
-    {
-      "species_code": "amered",
-      "common_name": "American Redstart",
-      "scientific_name": "Setophaga ruticilla",
-      "observed_on": "2026-05-29",
-      "count": 3,
-      "location_name": "21155 Coyote Lane, Lead, South Dakota, US (44.338, -103.914)",
-      "lat": 44.3381915,
-      "lng": -103.913648,
-      "location_id": "L68186012",
-      "checklist_id": "S348701651",
-      "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/2770073/square.jpg"
-    },
-    {
-      "species_code": "yelwar1",
-      "common_name": "Northern Yellow Warbler",
-      "scientific_name": "Setophaga aestiva",
-      "observed_on": "2026-05-29",
-      "count": 1,
-      "location_name": "21155 Coyote Lane, Lead, South Dakota, US (44.338, -103.914)",
-      "lat": 44.3381915,
-      "lng": -103.913648,
-      "location_id": "L68186012",
-      "checklist_id": "S348701651",
-      "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/293515565/square.jpg"
-    },
-    {
-      "species_code": "westan",
-      "common_name": "Western Tanager",
-      "scientific_name": "Piranga ludoviciana",
-      "observed_on": "2026-05-29",
-      "count": 1,
-      "location_name": "21155 Coyote Lane, Lead, South Dakota, US (44.338, -103.914)",
-      "lat": 44.3381915,
-      "lng": -103.913648,
-      "location_id": "L68186012",
-      "checklist_id": "S348701651",
-      "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/289912656/square.jpg"
-    },
-    {
-      "species_code": "wooduc",
-      "common_name": "Wood Duck",
-      "scientific_name": "Aix sponsa",
-      "observed_on": "2026-05-28",
-      "count": 5,
-      "location_name": "Spearfish--DC Booth Fish Hatchery",
-      "lat": 44.4836166,
-      "lng": -103.8615489,
-      "location_id": "L2265498",
-      "checklist_id": "S348494677",
-      "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/171626985/square.jpg"
-    },
-    {
-      "species_code": "turvul",
-      "common_name": "Turkey Vulture",
-      "scientific_name": "Cathartes aura",
-      "observed_on": "2026-05-28",
-      "count": 1,
-      "location_name": "Spearfish--DC Booth Fish Hatchery",
-      "lat": 44.4836166,
-      "lng": -103.8615489,
-      "location_id": "L2265498",
-      "checklist_id": "S348494677",
-      "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/52277010/square.jpg"
     }
   ]
 }
