@@ -300,32 +300,6 @@
   },
   {
     "url": "https://www.sawyerbrewingco.com/menu",
-    "image_url": "https://images.squarespace-cdn.com/content/v1/5c484d047c9327393b19dc04/bf7b604b-320b-4fc9-a44e-203b7e409273/DarkLager2024.jpg",
-    "title": "Dark Lager",
-    "slug": "dark-lager",
-    "category": "Dark Side",
-    "description": "Our Dark Lager is malty sweet with smooth dark roasty notes and a light body.",
-    "abv": "5.8%",
-    "notes": "",
-    "prices": [
-      {
-        "price": 2.5,
-        "ounces": 5
-      },
-      {
-        "price": 4.0,
-        "ounces": 10
-      },
-      {
-        "price": 6.0,
-        "ounces": 16
-      }
-    ],
-    "record_type": "beer",
-    "source_label": "Sawyer Brewing Co."
-  },
-  {
-    "url": "https://www.sawyerbrewingco.com/menu",
     "image_url": "https://images.squarespace-cdn.com/content/v1/5c484d047c9327393b19dc04/e40f3f49-ef67-490c-b989-aaafd8ea8678/nightowlstoutdark.jpg",
     "title": "nightowlstoutdark.jpg",
     "slug": "nightowlstoutdark-jpg",

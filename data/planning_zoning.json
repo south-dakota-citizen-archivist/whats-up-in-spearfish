@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-05-30T18:01:20.028679+00:00",
+  "fetched_at": "2026-05-31T17:57:18.686331+00:00",
   "records": [
     {
       "id": 11984,
@@ -706,6 +706,22 @@
       "portal_url": "https://spearfishsd.portal.opengov.com/records/11824"
     },
     {
+      "id": 11811,
+      "record_no": "",
+      "record_type": "Sign Permit ",
+      "record_type_id": 6460,
+      "category": "infrastructure",
+      "status": 0,
+      "date_created": "2026-04-20T17:46:55.872Z",
+      "date_submitted": "",
+      "last_updated": "2026-04-20T17:48:54.000Z",
+      "address": "1020 STATE ST, SPEARFISH, SD 57783",
+      "lat": 44.494294,
+      "lon": -103.854988,
+      "applicant": "Darren Wells",
+      "portal_url": "https://spearfishsd.portal.opengov.com/records/11811"
+    },
+    {
       "id": 11805,
       "record_no": "",
       "record_type": "Residential Decks, Covered Patios, or Fences",
@@ -1184,6 +1200,22 @@
       "lon": -103.815535,
       "applicant": "Branden Ginter",
       "portal_url": "https://spearfishsd.portal.opengov.com/records/11692"
+    },
+    {
+      "id": 11689,
+      "record_no": "",
+      "record_type": "Sign Permit ",
+      "record_type_id": 6460,
+      "category": "infrastructure",
+      "status": 0,
+      "date_created": "2026-03-26T20:55:33.606Z",
+      "date_submitted": "",
+      "last_updated": "2026-03-26T20:55:51.000Z",
+      "address": "320 RYAN RD, SPEARFISH, SD 57783",
+      "lat": 44.501232,
+      "lon": -103.857053,
+      "applicant": "Lynley Mehmen",
+      "portal_url": "https://spearfishsd.portal.opengov.com/records/11689"
     },
     {
       "id": 11687,
@@ -1874,6 +1906,22 @@
       "portal_url": "https://spearfishsd.portal.opengov.com/records/11491"
     },
     {
+      "id": 11490,
+      "record_no": "",
+      "record_type": "Sign Permit ",
+      "record_type_id": 6460,
+      "category": "infrastructure",
+      "status": 0,
+      "date_created": "2026-02-06T15:08:57.303Z",
+      "date_submitted": "",
+      "last_updated": "2026-02-06T15:10:03.000Z",
+      "address": "",
+      "lat": null,
+      "lon": null,
+      "applicant": "Donovan Lerew",
+      "portal_url": "https://spearfishsd.portal.opengov.com/records/11490"
+    },
+    {
       "id": 11485,
       "record_no": "",
       "record_type": "Change of Use or Occupancy",
@@ -2160,6 +2208,22 @@
       "lon": null,
       "applicant": "",
       "portal_url": "https://spearfishsd.portal.opengov.com/records/11368"
+    },
+    {
+      "id": 11364,
+      "record_no": "",
+      "record_type": "Sign Permit ",
+      "record_type_id": 6460,
+      "category": "infrastructure",
+      "status": 0,
+      "date_created": "2026-01-13T22:09:17.679Z",
+      "date_submitted": "",
+      "last_updated": "2026-01-13T22:15:43.000Z",
+      "address": "3355 E COLORADO BLVD, SPEARFISH, SD 57783",
+      "lat": 44.475363,
+      "lon": -103.803284,
+      "applicant": "Thomas E. Farrar",
+      "portal_url": "https://spearfishsd.portal.opengov.com/records/11364"
     },
     {
       "id": 11331,
