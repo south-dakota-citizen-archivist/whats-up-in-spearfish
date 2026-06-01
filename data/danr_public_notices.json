@@ -1,28 +1,6 @@
 {
-  "fetched_at": "2026-05-31T17:57:34.876483+00:00",
+  "fetched_at": "2026-06-01T20:54:28.901797+00:00",
   "notices": [
-    {
-      "notice_type": "Concentrated Animal Feeding Operations (Individual Permit)",
-      "deadline": "05/31/2026",
-      "comment_url": "https://danr.sd.gov/public/comment.aspx?d_comment=05/31/2026&name=Dakota Layers, LLC - DL Specialty Eggs&pntype=fp_cafo_individual&description=Expanding Chicken Feeding Operation - Individual Permit",
-      "name": "Dakota Layers, LLC - DL Specialty Eggs",
-      "description": "Expanding Chicken Feeding Operation - Individual Permit",
-      "location": "Brookings County",
-      "links": [
-        {
-          "label": "Public Notice",
-          "url": "https://danr.sd.gov/Press/docs/publicnotices/FeedlotPermit/DLSpecialtyEggsPN.pdf"
-        },
-        {
-          "label": "Draft Permit",
-          "url": "https://danr.sd.gov/Press/docs/publicnotices/FeedlotPermit/DLSpecialtyEggsDraftPermit.pdf"
-        },
-        {
-          "label": "Statement of Basis",
-          "url": "https://danr.sd.gov/Press/docs/publicnotices/FeedlotPermit/DLSpecialtyEggsSOB.pdf"
-        }
-      ]
-    },
     {
       "notice_type": "Surface Water Discharge (NPDES)",
       "deadline": "06/01/2026",
@@ -266,7 +244,7 @@
       "name": "Venekamps LLC, Willis Venekamp,\u00a0Rapid City\u00a0SD",
       "location": "Meade",
       "water_source": "Inyan Kara Aquifer",
-      "use_type": "WDS",
+      "use_type": "Water Distribution System",
       "links": [
         {
           "label": "Public Notice",
@@ -452,6 +430,222 @@
         {
           "label": "Statement of Basis",
           "url": "https://danr.sd.gov/officeofwater/surfacewaterquality/pn/CanistotaSOB.pdf"
+        }
+      ]
+    },
+    {
+      "notice_type": "Water Rights",
+      "deadline": "06/15/2026",
+      "comment_url": "",
+      "application_no": "8996-3",
+      "name": "Wayne or Scott Binger,\u00a0Tulare\u00a0SD",
+      "location": "Spink",
+      "water_source": "Tulare: Western Spink Hitchcock Aquifer",
+      "use_type": "Irrigation (130 acres)",
+      "links": [
+        {
+          "label": "Public Notice",
+          "url": "https://danr.sd.gov/wrimage/pub/8996-3_app.pdf"
+        },
+        {
+          "label": "Appl.",
+          "url": "https://danr.sd.gov/wrimage/pub/8996-3_apl.pdf"
+        },
+        {
+          "label": "Recom. Action",
+          "url": "https://danr.sd.gov/wrimage/pub/8996-3_rec.pdf"
+        }
+      ]
+    },
+    {
+      "notice_type": "Water Rights",
+      "deadline": "06/15/2026",
+      "comment_url": "",
+      "application_no": "8997-3",
+      "name": "Wayne or Scott Binger,\u00a0Tulare\u00a0SD",
+      "location": "Spink",
+      "water_source": "Tulare: Western Spink Hitchcock Aquifer",
+      "use_type": "Irrigation (130 acres)",
+      "links": [
+        {
+          "label": "Public Notice",
+          "url": "https://danr.sd.gov/wrimage/pub/8997-3_app.pdf"
+        },
+        {
+          "label": "Appl.",
+          "url": "https://danr.sd.gov/wrimage/pub/8997-3_apl.pdf"
+        },
+        {
+          "label": "Recom. Action",
+          "url": "https://danr.sd.gov/wrimage/pub/8997-3_rec.pdf"
+        }
+      ]
+    },
+    {
+      "notice_type": "Water Rights",
+      "deadline": "06/15/2026",
+      "comment_url": "",
+      "application_no": "8998-3",
+      "name": "Terry McClain,\u00a0Hitchcock\u00a0SD",
+      "location": "Spink",
+      "water_source": "Tulare: Western Spink Hitchcock Aquifer",
+      "use_type": "Irrigation (180 acres)",
+      "links": [
+        {
+          "label": "Public Notice",
+          "url": "https://danr.sd.gov/wrimage/pub/8998-3_app.pdf"
+        },
+        {
+          "label": "Appl.",
+          "url": "https://danr.sd.gov/wrimage/pub/8998-3_apl.pdf"
+        },
+        {
+          "label": "Recom. Action",
+          "url": "https://danr.sd.gov/wrimage/pub/8998-3_rec.pdf"
+        }
+      ]
+    },
+    {
+      "notice_type": "Water Rights",
+      "deadline": "06/15/2026",
+      "comment_url": "",
+      "application_no": "9001-3",
+      "name": "Matthew Van Buskirk,\u00a0Hitchcock\u00a0SD",
+      "location": "Spink",
+      "water_source": "Tulare: Western Spink Hitchcock Aquifer",
+      "use_type": "Irrigation (136 acres)",
+      "links": [
+        {
+          "label": "Public Notice",
+          "url": "https://danr.sd.gov/wrimage/pub/9001-3_app.pdf"
+        },
+        {
+          "label": "Appl.",
+          "url": "https://danr.sd.gov/wrimage/pub/9001-3_apl.pdf"
+        },
+        {
+          "label": "Recom. Action",
+          "url": "https://danr.sd.gov/wrimage/pub/9001-3_rec.pdf"
+        }
+      ]
+    },
+    {
+      "notice_type": "Water Rights",
+      "deadline": "06/15/2026",
+      "comment_url": "",
+      "application_no": "9002-3",
+      "name": "Matthew Van Buskirk,\u00a0Hitchcock\u00a0SD",
+      "location": "Spink",
+      "water_source": "Tulare: Western Spink Hitchcock Aquifer",
+      "use_type": "Irrigation (136 acres)",
+      "links": [
+        {
+          "label": "Public Notice",
+          "url": "https://danr.sd.gov/wrimage/pub/9002-3_app.pdf"
+        },
+        {
+          "label": "Appl.",
+          "url": "https://danr.sd.gov/wrimage/pub/9002-3_apl.pdf"
+        },
+        {
+          "label": "Recom. Action",
+          "url": "https://danr.sd.gov/wrimage/pub/9002-3_rec.pdf"
+        }
+      ]
+    },
+    {
+      "notice_type": "Water Rights",
+      "deadline": "06/15/2026",
+      "comment_url": "",
+      "application_no": "9003-3",
+      "name": "Matthew Van Buskirk,\u00a0Hitchcock\u00a0SD",
+      "location": "Beadle",
+      "water_source": "Tulare: Western Spink Hitchcock Aquifer",
+      "use_type": "Irrigation (272 acres)",
+      "links": [
+        {
+          "label": "Public Notice",
+          "url": "https://danr.sd.gov/wrimage/pub/9003-3_app.pdf"
+        },
+        {
+          "label": "Appl.",
+          "url": "https://danr.sd.gov/wrimage/pub/9003-3_apl.pdf"
+        },
+        {
+          "label": "Recom. Action",
+          "url": "https://danr.sd.gov/wrimage/pub/9003-3_rec.pdf"
+        }
+      ]
+    },
+    {
+      "notice_type": "Water Rights",
+      "deadline": "06/15/2026",
+      "comment_url": "",
+      "application_no": "9004-3",
+      "name": "Matthew Van Buskirk,\u00a0Hitchcock\u00a0SD",
+      "location": "Beadle",
+      "water_source": "Tulare: Western Spink Hitchcock Aquifer",
+      "use_type": "Irrigation (136 acres)",
+      "links": [
+        {
+          "label": "Public Notice",
+          "url": "https://danr.sd.gov/wrimage/pub/9004-3_app.pdf"
+        },
+        {
+          "label": "Appl.",
+          "url": "https://danr.sd.gov/wrimage/pub/9004-3_apl.pdf"
+        },
+        {
+          "label": "Recom. Action",
+          "url": "https://danr.sd.gov/wrimage/pub/9004-3_rec.pdf"
+        }
+      ]
+    },
+    {
+      "notice_type": "Water Rights",
+      "deadline": "06/15/2026",
+      "comment_url": "",
+      "application_no": "9005-3",
+      "name": "Matthew Van Buskirk,\u00a0Hitchcock\u00a0SD",
+      "location": "Beadle",
+      "water_source": "Tulare: Western Spink Hitchcock Aquifer",
+      "use_type": "Irrigation (136 acres)",
+      "links": [
+        {
+          "label": "Public Notice",
+          "url": "https://danr.sd.gov/wrimage/pub/9005-3_app.pdf"
+        },
+        {
+          "label": "Appl.",
+          "url": "https://danr.sd.gov/wrimage/pub/9005-3_apl.pdf"
+        },
+        {
+          "label": "Recom. Action",
+          "url": "https://danr.sd.gov/wrimage/pub/9005-3_rec.pdf"
+        }
+      ]
+    },
+    {
+      "notice_type": "Water Rights",
+      "deadline": "06/15/2026",
+      "comment_url": "",
+      "application_no": "9000-3",
+      "name": "Matthew Van Buskirk,\u00a0Hitchcock\u00a0SD",
+      "location": "Beadle",
+      "water_source": "Tulare: Western Spink Hitchcock Aquifer",
+      "use_type": "Irrigation (136 acres)",
+      "links": [
+        {
+          "label": "Public Notice",
+          "url": "https://danr.sd.gov/wrimage/pub/9000-3_app.pdf"
+        },
+        {
+          "label": "Appl.",
+          "url": "https://danr.sd.gov/wrimage/pub/9000-3_apl.pdf"
+        },
+        {
+          "label": "Recom. Action",
+          "url": "https://danr.sd.gov/wrimage/pub/9000-3_rec.pdf"
         }
       ]
     },

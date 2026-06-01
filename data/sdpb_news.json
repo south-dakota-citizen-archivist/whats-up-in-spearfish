@@ -1648,5 +1648,60 @@
     "image_url": "https://npr.brightspotcdn.com/legacy/prod/filer_public/kusd-bento-live-pbs/News%20Blog/Josh%20Haiar/2146702d0a_supreme%20court%2029jg.jpg",
     "record_type": "news",
     "source_label": "SDPB"
+  },
+  {
+    "url": "https://www.sdpb.org/environment/2026-06-01/amid-drought-south-dakota-entering-severe-weather-season",
+    "title": "Amid drought, South Dakota entering severe weather season",
+    "slug": "sdpb-amid-drought-south-dakota-entering-severe-weather-season",
+    "published": "2026-06-01",
+    "byline": "By C.J. Keene",
+    "description": "Entering the wettest time of year, South Dakota is largely facing drought conditions. While some moisture would be welcomed by wildland firefighters, it’s also time to take stock and be ready for the worst.",
+    "image_url": "https://npr.brightspotcdn.com/legacy/prod/filer_public/kusd-bento-live-pbs/CarouselImages/a9294fd5c2_cc02-13-16StormCloud0010.jpg",
+    "record_type": "news",
+    "source_label": "SDPB"
+  },
+  {
+    "url": "https://www.sdpb.org/business-economics/2026-06-01/inflation-on-the-rise-as-key-regional-sectors-report-job-losses",
+    "title": "Inflation on the rise as key regional sectors report job losses",
+    "slug": "sdpb-inflation-on-the-rise-as-key-regional-sectors-report-job-losses",
+    "published": "2026-06-01",
+    "byline": "By C.J. Keene",
+    "description": "A new report suggests ongoing volatility in international trade is leading to implications that are being felt in South Dakota’s economy.",
+    "image_url": "https://npr.brightspotcdn.com/3e/54/26d127c94830b6884d2182fe4b72/untitled-design-26.png",
+    "record_type": "news",
+    "source_label": "SDPB"
+  },
+  {
+    "url": "https://www.sdpb.org/healthcare/2026-06-01/university-of-sioux-falls-is-states-first-cardiac-ready-campus",
+    "title": "University of Sioux Falls is state's first Cardiac Ready Campus",
+    "slug": "sdpb-university-of-sioux-falls-is-state-s-first-cardiac-ready-campus",
+    "published": "2026-06-01",
+    "byline": "By Jackie Hendry",
+    "description": "The University of Sioux Falls is the first to achieve the state’s Cardiac-Ready Campus designation from the South Dakota Department of Health.",
+    "image_url": "https://npr.brightspotcdn.com/22/5f/d50533104ee48bb5749b8d820f8b/usf-logo.jpg",
+    "record_type": "news",
+    "source_label": "SDPB"
+  },
+  {
+    "url": "https://www.sdpb.org/environment/2026-06-01/nps-seeks-kayak-volunteers-to-clean-missouri-river-near-yankton",
+    "title": "NPS seeks kayak volunteers to clean Missouri River near Yankton",
+    "slug": "sdpb-nps-seeks-kayak-volunteers-to-clean-missouri-river-near-yankton",
+    "published": "2026-06-01",
+    "byline": "By SDPB News Staff",
+    "description": "The National Park Service is looking for experienced kayakers to take part in a cleanup effort on the Missouri River in Yankton.",
+    "image_url": "https://npr.brightspotcdn.com/28/7e/e53be4ca4128a1294604c0999971/gavins-point-dam.jpg",
+    "record_type": "news",
+    "source_label": "SDPB"
+  },
+  {
+    "url": "https://www.sdpb.org/business-economics/2026-06-01/analysis-underestimating-rising-inflation-can-lead-to-even-higher-inflation",
+    "title": "Analysis: Underestimating rising inflation can lead to even higher inflation",
+    "slug": "sdpb-analysis-underestimating-rising-inflation-can-lead-to-even-higher-inflation",
+    "published": "2026-06-01",
+    "byline": "By Lori Walsh",
+    "description": "As the war in Iran continues to put pressure on prices, macroeconomist Joe Santos urges the central bank to get clear-eyed about interest rates.",
+    "image_url": "https://npr.brightspotcdn.com/52/a4/27ad8392458d90c0af200f3647e9/website-photo-1.png",
+    "record_type": "news",
+    "source_label": "SDPB"
   }
 ]
