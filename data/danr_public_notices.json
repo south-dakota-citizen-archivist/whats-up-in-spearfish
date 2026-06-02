@@ -1,28 +1,6 @@
 {
-  "fetched_at": "2026-06-01T20:54:28.901797+00:00",
+  "fetched_at": "2026-06-02T20:03:45.777234+00:00",
   "notices": [
-    {
-      "notice_type": "Surface Water Discharge (NPDES)",
-      "deadline": "06/01/2026",
-      "comment_url": "https://danr.sd.gov/public/comment.aspx?d_comment=06/01/2026&name=City of Harrisburg&pntype=sw_npdes&description=The City of Harrisburg is authorized under this permit to discharge to the Big Sioux River from its wastewater treatment facility located in Lincoln County.",
-      "name": "City of Harrisburg",
-      "description": "The City of Harrisburg is authorized under this permit to discharge to the Big Sioux River from its wastewater treatment facility located in Lincoln County.",
-      "location": "Lincoln County",
-      "links": [
-        {
-          "label": "Public Notice",
-          "url": "https://danr.sd.gov/officeofwater/surfacewaterquality/pn/HarrisburgPNDraftFR.pdf"
-        },
-        {
-          "label": "Draft Permit",
-          "url": "https://danr.sd.gov/officeofwater/surfacewaterquality/pn/HarrisburgPermitDraftFR.pdf"
-        },
-        {
-          "label": "Statement of Basis",
-          "url": "https://danr.sd.gov/officeofwater/surfacewaterquality/pn/HarrisburgSOBDraftFR.pdf"
-        }
-      ]
-    },
     {
       "notice_type": "Water Rights",
       "deadline": "06/01/2026",
@@ -890,6 +868,27 @@
         {
           "label": "Public Notice",
           "url": "https://danr.sd.gov/Environment/AirQuality/AirMonitoring/docs/Annual Plan 2026.pdf"
+        }
+      ]
+    },
+    {
+      "notice_type": "Air Quality Permit",
+      "deadline": "07/02/2026",
+      "comment_url": "https://danr.sd.gov/public/comment.aspx?d_comment=07/02/2026&name=Wharf Resources Inc. (Wharf Mine)&pntype=aq&description=Wharf Resources, Inc. operates a gold mine in Lead. The facility is constructing new mining equipment. The department recommends issuance of an air quality construction permit.",
+      "description": "Wharf Resources, Inc. operates a gold mine in Lead. The facility is constructing new mining equipment. The department recommends issuance of an air quality construction permit.",
+      "location": "Lead",
+      "links": [
+        {
+          "label": "Public Notice",
+          "url": "http://danr.sd.gov/Environment/AirQuality/PN/WRIpn.pdf"
+        },
+        {
+          "label": "Draft Permit",
+          "url": "http://danr.sd.gov/Environment/AirQuality/PN/WRIdp.pdf"
+        },
+        {
+          "label": "Application Review",
+          "url": "http://danr.sd.gov/Environment/AirQuality/PN/WRIsb.pdf"
         }
       ]
     },

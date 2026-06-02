@@ -1703,5 +1703,27 @@
     "image_url": "https://npr.brightspotcdn.com/52/a4/27ad8392458d90c0af200f3647e9/website-photo-1.png",
     "record_type": "news",
     "source_label": "SDPB"
+  },
+  {
+    "url": "https://www.sdpb.org/politics/2026-06-02/south-dakotans-head-to-the-polls-tuesday-for-primary-municipal-elections",
+    "title": "South Dakotans head to the polls Tuesday for primary, municipal elections",
+    "slug": "sdpb-south-dakotans-head-to-the-polls-tuesday-for-primary-municipal-elections",
+    "published": "2026-06-02",
+    "byline": "By SDPB News Staff",
+    "description": "Tuesday is election day in South Dakota. And while the Republican party primary races have dominated headlines, they’re not the only races in town.",
+    "image_url": "https://npr.brightspotcdn.com/12/8e/f3f2d00047c696fbcd7229c16c0f/rapid-city-vote-voting-sign-election.jpg",
+    "record_type": "news",
+    "source_label": "SDPB"
+  },
+  {
+    "url": "https://www.sdpb.org/business-economics/2026-06-01/ag-analyst-discusses-current-issues-affecting-south-dakotan-producers",
+    "title": "Ag analyst discusses current issues affecting South Dakotan producers",
+    "slug": "sdpb-ag-analyst-discusses-current-issues-affecting-south-dakotan-producers",
+    "published": "2026-06-01",
+    "byline": "By Jackson Dircks",
+    "description": "South Dakota farmers are being hit by drought, trade uncertainty and foreign policy disruptions to inputs. With that, there's a lot of questions left to be answered and analyzed. SDPB spoke to an analyst to look at some of the things the state's producers should be watching.",
+    "image_url": "https://npr.brightspotcdn.com/4d/3c/011d2bbf431ebe918d1f519880d8/image-57.jpg",
+    "record_type": "news",
+    "source_label": "SDPB"
   }
 ]
