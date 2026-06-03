@@ -1,45 +1,6 @@
 {
-  "fetched_at": "2026-06-02T20:06:34.141143+00:00",
+  "fetched_at": "2026-06-03T20:19:28.690532+00:00",
   "projects": [
-    {
-      "project_id": "67625",
-      "title": "October Jinx Project",
-      "url": "https://www.fs.usda.gov/r02/blackhills/projects/67625",
-      "status": "In Progress",
-      "district": "Hell Canyon Ranger District",
-      "purpose": "Minerals And Geology",
-      "description": "Authorization to Clean Nuclear Energy Corps for short term (1 year or less) exploratory drilling in search of uranium mineralization and aquifer testing on NFS lands located approximately 7.5 miles north of Edgemont, SD.",
-      "milestones": [
-        {
-          "name": "Scoping Start",
-          "date": "01/28/2026"
-        },
-        {
-          "name": "Comment Period",
-          "date": "02/2026 (Estimated)"
-        },
-        {
-          "name": "Decision",
-          "date": "06/2026 (Estimated)"
-        },
-        {
-          "name": "Implementation",
-          "date": "07/2026 (Estimated)"
-        }
-      ],
-      "comment_period_date": "02/2026 (Estimated)",
-      "comment_period_sort": "2026-02",
-      "location_summary": "T7S, R2E Section 25; T7S 3E Section 30; Approximately 7.5 miles north of Edgemont, SD.",
-      "counties": [
-        "Fall River"
-      ],
-      "contact": {
-        "name": "Jonathan Manning",
-        "email": "Jonathan.Manning2@usda.gov",
-        "phone": "605-673-9200"
-      },
-      "last_updated": "1/28/2026"
-    },
     {
       "project_id": "68498",
       "title": "Benchmark Vegetation Management",
@@ -50,34 +11,26 @@
       "description": "Timber management to provide commercial timber products to local industry, and reduce the risk of insect infestation.",
       "milestones": [
         {
-          "name": "Scoping Start",
-          "date": "01/23/2026"
+          "name": "NEPA Start Date",
+          "date": "1/23/2026"
         },
         {
-          "name": "Comment Period",
-          "date": "05/2026 (Estimated)"
-        },
-        {
-          "name": "Decision",
-          "date": "07/2026 (Estimated)"
-        },
-        {
-          "name": "Implementation",
-          "date": "10/2026 (Estimated)"
+          "name": "Finding/Decision Date",
+          "date": ""
         }
       ],
-      "comment_period_date": "05/2026 (Estimated)",
-      "comment_period_sort": "2026-05",
-      "location_summary": "South of Lead-Deadwood, SD, north of Nahant, SD, and north and west of Nemo, SD.",
+      "comment_period_date": null,
+      "comment_period_sort": "9999-99",
+      "location_summary": "The project area is located south of Lead-Deadwood, SD, and is bounded by Vanocker Canyon Highway (Forest Highway 26), Benchmark Road (National Forest System Road 198), Custer Crossing Road (National Forest System Road 256), and Rochford Road (County Highway 17).",
       "counties": [
-        "Lawrence"
+        "Lawrence; Meade"
       ],
       "contact": {
         "name": "Chris Stores",
-        "email": "Chris.Stores@usda.gov",
+        "email": "chris.stores@usda.gov",
         "phone": "605-443-3081"
       },
-      "last_updated": "4/16/2026"
+      "last_updated": "5/27/2026"
     },
     {
       "project_id": "66463",
@@ -113,6 +66,22 @@
         "phone": "605-642-4622"
       },
       "last_updated": "7/2/2024"
+    },
+    {
+      "project_id": "67625",
+      "title": "October Jinx Project",
+      "url": "https://www.fs.usda.gov/r02/blackhills/projects/67625",
+      "status": "In Progress",
+      "district": "Hell Canyon Ranger District",
+      "purpose": "Minerals And Geology",
+      "description": "Authorization to Clean Nuclear Energy Corps for short term (1 year or less) exploratory drilling in search of uranium mineralization and aquifer testing on NFS lands located approximately 7.5 miles north of Edgemont, SD.",
+      "milestones": [],
+      "comment_period_date": null,
+      "comment_period_sort": "9999-99",
+      "location_summary": "",
+      "counties": [],
+      "contact": {},
+      "last_updated": ""
     },
     {
       "project_id": "48758",
@@ -186,6 +155,22 @@
       "district": "Northern Hills Ranger District",
       "purpose": "Special Use Management|Recreation Management",
       "description": "Over the snow grooming of fat bike trails across the Northern Hills Ranger District for use during the 2018/2019 winter season (December 15 through March 31, depending on snow conditions).",
+      "milestones": [],
+      "comment_period_date": null,
+      "comment_period_sort": "9999-99",
+      "location_summary": "",
+      "counties": [],
+      "contact": {},
+      "last_updated": ""
+    },
+    {
+      "project_id": "291093",
+      "title": "Bear Lodge Rare Earth Project",
+      "url": "https://www.fs.usda.gov/r02/blackhills/projects/291093",
+      "status": "Developing Proposal",
+      "district": "Bearlodge Ranger District",
+      "purpose": "Minerals And Geology",
+      "description": "Rare Element Resources Inc. has submitted a Mine Plan of Operations to the Black Hills National Forest. The project proposes to develop an open-pit mine with associated infrastructure and support facilities. The project also includes reclamation, monitoring, mitigation, and closing.",
       "milestones": [],
       "comment_period_date": null,
       "comment_period_sort": "9999-99",

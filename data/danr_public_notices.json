@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-06-02T20:03:45.777234+00:00",
+  "fetched_at": "2026-06-03T20:17:01.055299+00:00",
   "notices": [
     {
       "notice_type": "Water Rights",
@@ -386,6 +386,23 @@
         {
           "label": "Application Review",
           "url": "http://danr.sd.gov/Environment/AirQuality/PN/CAEsb.pdf"
+        }
+      ]
+    },
+    {
+      "notice_type": "Surface Water Enhancement & Restoration",
+      "deadline": "06/13/2026",
+      "comment_url": "https://danr.sd.gov/public/comment.aspx?d_comment=06/13/2026&name=South Dakota Game, Fish, and Parks&pntype=sw_er&description=SD GFP is proposing a project to restore stream function and improve fish habitat on Spring Creek within the Spring Creek Game Production Area.",
+      "name": "South Dakota Game, Fish, and Parks",
+      "description": "SD GFP is proposing a project to restore stream function and improve fish habitat on Spring Creek within the Spring Creek Game Production Area.",
+      "links": [
+        {
+          "label": "Public Notice",
+          "url": "https://danr.sd.gov/officeofwater/surfacewaterquality/pn/26-017_GFP_Spring_PN.pdf"
+        },
+        {
+          "label": "Application",
+          "url": "https://danr.sd.gov/officeofwater/surfacewaterquality/pn/DANR_WRE_Form_SDGFP Spring Creek submittal.pdf"
         }
       ]
     },
@@ -893,30 +910,23 @@
       ]
     },
     {
-      "notice_type": "Mining License",
-      "deadline": "",
-      "comment_url": "",
-      "name": "Boyer Sand & Rock, Inc",
-      "description": "Notice of Intent to Mine gravel",
-      "location": "4 miles south of Hudson, SD.",
+      "notice_type": "Air Quality Permit",
+      "deadline": "07/03/2026",
+      "comment_url": "https://danr.sd.gov/public/comment.aspx?d_comment=07/03/2026&name=Dakota Metal Recycling, LLC&pntype=aq&description=Dakota Metal Recycling, LLC proposes to construct and operate a metal shredding recycling facility. The Department recommends issuance of an air quality construction permit.",
+      "description": "Dakota Metal Recycling, LLC proposes to construct and operate a metal shredding recycling facility. The Department recommends issuance of an air quality construction permit.",
+      "location": "Huron",
       "links": [
         {
           "label": "Public Notice",
-          "url": "https://media.sd.gov/danr/MM/S319006PublicNotice.jpg"
-        }
-      ]
-    },
-    {
-      "notice_type": "Mining License",
-      "deadline": "",
-      "comment_url": "",
-      "name": "Sterzinger Crushing, Inc",
-      "description": "Notice of Intent to Mine Gravel",
-      "location": "181St, Clear Lake Township",
-      "links": [
+          "url": "http://danr.sd.gov/Environment/AirQuality/PN/DMRpn.pdf"
+        },
         {
-          "label": "Public Notice",
-          "url": "https://media.sd.gov/danr/MM/S997007PublicNotice.pdf"
+          "label": "Draft Permit",
+          "url": "http://danr.sd.gov/Environment/AirQuality/PN/DMRdp.pdf"
+        },
+        {
+          "label": "Application Review",
+          "url": "http://danr.sd.gov/Environment/AirQuality/PN/DMRsb.pdf"
         }
       ]
     }

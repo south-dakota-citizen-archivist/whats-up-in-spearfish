@@ -24574,5 +24574,53 @@
     "status": "CONFIRMED",
     "record_type": "event",
     "source_label": "Spearfish HS Sports"
+  },
+  {
+    "uid": "h202606030736562871a84adb3818040",
+    "url": "https://gobound.com/direct/comps/h202606030736562871a84adb3818040/show",
+    "title": "Boys Basketball: Spearfish vs Huron (Freshman)",
+    "slug": "boys-basketball-spearfish-vs-huron-freshman",
+    "sport": "Boys Basketball",
+    "level": "Freshman",
+    "sex": "male",
+    "description": "Freshman Boys Basketball - Spearfish vs Huron",
+    "start_dt": "2027-02-05T21:30:00",
+    "end_dt": "2027-02-05T22:15:00",
+    "location": "Huron High School",
+    "status": "CONFIRMED",
+    "record_type": "event",
+    "source_label": "Spearfish HS Sports"
+  },
+  {
+    "uid": "h202606030737047548a1e0f08944f4b",
+    "url": "https://gobound.com/direct/comps/h202606030737047548a1e0f08944f4b/show",
+    "title": "Boys Basketball: Spearfish vs Huron (Sophomore)",
+    "slug": "boys-basketball-spearfish-vs-huron-sophomore",
+    "sport": "Boys Basketball",
+    "level": "Sophomore",
+    "sex": "male",
+    "description": "Sophomore Boys Basketball - Spearfish vs Huron",
+    "start_dt": "2027-02-05T22:45:00",
+    "end_dt": "2027-02-05T23:30:00",
+    "location": "Huron Arena",
+    "status": "CONFIRMED",
+    "record_type": "event",
+    "source_label": "Spearfish HS Sports"
+  },
+  {
+    "uid": "h20260603073715102d0c6b91bf03844",
+    "url": "https://gobound.com/direct/comps/h20260603073715102d0c6b91bf03844/show",
+    "title": "Girls Basketball: Spearfish vs Huron (Sophomore)",
+    "slug": "girls-basketball-spearfish-vs-huron-sophomore",
+    "sport": "Girls Basketball",
+    "level": "Sophomore",
+    "sex": "female",
+    "description": "Sophomore Girls Basketball - Spearfish vs Huron",
+    "start_dt": "2027-02-05T22:45:00",
+    "end_dt": "2027-02-05T23:30:00",
+    "location": "Huron Middle School",
+    "status": "CONFIRMED",
+    "record_type": "event",
+    "source_label": "Spearfish HS Sports"
   }
 ]

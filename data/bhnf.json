@@ -112,5 +112,45 @@
     "description": "Enjoy a guided National Trails Day hike on the scenic Hell Canyon Trail, with geology insights, cultural history, and beautiful Black Hills views. Times: 1:00pm - 4:00pm Dates: June 6, 2026 Contact information: (605) 673-9200",
     "record_type": "event",
     "source_label": "Black Hills National Forest"
+  },
+  {
+    "url": "https://www.fs.usda.gov/r02/blackhills/events/june-20-2026-songbird-black-hills-pactola-campground",
+    "title": "June 20, 2026 Songbird of the Black Hills: Pactola Campground",
+    "slug": "bhnf-event-june-20-2026-songbird-of-the-black-hills-pactola-campground",
+    "start_dt": "2026-06-20",
+    "location": "Black Hills National Forest",
+    "description": "You are invited to join the Songbird of the Black Hills for an evening of campfire music including sing-alongs. Times: 7:30pm - 9:00pm Dates: June 20, 2026 Contact information: Black Hills National Forest, (605) 673-9200",
+    "record_type": "event",
+    "source_label": "Black Hills National Forest"
+  },
+  {
+    "url": "https://www.fs.usda.gov/r02/blackhills/events/july-18-2026-songbird-black-hills-reuter-campground",
+    "title": "July 18, 2026 Songbird of the Black Hills: Reuter Campground",
+    "slug": "bhnf-event-july-18-2026-songbird-of-the-black-hills-reuter-campground",
+    "start_dt": "2026-07-18",
+    "location": "Black Hills National Forest",
+    "description": "You are invited to join the Songbird of the Black Hills for an evening of campfire music including sing-alongs. Times: 7:30pm - 9:00pm Dates: July 18, 2026 Contact information: Black Hills National Forest, (605) 673-9200",
+    "record_type": "event",
+    "source_label": "Black Hills National Forest"
+  },
+  {
+    "url": "https://www.fs.usda.gov/r02/blackhills/events/august-15-2026-songbird-black-hills-horsethief-lake-campground",
+    "title": "August 15, 2026 Songbird of the Black Hills:  Horsethief Lake Campground",
+    "slug": "bhnf-event-august-15-2026-songbird-of-the-black-hills-horsethief-lake-campground",
+    "start_dt": "2026-08-15",
+    "location": "Black Hills National Forest",
+    "description": "You are invited to join the Songbird of the Black Hills for an evening of campfire music including sing-alongs. Times: 7:30pm - 9:00pm Dates: August 15, 2026 Contact information: Black Hills National Forest, (605) 673-9200",
+    "record_type": "event",
+    "source_label": "Black Hills National Forest"
+  },
+  {
+    "url": "https://www.fs.usda.gov/r02/blackhills/events/sept-5-2026-songbird-black-hills-sheridan-lake-south-campground",
+    "title": "Sept. 5, 2026 Songbird of the Black Hills: Sheridan Lake South Campground",
+    "slug": "bhnf-event-sept-5-2026-songbird-of-the-black-hills-sheridan-lake-south",
+    "start_dt": "2026-09-05",
+    "location": "Black Hills National Forest",
+    "description": "You are invited to join the Songbird of the Black Hills for an evening of campfire music including sing-alongs. Times: 7:00pm - 8:30pm Dates: September 5, 2026 Contact information: Black Hills National Forest, (605) 673-9200",
+    "record_type": "event",
+    "source_label": "Black Hills National Forest"
   }
 ]
