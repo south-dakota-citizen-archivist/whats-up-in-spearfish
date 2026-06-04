@@ -400,7 +400,7 @@
     "title": "Lilac",
     "slug": "dog-lilac",
     "species": "dog",
-    "description": "Female | Coohound Mix | Born 8/5/2022\nNo young kids(12+) no cats, some dogs\nThis pretty lady came to us on 4/7/2026. She is a great dog who is just a bit particular . She’s not a big fan of some people (some men, some elderly) and does not get along with all dogs in a household setting. Lilac has been to doggy daycare in Rapid City at Meadowridge Pet Lodge, and gets along with dogs in a neutral setting. She has some separation anxiety and can be a bit destructive when left home alone, though she hasn’t shown any destructive behavior spending nights with one of our employees. She is not a fan of small children. If you have further question regarding Lilac, please reach out through our email. Lilac weighs around 50 lbs.",
+    "description": "Female | Coohound Mix | Born 8/5/2022\nNo young kids(12+) no cats, some dogs\nThis pretty lady came to us on 4/7/2026. She is a great dog who is just a bit particular. She’s not a big fan of some people (some men, some elderly) and does not get along with all dogs in a household setting. Lilac has been to doggy daycare in Rapid City at Meadowridge Pet Lodge, and gets along with dogs in a neutral setting. She has some separation anxiety and can be a bit destructive when left home alone, though she hasn’t shown any destructive behavior spending nights with one of our employees. She is not a fan of small children. If you have further question regarding Lilac, please reach out through our email. Lilac weighs around 50 lbs.",
     "image_url": "https://images.squarespace-cdn.com/content/v1/6833638f52663f7b5354620e/5e71efc0-df4c-47b0-bcec-3888cd363d16/1000038072.jpg?format=500w",
     "image_alt": "Lilac",
     "record_type": "adoptable",
@@ -452,17 +452,6 @@
   },
   {
     "url": "https://www.westernhillshumanesociety.com/dogs",
-    "title": "Scooter",
-    "slug": "dog-scooter",
-    "species": "dog",
-    "description": "Male | Shih-Tzu/Maltese Mix | 6 years old \nDue to disability, cannot do stairs. He does have Glaucoma and had an eye removed on 5.28.26. He will need future dental work done (cleaning and teeth pulled). \nScooter came to us on 5/21/26 after his owner couldn’t physically continue to care for him. Scooter has two deformed front legs so he “scoots” around.He uses the bathroom just fine, but cannot do stairs and too much exercise can be a bit much for his front legs. Being able to carry him is required. He needs a patient and able owner to help him get around. He is used to regular baths but needs shallow water or he risks drowning. Scooter seems to like other dogs and kids! We don’t think he’d mind cats either. \nScooter weighs about 15 pounds.",
-    "image_url": "https://images.squarespace-cdn.com/content/v1/6833638f52663f7b5354620e/3f21d175-8f79-42fe-8e85-bf0acff47b29/1000044172.jpg?format=500w",
-    "image_alt": "Scooter",
-    "record_type": "adoptable",
-    "source_label": "Western Hills Humane Society"
-  },
-  {
-    "url": "https://www.westernhillshumanesociety.com/dogs",
     "title": "Akasha",
     "slug": "dog-akasha",
     "species": "dog",
@@ -480,6 +469,17 @@
     "description": "Female | Lab/Pit Mix | Born 3/20/24\nNo other dogs\nHarlequinn and her “sister,” Akasha, are with us after not being able to return home. They are sweet girls and get along with each other but don’t seem to be a big fan of other dogs and would probably chase cats if given the chance. We know they are both playful and enjoy human companionship. Harley is a lover of people and jumps up on you when she’s excited!\nHarlequinn weighs 48 pounds",
     "image_url": "https://images.squarespace-cdn.com/content/v1/6833638f52663f7b5354620e/31338ec4-b6db-422f-88a1-ebd5cda7996e/Harlequinn.jpg?format=500w",
     "image_alt": "Harlequinn",
+    "record_type": "adoptable",
+    "source_label": "Western Hills Humane Society"
+  },
+  {
+    "url": "https://www.westernhillshumanesociety.com/dogs",
+    "title": "Rex",
+    "slug": "dog-rex",
+    "species": "dog",
+    "description": "Male | Mini (Toy) Aussie | Born 12/14/24\nNo young kids, some male dogs\nRex came to us 6/2/26 after some behavioral issues persisted in his former home. He is not a fan of children (has nipped) and only gets along with some male dogs. He’s small but mighty - Rex is protective of his humans, especially females. He’s never been on a leash so that’s been a scary experience but he does follow well without one. Rex has lived with humans of various ages, cats, livestock and chickens. He knows some commands like “sit” and “lay” and he’s working on “stay.” He is microchipped, enjoys an active lifestyle, and although he drools in the car, he doesn’t get sick. Maybe this handsome fella will fit into your home! We welcome you to come meet this sweet guy and help him gain some confidence. \nWeight coming soon!",
+    "image_url": "https://images.squarespace-cdn.com/content/v1/6833638f52663f7b5354620e/05cd2952-8fc2-4b2b-9902-e3297d891873/image1+%287%29.jpeg?format=500w",
+    "image_alt": "Rex",
     "record_type": "adoptable",
     "source_label": "Western Hills Humane Society"
   }

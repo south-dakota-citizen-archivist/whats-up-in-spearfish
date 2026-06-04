@@ -1791,5 +1791,38 @@
     "image_url": "https://npr.brightspotcdn.com/12/05/0f1cf1bc442b8c0387d4d68aba43/mike-rounds-marty-jackley.jpg",
     "record_type": "news",
     "source_label": "SDPB"
+  },
+  {
+    "url": "https://www.sdpb.org/crime-courts/2026-06-04/rapid-city-police-raising-awareness-of-firearm-vehicle-thefts",
+    "title": "Rapid City police raising awareness of firearm vehicle thefts",
+    "slug": "sdpb-rapid-city-police-raising-awareness-of-firearm-vehicle-thefts",
+    "published": "2026-06-04",
+    "byline": "By Delainey LaHood-Burns",
+    "description": "The Rapid City Police Department says year-to-date, ten firearms have been stolen from vehicles in Rapid City.",
+    "image_url": "https://npr.brightspotcdn.com/5e/88/f91793b443b1ace13106b96cd821/firearm.png",
+    "record_type": "news",
+    "source_label": "SDPB"
+  },
+  {
+    "url": "https://www.sdpb.org/environment/2026-06-04/officials-warn-of-storm-weather-repair-scams",
+    "title": "Officials warn of storm weather repair scams",
+    "slug": "sdpb-officials-warn-of-storm-weather-repair-scams",
+    "published": "2026-06-04",
+    "byline": "By SDPB News Staff",
+    "description": "Following a week of active summer weather, state officials are reminding South Dakotans to be on the lookout for storm weather repair scams.",
+    "image_url": "https://npr.brightspotcdn.com/49/6c/0b0b013f4a18a26eab13fe369777/img-3665-mov-00-00-03-01-still001.png",
+    "record_type": "news",
+    "source_label": "SDPB"
+  },
+  {
+    "url": "https://www.sdpb.org/politics/2026-06-03/primary-winners-dissecting-results-of-this-weeks-vote",
+    "title": "Primary winners dissecting results of this weeks vote",
+    "slug": "sdpb-primary-winners-dissecting-results-of-this-weeks-vote",
+    "published": "2026-06-03",
+    "byline": "By C.J. Keene",
+    "description": "If the 2026 primary vote was a referendum on issues like data centers, social issues or landowners rights, lawmakers themselves think there isn’t a clear answer from voters.",
+    "image_url": "https://npr.brightspotcdn.com/e9/35/785b32bf4e5aa408da2504434e44/microsoftteams-image-5.png",
+    "record_type": "news",
+    "source_label": "SDPB"
   }
 ]

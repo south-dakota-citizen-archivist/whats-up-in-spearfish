@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-06-03T20:19:14.381642+00:00",
+  "fetched_at": "2026-06-04T19:23:07.385526+00:00",
   "cases": [
     {
       "ccid": "123",
@@ -190,6 +190,10 @@
       "docs_url": "https://danr.sd.gov/public/ccdocs.aspx?CCID=CCID129",
       "documents": [
         {
+          "label": "Proposed Findings of Fact & Conclusions of Law - Counsel for Applicant",
+          "url": "https://danr.sd.gov/wrimage/pub/8991-3_propFOF_app.pdf"
+        },
+        {
           "label": "Pre-Hearing Submission by Counsel for Petitioners",
           "url": "https://danr.sd.gov/wrimage/pub/8991-3_prehearsub_pet.pdf"
         },
@@ -204,13 +208,9 @@
         {
           "label": "Pre-Hearing Submission by Counsel for Applicant",
           "url": "https://danr.sd.gov/wrimage/pub/8991-3_prehearingsub_ex.pdf"
-        },
-        {
-          "label": "Filings Submitted by Counsel for Water Management Board",
-          "url": "https://danr.sd.gov/wrimage/pub/8991-3_McVey.pdf"
         }
       ],
-      "total_docs": 19,
+      "total_docs": 20,
       "latest_doc_date": "0000-00-00"
     },
     {
@@ -221,6 +221,10 @@
       "description": "Application for a water permit to appropriate up to 2.45 acre-feet of water annually at a maximum pump rate of 0.22 cubic feet of water per second from one existing well completed into the Grey Goose Aquifer (90 feet deep). The well, located in the NW 1/4 SE 1/4 Section 34, will supply water for commercial use at an RV Park to be located in the SE 1/4 Section 34; all in T113N-R80W.",
       "docs_url": "https://danr.sd.gov/public/ccdocs.aspx?CCID=CCID127",
       "documents": [
+        {
+          "label": "Proposed Findings of Fact & Conclusions of Law - Counsel for Petitioner",
+          "url": "https://danr.sd.gov/wrimage/pub/8987-3_propFOF_pet.pdf"
+        },
         {
           "label": "Notice of Entry of Order",
           "url": "https://danr.sd.gov/wrimage/pub/8987-3_Utech_denied.pdf"
@@ -236,13 +240,9 @@
         {
           "label": "Proposed Exhibits Submitted by Counsel for the Applicant",
           "url": "https://danr.sd.gov/wrimage/pub/8797-3_UtechExhibits.pdf"
-        },
-        {
-          "label": "Filings Submitted by Counsel for the Applicant",
-          "url": "https://danr.sd.gov/wrimage/pub/8797-3_Utech_breif_witlist.pdf"
         }
       ],
-      "total_docs": 23,
+      "total_docs": 24,
       "latest_doc_date": "0000-00-00"
     },
     {
@@ -286,6 +286,10 @@
       "docs_url": "https://danr.sd.gov/public/ccdocs.aspx?CCID=CCID128",
       "documents": [
         {
+          "label": "Notice of Appearance - Counsel for Applicant",
+          "url": "https://danr.sd.gov/wrimage/pub/8990-3_notapp_app.pdf"
+        },
+        {
           "label": "Notice of Hearing",
           "url": "https://danr.sd.gov/wrimage/pub/8990-3_NOH_2.pdf"
         },
@@ -300,13 +304,9 @@
         {
           "label": "Notice of Hearing",
           "url": "https://danr.sd.gov/wrimage/pub/8990-3_not.pdf"
-        },
-        {
-          "label": "Comments",
-          "url": "https://danr.sd.gov/wrimage/pub/8990-3_com.pdf"
         }
       ],
-      "total_docs": 9,
+      "total_docs": 10,
       "latest_doc_date": "0000-00-00"
     },
     {

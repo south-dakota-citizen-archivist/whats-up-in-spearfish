@@ -1048,5 +1048,15 @@
     "start_dt": "Fri, 10 Apr 2026 13:29:27 -0700",
     "record_type": "event",
     "source_label": "City of Spearfish"
+  },
+  {
+    "url": "https://www.spearfish.gov/Calendar.aspx?EID=3501",
+    "title": "Fiber Arts Group",
+    "slug": "fiber-arts-group",
+    "description": "<strong>Event date:</strong> June 18, 2026 <br /><strong>Event Time: </strong>05:00 PM - 06:30 PM<br /><strong>Location:</strong> <br />Spearfish, SD 57783<br /><strong>Description:</strong><br />Join fellow hobbyists for social time while you knit, crochet, stitch, etc. All ages welcome, but children should be accompanied by an adult. No instruction will be provided. Bring your own project.",
+    "published": "Fri, 10 Apr 2026 13:34:17 -0700",
+    "start_dt": "Fri, 10 Apr 2026 13:34:17 -0700",
+    "record_type": "event",
+    "source_label": "City of Spearfish"
   }
 ]

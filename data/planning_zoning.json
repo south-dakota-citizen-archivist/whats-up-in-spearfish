@@ -1,6 +1,22 @@
 {
-  "fetched_at": "2026-06-03T20:15:46.344510+00:00",
+  "fetched_at": "2026-06-04T19:20:18.273473+00:00",
   "records": [
+    {
+      "id": 12021,
+      "record_no": "",
+      "record_type": "Variance Application",
+      "record_type_id": 6543,
+      "category": "planning",
+      "status": 0,
+      "date_created": "2026-06-04T16:42:31.253Z",
+      "date_submitted": "",
+      "last_updated": "2026-06-04T16:54:59.000Z",
+      "address": "187 AURORA AVE, SPEARFISH, SD 57783",
+      "lat": 44.471531,
+      "lon": -103.749677,
+      "applicant": "Robert Frost",
+      "portal_url": "https://spearfishsd.portal.opengov.com/records/12021"
+    },
     {
       "id": 12009,
       "record_no": "GRA-26-6",
@@ -90,7 +106,7 @@
       "status": 1,
       "date_created": "2026-05-28T17:37:12.057Z",
       "date_submitted": "2026-05-28T17:42:52.000Z",
-      "last_updated": "2026-06-03T19:32:58.000Z",
+      "last_updated": "2026-06-03T20:17:33.000Z",
       "address": "345 US-14A, Spearfish, SD 57783",
       "lat": 44.479001,
       "lon": -103.848374,
@@ -714,7 +730,7 @@
       "status": 1,
       "date_created": "2026-04-22T16:32:38.266Z",
       "date_submitted": "2026-04-22T16:50:15.000Z",
-      "last_updated": "2026-05-21T15:11:51.000Z",
+      "last_updated": "2026-06-04T15:28:38.000Z",
       "address": "1206 ST JOE ST, SPEARFISH, SD 57783",
       "lat": 44.495702,
       "lon": -103.868187,

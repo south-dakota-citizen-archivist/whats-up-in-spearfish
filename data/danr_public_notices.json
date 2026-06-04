@@ -1,30 +1,6 @@
 {
-  "fetched_at": "2026-06-03T20:17:01.055299+00:00",
+  "fetched_at": "2026-06-04T19:20:43.779220+00:00",
   "notices": [
-    {
-      "notice_type": "Water Rights",
-      "deadline": "06/01/2026",
-      "comment_url": "",
-      "application_no": "9023-3",
-      "name": "Chris Howard Ranch LLC, c/o Chris Howard,\u00a0Miller\u00a0SD",
-      "location": "Hand",
-      "water_source": "Dakota Aquifer & incidental runoff",
-      "use_type": "Irrigation (25 acres)",
-      "links": [
-        {
-          "label": "Public Notice",
-          "url": "https://danr.sd.gov/wrimage/pub/9023-3_app.pdf"
-        },
-        {
-          "label": "Appl.",
-          "url": "https://danr.sd.gov/wrimage/pub/9023-3_apl.pdf"
-        },
-        {
-          "label": "Recom. Action",
-          "url": "https://danr.sd.gov/wrimage/pub/9023-3_rec.pdf"
-        }
-      ]
-    },
     {
       "notice_type": "Concentrated Animal Feeding Operations (State Permit)",
       "deadline": "06/04/2026",
@@ -927,6 +903,34 @@
         {
           "label": "Application Review",
           "url": "http://danr.sd.gov/Environment/AirQuality/PN/DMRsb.pdf"
+        }
+      ]
+    },
+    {
+      "notice_type": "Concentrated Animal Feeding Operations (State Permit)",
+      "deadline": "07/04/2026",
+      "comment_url": "https://danr.sd.gov/public/comment.aspx?d_comment=07/04/2026&name=Upland Hutterian Brethren, Inc.&pntype=fp_cafo&description=Expanding Swine Feeding Operation - State Permit",
+      "name": "Upland Hutterian Brethren, Inc.",
+      "description": "Expanding Swine Feeding Operation - State Permit",
+      "location": "Sanborn County",
+      "links": [
+        {
+          "label": "Public Notice",
+          "url": "https://danr.sd.gov/Press/docs/publicnotices/FeedlotPermit/UplandHBIExpansionJune2026PN.pdf"
+        }
+      ]
+    },
+    {
+      "notice_type": "Mining License",
+      "deadline": "",
+      "comment_url": "",
+      "name": "Sterzinger Crushing, Inc",
+      "description": "Notice of Intent to Mine Gravel",
+      "location": "181St, Clear Lake Township",
+      "links": [
+        {
+          "label": "Public Notice",
+          "url": "https://media.sd.gov/danr/MM/S997007PublicNotice.pdf"
         }
       ]
     }
