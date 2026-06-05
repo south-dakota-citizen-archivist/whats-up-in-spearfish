@@ -68,5 +68,15 @@
     "start_dt": "Thu, 28 May 2026 14:51:41 -0700",
     "record_type": "alert",
     "source_label": "City of Spearfish"
+  },
+  {
+    "url": "https://www.spearfish.gov/AlertCenter.aspx?AID=64",
+    "title": "City of Spearfish - Monday June 8 - Water Repair at North Ave & Michigan",
+    "slug": "city-of-spearfish-monday-june-8-water-repair-at-north-ave-michigan",
+    "description": "Repair work will take place in the middle of the intersection starting at approx 8:00AM. Traffic will be shifted to the outside lanes of North Ave while work is in progress. Expect delays & use caution when traveling through the area.",
+    "published": "Fri, 05 Jun 2026 13:38:05 -0700",
+    "start_dt": "Fri, 05 Jun 2026 13:38:05 -0700",
+    "record_type": "alert",
+    "source_label": "City of Spearfish"
   }
 ]

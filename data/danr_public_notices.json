@@ -1,33 +1,6 @@
 {
-  "fetched_at": "2026-06-04T19:20:43.779220+00:00",
+  "fetched_at": "2026-06-05T18:57:54.284355+00:00",
   "notices": [
-    {
-      "notice_type": "Concentrated Animal Feeding Operations (State Permit)",
-      "deadline": "06/04/2026",
-      "comment_url": "https://danr.sd.gov/public/comment.aspx?d_comment=06/04/2026&name=Modak Dairy, Inc.&pntype=fp_cafo&description=Expanding Dairy Cattle Feeding Operation - State Permit",
-      "name": "Modak Dairy, Inc.",
-      "description": "Expanding Dairy Cattle Feeding Operation - State Permit",
-      "location": "Codington County",
-      "links": [
-        {
-          "label": "Public Notice",
-          "url": "https://danr.sd.gov/Press/docs/publicnotices/FeedlotPermit/ModakDairyExpansionPN.pdf"
-        }
-      ]
-    },
-    {
-      "notice_type": "Surface Water \u2014 401 Certification",
-      "deadline": "06/04/2026",
-      "comment_url": "https://danr.sd.gov/public/comment.aspx?d_comment=06/04/2026&name=City of Sioux Falls&pntype=sw_401&description=The City of Sioux Falls is proposing drainage improvements to a severely eroded tributary to the Big Sioux River located within Tuthill Park and adjacent residential properties in Minnehaha County.",
-      "name": "City of Sioux Falls",
-      "description": "The City of Sioux Falls is proposing drainage improvements to a severely eroded tributary to the Big Sioux River located within Tuthill Park and adjacent residential properties in Minnehaha County.",
-      "links": [
-        {
-          "label": "Public Notice",
-          "url": "https://danr.sd.gov/officeofwater/surfacewaterquality/pn/NWO200801866PIEPN.pdf"
-        }
-      ]
-    },
     {
       "notice_type": "Air Quality Permit",
       "deadline": "06/05/2026",
@@ -917,6 +890,32 @@
         {
           "label": "Public Notice",
           "url": "https://danr.sd.gov/Press/docs/publicnotices/FeedlotPermit/UplandHBIExpansionJune2026PN.pdf"
+        }
+      ]
+    },
+    {
+      "notice_type": "Ground Water Discharge",
+      "deadline": "7/5/2026",
+      "comment_url": "",
+      "name": "Wharf Resources Reliance Spent Ore Depository",
+      "description": "Groundwater Discharge Plan Renewal.",
+      "location": "Lawrence County",
+      "links": [
+        {
+          "label": "Public Notice",
+          "url": "https://danr.sd.gov/officeofwater/surfacewaterquality/pn/2026ReliancePublicNotice.pdf"
+        },
+        {
+          "label": "Application",
+          "url": "https://danr.sd.gov/officeofwater/surfacewaterquality/pn/2026RelianceApplicationGWD1-94.pdf"
+        },
+        {
+          "label": "Staff Report",
+          "url": "https://danr.sd.gov/officeofwater/surfacewaterquality/pn/2026RelianceStaffTechnicalReview.pdf"
+        },
+        {
+          "label": "Conditions",
+          "url": "https://danr.sd.gov/officeofwater/surfacewaterquality/pn/2026RelianceDRAFTPermitAndConditions.pdf"
         }
       ]
     },

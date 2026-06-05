@@ -1824,5 +1824,27 @@
     "image_url": "https://npr.brightspotcdn.com/e9/35/785b32bf4e5aa408da2504434e44/microsoftteams-image-5.png",
     "record_type": "news",
     "source_label": "SDPB"
+  },
+  {
+    "url": "https://www.sdpb.org/business-economics/2026-06-05/data-centers-highlight-double-edged-sword-of-economic-development-economist-says",
+    "title": "Data centers highlight double-edged sword of economic development, economist says",
+    "slug": "sdpb-data-centers-highlight-double-edged-sword-of-economic-development-economist",
+    "published": "2026-06-05",
+    "byline": "By C.J. Keene",
+    "description": "Data centers and their place in the state are the latest in a long line of landowner battles fought in Pierre committee rooms.",
+    "image_url": "https://npr.brightspotcdn.com/8d/4b/66cc17564f87a21b7710cc0418f2/south-dakota-sd-cash-money-economy-business.jpg",
+    "record_type": "news",
+    "source_label": "SDPB"
+  },
+  {
+    "url": "https://www.sdpb.org/politics/2026-06-04/sioux-falls-mayoral-race-sees-endorsements-trickle-in-ahead-of-june-runoff",
+    "title": "Former candidates endorse Smith over top vote-getter Erickson in Sioux Falls mayoral race",
+    "slug": "sdpb-former-candidates-endorse-smith-over-top-vote-getter-erickson-in-sioux-race",
+    "published": "2026-06-04",
+    "byline": "By Jackson Dircks",
+    "description": "The race for Sioux Falls mayor is now a runoff between the top two vote-getters. Two former candidates are throwing their support by one of the two remaining.",
+    "image_url": "https://npr.brightspotcdn.com/7b/3d/15172a2a423387ba4c56eda21ac8/image-50.jpg",
+    "record_type": "news",
+    "source_label": "SDPB"
   }
 ]

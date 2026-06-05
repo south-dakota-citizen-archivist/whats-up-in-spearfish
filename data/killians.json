@@ -111,7 +111,7 @@
     "abv": "6.5%",
     "ibu": "",
     "brewery": "Austin Eastciders",
-    "rating": "3.65",
+    "rating": "3.66",
     "image_url": "https://labels.untappd.com/6592862",
     "record_type": "beer",
     "source_label": "Killian's"
@@ -143,15 +143,15 @@
     "source_label": "Killian's"
   },
   {
-    "url": "https://untappd.com/b/mount-saint-bernard-abbey-tynt-meadow-blond/5571049",
-    "title": "Tynt Meadow Blond",
-    "slug": "tynt-meadow-blond",
-    "category": "Blonde / Golden Ale - English",
-    "abv": "5%",
-    "ibu": "",
-    "brewery": "Mount Saint Bernard Abbey",
-    "rating": "3.54",
-    "image_url": "https://labels.untappd.com/5571049",
+    "url": "https://untappd.com/b/deschutes-brewery-black-butte-porter/2025",
+    "title": "Black Butte Porter",
+    "slug": "black-butte-porter",
+    "category": "Porter - American",
+    "abv": "5.5%",
+    "ibu": "30",
+    "brewery": "Deschutes Brewery",
+    "rating": "3.81",
+    "image_url": "https://labels.untappd.com/2025",
     "record_type": "beer",
     "source_label": "Killian's"
   },
@@ -208,15 +208,15 @@
     "source_label": "Killian's"
   },
   {
-    "url": "https://untappd.com/b/left-hand-brewing-company-milk-stout-nitro/82680",
-    "title": "Milk Stout Nitro",
-    "slug": "milk-stout-nitro",
-    "category": "Stout - Milk / Sweet",
-    "abv": "6%",
-    "ibu": "25",
-    "brewery": "Left Hand Brewing Company",
-    "rating": "3.93",
-    "image_url": "https://labels.untappd.com/82680",
+    "url": "https://untappd.com/b/north-coast-brewing-company-old-rasputin/30855",
+    "title": "Old Rasputin",
+    "slug": "old-rasputin",
+    "category": "Stout - Russian Imperial",
+    "abv": "9%",
+    "ibu": "75",
+    "brewery": "North Coast Brewing Company",
+    "rating": "4",
+    "image_url": "https://labels.untappd.com/30855",
     "record_type": "beer",
     "source_label": "Killian's"
   }

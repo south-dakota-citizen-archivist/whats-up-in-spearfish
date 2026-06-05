@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-06-04T19:23:15.786976+00:00",
+  "fetched_at": "2026-06-05T19:00:19.032220+00:00",
   "projects": [
     {
       "project_id": "68498",
@@ -75,13 +75,28 @@
       "district": "Hell Canyon Ranger District",
       "purpose": "Minerals And Geology",
       "description": "Authorization to Clean Nuclear Energy Corps for short term (1 year or less) exploratory drilling in search of uranium mineralization and aquifer testing on NFS lands located approximately 7.5 miles north of Edgemont, SD.",
-      "milestones": [],
+      "milestones": [
+        {
+          "name": "NEPA Start Date",
+          "date": ""
+        },
+        {
+          "name": "Finding/Decision Date",
+          "date": ""
+        }
+      ],
       "comment_period_date": null,
       "comment_period_sort": "9999-99",
-      "location_summary": "",
-      "counties": [],
-      "contact": {},
-      "last_updated": ""
+      "location_summary": "NFS lands approximately 7.5 miles north of Edgemont in Fall River County, SD.",
+      "counties": [
+        "Fall River"
+      ],
+      "contact": {
+        "name": "Jonathan Manning",
+        "email": "HellCanyonComments@usda.gov",
+        "phone": "605-673-9200"
+      },
+      "last_updated": "5/27/2026"
     },
     {
       "project_id": "48758",
@@ -308,6 +323,22 @@
       "last_updated": ""
     },
     {
+      "project_id": "307857",
+      "title": "Frass Forest Health EA",
+      "url": "https://www.fs.usda.gov/r02/blackhills/projects/307857",
+      "status": "Developing Proposal",
+      "district": "Black Hills National Forest",
+      "purpose": "Forest Products|Fuels Management",
+      "description": "Project to primarily salvage harvest beetle infected and/or killed trees to reduce the extent of a rapidly spreading bark beetle infestation and recover value of beetle-hit trees; increase forest health resiliency and reduce risk of wildfire.",
+      "milestones": [],
+      "comment_period_date": null,
+      "comment_period_sort": "9999-99",
+      "location_summary": "",
+      "counties": [],
+      "contact": {},
+      "last_updated": ""
+    },
+    {
       "project_id": "67387",
       "title": "Frass Forest Health Project",
       "url": "https://www.fs.usda.gov/r02/blackhills/projects/67387",
@@ -420,6 +451,22 @@
       "last_updated": ""
     },
     {
+      "project_id": "305831",
+      "title": "Newark Exploratory Drilling Project",
+      "url": "https://www.fs.usda.gov/r02/blackhills/projects/305831",
+      "status": "Developing Proposal",
+      "district": "Hell Canyon Ranger District",
+      "purpose": "",
+      "description": "F3 Gold, LLC of Minneapolis, MN USA proposing an exploratory drilling project to be completed within one year and on less than 5 acres of National Forest System land.",
+      "milestones": [],
+      "comment_period_date": null,
+      "comment_period_sort": "9999-99",
+      "location_summary": "",
+      "counties": [],
+      "contact": {},
+      "last_updated": ""
+    },
+    {
       "project_id": "171823",
       "title": "NFSR 653.1C Reroute Construction",
       "url": "https://www.fs.usda.gov/r02/blackhills/projects/171823",
@@ -459,6 +506,22 @@
       "district": "Northern Hills Ranger District",
       "purpose": "Recreation Management|Special Use Management",
       "description": "Several existing trails across the NHRD have been proposed for winter use by fat bike riders. These trails would be groomed for fat bike use from December 1 through March 31, as snow conditions allow.",
+      "milestones": [],
+      "comment_period_date": null,
+      "comment_period_sort": "9999-99",
+      "location_summary": "",
+      "counties": [],
+      "contact": {},
+      "last_updated": ""
+    },
+    {
+      "project_id": "305821",
+      "title": "October Jinx Project",
+      "url": "https://www.fs.usda.gov/r02/blackhills/projects/305821",
+      "status": "Developing Proposal",
+      "district": "Hell Canyon Ranger District",
+      "purpose": "Minerals And Geology",
+      "description": "Authorization to Clean Nuclear Energy Corps for short term (1 year or less) exploratory drilling in search of uranium mineralization and aquifer testing on NFS lands located approximately 7.5 miles north of Edgemont, SD.",
       "milestones": [],
       "comment_period_date": null,
       "comment_period_sort": "9999-99",

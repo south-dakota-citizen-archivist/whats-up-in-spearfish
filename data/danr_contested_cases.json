@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-06-04T19:23:07.385526+00:00",
+  "fetched_at": "2026-06-05T19:00:01.705532+00:00",
   "cases": [
     {
       "ccid": "123",
@@ -222,6 +222,10 @@
       "docs_url": "https://danr.sd.gov/public/ccdocs.aspx?CCID=CCID127",
       "documents": [
         {
+          "label": "Notice",
+          "url": "https://danr.sd.gov/wrimage/pub/8987-3_noticeerror0001.pdf"
+        },
+        {
           "label": "Proposed Findings of Fact & Conclusions of Law - Counsel for Petitioner",
           "url": "https://danr.sd.gov/wrimage/pub/8987-3_propFOF_pet.pdf"
         },
@@ -236,13 +240,9 @@
         {
           "label": "Filings Submitted by Counsel for the Chief Engineer",
           "url": "https://danr.sd.gov/wrimage/pub/8987-3_greco_2.pdf"
-        },
-        {
-          "label": "Proposed Exhibits Submitted by Counsel for the Applicant",
-          "url": "https://danr.sd.gov/wrimage/pub/8797-3_UtechExhibits.pdf"
         }
       ],
-      "total_docs": 24,
+      "total_docs": 25,
       "latest_doc_date": "0000-00-00"
     },
     {

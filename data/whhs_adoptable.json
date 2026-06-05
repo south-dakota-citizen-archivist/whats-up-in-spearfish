@@ -188,17 +188,6 @@
   },
   {
     "url": "https://www.westernhillshumanesociety.com/cats",
-    "title": "Pretty Mama",
-    "slug": "cat-pretty-mama",
-    "species": "cat",
-    "description": "Female | ~2 years \nPretty Mama came to us in Feb. 2026 after living as a stray on the streets the last year. She had kittens as a stray and she got her name from being pretty & a mama! She’s sweet and becoming more independent in the cattery. She’s a Torbie (tortoiseshell tabby) - very unique!",
-    "image_url": "https://images.squarespace-cdn.com/content/v1/6833638f52663f7b5354620e/58c24fd5-f86e-46e3-b4c9-ab2d7a8730ee/Pretty+Mama+1.jpg?format=500w",
-    "image_alt": "Pretty Mama",
-    "record_type": "adoptable",
-    "source_label": "Western Hills Humane Society"
-  },
-  {
-    "url": "https://www.westernhillshumanesociety.com/cats",
     "title": "Cleo Catra",
     "slug": "cat-cleo-catra",
     "species": "cat",
@@ -480,6 +469,28 @@
     "description": "Male | Mini (Toy) Aussie | Born 12/14/24\nNo young kids, some male dogs\nRex came to us 6/2/26 after some behavioral issues persisted in his former home. He is not a fan of children (has nipped) and only gets along with some male dogs. He’s small but mighty - Rex is protective of his humans, especially females. He’s never been on a leash so that’s been a scary experience but he does follow well without one. Rex has lived with humans of various ages, cats, livestock and chickens. He knows some commands like “sit” and “lay” and he’s working on “stay.” He is microchipped, enjoys an active lifestyle, and although he drools in the car, he doesn’t get sick. Maybe this handsome fella will fit into your home! We welcome you to come meet this sweet guy and help him gain some confidence. \nWeight coming soon!",
     "image_url": "https://images.squarespace-cdn.com/content/v1/6833638f52663f7b5354620e/05cd2952-8fc2-4b2b-9902-e3297d891873/image1+%287%29.jpeg?format=500w",
     "image_alt": "Rex",
+    "record_type": "adoptable",
+    "source_label": "Western Hills Humane Society"
+  },
+  {
+    "url": "https://www.westernhillshumanesociety.com/dogs",
+    "title": "Mocha",
+    "slug": "dog-mocha",
+    "species": "dog",
+    "description": "Female | English Mastador/Lab Mix | Born 2025\nSpay appt sch 6/10/26 \n—\n available prior w/ spay deposit\nMocha and her sister, Shyra, came to us on 6/4/26 after their owner could no longer care for them. We are still getting to know them but we are told they take a while to warm up to men, they are pretty cautious, they don’t like the car, but they enjoy going for walks and running around playing with toys. Mocha is the more confident of the two. We look forward to getting to know these beauties and sharing more about them in the near future! They do get along but do not have to be adopted together. Enjoy the photo of this gal singing the song of her people on arrival.",
+    "image_url": "https://images.squarespace-cdn.com/content/v1/6833638f52663f7b5354620e/80d8c31a-99cf-4488-9b6b-d5c46fad3ba0/1000045154.jpg?format=500w",
+    "image_alt": "Mocha",
+    "record_type": "adoptable",
+    "source_label": "Western Hills Humane Society"
+  },
+  {
+    "url": "https://www.westernhillshumanesociety.com/dogs",
+    "title": "Shyra",
+    "slug": "dog-shyra",
+    "species": "dog",
+    "description": "Female | English Mastador/Lab Mix | Born 2025\nSpay appt sch 6/10/26 \n—\n available prior w/ spay deposit\nShyra and her sister, Mocha, came to us on 6/4/26 after their owner could no longer care for them. We are still getting to know them but we are told they take a while to warm up to men, they are pretty cautious, they don’t like the car, but they enjoy going for walks and running around playing with toys. Shyra is the more timid of the two. We look forward to getting to know these beauties and sharing more about them in the near future! They do get along but do not have to be adopted together. Enjoy the photo of this gal singing the song of her people on arrival.",
+    "image_url": "https://images.squarespace-cdn.com/content/v1/6833638f52663f7b5354620e/0f191ed0-354b-44df-9680-f083e3b80e28/1000045152+%281%29.jpg?format=500w",
+    "image_alt": "Shyra",
     "record_type": "adoptable",
     "source_label": "Western Hills Humane Society"
   }

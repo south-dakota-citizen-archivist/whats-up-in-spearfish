@@ -2260,5 +2260,31 @@
     "website": "",
     "record_type": "event",
     "source_label": "Spearfish Chamber"
+  },
+  {
+    "url": "https://business.spearfishchamber.org/events/details/high-plains-live-humbletown-30802",
+    "title": "High Plains Live! Humbletown",
+    "slug": "high-plains-live-humbletown",
+    "start_dt": "2026-06-14 2:00 PM MDT",
+    "end_dt": "2026-06-14 4:00 PM MDT",
+    "location": "Heritage Center 825 Heritage Drive, Spearfish",
+    "fees": "Tickets $20 adv reserved seating / $15 day of",
+    "description": "Bluegrass music with Humbletown Band",
+    "website": "http://westernheritagecenter.com",
+    "record_type": "event",
+    "source_label": "Spearfish Chamber"
+  },
+  {
+    "url": "https://business.spearfishchamber.org/events/details/america-250-george-washington-citizen-soldier-statesman-with-author-gary-gregg-30801",
+    "title": "America 250: George Washington - Citizen, Soldier, Statesman with Author Gary Gregg",
+    "slug": "america-250-george-washington-citizen-soldier-statesman-with-author-gary-gregg",
+    "start_dt": "2026-06-16 6:00 PM MDT",
+    "end_dt": "2026-06-16 7:30 PM MDT",
+    "location": "High Plains Western Heritage Center 825 Heritage Drive, Spearfish",
+    "fees": "Free",
+    "description": "Join us for a conversation with author Gary L. Gregg on his new book: George Washington - Citizen, Soldier, Statesman. Event co-hosted by Henry’s Books Free Admission",
+    "website": "http://westernheritagecenter.com",
+    "record_type": "event",
+    "source_label": "Spearfish Chamber"
   }
 ]
