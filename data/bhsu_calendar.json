@@ -1808,5 +1808,27 @@
     "category": "Campus Calendar/Events",
     "record_type": "event",
     "source_label": "BHSU Campus Calendar"
+  },
+  {
+    "event_id": "5ee03a4e-50c7-4141-b16a-af75cc2028aa",
+    "url": "https://bhsu.edu/campus-calendar.html#event-details/5ee03a4e-50c7-4141-b16a-af75cc2028aa",
+    "title": "Tuition Due",
+    "slug": "tuition-due",
+    "description": "Upcoming tuition due dates: Fall 2026 Due Date 09/04/26 Spring 2027 Due Date 01/21/27",
+    "start_dt": "2026-09-04",
+    "end_dt": "2026-09-04",
+    "location": "",
+    "image_url": "",
+    "image_alt": "",
+    "organizer": "Ann Greco",
+    "tags": [
+      "Administrative",
+      "Home"
+    ],
+    "featured": false,
+    "ticket_url": "",
+    "category": "Campus Calendar/Events",
+    "record_type": "event",
+    "source_label": "BHSU Campus Calendar"
   }
 ]
