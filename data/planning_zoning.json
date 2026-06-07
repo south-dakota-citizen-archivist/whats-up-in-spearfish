@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-06-06T18:03:26.054709+00:00",
+  "fetched_at": "2026-06-07T18:01:33.450660+00:00",
   "records": [
     {
       "id": 12021,
@@ -738,6 +738,22 @@
       "portal_url": "https://spearfishsd.portal.opengov.com/records/11829"
     },
     {
+      "id": 11828,
+      "record_no": "",
+      "record_type": "Sign Permit ",
+      "record_type_id": 6460,
+      "category": "infrastructure",
+      "status": 0,
+      "date_created": "2026-04-21T21:37:42.413Z",
+      "date_submitted": "",
+      "last_updated": "2026-04-21T21:37:57.000Z",
+      "address": "",
+      "lat": null,
+      "lon": null,
+      "applicant": "Andy Binder",
+      "portal_url": "https://spearfishsd.portal.opengov.com/records/11828"
+    },
+    {
       "id": 11827,
       "record_no": "PMG-26-15",
       "record_type": "Standalone Permits - Plumbing, Mechanical, Gas",
@@ -752,6 +768,22 @@
       "lon": -103.867033,
       "applicant": "Larissa Cook",
       "portal_url": "https://spearfishsd.portal.opengov.com/records/11827"
+    },
+    {
+      "id": 11826,
+      "record_no": "",
+      "record_type": "Sign Permit ",
+      "record_type_id": 6460,
+      "category": "infrastructure",
+      "status": 0,
+      "date_created": "2026-04-21T18:48:06.436Z",
+      "date_submitted": "",
+      "last_updated": "2026-04-21T18:48:58.000Z",
+      "address": "",
+      "lat": null,
+      "lon": null,
+      "applicant": "Michael Willey",
+      "portal_url": "https://spearfishsd.portal.opengov.com/records/11826"
     },
     {
       "id": 11825,
@@ -784,6 +816,22 @@
       "lon": -103.862961,
       "applicant": "Thuy Vu",
       "portal_url": "https://spearfishsd.portal.opengov.com/records/11824"
+    },
+    {
+      "id": 11815,
+      "record_no": "",
+      "record_type": "Sign Permit ",
+      "record_type_id": 6460,
+      "category": "infrastructure",
+      "status": 0,
+      "date_created": "2026-04-20T19:16:36.213Z",
+      "date_submitted": "",
+      "last_updated": "2026-04-20T19:17:14.000Z",
+      "address": "1020 STATE ST, SPEARFISH, SD 57783",
+      "lat": 44.494294,
+      "lon": -103.854988,
+      "applicant": "Darren Wells",
+      "portal_url": "https://spearfishsd.portal.opengov.com/records/11815"
     },
     {
       "id": 11811,

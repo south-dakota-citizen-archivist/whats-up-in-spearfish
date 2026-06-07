@@ -1,66 +1,6 @@
 {
-  "fetched_at": "2026-06-06T18:03:42.673052+00:00",
+  "fetched_at": "2026-06-07T18:01:57.535732+00:00",
   "notices": [
-    {
-      "notice_type": "Air Quality Permit",
-      "deadline": "06/06/2026",
-      "comment_url": "https://danr.sd.gov/public/comment.aspx?d_comment=06/06/2026&name=Chevron Full Circle RNG LLC&pntype=aq&description=Chevron Full Circle proposes a new minor air quality operating permit for their biogas facility. DANR recommend issuance of a new minor air quality operating permit.",
-      "description": "Chevron Full Circle proposes a new minor air quality operating permit for their biogas facility. DANR recommend issuance of a new minor air quality operating permit.",
-      "location": "Hurley",
-      "links": [
-        {
-          "label": "Public Notice",
-          "url": "http://danr.sd.gov/Environment/AirQuality/PN/CFCRpn.pdf"
-        },
-        {
-          "label": "Draft Permit",
-          "url": "http://danr.sd.gov/Environment/AirQuality/PN/CFCRdp.pdf"
-        },
-        {
-          "label": "Application Review",
-          "url": "http://danr.sd.gov/Environment/AirQuality/PN/CFCRsb.pdf"
-        }
-      ]
-    },
-    {
-      "notice_type": "Air Quality Permit",
-      "deadline": "06/06/2026",
-      "comment_url": "https://danr.sd.gov/public/comment.aspx?d_comment=06/06/2026&name=Chevron Full Circle RNG LLC&pntype=aq&description=Chevron Full Circle RNG LLC operates a biogas production facility in Hurley. The department recommends modification to their air quality construction permit.",
-      "description": "Chevron Full Circle RNG LLC operates a biogas production facility in Hurley. The department recommends modification to their air quality construction permit.",
-      "location": "Hurley",
-      "links": [
-        {
-          "label": "Public Notice",
-          "url": "http://danr.sd.gov/Environment/AirQuality/PN/CFCRpn.pdf"
-        },
-        {
-          "label": "Draft Permit",
-          "url": "http://danr.sd.gov/Environment/AirQuality/PN/dp.pdf"
-        },
-        {
-          "label": "Application Review",
-          "url": "http://danr.sd.gov/Environment/AirQuality/PN/CFCRsb.pdf"
-        }
-      ]
-    },
-    {
-      "notice_type": "Waste Management \u2014 Solid Waste",
-      "deadline": "6/6/2026",
-      "comment_url": "",
-      "name": "Morris, Inc.",
-      "description": "Permit renewal application to continue operation of a Type IIA Construction and Demolition Debris Disposal Solid Waste Facility",
-      "location": "Pierre, SD",
-      "links": [
-        {
-          "label": "Public Notice",
-          "url": "https://danr.sd.gov/Press/docs/publicnotices/wastemanagementnotices/Morris_PN.pdf"
-        },
-        {
-          "label": "Draft Permit",
-          "url": "https://danr.sd.gov/Press/docs/publicnotices/wastemanagementnotices/DRAFT_Morris_26_IP.pdf"
-        }
-      ]
-    },
     {
       "notice_type": "Surface Water Discharge (NPDES)",
       "deadline": "06/08/2026",
