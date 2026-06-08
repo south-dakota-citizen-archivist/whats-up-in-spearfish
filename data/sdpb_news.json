@@ -1846,5 +1846,38 @@
     "image_url": "https://npr.brightspotcdn.com/7b/3d/15172a2a423387ba4c56eda21ac8/image-50.jpg",
     "record_type": "news",
     "source_label": "SDPB"
+  },
+  {
+    "url": "https://www.sdpb.org/arts-life/2026-06-08/six-south-dakota-arts-culture-projects-receive-grants",
+    "title": "Six South Dakota arts, culture projects receive grants",
+    "slug": "sdpb-six-south-dakota-arts-culture-projects-receive-grants",
+    "published": "2026-06-08",
+    "byline": "By Julia Stelter",
+    "description": "The South Dakota Arts Council is awarding grants to fund community-based arts and cultural initiatives across the state.",
+    "image_url": "https://npr.brightspotcdn.com/3d/3a/2117dc1546e1baee994d5a0f47b9/untitled-4.png",
+    "record_type": "news",
+    "source_label": "SDPB"
+  },
+  {
+    "url": "https://www.sdpb.org/politics/2026-06-08/bidens-appearance-brings-minor-protests-questions-and-renewed-hope-for-sd-dems",
+    "title": "Biden's appearance brings minor protests, questions and renewed hope for SD Dems",
+    "slug": "sdpb-biden-s-appearance-brings-minor-protests-questions-and-renewed-hope-for-sd",
+    "published": "2026-06-08",
+    "byline": "By Jackson Dircks",
+    "description": "A former president brings a few protests along with a combination of renewed hope and questions from South Dakota’s minority party. The Democratic party hopes to ride a national wave of blue flipping red seats.",
+    "image_url": "https://npr.brightspotcdn.com/dc/27/6380962d4bdaa966be75242d6d07/untitled-design.jpg",
+    "record_type": "news",
+    "source_label": "SDPB"
+  },
+  {
+    "url": "https://www.sdpb.org/arts-life/2026-06-08/kahler-turn-good-intentions-into-good-investments-by-inviting-shadow-advisors-into-the-light",
+    "title": "Kahler: Turn good intentions into good investments by inviting 'shadow advisors' into the light",
+    "slug": "sdpb-kahler-turn-good-intentions-into-good-investments-by-inviting-shadow-into",
+    "published": "2026-06-08",
+    "byline": "By Lori Walsh",
+    "description": "Wealth advisor Rick Kahler says AI, family advice, and overheard conversations can muddy your financial picture. Here's how to sort through all the advice to your financial advantage.",
+    "image_url": "https://npr.brightspotcdn.com/legacy/prod/filer_public/kusd-bento-live-pbs/Entertainment%20Blog/Heather%20Benson/6085993c4f_rick_kahler_from_bhs_on_1_30_20_credit_paul_shackow_0.jpg",
+    "record_type": "news",
+    "source_label": "SDPB"
   }
 ]

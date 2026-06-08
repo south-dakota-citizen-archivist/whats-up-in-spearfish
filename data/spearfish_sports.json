@@ -24622,5 +24622,21 @@
     "status": "CONFIRMED",
     "record_type": "event",
     "source_label": "Spearfish HS Sports"
+  },
+  {
+    "uid": "h20260608071354777a381d47e6cc340",
+    "url": "https://gobound.com/direct/comps/h20260608071354777a381d47e6cc340/show",
+    "title": "Boys Wrestling: High School Girls and Boys Triangular (Varsity)",
+    "slug": "boys-wrestling-high-school-girls-and-boys-triangular-varsity",
+    "sport": "Boys Wrestling",
+    "level": "Varsity",
+    "sex": "male",
+    "description": "Varsity Boys Wrestling - High School Girls and Boys Triangular",
+    "start_dt": "2027-01-22T00:00:00",
+    "end_dt": "2027-01-22T04:00:00",
+    "location": "Case Auditorium",
+    "status": "CONFIRMED",
+    "record_type": "event",
+    "source_label": "Spearfish HS Sports"
   }
 ]

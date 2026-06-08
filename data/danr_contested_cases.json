@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-06-07T18:04:09.562368+00:00",
+  "fetched_at": "2026-06-08T19:21:20.025433+00:00",
   "cases": [
     {
       "ccid": "123",
@@ -190,6 +190,10 @@
       "docs_url": "https://danr.sd.gov/public/ccdocs.aspx?CCID=CCID129",
       "documents": [
         {
+          "label": "Response to Applicant's Findings of Fact - Counsel for Chief Engineer",
+          "url": "https://danr.sd.gov/wrimage/pub/8991-3_Response to Applicant's Findings of Fact.pdf"
+        },
+        {
           "label": "Proposed Findings of Fact & Conclusions of Law - Counsel for Applicant",
           "url": "https://danr.sd.gov/wrimage/pub/8991-3_propFOF_app.pdf"
         },
@@ -204,13 +208,9 @@
         {
           "label": "Notice of Appearance - Legal Counsel for Petitioners (Heinz & Abarca)",
           "url": "https://danr.sd.gov/wrimage/pub/8991-3_notappear_pet.pdf"
-        },
-        {
-          "label": "Pre-Hearing Submission by Counsel for Applicant",
-          "url": "https://danr.sd.gov/wrimage/pub/8991-3_prehearingsub_ex.pdf"
         }
       ],
-      "total_docs": 20,
+      "total_docs": 21,
       "latest_doc_date": "0000-00-00"
     },
     {

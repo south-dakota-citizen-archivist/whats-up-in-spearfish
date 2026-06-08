@@ -78,5 +78,15 @@
     "start_dt": "Fri, 05 Jun 2026 13:38:05 -0700",
     "record_type": "alert",
     "source_label": "City of Spearfish"
+  },
+  {
+    "url": "https://www.spearfish.gov/AlertCenter.aspx?AID=65",
+    "title": "City of Spearfish - North Ave & Michigan Traffic Control",
+    "slug": "city-of-spearfish-north-ave-michigan-traffic-control",
+    "description": "Traffic control at North Ave & Michigan will remain in place for the rest of today and throughout tomorrow to allow paving operations to be completed in the area where water line repairs were recently made.",
+    "published": "Mon, 08 Jun 2026 13:34:27 -0700",
+    "start_dt": "Mon, 08 Jun 2026 13:34:27 -0700",
+    "record_type": "alert",
+    "source_label": "City of Spearfish"
   }
 ]
