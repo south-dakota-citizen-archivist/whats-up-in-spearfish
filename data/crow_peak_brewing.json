@@ -67,11 +67,11 @@
   },
   {
     "url": "https://crowpeakbrewing.com/",
-    "title": "Unnatural Light - Black IPA",
-    "slug": "unnatural-light-black-ipa",
-    "abv": "6.5%",
-    "ibu": "50",
-    "image_url": "https://crowpeakbrewing.com/wp-content/uploads/2026/02/8.png",
+    "title": "Peachberry Blonde Ale",
+    "slug": "peachberry-blonde-ale",
+    "abv": "6.4%",
+    "ibu": "17",
+    "image_url": "https://crowpeakbrewing.com/wp-content/uploads/2026/05/Peachberry-Blonde-Thumbnail.png",
     "description": "",
     "record_type": "beer",
     "source_label": "Crow Peak Brewing"
@@ -111,33 +111,11 @@
   },
   {
     "url": "https://crowpeakbrewing.com/",
-    "title": "Lookout Lager",
-    "slug": "lookout-lager",
-    "abv": "5.1%",
-    "ibu": "20",
-    "image_url": "https://crowpeakbrewing.com/wp-content/uploads/2026/02/13.png",
-    "description": "",
-    "record_type": "beer",
-    "source_label": "Crow Peak Brewing"
-  },
-  {
-    "url": "https://crowpeakbrewing.com/",
-    "title": "Wobbling Wheel Scottish Ale",
-    "slug": "wobbling-wheel-scottish-ale",
-    "abv": "5.3%",
-    "ibu": "25",
-    "image_url": "https://crowpeakbrewing.com/wp-content/uploads/2026/02/17.png",
-    "description": "",
-    "record_type": "beer",
-    "source_label": "Crow Peak Brewing"
-  },
-  {
-    "url": "https://crowpeakbrewing.com/",
-    "title": "Cröwlsch - Kölsch",
-    "slug": "crowlsch-kolsch",
-    "abv": "5.7%",
-    "ibu": "23",
-    "image_url": "https://crowpeakbrewing.com/wp-content/uploads/2026/04/Crowlsch_Thumbnail.png",
+    "title": "Easy Livin' Summer Ale",
+    "slug": "easy-livin-summer-ale",
+    "abv": "4.5%",
+    "ibu": "26",
+    "image_url": "https://crowpeakbrewing.com/wp-content/uploads/2026/05/Easy-Livin-Thumbnail.png",
     "description": "",
     "record_type": "beer",
     "source_label": "Crow Peak Brewing"
@@ -171,6 +149,17 @@
     "abv": "5.7%",
     "ibu": "36",
     "image_url": "https://crowpeakbrewing.com/wp-content/uploads/2026/05/barbarosa.jpg",
+    "description": "",
+    "record_type": "beer",
+    "source_label": "Crow Peak Brewing"
+  },
+  {
+    "url": "https://crowpeakbrewing.com/",
+    "title": "Pomona - Blueberry Lemon Wheat",
+    "slug": "pomona-blueberry-lemon-wheat",
+    "abv": "5.1%",
+    "ibu": "15",
+    "image_url": "https://crowpeakbrewing.com/wp-content/uploads/2026/04/Small_Batch_Website_Thumbnail.png",
     "description": "",
     "record_type": "beer",
     "source_label": "Crow Peak Brewing"

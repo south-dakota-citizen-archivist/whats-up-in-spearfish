@@ -1787,5 +1787,48 @@
     "category": "Campus Calendar/Events",
     "record_type": "event",
     "source_label": "BHSU Campus Calendar"
+  },
+  {
+    "event_id": "a3574e68-d7a9-4e8a-9264-26eea47b270f",
+    "url": "https://bhsu.edu/campus-calendar.html#event-details/a3574e68-d7a9-4e8a-9264-26eea47b270f",
+    "title": "Annual Summer Cookout",
+    "slug": "annual-summer-cookout",
+    "description": "✨Staff Senate is hosting a SUMMER COOKOUT on the Green! ✨ LUNCH WILL BE PROVIDED FOR ALL FACULTY AND STAFF (part-time, full-time, and seasonal...everyone is welcome) Summer Cookout: Wednesday, June 24th, 2026 from 11:30 am - 1:00 pm (come & go as you please) On the Campus Green Open to ALL faculty & staff Burgers 🍔 and Brats 🌭 with chips, a side, dessert and drinks A BIG thank you 🫶 to Sodexo for catering this event! Sponsored by the BHSU President's Office Seating will be limited so feel free to bring a lawn chair or blanket Music and lawn games to enjoy! Thank you for your dedication and hard work. Your commitment to excellence and the care you bring to your role make a difference at BHSU. We appreciate all that you do and look forward to gathering as a BHSU Family!",
+    "start_dt": "2026-06-24T17:30",
+    "end_dt": "2026-06-24T19:00",
+    "location": "Campus Green",
+    "image_url": "",
+    "image_alt": "",
+    "organizer": "Alyssa Blake",
+    "tags": [
+      "Administrative"
+    ],
+    "featured": false,
+    "ticket_url": "",
+    "category": "Campus Calendar/Events",
+    "record_type": "event",
+    "source_label": "BHSU Campus Calendar"
+  },
+  {
+    "event_id": "5ee03a4e-50c7-4141-b16a-af75cc2028aa",
+    "url": "https://bhsu.edu/campus-calendar.html#event-details/5ee03a4e-50c7-4141-b16a-af75cc2028aa",
+    "title": "Tuition Due",
+    "slug": "tuition-due",
+    "description": "Upcoming tuition due dates: Fall 2026 Due Date 09/04/26 Spring 2027 Due Date 01/21/27",
+    "start_dt": "2026-09-04",
+    "end_dt": "2026-09-04",
+    "location": "",
+    "image_url": "",
+    "image_alt": "",
+    "organizer": "Ann Greco",
+    "tags": [
+      "Administrative",
+      "Home"
+    ],
+    "featured": false,
+    "ticket_url": "",
+    "category": "Campus Calendar/Events",
+    "record_type": "event",
+    "source_label": "BHSU Campus Calendar"
   }
 ]

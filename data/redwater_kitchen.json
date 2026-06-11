@@ -1,5 +1,57 @@
 [
   {
+    "url": "https://untappd.com/b/laughing-sun-brewing-co-droppin-cones/1391906",
+    "title": "Droppin' Cones",
+    "slug": "droppin-cones",
+    "category": "IPA - Imperial / Double",
+    "abv": "9.5%",
+    "ibu": "100",
+    "brewery": "Laughing Sun Brewing Co.",
+    "rating": "3.86",
+    "image_url": "https://labels.untappd.com/1391906",
+    "record_type": "beer",
+    "source_label": "Redwater Kitchen"
+  },
+  {
+    "url": "https://untappd.com/b/left-hand-brewing-company-peanut-butter-milk-stout/3159839",
+    "title": "Peanut Butter Milk Stout",
+    "slug": "peanut-butter-milk-stout",
+    "category": "Stout - Milk / Sweet",
+    "abv": "6.2%",
+    "ibu": "25",
+    "brewery": "Left Hand Brewing Company",
+    "rating": "3.81",
+    "image_url": "https://labels.untappd.com/3159839",
+    "record_type": "beer",
+    "source_label": "Redwater Kitchen"
+  },
+  {
+    "url": "https://untappd.com/b/sawyer-brewing-co-pineapple-and-peaches-sour-ale/4974343",
+    "title": "Pineapple & Peaches Sour Ale",
+    "slug": "pineapple-peaches-sour-ale",
+    "category": "Sour - Fruited",
+    "abv": "5.5%",
+    "ibu": "",
+    "brewery": "Sawyer Brewing Co",
+    "rating": "3.87",
+    "image_url": "https://labels.untappd.com/4974343",
+    "record_type": "beer",
+    "source_label": "Redwater Kitchen"
+  },
+  {
+    "url": "https://untappd.com/b/2-towns-ciderhouse-pacific-pineapple/2474142",
+    "title": "Pacific Pineapple",
+    "slug": "pacific-pineapple",
+    "category": "Cider - Other Fruit",
+    "abv": "5%",
+    "ibu": "",
+    "brewery": "2 Towns Ciderhouse",
+    "rating": "4.01",
+    "image_url": "https://labels.untappd.com/2474142",
+    "record_type": "beer",
+    "source_label": "Redwater Kitchen"
+  },
+  {
     "url": "https://untappd.com/b/surly-brewing-company-this-beer-is-niiice/6097469",
     "title": "This Beer Is NIIICE!",
     "slug": "this-beer-is-niiice",
@@ -13,19 +65,6 @@
     "source_label": "Redwater Kitchen"
   },
   {
-    "url": "https://untappd.com/b/dakota-point-brewing-long-trek-ipa/3792761",
-    "title": "Long Trek IPA",
-    "slug": "long-trek-ipa",
-    "category": "IPA - American",
-    "abv": "6.9%",
-    "ibu": "69",
-    "brewery": "Dakota Point Brewing",
-    "rating": "3.81",
-    "image_url": "https://labels.untappd.com/3792761",
-    "record_type": "beer",
-    "source_label": "Redwater Kitchen"
-  },
-  {
     "url": "https://untappd.com/b/anderson-valley-brewing-company-boont-amber-ale/4481",
     "title": "Boont Amber Ale",
     "slug": "boont-amber-ale",
@@ -35,32 +74,6 @@
     "brewery": "Anderson Valley Brewing Company",
     "rating": "3.52",
     "image_url": "https://labels.untappd.com/4481",
-    "record_type": "beer",
-    "source_label": "Redwater Kitchen"
-  },
-  {
-    "url": "https://untappd.com/b/2-towns-ciderhouse-mango-cosmic-crisp/5884541",
-    "title": "Mango Cosmic Crisp®",
-    "slug": "mango-cosmic-crisp-r",
-    "category": "Cider - Other Fruit",
-    "abv": "9%",
-    "ibu": "",
-    "brewery": "2 Towns Ciderhouse",
-    "rating": "3.87",
-    "image_url": "https://labels.untappd.com/5884541",
-    "record_type": "beer",
-    "source_label": "Redwater Kitchen"
-  },
-  {
-    "url": "https://untappd.com/b/phat-fish-brewery-double-shot-stout/3472613",
-    "title": "Double Shot Stout",
-    "slug": "double-shot-stout",
-    "category": "Stout - Coffee",
-    "abv": "5.6%",
-    "ibu": "18",
-    "brewery": "Phat Fish Brewery",
-    "rating": "3.73",
-    "image_url": "https://labels.untappd.com/3472613",
     "record_type": "beer",
     "source_label": "Redwater Kitchen"
   },
@@ -98,21 +111,8 @@
     "abv": "6.5%",
     "ibu": "25",
     "brewery": "New Belgium Brewing Company",
-    "rating": "3.71",
+    "rating": "3.7",
     "image_url": "https://labels.untappd.com/6496375",
-    "record_type": "beer",
-    "source_label": "Redwater Kitchen"
-  },
-  {
-    "url": "https://untappd.com/b/buffalo-ridge-brewing-project-oaksville-amber/2937051",
-    "title": "Oaksville Amber",
-    "slug": "oaksville-amber",
-    "category": "Red Ale - American Amber / Red",
-    "abv": "5.9%",
-    "ibu": "30",
-    "brewery": "Buffalo Ridge Brewing Project",
-    "rating": "3.72",
-    "image_url": "https://labels.untappd.com/2937051",
     "record_type": "beer",
     "source_label": "Redwater Kitchen"
   },

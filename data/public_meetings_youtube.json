@@ -358,5 +358,32 @@
     "source_label": "Spearfish School District",
     "channel_url": "https://www.youtube.com/@spearfishschooldistrictliv3794/streams",
     "record_type": "youtube_video"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=KHooYdd6Tx4",
+    "title": "Lawrence County Commission and Board of Adjustment Meetings - May 26, 2026",
+    "published": "2026-05-26",
+    "thumbnail_url": "https://i4.ytimg.com/vi/KHooYdd6Tx4/hqdefault.jpg",
+    "source_label": "Lawrence County",
+    "channel_url": "https://www.youtube.com/channel/UC2CZKGr9OGrsMcCZkW0_HMA",
+    "record_type": "youtube_video"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=H3Q6PnIG8z0",
+    "title": "Lawrence County Planning & Zoning Meeting - June 4, 2026",
+    "published": "2026-06-05",
+    "thumbnail_url": "https://i1.ytimg.com/vi/H3Q6PnIG8z0/hqdefault.jpg",
+    "source_label": "Lawrence County",
+    "channel_url": "https://www.youtube.com/channel/UC2CZKGr9OGrsMcCZkW0_HMA",
+    "record_type": "youtube_video"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=qqJFT7uGFrg",
+    "title": "Lawrence County Commission Special Meeting - June 4, 2026",
+    "published": "2026-06-04",
+    "thumbnail_url": "https://i2.ytimg.com/vi/qqJFT7uGFrg/hqdefault.jpg",
+    "source_label": "Lawrence County",
+    "channel_url": "https://www.youtube.com/channel/UC2CZKGr9OGrsMcCZkW0_HMA",
+    "record_type": "youtube_video"
   }
 ]

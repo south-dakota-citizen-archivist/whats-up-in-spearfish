@@ -79,7 +79,20 @@
   },
   {
     "url": "https://www.sawyerbrewingco.com/menu",
-    "image_url": "https://images.squarespace-cdn.com/content/v1/5c484d047c9327393b19dc04/d2bef704-c257-46ef-8385-2feedc3dde9b/amberlagerwebsite.jpg",
+    "image_url": "https://images.squarespace-cdn.com/content/v1/5c484d047c9327393b19dc04/951fc841-b2e4-4d5f-b63c-c689c5bf1a46/lemonsunburstwheatdark.jpg",
+    "title": "lemonsunburstwheatdark.jpg",
+    "slug": "lemonsunburstwheatdark-jpg",
+    "category": "Light & Easy",
+    "description": "",
+    "abv": "",
+    "notes": "",
+    "prices": [],
+    "record_type": "beer",
+    "source_label": "Sawyer Brewing Co."
+  },
+  {
+    "url": "https://www.sawyerbrewingco.com/menu",
+    "image_url": "https://images.squarespace-cdn.com/content/v1/5c484d047c9327393b19dc04/c116d393-6245-4da6-9eed-1e55fde1e467/amberlagerwebsite.jpg",
     "title": "Amber Lager",
     "slug": "amber-lager",
     "category": "Light & Easy",
@@ -118,6 +131,19 @@
   },
   {
     "url": "https://www.sawyerbrewingco.com/menu",
+    "image_url": "https://images.squarespace-cdn.com/content/v1/5c484d047c9327393b19dc04/f34b4a12-fd23-4b61-b2b1-da24ba320c18/squatchMother.jpg",
+    "title": "squatchMother.jpg",
+    "slug": "squatchmother-jpg",
+    "category": "Hop Heads",
+    "description": "",
+    "abv": "",
+    "notes": "",
+    "prices": [],
+    "record_type": "beer",
+    "source_label": "Sawyer Brewing Co."
+  },
+  {
+    "url": "https://www.sawyerbrewingco.com/menu",
     "image_url": "https://images.squarespace-cdn.com/content/v1/5c484d047c9327393b19dc04/0117285c-ff3f-4f2e-b9ed-2763ac236558/pineappleninjaweb.jpg",
     "title": "pineappleninjaweb.jpg",
     "slug": "pineappleninjaweb-jpg",
@@ -131,79 +157,14 @@
   },
   {
     "url": "https://www.sawyerbrewingco.com/menu",
-    "image_url": "https://images.squarespace-cdn.com/content/v1/5c484d047c9327393b19dc04/911a3464-7505-4846-8c2d-c0d94579e7ce/2strokewebsitedark.jpg",
-    "title": "2-Stroke Haze IPA",
-    "slug": "2-stroke-haze-ipa",
+    "image_url": "https://images.squarespace-cdn.com/content/v1/5c484d047c9327393b19dc04/606e6160-01d4-4c24-816b-ce6af8f8c725/citradarkwebsite.jpg",
+    "title": "citradarkwebsite.jpg",
+    "slug": "citradarkwebsite-jpg",
     "category": "Hop Heads",
-    "description": "Don't you just love the smell of a two stroke engine? It usually means a good day spent in the woods or yard getting stuff done! 2-Stroke Haze is a juicy + hazy + citrusy IPA featuring citra, mosaic, & amarillo hops.",
-    "abv": "5.7%",
+    "description": "",
+    "abv": "",
     "notes": "",
-    "prices": [
-      {
-        "price": 2.0,
-        "ounces": 5
-      },
-      {
-        "price": 4.0,
-        "ounces": 10
-      },
-      {
-        "price": 6.0,
-        "ounces": 16
-      }
-    ],
-    "record_type": "beer",
-    "source_label": "Sawyer Brewing Co."
-  },
-  {
-    "url": "https://www.sawyerbrewingco.com/menu",
-    "image_url": "https://images.squarespace-cdn.com/content/v1/5c484d047c9327393b19dc04/4d28e021-4135-4680-82b2-57e4386315df/primewebsitedark.jpg",
-    "title": "Prime Real Estate West Coast IPA",
-    "slug": "prime-real-estate-west-coast-ipa",
-    "category": "Hop Heads",
-    "description": "What's your prime real estate? McMansion? Cozy cabin? Around here it seems to be all of the above, so it seems fitting to name a beer about it. Bright & clean with complex stone fruit citrus zest. Featuring Citra, Simcoe, Mosaic, & Nectaron hops.",
-    "abv": "6.5%",
-    "notes": "",
-    "prices": [
-      {
-        "price": 3.0,
-        "ounces": 5
-      },
-      {
-        "price": 4.5,
-        "ounces": 10
-      },
-      {
-        "price": 7.0,
-        "ounces": 16
-      }
-    ],
-    "record_type": "beer",
-    "source_label": "Sawyer Brewing Co."
-  },
-  {
-    "url": "https://www.sawyerbrewingco.com/menu",
-    "image_url": "https://images.squarespace-cdn.com/content/v1/5c484d047c9327393b19dc04/6e8e56a2-32bc-4eac-930c-930089f72f45/newninjawebsitedark.jpg",
-    "title": "Ninja Juice IPA",
-    "slug": "ninja-juice-ipa",
-    "category": "Hop Heads",
-    "description": "Unleash your inner beast with this tropical + juicy IPA. Mosaic & Citra hops will kick your taste buds into high gear & leave you begging for more. Beware of potential extra stealthy abilities.",
-    "abv": "6.1%",
-    "notes": "",
-    "prices": [
-      {
-        "price": 2.0,
-        "ounces": 5
-      },
-      {
-        "price": 4.0,
-        "ounces": 10
-      },
-      {
-        "price": 6.0,
-        "ounces": 16
-      }
-    ],
+    "prices": [],
     "record_type": "beer",
     "source_label": "Sawyer Brewing Co."
   },
@@ -261,49 +222,10 @@
   },
   {
     "url": "https://www.sawyerbrewingco.com/menu",
-    "image_url": "https://images.squarespace-cdn.com/content/v1/5c484d047c9327393b19dc04/0d65bfca-005c-40c7-a58d-9663e45f2525/keylimewebsitedark.jpg",
-    "title": "Key Lime Sour Ale",
-    "slug": "key-lime-sour-ale",
-    "category": "Sour Power",
-    "description": "Key Lime Sour is a rollercoaster of awesome for your tastebuds. Brewed with real limes and vanilla. The sweet/ tart lime flavors roll into a subtle Citra hop twist, rounding out with a smooth vanilla finish.",
-    "abv": "6.1%",
-    "notes": "",
-    "prices": [
-      {
-        "price": 3.0,
-        "ounces": 5
-      },
-      {
-        "price": 5.0,
-        "ounces": 10
-      },
-      {
-        "price": 7.5,
-        "ounces": 16
-      }
-    ],
-    "record_type": "beer",
-    "source_label": "Sawyer Brewing Co."
-  },
-  {
-    "url": "https://www.sawyerbrewingco.com/menu",
     "image_url": "https://images.squarespace-cdn.com/content/v1/5c484d047c9327393b19dc04/18f7624c-4710-4df6-b35e-20775dc1d7ab/pinneapplepeacheswebsitedark.jpg",
     "title": "pinneapplepeacheswebsitedark.jpg",
     "slug": "pinneapplepeacheswebsitedark-jpg",
     "category": "Sour Power",
-    "description": "",
-    "abv": "",
-    "notes": "",
-    "prices": [],
-    "record_type": "beer",
-    "source_label": "Sawyer Brewing Co."
-  },
-  {
-    "url": "https://www.sawyerbrewingco.com/menu",
-    "image_url": "https://images.squarespace-cdn.com/content/v1/5c484d047c9327393b19dc04/c882c462-d4a5-401f-b6df-2c4599c1ad6b/lucky17websitedark.jpg",
-    "title": "lucky17websitedark.jpg",
-    "slug": "lucky17websitedark-jpg",
-    "category": "Dark Side",
     "description": "",
     "abv": "",
     "notes": "",
@@ -331,32 +253,6 @@
       },
       {
         "price": 5.5,
-        "ounces": 16
-      }
-    ],
-    "record_type": "beer",
-    "source_label": "Sawyer Brewing Co."
-  },
-  {
-    "url": "https://www.sawyerbrewingco.com/menu",
-    "image_url": "https://images.squarespace-cdn.com/content/v1/5c484d047c9327393b19dc04/bf7b604b-320b-4fc9-a44e-203b7e409273/DarkLager2024.jpg",
-    "title": "Dark Lager",
-    "slug": "dark-lager",
-    "category": "Dark Side",
-    "description": "Our Dark Lager is malty sweet with smooth dark roasty notes and a light body.",
-    "abv": "5.8%",
-    "notes": "",
-    "prices": [
-      {
-        "price": 2.5,
-        "ounces": 5
-      },
-      {
-        "price": 4.0,
-        "ounces": 10
-      },
-      {
-        "price": 6.0,
         "ounces": 16
       }
     ],

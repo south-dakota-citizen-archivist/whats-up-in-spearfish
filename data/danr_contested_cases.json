@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-05-20T19:21:55.323795+00:00",
+  "fetched_at": "2026-06-08T19:21:20.025433+00:00",
   "cases": [
     {
       "ccid": "123",
@@ -19,7 +19,7 @@
         },
         {
           "label": "May 17, 2026 Additional Exhibits from Bruce Ellison",
-          "url": "https://danr.sd.gov/Environment/MineralsMining/Exploration/docs/51726EllisonAdditionalExhibits.pdf"
+          "url": "https://danr.sd.gov/Environment/MineralsMining/Exploration/docs/51726EllisonAdditionalExhibits_Redacted.pdf"
         },
         {
           "label": "May 16, 2026 CRST and OST Supplemental Exhibits 3",
@@ -42,6 +42,10 @@
       "docs_url": "https://danr.sd.gov/public/ccdocs.aspx?CCID=CCID124",
       "documents": [
         {
+          "label": "City of Rapid City's Notices of Deposition of Fern Johnson, Ross Johnson, and Harold P. Barber",
+          "url": "https://danr.sd.gov/Environment/WasteManagement/docs/RapidCityContestedCase2025/City_of_Rapid_City_Notice_of_Depositions.pdf"
+        },
+        {
           "label": "Letter to Binegar with Petitioners' Objections to City's Proposed Modification of Pending Permit's Solid Waste Operations Plan",
           "url": "https://danr.sd.gov/Environment/WasteManagement/docs/RapidCityContestedCase2025/5.04.2026 to Binegar.pdf"
         },
@@ -56,13 +60,9 @@
         {
           "label": "City of Rapid City's Witness Disclosures",
           "url": "https://danr.sd.gov/Environment/WasteManagement/docs/RapidCityContestedCase2025/City_of_Rapid_City_Witness_Disclosures.pdf"
-        },
-        {
-          "label": "Department's Witness Disclosure",
-          "url": "https://danr.sd.gov/Environment/WasteManagement/docs/RapidCityContestedCase2025/DANR Witness Disclosure.RC Landfill Renewal Application.service 02 06 2025.pdf"
         }
       ],
-      "total_docs": 24,
+      "total_docs": 25,
       "latest_doc_date": "0000-00-00"
     },
     {
@@ -118,6 +118,38 @@
       "latest_doc_date": "0000-00-00"
     },
     {
+      "ccid": "130",
+      "board": "DANR Secretary's Office Proceeding",
+      "permit_type": "Surface Water Discharge Individual Permit",
+      "title": "City of Custer Surface Water Discharge Permit",
+      "description": "Reissuance of the city of Custer's Surface Water Discharge Permit.",
+      "docs_url": "https://danr.sd.gov/public/ccdocs.aspx?CCID=CCID130",
+      "documents": [
+        {
+          "label": "The Program's Answer to Petitions",
+          "url": "https://danr.sd.gov/OfficeOfWater/SurfaceWaterQuality/docs/CCH/Custer/The Programs Answer to Petitions.pdf"
+        },
+        {
+          "label": "City of Custer Answer to Petitions",
+          "url": "https://danr.sd.gov/OfficeOfWater/SurfaceWaterQuality/docs/CCH/Custer/Custer Answer to Petitions.pdf"
+        },
+        {
+          "label": "Motion to Recuse",
+          "url": "https://danr.sd.gov/OfficeOfWater/SurfaceWaterQuality/docs/CCH/Custer/Motion to Recuse.pdf"
+        },
+        {
+          "label": "Video of French Creek USGS 06403300",
+          "url": "https://danr.sd.gov/OfficeOfWater/SurfaceWaterQuality/docs/CCH/Custer/S_Video USGS 06403300 102022.mp4"
+        },
+        {
+          "label": "Video of French Creek Site 4",
+          "url": "https://danr.sd.gov/OfficeOfWater/SurfaceWaterQuality/docs/CCH/Custer/S_video site 4 090725.mp4"
+        }
+      ],
+      "total_docs": 13,
+      "latest_doc_date": "0000-00-00"
+    },
+    {
       "ccid": "125",
       "board": "DANR Secretary's Office Proceeding",
       "permit_type": "General Permit",
@@ -158,6 +190,14 @@
       "docs_url": "https://danr.sd.gov/public/ccdocs.aspx?CCID=CCID129",
       "documents": [
         {
+          "label": "Response to Applicant's Findings of Fact - Counsel for Chief Engineer",
+          "url": "https://danr.sd.gov/wrimage/pub/8991-3_Response to Applicant's Findings of Fact.pdf"
+        },
+        {
+          "label": "Proposed Findings of Fact & Conclusions of Law - Counsel for Applicant",
+          "url": "https://danr.sd.gov/wrimage/pub/8991-3_propFOF_app.pdf"
+        },
+        {
           "label": "Pre-Hearing Submission by Counsel for Petitioners",
           "url": "https://danr.sd.gov/wrimage/pub/8991-3_prehearsub_pet.pdf"
         },
@@ -168,17 +208,9 @@
         {
           "label": "Notice of Appearance - Legal Counsel for Petitioners (Heinz & Abarca)",
           "url": "https://danr.sd.gov/wrimage/pub/8991-3_notappear_pet.pdf"
-        },
-        {
-          "label": "Pre-Hearing Submission by Counsel for Applicant",
-          "url": "https://danr.sd.gov/wrimage/pub/8991-3_prehearingsub_ex.pdf"
-        },
-        {
-          "label": "Filings Submitted by Counsel for Water Management Board",
-          "url": "https://danr.sd.gov/wrimage/pub/8991-3_McVey.pdf"
         }
       ],
-      "total_docs": 19,
+      "total_docs": 21,
       "latest_doc_date": "0000-00-00"
     },
     {
@@ -190,6 +222,14 @@
       "docs_url": "https://danr.sd.gov/public/ccdocs.aspx?CCID=CCID127",
       "documents": [
         {
+          "label": "Notice",
+          "url": "https://danr.sd.gov/wrimage/pub/8987-3_noticeerror0001.pdf"
+        },
+        {
+          "label": "Proposed Findings of Fact & Conclusions of Law - Counsel for Petitioner",
+          "url": "https://danr.sd.gov/wrimage/pub/8987-3_propFOF_pet.pdf"
+        },
+        {
           "label": "Notice of Entry of Order",
           "url": "https://danr.sd.gov/wrimage/pub/8987-3_Utech_denied.pdf"
         },
@@ -200,17 +240,9 @@
         {
           "label": "Filings Submitted by Counsel for the Chief Engineer",
           "url": "https://danr.sd.gov/wrimage/pub/8987-3_greco_2.pdf"
-        },
-        {
-          "label": "Proposed Exhibits Submitted by Counsel for the Applicant",
-          "url": "https://danr.sd.gov/wrimage/pub/8797-3_UtechExhibits.pdf"
-        },
-        {
-          "label": "Filings Submitted by Counsel for the Applicant",
-          "url": "https://danr.sd.gov/wrimage/pub/8797-3_Utech_breif_witlist.pdf"
         }
       ],
-      "total_docs": 23,
+      "total_docs": 25,
       "latest_doc_date": "0000-00-00"
     },
     {
@@ -254,6 +286,10 @@
       "docs_url": "https://danr.sd.gov/public/ccdocs.aspx?CCID=CCID128",
       "documents": [
         {
+          "label": "Notice of Appearance - Counsel for Applicant",
+          "url": "https://danr.sd.gov/wrimage/pub/8990-3_notapp_app.pdf"
+        },
+        {
           "label": "Notice of Hearing",
           "url": "https://danr.sd.gov/wrimage/pub/8990-3_NOH_2.pdf"
         },
@@ -268,13 +304,9 @@
         {
           "label": "Notice of Hearing",
           "url": "https://danr.sd.gov/wrimage/pub/8990-3_not.pdf"
-        },
-        {
-          "label": "Comments",
-          "url": "https://danr.sd.gov/wrimage/pub/8990-3_com.pdf"
         }
       ],
-      "total_docs": 9,
+      "total_docs": 10,
       "latest_doc_date": "0000-00-00"
     },
     {

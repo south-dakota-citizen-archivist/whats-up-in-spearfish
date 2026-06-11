@@ -848,5 +848,245 @@
     "start_dt": "Fri, 10 Apr 2026 13:40:59 -0700",
     "record_type": "event",
     "source_label": "City of Spearfish"
+  },
+  {
+    "url": "https://www.spearfish.gov/Calendar.aspx?EID=3505",
+    "title": "Fiber Arts Group",
+    "slug": "fiber-arts-group",
+    "description": "<strong>Event date:</strong> June 4, 2026 <br /><strong>Event Time: </strong>05:00 PM - 06:30 PM<br /><strong>Location:</strong> <br />Spearfish, SD 57783<br /><strong>Description:</strong><br />Join fellow hobbyists for social time while you knit, crochet, stitch, etc. All ages welcome, but children should be accompanied by an adult. No instruction will be provided. Bring your own project.",
+    "published": "Fri, 10 Apr 2026 13:34:59 -0700",
+    "start_dt": "Fri, 10 Apr 2026 13:34:59 -0700",
+    "record_type": "event",
+    "source_label": "City of Spearfish"
+  },
+  {
+    "url": "https://www.spearfish.gov/Calendar.aspx?EID=3597",
+    "title": "FIRST DAY to log minutes for Summer Reading!",
+    "slug": "first-day-to-log-minutes-for-summer-reading",
+    "description": "<strong>Event date:</strong> June 8, 2026 <br /><strong>Event Time: </strong>12:00 AM - 11:59 PM<br /><strong>Location:</strong> <br />Spearfish, SD 57783<br /><strong>Description:</strong><br />June 8 is the first day to log minutes for this year's Unearth a Story Summer Reading Program! Visit out Summer Reading page for more information https://www.spearfish.gov/783/Summer-Reading.",
+    "published": "Fri, 15 May 2026 15:59:13 -0700",
+    "start_dt": "Fri, 15 May 2026 15:59:13 -0700",
+    "record_type": "event",
+    "source_label": "City of Spearfish"
+  },
+  {
+    "url": "https://www.spearfish.gov/Calendar.aspx?EID=3603",
+    "title": "Teen Game Club",
+    "slug": "teen-game-club",
+    "description": "<strong>Event date:</strong> June 8, 2026 <br /><strong>Event Time: </strong>01:00 PM - 03:00 PM<br /><strong>Location:</strong> <br />Spearfish, SD 57783<br /><strong>Description:</strong><br />All teens are welcome! Games and snacks provided.",
+    "published": "Fri, 15 May 2026 16:30:25 -0700",
+    "start_dt": "Fri, 15 May 2026 16:30:25 -0700",
+    "record_type": "event",
+    "source_label": "City of Spearfish"
+  },
+  {
+    "url": "https://www.spearfish.gov/Calendar.aspx?EID=3515",
+    "title": "Toddler Story Time",
+    "slug": "toddler-story-time",
+    "description": "<strong>Event date:</strong> June 9, 2026 <br /><strong>Event Time: </strong>09:30 AM - 10:15 AM<br /><strong>Location:</strong> <br />Spearfish, SD 57783<br /><strong>Description:</strong><br />Early literacy activities for ages 1-3.",
+    "published": "Fri, 10 Apr 2026 14:29:16 -0700",
+    "start_dt": "Fri, 10 Apr 2026 14:29:16 -0700",
+    "record_type": "event",
+    "source_label": "City of Spearfish"
+  },
+  {
+    "url": "https://www.spearfish.gov/Calendar.aspx?EID=3542",
+    "title": "Story Time",
+    "slug": "story-time",
+    "description": "<strong>Event date:</strong> June 9, 2026 <br /><strong>Event Time: </strong>10:30 AM - 11:15 AM<br /><strong>Location:</strong> <br />Spearfish, SD 57783<br /><strong>Description:</strong><br />Stories and activities for ages 4+",
+    "published": "Fri, 10 Apr 2026 14:34:31 -0700",
+    "start_dt": "Fri, 10 Apr 2026 14:34:31 -0700",
+    "record_type": "event",
+    "source_label": "City of Spearfish"
+  },
+  {
+    "url": "https://www.spearfish.gov/Calendar.aspx?EID=3416",
+    "title": "Unearthing Deadwood's History",
+    "slug": "unearthing-deadwood-s-history",
+    "description": "<strong>Event date:</strong> June 9, 2026 <br /><strong>Event Time: </strong>05:30 PM - 06:30 PM<br /><strong>Location:</strong> <br />Spearfish, SD 57783<br /><strong>Description:</strong><br />Unearthing Deadwood's History: An Overview into the Lives & Legacy of Chinese in Deadwood with Mike Runge, Deadwood City Archivist",
+    "published": "Fri, 15 May 2026 16:03:23 -0700",
+    "start_dt": "Fri, 15 May 2026 16:03:23 -0700",
+    "record_type": "event",
+    "source_label": "City of Spearfish"
+  },
+  {
+    "url": "https://www.spearfish.gov/Calendar.aspx?EID=3550",
+    "title": "Story Time",
+    "slug": "story-time",
+    "description": "<strong>Event date:</strong> June 10, 2026 <br /><strong>Event Time: </strong>09:30 AM - 10:15 AM<br /><strong>Location:</strong> <br />Spearfish, SD 57783<br /><strong>Description:</strong><br />Stories and activities for ages 4+",
+    "published": "Fri, 10 Apr 2026 14:35:13 -0700",
+    "start_dt": "Fri, 10 Apr 2026 14:35:13 -0700",
+    "record_type": "event",
+    "source_label": "City of Spearfish"
+  },
+  {
+    "url": "https://www.spearfish.gov/Calendar.aspx?EID=3523",
+    "title": "Toddler Story Time",
+    "slug": "toddler-story-time",
+    "description": "<strong>Event date:</strong> June 10, 2026 <br /><strong>Event Time: </strong>10:30 AM - 11:15 AM<br /><strong>Location:</strong> <br />Spearfish, SD 57783<br /><strong>Description:</strong><br />Early literacy activities for ages 1-3.",
+    "published": "Fri, 10 Apr 2026 14:30:06 -0700",
+    "start_dt": "Fri, 10 Apr 2026 14:30:06 -0700",
+    "record_type": "event",
+    "source_label": "City of Spearfish"
+  },
+  {
+    "url": "https://www.spearfish.gov/Calendar.aspx?EID=3185",
+    "title": "City Council Study Session",
+    "slug": "city-council-study-session",
+    "description": "<strong>Event date:</strong> June 10, 2026 <br /><strong>Event Time: </strong>04:15 PM - 06:15 PM<br /><strong>Location:</strong> <br />City Hall<br />625 N 5th St<br />Spearfish, SD 57783",
+    "published": "Thu, 14 May 2026 15:25:37 -0700",
+    "start_dt": "Thu, 14 May 2026 15:25:37 -0700",
+    "record_type": "event",
+    "source_label": "City of Spearfish"
+  },
+  {
+    "url": "https://www.spearfish.gov/Calendar.aspx?EID=3413",
+    "title": "Autumn Trio musical performance",
+    "slug": "autumn-trio-musical-performance",
+    "description": "<strong>Event date:</strong> June 10, 2026 <br /><strong>Event Time: </strong>05:30 PM - 06:30 PM<br /><strong>Location:</strong> <br />Spearfish, SD 57783<br /><strong>Description:</strong><br />The Autumn Trio will perform their popular arrangements of folk and classical music. The trio features Katrina Garnett on flute, Chris Davis on guitar, and Rodney Garnett on alto flute and 19th century flute",
+    "published": "Thu, 02 Apr 2026 10:08:12 -0700",
+    "start_dt": "Thu, 02 Apr 2026 10:08:12 -0700",
+    "record_type": "event",
+    "source_label": "City of Spearfish"
+  },
+  {
+    "url": "https://www.spearfish.gov/Calendar.aspx?EID=3558",
+    "title": "Friends of the Library Book Sale",
+    "slug": "friends-of-the-library-book-sale",
+    "description": "<strong>Event dates:</strong> June 11, 2026 - June 14, 2026<br /><strong>Event Time: </strong>12:00 AM - 11:59 PM<br /><strong>Location:</strong> <br />Spearfish, SD 57783<br /><strong>Description:</strong><br />Purchase a bag of books and media for $5 and help support library programming.",
+    "published": "Sat, 11 Apr 2026 10:32:55 -0700",
+    "start_dt": "Sat, 11 Apr 2026 10:32:55 -0700",
+    "record_type": "event",
+    "source_label": "City of Spearfish"
+  },
+  {
+    "url": "https://www.spearfish.gov/Calendar.aspx?EID=3604",
+    "title": "Teen Game Club",
+    "slug": "teen-game-club",
+    "description": "<strong>Event date:</strong> June 15, 2026 <br /><strong>Event Time: </strong>01:00 PM - 03:00 PM<br /><strong>Location:</strong> <br />Spearfish, SD 57783<br /><strong>Description:</strong><br />All teens are welcome! Games and snacks provided.",
+    "published": "Fri, 15 May 2026 16:30:25 -0700",
+    "start_dt": "Fri, 15 May 2026 16:30:25 -0700",
+    "record_type": "event",
+    "source_label": "City of Spearfish"
+  },
+  {
+    "url": "https://www.spearfish.gov/Calendar.aspx?EID=3186",
+    "title": "City Council Meeting",
+    "slug": "city-council-meeting",
+    "description": "<strong>Event date:</strong> June 15, 2026 <br /><strong>Event Time: </strong>06:30 PM - 07:30 PM<br /><strong>Location:</strong> <br />City Hall<br />625 N 5th St<br />Spearfish, SD 57783",
+    "published": "Fri, 12 Dec 2025 15:12:24 -0700",
+    "start_dt": "Fri, 12 Dec 2025 15:12:24 -0700",
+    "record_type": "event",
+    "source_label": "City of Spearfish"
+  },
+  {
+    "url": "https://www.spearfish.gov/Calendar.aspx?EID=3516",
+    "title": "Toddler Story Time",
+    "slug": "toddler-story-time",
+    "description": "<strong>Event date:</strong> June 16, 2026 <br /><strong>Event Time: </strong>09:30 AM - 10:15 AM<br /><strong>Location:</strong> <br />Spearfish, SD 57783<br /><strong>Description:</strong><br />Early literacy activities for ages 1-3.",
+    "published": "Fri, 10 Apr 2026 14:29:16 -0700",
+    "start_dt": "Fri, 10 Apr 2026 14:29:16 -0700",
+    "record_type": "event",
+    "source_label": "City of Spearfish"
+  },
+  {
+    "url": "https://www.spearfish.gov/Calendar.aspx?EID=3543",
+    "title": "Story Time",
+    "slug": "story-time",
+    "description": "<strong>Event date:</strong> June 16, 2026 <br /><strong>Event Time: </strong>10:30 AM - 11:15 AM<br /><strong>Location:</strong> <br />Spearfish, SD 57783<br /><strong>Description:</strong><br />Stories and activities for ages 4+",
+    "published": "Fri, 10 Apr 2026 14:34:31 -0700",
+    "start_dt": "Fri, 10 Apr 2026 14:34:31 -0700",
+    "record_type": "event",
+    "source_label": "City of Spearfish"
+  },
+  {
+    "url": "https://www.spearfish.gov/Calendar.aspx?EID=3598",
+    "title": "Black Hills Raptors",
+    "slug": "black-hills-raptors",
+    "description": "<strong>Event date:</strong> June 16, 2026 <br /><strong>Event Time: </strong>02:00 PM - 03:00 PM<br /><strong>Location:</strong> <br />Spearfish, SD 57783<br /><strong>Description:</strong><br />All ages are welcome for this entertaining and educational bird program from the Black Hills Raptor Center.",
+    "published": "Fri, 15 May 2026 16:11:29 -0700",
+    "start_dt": "Fri, 15 May 2026 16:11:29 -0700",
+    "record_type": "event",
+    "source_label": "City of Spearfish"
+  },
+  {
+    "url": "https://www.spearfish.gov/Calendar.aspx?EID=3460",
+    "title": "Planning Commission",
+    "slug": "planning-commission",
+    "description": "<strong>Event date:</strong> June 16, 2026 <br /><strong>Event Time: </strong>04:00 PM - 05:00 PM<br /><strong>Location:</strong> <br />City Hall <br />625 N 5th St<br />Spearfish, SD 57783",
+    "published": "Wed, 08 Apr 2026 11:15:56 -0700",
+    "start_dt": "Wed, 08 Apr 2026 11:15:56 -0700",
+    "record_type": "event",
+    "source_label": "City of Spearfish"
+  },
+  {
+    "url": "https://www.spearfish.gov/Calendar.aspx?EID=3551",
+    "title": "Story Time",
+    "slug": "story-time",
+    "description": "<strong>Event date:</strong> June 17, 2026 <br /><strong>Event Time: </strong>09:30 AM - 10:15 AM<br /><strong>Location:</strong> <br />Spearfish, SD 57783<br /><strong>Description:</strong><br />Stories and activities for ages 4+",
+    "published": "Fri, 10 Apr 2026 14:35:13 -0700",
+    "start_dt": "Fri, 10 Apr 2026 14:35:13 -0700",
+    "record_type": "event",
+    "source_label": "City of Spearfish"
+  },
+  {
+    "url": "https://www.spearfish.gov/Calendar.aspx?EID=3524",
+    "title": "Toddler Story Time",
+    "slug": "toddler-story-time",
+    "description": "<strong>Event date:</strong> June 17, 2026 <br /><strong>Event Time: </strong>10:30 AM - 11:15 AM<br /><strong>Location:</strong> <br />Spearfish, SD 57783<br /><strong>Description:</strong><br />Early literacy activities for ages 1-3.",
+    "published": "Fri, 10 Apr 2026 14:30:06 -0700",
+    "start_dt": "Fri, 10 Apr 2026 14:30:06 -0700",
+    "record_type": "event",
+    "source_label": "City of Spearfish"
+  },
+  {
+    "url": "https://www.spearfish.gov/Calendar.aspx?EID=3483",
+    "title": "Lego Club (Ages 8+)",
+    "slug": "lego-club-ages-8",
+    "description": "<strong>Event date:</strong> June 17, 2026 <br /><strong>Event Time: </strong>03:30 PM - 04:30 PM<br /><strong>Location:</strong> <br />Spearfish, SD 57783<br /><strong>Description:</strong><br />Join us for a once monthly Lego Club. Imagine. Build. Display! Show off your designs and creations. This program is designed for AGES 8+.<br /><br />Please do not bring your own Legos.",
+    "published": "Fri, 10 Apr 2026 13:29:27 -0700",
+    "start_dt": "Fri, 10 Apr 2026 13:29:27 -0700",
+    "record_type": "event",
+    "source_label": "City of Spearfish"
+  },
+  {
+    "url": "https://www.spearfish.gov/Calendar.aspx?EID=3501",
+    "title": "Fiber Arts Group",
+    "slug": "fiber-arts-group",
+    "description": "<strong>Event date:</strong> June 18, 2026 <br /><strong>Event Time: </strong>05:00 PM - 06:30 PM<br /><strong>Location:</strong> <br />Spearfish, SD 57783<br /><strong>Description:</strong><br />Join fellow hobbyists for social time while you knit, crochet, stitch, etc. All ages welcome, but children should be accompanied by an adult. No instruction will be provided. Bring your own project.",
+    "published": "Fri, 10 Apr 2026 13:34:17 -0700",
+    "start_dt": "Fri, 10 Apr 2026 13:34:17 -0700",
+    "record_type": "event",
+    "source_label": "City of Spearfish"
+  },
+  {
+    "url": "https://www.spearfish.gov/Calendar.aspx?EID=3323",
+    "title": "Library CLOSED for Juneteenth",
+    "slug": "library-closed-for-juneteenth",
+    "description": "<strong>Event date:</strong> June 19, 2026 <br /><strong>Event Time: </strong>12:00 AM - 11:59 PM<br /><strong>Location:</strong> <br />Spearfish, SD 57783<br /><strong>Description:</strong><br />The library will be CLOSED for Juneteenth.",
+    "published": "Tue, 06 Jan 2026 13:41:37 -0700",
+    "start_dt": "Tue, 06 Jan 2026 13:41:37 -0700",
+    "record_type": "event",
+    "source_label": "City of Spearfish"
+  },
+  {
+    "url": "https://www.spearfish.gov/Calendar.aspx?EID=3587",
+    "title": "Friends of the Library Book Club",
+    "slug": "friends-of-the-library-book-club",
+    "description": "<strong>Event date:</strong> June 20, 2026 <br /><strong>Event Time: </strong>09:30 AM - 10:30 AM<br /><strong>Location:</strong> <br />Spearfish, SD 57783<br /><strong>Description:</strong><br />Stop by the library to check out a copy of this month's selection and join in the discussion. All are welcome!",
+    "published": "Fri, 08 May 2026 15:41:02 -0700",
+    "start_dt": "Fri, 08 May 2026 15:41:02 -0700",
+    "record_type": "event",
+    "source_label": "City of Spearfish"
+  },
+  {
+    "url": "https://www.spearfish.gov/Calendar.aspx?EID=3605",
+    "title": "Teen Game Club",
+    "slug": "teen-game-club",
+    "description": "<strong>Event date:</strong> June 22, 2026 <br /><strong>Event Time: </strong>01:00 PM - 03:00 PM<br /><strong>Location:</strong> <br />Spearfish, SD 57783<br /><strong>Description:</strong><br />All teens are welcome! Games and snacks provided.",
+    "published": "Fri, 15 May 2026 16:30:25 -0700",
+    "start_dt": "Fri, 15 May 2026 16:30:25 -0700",
+    "record_type": "event",
+    "source_label": "City of Spearfish"
   }
 ]

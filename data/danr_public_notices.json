@@ -1,621 +1,6 @@
 {
-  "fetched_at": "2026-05-20T19:19:46.880635+00:00",
+  "fetched_at": "2026-06-08T19:19:05.621285+00:00",
   "notices": [
-    {
-      "notice_type": "Water Rights",
-      "deadline": "05/11/2026",
-      "comment_url": "",
-      "application_no": "8993-3",
-      "name": "Bixler Farms, c/o Jake Bixler,\u00a0Hitchcock\u00a0SD",
-      "location": "Spink",
-      "water_source": "Tulare: Western Spink Hitchcock Aquifer",
-      "use_type": "Irrigation (12 acres)",
-      "links": [
-        {
-          "label": "Public Notice",
-          "url": "https://danr.sd.gov/wrimage/pub/8993-3_app.pdf"
-        },
-        {
-          "label": "Appl.",
-          "url": "https://danr.sd.gov/wrimage/pub/8993-3_apl.pdf"
-        },
-        {
-          "label": "Recom. Action",
-          "url": "https://danr.sd.gov/wrimage/pub/8993-3_rec.pdf"
-        }
-      ]
-    },
-    {
-      "notice_type": "Water Rights",
-      "deadline": "05/11/2026",
-      "comment_url": "",
-      "application_no": "8994-3",
-      "name": "Bixler Farms, c/o Jake Bixler,\u00a0Hitchcock\u00a0SD",
-      "location": "Spink",
-      "water_source": "Tulare: Western Spink Hitchcock Aquifer",
-      "use_type": "Irrigation (160 acres)",
-      "links": [
-        {
-          "label": "Public Notice",
-          "url": "https://danr.sd.gov/wrimage/pub/8994-3_app.pdf"
-        },
-        {
-          "label": "Appl.",
-          "url": "https://danr.sd.gov/wrimage/pub/8994-3_apl.pdf"
-        },
-        {
-          "label": "Recom. Action",
-          "url": "https://danr.sd.gov/wrimage/pub/8994-3_rec.pdf"
-        }
-      ]
-    },
-    {
-      "notice_type": "Water Rights",
-      "deadline": "05/11/2026",
-      "comment_url": "",
-      "application_no": "8995-3",
-      "name": "Bixler Farms, c/o Jake Bixler,\u00a0Hitchcock\u00a0SD",
-      "location": "Spink",
-      "water_source": "Tulare: Western Spink Hitchcock Aquifer",
-      "use_type": "Irrigation (no add'l acres)",
-      "links": [
-        {
-          "label": "Public Notice",
-          "url": "https://danr.sd.gov/wrimage/pub/8995-3_app.pdf"
-        },
-        {
-          "label": "Appl.",
-          "url": "https://danr.sd.gov/wrimage/pub/8995-3_apl.pdf"
-        },
-        {
-          "label": "Recom. Action",
-          "url": "https://danr.sd.gov/wrimage/pub/8995-3_rec.pdf"
-        }
-      ]
-    },
-    {
-      "notice_type": "Water Rights",
-      "deadline": "05/11/2026",
-      "comment_url": "",
-      "application_no": "9027-3",
-      "name": "FermentationExperts USA, LLC, c/o Brandon Wienk,\u00a0Sioux Falls\u00a0SD",
-      "location": "Minnehaha",
-      "water_source": "Big Sioux: Southern Skunk Creek Aquifer",
-      "use_type": "Industrial (swine feed production)",
-      "links": [
-        {
-          "label": "Public Notice",
-          "url": "https://danr.sd.gov/wrimage/pub/9027-3_app.pdf"
-        },
-        {
-          "label": "Appl.",
-          "url": "https://danr.sd.gov/wrimage/pub/9027-3_apl.pdf"
-        },
-        {
-          "label": "Recom. Action",
-          "url": "https://danr.sd.gov/wrimage/pub/9027-3_rec.pdf"
-        }
-      ]
-    },
-    {
-      "notice_type": "Water Rights",
-      "deadline": "05/11/2026",
-      "comment_url": "",
-      "application_no": "9026-3",
-      "name": "Boadwine Farms, Inc., c/o Lynn Boadwine,\u00a0Sioux Falls\u00a0SD",
-      "location": "Minnehaha",
-      "water_source": "Big Sioux: Middle Skunk Creek Aquifer",
-      "use_type": "Commercial (dairy)",
-      "links": [
-        {
-          "label": "Public Notice",
-          "url": "https://danr.sd.gov/wrimage/pub/9026-3_app.pdf"
-        },
-        {
-          "label": "Appl.",
-          "url": "https://danr.sd.gov/wrimage/pub/9026-3_apl.pdf"
-        },
-        {
-          "label": "Recom. Action",
-          "url": "https://danr.sd.gov/wrimage/pub/9026-3_rec.pdf"
-        }
-      ]
-    },
-    {
-      "notice_type": "Water Rights",
-      "deadline": "05/11/2026",
-      "comment_url": "",
-      "application_no": "9025-3",
-      "name": "City of Lake Norden, c/o Kimberly St. John, Mayor,\u00a0Lake Norden\u00a0SD",
-      "location": "Hamlin",
-      "water_source": "Prairie Coteau Aquifer",
-      "use_type": "Municipal & Water Distribution System",
-      "links": [
-        {
-          "label": "Public Notice",
-          "url": "https://danr.sd.gov/wrimage/pub/9025-3_app.pdf"
-        },
-        {
-          "label": "Appl.",
-          "url": "https://danr.sd.gov/wrimage/pub/9025-3_apl.pdf"
-        },
-        {
-          "label": "Recom. Action",
-          "url": "https://danr.sd.gov/wrimage/pub/9025-3_rec.pdf"
-        }
-      ]
-    },
-    {
-      "notice_type": "Water Rights",
-      "deadline": "05/18/2026",
-      "comment_url": "",
-      "application_no": "9028-3",
-      "name": "Dakota Deere Farms, LLC, c/o Allen Andrews,\u00a0Beresford\u00a0SD",
-      "location": "Union",
-      "water_source": "Brule Creek Aquifer",
-      "use_type": "Irrigation (187 acres)",
-      "links": [
-        {
-          "label": "Public Notice",
-          "url": "https://danr.sd.gov/wrimage/pub/9028-3_app.pdf"
-        },
-        {
-          "label": "Appl.",
-          "url": "https://danr.sd.gov/wrimage/pub/9028-3_apl.pdf"
-        },
-        {
-          "label": "Recom. Action",
-          "url": "https://danr.sd.gov/wrimage/pub/9028-3_rec.pdf"
-        }
-      ]
-    },
-    {
-      "notice_type": "Water Rights",
-      "deadline": "05/18/2026",
-      "comment_url": "",
-      "application_no": "9029-3",
-      "name": "Craig Vanderlei,\u00a0Springfield\u00a0SD",
-      "location": "Bon Homme",
-      "water_source": "Niobrara Aquifer",
-      "use_type": "Irrigation (120 acres)",
-      "links": [
-        {
-          "label": "Public Notice",
-          "url": "https://danr.sd.gov/wrimage/pub/9029-3_app.pdf"
-        },
-        {
-          "label": "Appl.",
-          "url": "https://danr.sd.gov/wrimage/pub/9029-3_apl.pdf"
-        },
-        {
-          "label": "Recom. Action",
-          "url": "https://danr.sd.gov/wrimage/pub/9029-3_rec.pdf"
-        }
-      ]
-    },
-    {
-      "notice_type": "Air Quality Permit",
-      "deadline": "05/22/2026",
-      "comment_url": "https://danr.sd.gov/public/comment.aspx?d_comment=05/22/2026&name=KNTC, LLC, dba Sioux Marble&pntype=aq&description=Sioux Marble proposes to renew their minor operating permit for manufacturing cultured marble products. DANR recommends issuance of a renewed minor air quality permit.",
-      "description": "Sioux Marble proposes to renew their minor operating permit for manufacturing cultured marble products. DANR recommends issuance of a renewed minor air quality permit.",
-      "location": "Brandon",
-      "links": [
-        {
-          "label": "Public Notice",
-          "url": "https://danr.sd.gov/Environment/AirQuality/PN/KNTCpn.pdf"
-        },
-        {
-          "label": "Draft Permit",
-          "url": "https://danr.sd.gov/Environment/AirQuality/PN/KNTCdp.pdf"
-        },
-        {
-          "label": "Application Review",
-          "url": "https://danr.sd.gov/Environment/AirQuality/PN/KNTCsb.pdf"
-        }
-      ]
-    },
-    {
-      "notice_type": "Surface Water Discharge (NPDES)",
-      "deadline": "05/26/2026",
-      "comment_url": "https://danr.sd.gov/public/comment.aspx?d_comment=05/26/2026&name=City of Beresford&pntype=sw_npdes&description=The City of Beresford is authorized under this permit to discharge to Blind Creek from its wastewater treatment facility located in Lincoln County.",
-      "name": "City of Beresford",
-      "description": "The City of Beresford is authorized under this permit to discharge to Blind Creek from its wastewater treatment facility located in Lincoln County.",
-      "location": "Lincoln County",
-      "links": [
-        {
-          "label": "Public Notice",
-          "url": "https://danr.sd.gov/officeofwater/surfacewaterquality/pn/BeresfordPNDraftFR.pdf"
-        },
-        {
-          "label": "Draft Permit",
-          "url": "https://danr.sd.gov/officeofwater/surfacewaterquality/pn/BeresfordPermitDraftFR.pdf"
-        },
-        {
-          "label": "Statement of Basis",
-          "url": "https://danr.sd.gov/officeofwater/surfacewaterquality/pn/BeresfordSOBDraftFR.pdf"
-        }
-      ]
-    },
-    {
-      "notice_type": "Surface Water Discharge (NPDES)",
-      "deadline": "05/26/2026",
-      "comment_url": "https://danr.sd.gov/public/comment.aspx?d_comment=05/26/2026&name=POET Biorefining - Hudson&pntype=sw_npdes&description=POET Biorefining - Hudson is authorized under this permit to discharge to an unnamed tributary of Pattee Creek from its facility located in Lincoln County,",
-      "name": "POET Biorefining - Hudson",
-      "description": "POET Biorefining - Hudson is authorized under this permit to discharge to an unnamed tributary of Pattee Creek from its facility located in Lincoln County,",
-      "location": "Lincoln County",
-      "links": [
-        {
-          "label": "Public Notice",
-          "url": "https://danr.sd.gov/officeofwater/surfacewaterquality/pn/POETBiorefiningHudsonPNDraftFR.pdf"
-        },
-        {
-          "label": "Draft Permit",
-          "url": "https://danr.sd.gov/officeofwater/surfacewaterquality/pn/POETBiorefiningHudsonPermitDraftFR.pdf"
-        },
-        {
-          "label": "Statement of Basis",
-          "url": "https://danr.sd.gov/officeofwater/surfacewaterquality/pn/POETBiorefiningHudsonSOBDraftFR.pdf"
-        }
-      ]
-    },
-    {
-      "notice_type": "Air Quality Permit",
-      "deadline": "05/28/2026",
-      "comment_url": "https://danr.sd.gov/public/comment.aspx?d_comment=05/28/2026&name=Brookings Biogas LLC - Northern Sky Dairy&pntype=aq&description=Brookings Biogas LLC \u2013 Northern Sky Dairy operates a biogas production facility. The Department recommends approval of an air quality construction permit modification.",
-      "description": "Brookings Biogas LLC \u2013 Northern Sky Dairy operates a biogas production facility. The Department recommends approval of an air quality construction permit modification.",
-      "location": "Bruce",
-      "links": [
-        {
-          "label": "Public Notice",
-          "url": "http://danr.sd.gov/Environment/AirQuality/PN/BBNSDpn.pdf"
-        },
-        {
-          "label": "Draft Permit",
-          "url": "http://danr.sd.gov/Environment/AirQuality/PN/dp.pdf"
-        },
-        {
-          "label": "Application Review",
-          "url": "http://danr.sd.gov/Environment/AirQuality/PN/BBNSDsb.pdf"
-        }
-      ]
-    },
-    {
-      "notice_type": "Air Quality Permit",
-      "deadline": "05/28/2026",
-      "comment_url": "https://danr.sd.gov/public/comment.aspx?d_comment=05/28/2026&name=Brookings Biogas LLC - Hammink Dairy&pntype=aq&description=Brookings Biogas LLC \u2013 Hammink Dairy operates a biogas production facility. The Department recommends approval of a minor air quality operating permit.",
-      "description": "Brookings Biogas LLC \u2013 Hammink Dairy operates a biogas production facility. The Department recommends approval of a minor air quality operating permit.",
-      "location": "Bruce",
-      "links": [
-        {
-          "label": "Public Notice",
-          "url": "http://danr.sd.gov/Environment/AirQuality/PN/BBHDpn.pdf"
-        },
-        {
-          "label": "Draft Permit",
-          "url": "http://danr.sd.gov/Environment/AirQuality/PN/BBHDdp.pdf"
-        },
-        {
-          "label": "Application Review",
-          "url": "http://danr.sd.gov/Environment/AirQuality/PN/BBHDsb.pdf"
-        }
-      ]
-    },
-    {
-      "notice_type": "Air Quality Permit",
-      "deadline": "05/28/2026",
-      "comment_url": "https://danr.sd.gov/public/comment.aspx?d_comment=05/28/2026&name=Brookings Biogas LLC - Hammink Dairy&pntype=aq&description=Brookings Biogas LLC \u2013 Hammink Dairy operates a biogas production facility. The Department recommends approval of an air quality construction permit modification.",
-      "description": "Brookings Biogas LLC \u2013 Hammink Dairy operates a biogas production facility. The Department recommends approval of an air quality construction permit modification.",
-      "location": "Bruce",
-      "links": [
-        {
-          "label": "Public Notice",
-          "url": "http://danr.sd.gov/Environment/AirQuality/PN/BBHDpn.pdf"
-        },
-        {
-          "label": "Draft Permit",
-          "url": "http://danr.sd.gov/Environment/AirQuality/PN/dp.pdf"
-        },
-        {
-          "label": "Application Review",
-          "url": "http://danr.sd.gov/Environment/AirQuality/PN/BBHDsb.pdf"
-        }
-      ]
-    },
-    {
-      "notice_type": "Air Quality Permit",
-      "deadline": "05/28/2026",
-      "comment_url": "https://danr.sd.gov/public/comment.aspx?d_comment=05/28/2026&name=Brookings Biogas LLC - Northern Sky Dairy&pntype=aq&description=Brookings Biogas LLC \u2013 Northern Sky Dairy operates a biogas production facility. The Department recommends approval of a minor air quality operating permit.",
-      "description": "Brookings Biogas LLC \u2013 Northern Sky Dairy operates a biogas production facility. The Department recommends approval of a minor air quality operating permit.",
-      "location": "Bruce",
-      "links": [
-        {
-          "label": "Public Notice",
-          "url": "http://danr.sd.gov/Environment/AirQuality/PN/BBNSDpn.pdf"
-        },
-        {
-          "label": "Draft Permit",
-          "url": "http://danr.sd.gov/Environment/AirQuality/PN/BBNSDdp.pdf"
-        },
-        {
-          "label": "Application Review",
-          "url": "http://danr.sd.gov/Environment/AirQuality/PN/BBNSDsb.pdf"
-        }
-      ]
-    },
-    {
-      "notice_type": "Air Quality Permit",
-      "deadline": "05/29/2026",
-      "comment_url": "https://danr.sd.gov/public/comment.aspx?d_comment=05/29/2026&name=Lakeside Biogas LLC - Blooming Valley Dairy&pntype=aq&description=Lakeside Biogas \u2013 Blooming Valley Dairy operates a biogas production facility. The Department recommends approval of an air quality construction permit modification.",
-      "description": "Lakeside Biogas \u2013 Blooming Valley Dairy operates a biogas production facility. The Department recommends approval of an air quality construction permit modification.",
-      "location": "Summit",
-      "links": [
-        {
-          "label": "Public Notice",
-          "url": "https://danr.sd.gov/Environment/AirQuality/PN/LBBVDpn.pdf"
-        },
-        {
-          "label": "Draft Permit",
-          "url": "https://danr.sd.gov/Environment/AirQuality/PN/dp.pdf"
-        },
-        {
-          "label": "Application Review",
-          "url": "https://danr.sd.gov/Environment/AirQuality/PN/LBBVDsb.pdf"
-        }
-      ]
-    },
-    {
-      "notice_type": "Air Quality Permit",
-      "deadline": "05/29/2026",
-      "comment_url": "https://danr.sd.gov/public/comment.aspx?d_comment=05/29/2026&name=Lakeside Biogas LLC - Blooming Valley Dairy&pntype=aq&description=Lakeside Biogas \u2013 Blooming Valley Dairy operates a biogas production facility. The Department recommends approval of a minor air quality operating permit.",
-      "description": "Lakeside Biogas \u2013 Blooming Valley Dairy operates a biogas production facility. The Department recommends approval of a minor air quality operating permit.",
-      "location": "Summit",
-      "links": [
-        {
-          "label": "Public Notice",
-          "url": "http://danr.sd.gov/Environment/AirQuality/PN/LBBVDpn.pdf"
-        },
-        {
-          "label": "Draft Permit",
-          "url": "http://danr.sd.gov/Environment/AirQuality/PN/LBBVDdp.pdf"
-        },
-        {
-          "label": "Application Review",
-          "url": "http://danr.sd.gov/Environment/AirQuality/PN/LBBVDsb.pdf"
-        }
-      ]
-    },
-    {
-      "notice_type": "Air Quality Permit",
-      "deadline": "05/29/2026",
-      "comment_url": "https://danr.sd.gov/public/comment.aspx?d_comment=05/29/2026&name=POET Bioprocessing - Big Stone, LLC&pntype=aq&description=POET Bioprocessing \u2013 Big Stone, LLC is an ethanol plant located in Big Stone City. The department recommends renewal of their title V air quality operating permit.",
-      "description": "POET Bioprocessing \u2013 Big Stone, LLC is an ethanol plant located in Big Stone City. The department recommends renewal of their title V air quality operating permit.",
-      "location": "Big Stone City",
-      "links": [
-        {
-          "label": "Public Notice",
-          "url": "http://danr.sd.gov/Environment/AirQuality/PN/PBBSpn.pdf"
-        },
-        {
-          "label": "Draft Permit",
-          "url": "http://danr.sd.gov/Environment/AirQuality/PN/PBBSdp.pdf"
-        },
-        {
-          "label": "Application Review",
-          "url": "http://danr.sd.gov/Environment/AirQuality/PN/PBBSsb.pdf"
-        }
-      ]
-    },
-    {
-      "notice_type": "Concentrated Animal Feeding Operations (Individual Permit)",
-      "deadline": "05/31/2026",
-      "comment_url": "https://danr.sd.gov/public/comment.aspx?d_comment=05/31/2026&name=Dakota Layers, LLC - DL Specialty Eggs&pntype=fp_cafo_individual&description=Expanding Chicken Feeding Operation - Individual Permit",
-      "name": "Dakota Layers, LLC - DL Specialty Eggs",
-      "description": "Expanding Chicken Feeding Operation - Individual Permit",
-      "location": "Brookings County",
-      "links": [
-        {
-          "label": "Public Notice",
-          "url": "https://danr.sd.gov/Press/docs/publicnotices/FeedlotPermit/DLSpecialtyEggsPN.pdf"
-        },
-        {
-          "label": "Draft Permit",
-          "url": "https://danr.sd.gov/Press/docs/publicnotices/FeedlotPermit/DLSpecialtyEggsDraftPermit.pdf"
-        },
-        {
-          "label": "Statement of Basis",
-          "url": "https://danr.sd.gov/Press/docs/publicnotices/FeedlotPermit/DLSpecialtyEggsSOB.pdf"
-        }
-      ]
-    },
-    {
-      "notice_type": "Surface Water Discharge (NPDES)",
-      "deadline": "06/01/2026",
-      "comment_url": "https://danr.sd.gov/public/comment.aspx?d_comment=06/01/2026&name=City of Harrisburg&pntype=sw_npdes&description=The City of Harrisburg is authorized under this permit to discharge to the Big Sioux River from its wastewater treatment facility located in Lincoln County.",
-      "name": "City of Harrisburg",
-      "description": "The City of Harrisburg is authorized under this permit to discharge to the Big Sioux River from its wastewater treatment facility located in Lincoln County.",
-      "location": "Lincoln County",
-      "links": [
-        {
-          "label": "Public Notice",
-          "url": "https://danr.sd.gov/officeofwater/surfacewaterquality/pn/HarrisburgPNDraftFR.pdf"
-        },
-        {
-          "label": "Draft Permit",
-          "url": "https://danr.sd.gov/officeofwater/surfacewaterquality/pn/HarrisburgPermitDraftFR.pdf"
-        },
-        {
-          "label": "Statement of Basis",
-          "url": "https://danr.sd.gov/officeofwater/surfacewaterquality/pn/HarrisburgSOBDraftFR.pdf"
-        }
-      ]
-    },
-    {
-      "notice_type": "Water Rights",
-      "deadline": "06/01/2026",
-      "comment_url": "",
-      "application_no": "9023-3",
-      "name": "Chris Howard Ranch LLC, c/o Chris Howard,\u00a0Miller\u00a0SD",
-      "location": "Hand",
-      "water_source": "Dakota Aquifer & incidental runoff",
-      "use_type": "Irrigation (25 acres)",
-      "links": [
-        {
-          "label": "Public Notice",
-          "url": "https://danr.sd.gov/wrimage/pub/9023-3_app.pdf"
-        },
-        {
-          "label": "Appl.",
-          "url": "https://danr.sd.gov/wrimage/pub/9023-3_apl.pdf"
-        },
-        {
-          "label": "Recom. Action",
-          "url": "https://danr.sd.gov/wrimage/pub/9023-3_rec.pdf"
-        }
-      ]
-    },
-    {
-      "notice_type": "Concentrated Animal Feeding Operations (State Permit)",
-      "deadline": "06/04/2026",
-      "comment_url": "https://danr.sd.gov/public/comment.aspx?d_comment=06/04/2026&name=Modak Dairy, Inc.&pntype=fp_cafo&description=Expanding Dairy Cattle Feeding Operation - State Permit",
-      "name": "Modak Dairy, Inc.",
-      "description": "Expanding Dairy Cattle Feeding Operation - State Permit",
-      "location": "Codington County",
-      "links": [
-        {
-          "label": "Public Notice",
-          "url": "https://danr.sd.gov/Press/docs/publicnotices/FeedlotPermit/ModakDairyExpansionPN.pdf"
-        }
-      ]
-    },
-    {
-      "notice_type": "Surface Water \u2014 401 Certification",
-      "deadline": "06/04/2026",
-      "comment_url": "https://danr.sd.gov/public/comment.aspx?d_comment=06/04/2026&name=City of Sioux Falls&pntype=sw_401&description=The City of Sioux Falls is proposing drainage improvements to a severely eroded tributary to the Big Sioux River located within Tuthill Park and adjacent residential properties in Minnehaha County.",
-      "name": "City of Sioux Falls",
-      "description": "The City of Sioux Falls is proposing drainage improvements to a severely eroded tributary to the Big Sioux River located within Tuthill Park and adjacent residential properties in Minnehaha County.",
-      "links": [
-        {
-          "label": "Public Notice",
-          "url": "https://danr.sd.gov/officeofwater/surfacewaterquality/pn/NWO200801866PIEPN.pdf"
-        }
-      ]
-    },
-    {
-      "notice_type": "Air Quality Permit",
-      "deadline": "06/05/2026",
-      "comment_url": "https://danr.sd.gov/public/comment.aspx?d_comment=06/05/2026&name=Chevron Mill Valley RNG LLC&pntype=aq&description=Chevron Mill Valley proposes a new minor air quality operating permit for their biogas facility. DANR recommends issuance of a new minor air quality operating permit.",
-      "description": "Chevron Mill Valley proposes a new minor air quality operating permit for their biogas facility. DANR recommends issuance of a new minor air quality operating permit.",
-      "location": "Millbank",
-      "links": [
-        {
-          "label": "Public Notice",
-          "url": "https://danr.sd.gov/Environment/AirQuality/PN/CMVpn.pdf"
-        },
-        {
-          "label": "Draft Permit",
-          "url": "https://danr.sd.gov/Environment/AirQuality/PN/CMVdp.pdf"
-        },
-        {
-          "label": "Application Review",
-          "url": "https://danr.sd.gov/Environment/AirQuality/PN/CMVsb.pdf"
-        }
-      ]
-    },
-    {
-      "notice_type": "Air Quality Permit",
-      "deadline": "06/05/2026",
-      "comment_url": "https://danr.sd.gov/public/comment.aspx?d_comment=06/05/2026&name=Chevron Mill Valley RNG LLC&pntype=aq&description=Chevron Mill Valley operates a biogas production facility in Millbank. The department recommends modification to their air quality construction permit.",
-      "description": "Chevron Mill Valley operates a biogas production facility in Millbank. The department recommends modification to their air quality construction permit.",
-      "location": "Millbank",
-      "links": [
-        {
-          "label": "Public Notice",
-          "url": "https://danr.sd.gov/Environment/AirQuality/PN/CMVpn.pdf"
-        },
-        {
-          "label": "Draft Permit",
-          "url": "https://danr.sd.gov/Environment/AirQuality/PN/dp.pdf"
-        },
-        {
-          "label": "Application Review",
-          "url": "https://danr.sd.gov/Environment/AirQuality/PN/CMVsb.pdf"
-        }
-      ]
-    },
-    {
-      "notice_type": "Concentrated Animal Feeding Operations (State Permit)",
-      "deadline": "06/05/2026",
-      "comment_url": "https://danr.sd.gov/public/comment.aspx?d_comment=06/05/2026&name=Bruley Farms, LLC&pntype=fp_cafo&description=Expanding Beef Cattle Feeding Operation - State Permit",
-      "name": "Bruley Farms, LLC",
-      "description": "Expanding Beef Cattle Feeding Operation - State Permit",
-      "location": "Clark County",
-      "links": [
-        {
-          "label": "Public Notice",
-          "url": "https://danr.sd.gov/Press/docs/publicnotices/FeedlotPermit/BruleyFarmsLLCPN.pdf"
-        }
-      ]
-    },
-    {
-      "notice_type": "Air Quality Permit",
-      "deadline": "06/06/2026",
-      "comment_url": "https://danr.sd.gov/public/comment.aspx?d_comment=06/06/2026&name=Chevron Full Circle RNG LLC&pntype=aq&description=Chevron Full Circle proposes a new minor air quality operating permit for their biogas facility. DANR recommend issuance of a new minor air quality operating permit.",
-      "description": "Chevron Full Circle proposes a new minor air quality operating permit for their biogas facility. DANR recommend issuance of a new minor air quality operating permit.",
-      "location": "Hurley",
-      "links": [
-        {
-          "label": "Public Notice",
-          "url": "http://danr.sd.gov/Environment/AirQuality/PN/CFCRpn.pdf"
-        },
-        {
-          "label": "Draft Permit",
-          "url": "http://danr.sd.gov/Environment/AirQuality/PN/CFCRdp.pdf"
-        },
-        {
-          "label": "Application Review",
-          "url": "http://danr.sd.gov/Environment/AirQuality/PN/CFCRsb.pdf"
-        }
-      ]
-    },
-    {
-      "notice_type": "Air Quality Permit",
-      "deadline": "06/06/2026",
-      "comment_url": "https://danr.sd.gov/public/comment.aspx?d_comment=06/06/2026&name=Chevron Full Circle RNG LLC&pntype=aq&description=Chevron Full Circle RNG LLC operates a biogas production facility in Hurley. The department recommends modification to their air quality construction permit.",
-      "description": "Chevron Full Circle RNG LLC operates a biogas production facility in Hurley. The department recommends modification to their air quality construction permit.",
-      "location": "Hurley",
-      "links": [
-        {
-          "label": "Public Notice",
-          "url": "http://danr.sd.gov/Environment/AirQuality/PN/CFCRpn.pdf"
-        },
-        {
-          "label": "Draft Permit",
-          "url": "http://danr.sd.gov/Environment/AirQuality/PN/dp.pdf"
-        },
-        {
-          "label": "Application Review",
-          "url": "http://danr.sd.gov/Environment/AirQuality/PN/CFCRsb.pdf"
-        }
-      ]
-    },
-    {
-      "notice_type": "Waste Management \u2014 Solid Waste",
-      "deadline": "6/6/2026",
-      "comment_url": "",
-      "name": "Morris, Inc.",
-      "description": "Permit renewal application to continue operation of a Type IIA Construction and Demolition Debris Disposal Solid Waste Facility",
-      "location": "Pierre, SD",
-      "links": [
-        {
-          "label": "Public Notice",
-          "url": "https://danr.sd.gov/Press/docs/publicnotices/wastemanagementnotices/Morris_PN.pdf"
-        },
-        {
-          "label": "Draft Permit",
-          "url": "https://danr.sd.gov/Press/docs/publicnotices/wastemanagementnotices/DRAFT_Morris_26_IP.pdf"
-        }
-      ]
-    },
     {
       "notice_type": "Surface Water Discharge (NPDES)",
       "deadline": "06/08/2026",
@@ -635,6 +20,162 @@
         {
           "label": "Statement of Basis",
           "url": "https://danr.sd.gov/officeofwater/surfacewaterquality/pn/AlcesterSOBDraftFR.pdf"
+        }
+      ]
+    },
+    {
+      "notice_type": "Water Rights",
+      "deadline": "06/08/2026",
+      "comment_url": "",
+      "application_no": "9022-3",
+      "name": "Leonard Sigdestad, c/o Jim  Thyen,\u00a0Grand Terrace\u00a0CA",
+      "location": "Codington",
+      "water_source": "Antelope Valley Aquifer",
+      "use_type": "Irrigation (40 acres)",
+      "links": [
+        {
+          "label": "Public Notice",
+          "url": "https://danr.sd.gov/wrimage/pub/9022-3_app.pdf"
+        },
+        {
+          "label": "Appl.",
+          "url": "https://danr.sd.gov/wrimage/pub/9022-3_apl.pdf"
+        },
+        {
+          "label": "Recom. Action",
+          "url": "https://danr.sd.gov/wrimage/pub/9022-3_rec.pdf"
+        }
+      ]
+    },
+    {
+      "notice_type": "Water Rights",
+      "deadline": "06/08/2026",
+      "comment_url": "",
+      "application_no": "2050-1",
+      "name": "Venekamps LLC, Willis Venekamp,\u00a0Rapid City\u00a0SD",
+      "location": "Meade",
+      "water_source": "Inyan Kara Aquifer",
+      "use_type": "Water Distribution System",
+      "links": [
+        {
+          "label": "Public Notice",
+          "url": "https://danr.sd.gov/wrimage/pub/2050-1_app.pdf"
+        },
+        {
+          "label": "Appl.",
+          "url": "https://danr.sd.gov/wrimage/pub/2050-1_apl.pdf"
+        },
+        {
+          "label": "Recom. Action",
+          "url": "https://danr.sd.gov/wrimage/pub/2050-1_rec.pdf"
+        }
+      ]
+    },
+    {
+      "notice_type": "Water Rights \u2014 Future Use Review",
+      "deadline": "06/08/2026",
+      "comment_url": "",
+      "application_no": "558A-3",
+      "water_source": "Big Sioux: Brookings Aquifer",
+      "use_type": "Future Use Review",
+      "links": [
+        {
+          "label": "Public Notice",
+          "url": "https://danr.sd.gov/wrimage/pub/558A-3_app.pdf"
+        },
+        {
+          "label": "Recom. Action",
+          "url": "https://danr.sd.gov/wrimage/pub/558A-3_rec.pdf"
+        }
+      ]
+    },
+    {
+      "notice_type": "Water Rights \u2014 Future Use Review",
+      "deadline": "06/08/2026",
+      "comment_url": "",
+      "application_no": "1407-2",
+      "water_source": "Vermillion East Fork Aquifer",
+      "use_type": "Future Use Review",
+      "links": [
+        {
+          "label": "Public Notice",
+          "url": "https://danr.sd.gov/wrimage/pub/1407-2_app.pdf"
+        },
+        {
+          "label": "Recom. Action",
+          "url": "https://danr.sd.gov/wrimage/pub/1407-2_rec.pdf"
+        }
+      ]
+    },
+    {
+      "notice_type": "Water Rights \u2014 Future Use Review",
+      "deadline": "06/08/2026",
+      "comment_url": "",
+      "application_no": "524-3",
+      "water_source": "Vermillion East Fork Aquifer",
+      "use_type": "Future Use Review",
+      "links": [
+        {
+          "label": "Public Notice",
+          "url": "https://danr.sd.gov/wrimage/pub/524-3_app.pdf"
+        },
+        {
+          "label": "Recom. Action",
+          "url": "https://danr.sd.gov/wrimage/pub/524-3_rec.pdf"
+        }
+      ]
+    },
+    {
+      "notice_type": "Water Rights \u2014 Future Use Review",
+      "deadline": "06/08/2026",
+      "comment_url": "",
+      "application_no": "8400-3",
+      "water_source": "Dakota Aquifer",
+      "use_type": "Future Use Review",
+      "links": [
+        {
+          "label": "Public Notice",
+          "url": "https://danr.sd.gov/wrimage/pub/8400-3_app.pdf"
+        },
+        {
+          "label": "Recom. Action",
+          "url": "https://danr.sd.gov/wrimage/pub/8400-3_rec.pdf"
+        }
+      ]
+    },
+    {
+      "notice_type": "Water Rights \u2014 Future Use Review",
+      "deadline": "06/08/2026",
+      "comment_url": "",
+      "application_no": "6988-3,6988A-3,6988B-3",
+      "water_source": "Big Sioux: Brookings Aquifer",
+      "use_type": "Future Use Review",
+      "links": [
+        {
+          "label": "Public Notice",
+          "url": "https://danr.sd.gov/wrimage/pub/6988-3,6988A-3,6988B-3_app.pdf"
+        },
+        {
+          "label": "Recom. Action",
+          "url": "https://danr.sd.gov/wrimage/pub/6988-3,6988A-3,6988B-3_rec.pdf"
+        }
+      ]
+    },
+    {
+      "notice_type": "Water Rights \u2014 Future Use Review",
+      "deadline": "06/08/2026",
+      "comment_url": "",
+      "application_no": "5358-3",
+      "water_source": "Upper Vermillion Missouri Aquifer",
+      "use_type": "Future Use Review",
+      "links": [
+        {
+          "label": "Public Notice",
+          "url": "https://danr.sd.gov/wrimage/pub/5358-3_app.pdf"
+        },
+        {
+          "label": "Recom. Action",
+          "url": "https://danr.sd.gov/wrimage/pub/5358-3_rec.pdf"
         }
       ]
     },
@@ -682,6 +223,23 @@
       ]
     },
     {
+      "notice_type": "Surface Water Enhancement & Restoration",
+      "deadline": "06/13/2026",
+      "comment_url": "https://danr.sd.gov/public/comment.aspx?d_comment=06/13/2026&name=South Dakota Game, Fish, and Parks&pntype=sw_er&description=SD GFP is proposing a project to restore stream function and improve fish habitat on Spring Creek within the Spring Creek Game Production Area.",
+      "name": "South Dakota Game, Fish, and Parks",
+      "description": "SD GFP is proposing a project to restore stream function and improve fish habitat on Spring Creek within the Spring Creek Game Production Area.",
+      "links": [
+        {
+          "label": "Public Notice",
+          "url": "https://danr.sd.gov/officeofwater/surfacewaterquality/pn/26-017_GFP_Spring_PN.pdf"
+        },
+        {
+          "label": "Application",
+          "url": "https://danr.sd.gov/officeofwater/surfacewaterquality/pn/DANR_WRE_Form_SDGFP Spring Creek submittal.pdf"
+        }
+      ]
+    },
+    {
       "notice_type": "Surface Water Discharge (NPDES)",
       "deadline": "06/15/2026",
       "comment_url": "https://danr.sd.gov/public/comment.aspx?d_comment=06/15/2026&name=City of Canistota&pntype=sw_npdes&description=The City of Canistota is authorized under this permit to discharge to Unnamed Tributary of West Fork Vermillion River from its wastewater treatment facility located in McCook County",
@@ -700,6 +258,222 @@
         {
           "label": "Statement of Basis",
           "url": "https://danr.sd.gov/officeofwater/surfacewaterquality/pn/CanistotaSOB.pdf"
+        }
+      ]
+    },
+    {
+      "notice_type": "Water Rights",
+      "deadline": "06/15/2026",
+      "comment_url": "",
+      "application_no": "8996-3",
+      "name": "Wayne or Scott Binger,\u00a0Tulare\u00a0SD",
+      "location": "Spink",
+      "water_source": "Tulare: Western Spink Hitchcock Aquifer",
+      "use_type": "Irrigation (130 acres)",
+      "links": [
+        {
+          "label": "Public Notice",
+          "url": "https://danr.sd.gov/wrimage/pub/8996-3_app.pdf"
+        },
+        {
+          "label": "Appl.",
+          "url": "https://danr.sd.gov/wrimage/pub/8996-3_apl.pdf"
+        },
+        {
+          "label": "Recom. Action",
+          "url": "https://danr.sd.gov/wrimage/pub/8996-3_rec.pdf"
+        }
+      ]
+    },
+    {
+      "notice_type": "Water Rights",
+      "deadline": "06/15/2026",
+      "comment_url": "",
+      "application_no": "8997-3",
+      "name": "Wayne or Scott Binger,\u00a0Tulare\u00a0SD",
+      "location": "Spink",
+      "water_source": "Tulare: Western Spink Hitchcock Aquifer",
+      "use_type": "Irrigation (130 acres)",
+      "links": [
+        {
+          "label": "Public Notice",
+          "url": "https://danr.sd.gov/wrimage/pub/8997-3_app.pdf"
+        },
+        {
+          "label": "Appl.",
+          "url": "https://danr.sd.gov/wrimage/pub/8997-3_apl.pdf"
+        },
+        {
+          "label": "Recom. Action",
+          "url": "https://danr.sd.gov/wrimage/pub/8997-3_rec.pdf"
+        }
+      ]
+    },
+    {
+      "notice_type": "Water Rights",
+      "deadline": "06/15/2026",
+      "comment_url": "",
+      "application_no": "8998-3",
+      "name": "Terry McClain,\u00a0Hitchcock\u00a0SD",
+      "location": "Spink",
+      "water_source": "Tulare: Western Spink Hitchcock Aquifer",
+      "use_type": "Irrigation (180 acres)",
+      "links": [
+        {
+          "label": "Public Notice",
+          "url": "https://danr.sd.gov/wrimage/pub/8998-3_app.pdf"
+        },
+        {
+          "label": "Appl.",
+          "url": "https://danr.sd.gov/wrimage/pub/8998-3_apl.pdf"
+        },
+        {
+          "label": "Recom. Action",
+          "url": "https://danr.sd.gov/wrimage/pub/8998-3_rec.pdf"
+        }
+      ]
+    },
+    {
+      "notice_type": "Water Rights",
+      "deadline": "06/15/2026",
+      "comment_url": "",
+      "application_no": "9001-3",
+      "name": "Matthew Van Buskirk,\u00a0Hitchcock\u00a0SD",
+      "location": "Spink",
+      "water_source": "Tulare: Western Spink Hitchcock Aquifer",
+      "use_type": "Irrigation (136 acres)",
+      "links": [
+        {
+          "label": "Public Notice",
+          "url": "https://danr.sd.gov/wrimage/pub/9001-3_app.pdf"
+        },
+        {
+          "label": "Appl.",
+          "url": "https://danr.sd.gov/wrimage/pub/9001-3_apl.pdf"
+        },
+        {
+          "label": "Recom. Action",
+          "url": "https://danr.sd.gov/wrimage/pub/9001-3_rec.pdf"
+        }
+      ]
+    },
+    {
+      "notice_type": "Water Rights",
+      "deadline": "06/15/2026",
+      "comment_url": "",
+      "application_no": "9002-3",
+      "name": "Matthew Van Buskirk,\u00a0Hitchcock\u00a0SD",
+      "location": "Spink",
+      "water_source": "Tulare: Western Spink Hitchcock Aquifer",
+      "use_type": "Irrigation (136 acres)",
+      "links": [
+        {
+          "label": "Public Notice",
+          "url": "https://danr.sd.gov/wrimage/pub/9002-3_app.pdf"
+        },
+        {
+          "label": "Appl.",
+          "url": "https://danr.sd.gov/wrimage/pub/9002-3_apl.pdf"
+        },
+        {
+          "label": "Recom. Action",
+          "url": "https://danr.sd.gov/wrimage/pub/9002-3_rec.pdf"
+        }
+      ]
+    },
+    {
+      "notice_type": "Water Rights",
+      "deadline": "06/15/2026",
+      "comment_url": "",
+      "application_no": "9003-3",
+      "name": "Matthew Van Buskirk,\u00a0Hitchcock\u00a0SD",
+      "location": "Beadle",
+      "water_source": "Tulare: Western Spink Hitchcock Aquifer",
+      "use_type": "Irrigation (272 acres)",
+      "links": [
+        {
+          "label": "Public Notice",
+          "url": "https://danr.sd.gov/wrimage/pub/9003-3_app.pdf"
+        },
+        {
+          "label": "Appl.",
+          "url": "https://danr.sd.gov/wrimage/pub/9003-3_apl.pdf"
+        },
+        {
+          "label": "Recom. Action",
+          "url": "https://danr.sd.gov/wrimage/pub/9003-3_rec.pdf"
+        }
+      ]
+    },
+    {
+      "notice_type": "Water Rights",
+      "deadline": "06/15/2026",
+      "comment_url": "",
+      "application_no": "9004-3",
+      "name": "Matthew Van Buskirk,\u00a0Hitchcock\u00a0SD",
+      "location": "Beadle",
+      "water_source": "Tulare: Western Spink Hitchcock Aquifer",
+      "use_type": "Irrigation (136 acres)",
+      "links": [
+        {
+          "label": "Public Notice",
+          "url": "https://danr.sd.gov/wrimage/pub/9004-3_app.pdf"
+        },
+        {
+          "label": "Appl.",
+          "url": "https://danr.sd.gov/wrimage/pub/9004-3_apl.pdf"
+        },
+        {
+          "label": "Recom. Action",
+          "url": "https://danr.sd.gov/wrimage/pub/9004-3_rec.pdf"
+        }
+      ]
+    },
+    {
+      "notice_type": "Water Rights",
+      "deadline": "06/15/2026",
+      "comment_url": "",
+      "application_no": "9005-3",
+      "name": "Matthew Van Buskirk,\u00a0Hitchcock\u00a0SD",
+      "location": "Beadle",
+      "water_source": "Tulare: Western Spink Hitchcock Aquifer",
+      "use_type": "Irrigation (136 acres)",
+      "links": [
+        {
+          "label": "Public Notice",
+          "url": "https://danr.sd.gov/wrimage/pub/9005-3_app.pdf"
+        },
+        {
+          "label": "Appl.",
+          "url": "https://danr.sd.gov/wrimage/pub/9005-3_apl.pdf"
+        },
+        {
+          "label": "Recom. Action",
+          "url": "https://danr.sd.gov/wrimage/pub/9005-3_rec.pdf"
+        }
+      ]
+    },
+    {
+      "notice_type": "Water Rights",
+      "deadline": "06/15/2026",
+      "comment_url": "",
+      "application_no": "9000-3",
+      "name": "Matthew Van Buskirk,\u00a0Hitchcock\u00a0SD",
+      "location": "Beadle",
+      "water_source": "Tulare: Western Spink Hitchcock Aquifer",
+      "use_type": "Irrigation (136 acres)",
+      "links": [
+        {
+          "label": "Public Notice",
+          "url": "https://danr.sd.gov/wrimage/pub/9000-3_app.pdf"
+        },
+        {
+          "label": "Appl.",
+          "url": "https://danr.sd.gov/wrimage/pub/9000-3_apl.pdf"
+        },
+        {
+          "label": "Recom. Action",
+          "url": "https://danr.sd.gov/wrimage/pub/9000-3_rec.pdf"
         }
       ]
     },
@@ -736,34 +510,296 @@
       ]
     },
     {
-      "notice_type": "Mineral Exploration",
-      "deadline": "",
-      "comment_url": "https://danr.sd.gov/public/comment.aspx?d_comment=&name=Clean Nuclear Energy Corp.&pntype=mm_ex&description=Notice of Hearing for Uranium Exploration Permit Application",
-      "name": "Clean Nuclear Energy Corp.",
-      "description": "Notice of Hearing for Uranium Exploration Permit Application",
-      "location": "Seven miles north of Edgemont, SD",
+      "notice_type": "Air Quality Permit",
+      "deadline": "06/20/2026",
+      "comment_url": "https://danr.sd.gov/public/comment.aspx?d_comment=06/20/2026&name=Astec&pntype=aq&description=Astec is adding a new laser cutting table to their facility in Yankton. DANR recommends approval of an air quality construction permit.",
+      "description": "Astec is adding a new laser cutting table to their facility in Yankton. DANR recommends approval of an air quality construction permit.",
+      "location": "Yankton",
       "links": [
         {
           "label": "Public Notice",
-          "url": "https://danr.sd.gov/Press/docs/publicnotices/MineralsMining/CleanNuclearEXNI453NoticeofHearing2026b.pdf"
+          "url": "http://danr.sd.gov/Environment/AirQuality/PN/ASTpn.pdf"
         },
         {
-          "label": "Application",
-          "url": "https://danr.sd.gov/Environment/MineralsMining/Exploration/NewEXNIS.aspx"
+          "label": "Draft Permit",
+          "url": "http://danr.sd.gov/Environment/AirQuality/PN/ASTdp.pdf"
+        },
+        {
+          "label": "Application Review",
+          "url": "http://danr.sd.gov/Environment/AirQuality/PN/ASTsb.pdf"
         }
       ]
     },
     {
-      "notice_type": "Mining License",
-      "deadline": "",
-      "comment_url": "",
-      "name": "Boyer Sand & Rock, Inc",
-      "description": "Notice of Intent to Mine gravel",
-      "location": "4 miles south of Hudson, SD.",
+      "notice_type": "Air Quality Permit",
+      "deadline": "06/20/2026",
+      "comment_url": "https://danr.sd.gov/public/comment.aspx?d_comment=06/20/2026&name=MJF State Veterans Home&pntype=aq&description=MJF State Veterans Home is a healthcare facility in Hot Springs. DANR recommends approval of a Title V air quality operating permit renewal.",
+      "description": "MJF State Veterans Home is a healthcare facility in Hot Springs. DANR recommends approval of a Title V air quality operating permit renewal.",
+      "location": "Hot Springs",
       "links": [
         {
           "label": "Public Notice",
-          "url": "https://media.sd.gov/danr/MM/S319006PublicNotice.jpg"
+          "url": "http://danr.sd.gov/Environment/AirQuality/PN/MFJpn.pdf"
+        },
+        {
+          "label": "Draft Permit",
+          "url": "http://danr.sd.gov/Environment/AirQuality/PN/MJFdp.pdf"
+        },
+        {
+          "label": "Application Review",
+          "url": "http://danr.sd.gov/Environment/AirQuality/PN/MJFsb.pdf"
+        }
+      ]
+    },
+    {
+      "notice_type": "Air Quality Permit",
+      "deadline": "06/20/2026",
+      "comment_url": "https://danr.sd.gov/public/comment.aspx?d_comment=06/20/2026&name=Astec&pntype=aq&description=Astec is adding a new laser cutting table to their facility in Yankton. DANR recommends approval of a minor air quality operating permit modification.",
+      "description": "Astec is adding a new laser cutting table to their facility in Yankton. DANR recommends approval of a minor air quality operating permit modification.",
+      "location": "Yankton",
+      "links": [
+        {
+          "label": "Public Notice",
+          "url": "https://danr.sd.gov/Environment/AirQuality/PN/ASTpn.pdf"
+        },
+        {
+          "label": "Draft Permit",
+          "url": "https://danr.sd.gov/Environment/AirQuality/PN/dp.pdf"
+        },
+        {
+          "label": "Application Review",
+          "url": "https://danr.sd.gov/Environment/AirQuality/PN/ASTsb.pdf"
+        }
+      ]
+    },
+    {
+      "notice_type": "Air Quality Permit",
+      "deadline": "06/21/2026",
+      "comment_url": "https://danr.sd.gov/public/comment.aspx?d_comment=06/21/2026&name=Load King Trailers&pntype=aq&description=Load King is adding a new plasma cutting table to their facility in Elk Point. DANR recommends a minor air quality operating permit modification.",
+      "description": "Load King is adding a new plasma cutting table to their facility in Elk Point. DANR recommends a minor air quality operating permit modification.",
+      "location": "Elk Point",
+      "links": [
+        {
+          "label": "Public Notice",
+          "url": "http://danr.sd.gov/Environment/AirQuality/PN/LKTcpn.pdf"
+        },
+        {
+          "label": "Draft Permit",
+          "url": "http://danr.sd.gov/Environment/AirQuality/PN/dp.pdf"
+        },
+        {
+          "label": "Application Review",
+          "url": "http://danr.sd.gov/Environment/AirQuality/PNLKTcsb.pdf"
+        }
+      ]
+    },
+    {
+      "notice_type": "Air Quality Permit",
+      "deadline": "06/21/2026",
+      "comment_url": "https://danr.sd.gov/public/comment.aspx?d_comment=06/21/2026&name=Load King Trailers&pntype=aq&description=Load King is adding a new plasma cutting table to their facility in Elk Point. DANR recommends approval of an air quality construction permit.",
+      "description": "Load King is adding a new plasma cutting table to their facility in Elk Point. DANR recommends approval of an air quality construction permit.",
+      "location": "Elk Point",
+      "links": [
+        {
+          "label": "Public Notice",
+          "url": "http://danr.sd.gov/Environment/AirQuality/PN/LKTcpn.pdf"
+        },
+        {
+          "label": "Draft Permit",
+          "url": "http://danr.sd.gov/Environment/AirQuality/PN/LKTcdp.pdf"
+        },
+        {
+          "label": "Application Review",
+          "url": "http://danr.sd.gov/Environment/AirQuality/PN/LKTcsb.pdf"
+        }
+      ]
+    },
+    {
+      "notice_type": "Waste Management \u2014 Solid Waste",
+      "deadline": "6/22/2026",
+      "comment_url": "",
+      "name": "Waste Management of Huron",
+      "description": "Permit renewal application to continue operation of a Type IIB Municipal Solid Waste Transfer Station Solid Waste Facility",
+      "location": "Huron, SD",
+      "links": [
+        {
+          "label": "Public Notice",
+          "url": "https://danr.sd.gov/Press/docs/publicnotices/wastemanagementnotices/Waste_Management_of_Huron_26_PN.pdf"
+        },
+        {
+          "label": "Draft Permit",
+          "url": "https://danr.sd.gov/Press/docs/publicnotices/wastemanagementnotices/DRAFT_Waste_Management_of_Huron_26_IP.pdf"
+        }
+      ]
+    },
+    {
+      "notice_type": "Waste Management \u2014 Solid Waste",
+      "deadline": "6/25/2026",
+      "comment_url": "",
+      "name": "City of Corsica",
+      "description": "Permit renewal application to continue operation of a Type IV Restricted Use Solid Waste Facility",
+      "location": "Corsica, SD",
+      "links": [
+        {
+          "label": "Public Notice",
+          "url": "https://danr.sd.gov/Press/docs/publicnotices/wastemanagementnotices/Corsica_PN.pdf"
+        },
+        {
+          "label": "Draft Permit",
+          "url": "https://danr.sd.gov/Press/docs/publicnotices/wastemanagementnotices/DRAFT_Corsica_26_IP.pdf"
+        }
+      ]
+    },
+    {
+      "notice_type": "Waste Management \u2014 Solid Waste",
+      "deadline": "6/26/2026",
+      "comment_url": "",
+      "name": "City of Scotland",
+      "description": "Permit renewal application to continue operation of a Type IV Restricted Use Solid Waste Facility",
+      "location": "Scotland, SD",
+      "links": [
+        {
+          "label": "Public Notice",
+          "url": "https://danr.sd.gov/Press/docs/publicnotices/wastemanagementnotices/Scotland_PN.pdf"
+        },
+        {
+          "label": "Draft Permit",
+          "url": "https://danr.sd.gov/Press/docs/publicnotices/wastemanagementnotices/DRAFT_Scotland_26_IP.pdf"
+        }
+      ]
+    },
+    {
+      "notice_type": "Waste Management \u2014 Solid Waste",
+      "deadline": "6/26/2026",
+      "comment_url": "",
+      "name": "City of Spearfish",
+      "description": "Permit renewal application to continue operation of a Type IIB Restricted Use Solid Waste Facility",
+      "location": "Spearfish, SD",
+      "links": [
+        {
+          "label": "Public Notice",
+          "url": "https://danr.sd.gov/Press/docs/publicnotices/wastemanagementnotices/Spearfish_PN.pdf"
+        },
+        {
+          "label": "Draft Permit",
+          "url": "https://danr.sd.gov/Press/docs/publicnotices/wastemanagementnotices/DRAFT_Spearfish_26_IP.pdf"
+        }
+      ]
+    },
+    {
+      "notice_type": "Air Quality Permit",
+      "deadline": "06/27/2026",
+      "comment_url": "https://danr.sd.gov/public/comment.aspx?d_comment=06/27/2026&name=Solmax&pntype=aq&description=Solmax manufactures two types of geosynthetic clay liners in Spearfish. DANR recommends approval of a minor air quality operating permit.",
+      "description": "Solmax manufactures two types of geosynthetic clay liners in Spearfish. DANR recommends approval of a minor air quality operating permit.",
+      "location": "Spearfish",
+      "links": [
+        {
+          "label": "Public Notice",
+          "url": "https://danr.sd.gov/Environment/AirQuality/PN/SOLpn.pdf"
+        },
+        {
+          "label": "Draft Permit",
+          "url": "https://danr.sd.gov/Environment/AirQuality/PN/SOLdp.pdf"
+        },
+        {
+          "label": "Application Review",
+          "url": "https://danr.sd.gov/Environment/AirQuality/PN/SOLsb.pdf"
+        }
+      ]
+    },
+    {
+      "notice_type": "Air Quality (Annual Air Monitoring Network Plan and Five Year Review)",
+      "deadline": "06/27/2026",
+      "comment_url": "https://danr.sd.gov/public/comment.aspx?d_comment=06/27/2026&name=South Dakota&#39;s 2026 Ambient Air Monitoring Annual Plan&pntype=aq_nplan&description=DANR develops an annual ambient air monitoring network plan which is a review of the ambient air monitoring network each year.  The 2026 Annual Plan is open for public comment through June 27, 2026.",
+      "name": "South Dakota's 2026 Ambient Air Monitoring Annual Plan",
+      "description": "DANR develops an annual ambient air monitoring network plan which is a review of the ambient air monitoring network each year.  The 2026 Annual Plan is open for public comment through June 27, 2026.",
+      "location": "Statewide",
+      "links": [
+        {
+          "label": "Public Notice",
+          "url": "https://danr.sd.gov/Environment/AirQuality/AirMonitoring/docs/Annual Plan 2026.pdf"
+        }
+      ]
+    },
+    {
+      "notice_type": "Air Quality Permit",
+      "deadline": "07/03/2026",
+      "comment_url": "https://danr.sd.gov/public/comment.aspx?d_comment=07/03/2026&name=Dakota Metal Recycling, LLC&pntype=aq&description=Dakota Metal Recycling, LLC proposes to construct and operate a metal shredding recycling facility. The Department recommends issuance of an air quality construction permit.",
+      "description": "Dakota Metal Recycling, LLC proposes to construct and operate a metal shredding recycling facility. The Department recommends issuance of an air quality construction permit.",
+      "location": "Huron",
+      "links": [
+        {
+          "label": "Public Notice",
+          "url": "http://danr.sd.gov/Environment/AirQuality/PN/DMRpn.pdf"
+        },
+        {
+          "label": "Draft Permit",
+          "url": "http://danr.sd.gov/Environment/AirQuality/PN/DMRdp.pdf"
+        },
+        {
+          "label": "Application Review",
+          "url": "http://danr.sd.gov/Environment/AirQuality/PN/DMRsb.pdf"
+        }
+      ]
+    },
+    {
+      "notice_type": "Concentrated Animal Feeding Operations (State Permit)",
+      "deadline": "07/04/2026",
+      "comment_url": "https://danr.sd.gov/public/comment.aspx?d_comment=07/04/2026&name=Upland Hutterian Brethren, Inc.&pntype=fp_cafo&description=Expanding Swine Feeding Operation - State Permit",
+      "name": "Upland Hutterian Brethren, Inc.",
+      "description": "Expanding Swine Feeding Operation - State Permit",
+      "location": "Sanborn County",
+      "links": [
+        {
+          "label": "Public Notice",
+          "url": "https://danr.sd.gov/Press/docs/publicnotices/FeedlotPermit/UplandHBIExpansionJune2026PN.pdf"
+        }
+      ]
+    },
+    {
+      "notice_type": "Ground Water Discharge",
+      "deadline": "7/5/2026",
+      "comment_url": "",
+      "name": "Wharf Resources Reliance Spent Ore Depository",
+      "description": "Groundwater Discharge Plan Renewal.",
+      "location": "Lawrence County",
+      "links": [
+        {
+          "label": "Public Notice",
+          "url": "https://danr.sd.gov/officeofwater/surfacewaterquality/pn/2026ReliancePublicNotice.pdf"
+        },
+        {
+          "label": "Application",
+          "url": "https://danr.sd.gov/officeofwater/surfacewaterquality/pn/2026RelianceApplicationGWD1-94.pdf"
+        },
+        {
+          "label": "Staff Report",
+          "url": "https://danr.sd.gov/officeofwater/surfacewaterquality/pn/2026RelianceStaffTechnicalReview.pdf"
+        },
+        {
+          "label": "Conditions",
+          "url": "https://danr.sd.gov/officeofwater/surfacewaterquality/pn/2026RelianceDRAFTPermitAndConditions.pdf"
+        }
+      ]
+    },
+    {
+      "notice_type": "Air Quality Permit",
+      "deadline": "07/06/2026",
+      "comment_url": "https://danr.sd.gov/public/comment.aspx?d_comment=07/06/2026&name=Wharf Resources Inc. (Wharf Mine)&pntype=aq&description=Wharf Resources, Inc. operates a gold mine in Lead. The facility is constructing new mining equipment. The department recommends issuance of an air quality construction permit.",
+      "description": "Wharf Resources, Inc. operates a gold mine in Lead. The facility is constructing new mining equipment. The department recommends issuance of an air quality construction permit.",
+      "location": "Lead",
+      "links": [
+        {
+          "label": "Public Notice",
+          "url": "http://danr.sd.gov/Environment/AirQuality/PN/WRIpn.pdf"
+        },
+        {
+          "label": "Draft Permit",
+          "url": "http://danr.sd.gov/Environment/AirQuality/PN/WRIdp.pdf"
+        },
+        {
+          "label": "Application Review",
+          "url": "http://danr.sd.gov/Environment/AirQuality/PN/WRIsb.pdf"
         }
       ]
     },

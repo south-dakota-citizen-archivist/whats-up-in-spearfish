@@ -138,5 +138,35 @@
     "start_dt": "Wed, 20 May 2026 08:56:00 -0700",
     "record_type": "press_release",
     "source_label": "City of Spearfish"
+  },
+  {
+    "url": "https://www.spearfish.gov/CivicAlerts.aspx?aid=499",
+    "title": "E. Colorado Boulevard Sewer Upsize Project to continue May 28, 2026",
+    "slug": "e-colorado-boulevard-sewer-upsize-project-to-continue-may-28-2026",
+    "description": "Final phase of E. Colorado Boulevard Sanitary Sewer Upsize Project is expected to begin Thursday, May 28, 2026. Colorado Boulevard will remain open during construction but  travel lanes may be narrowed and speed limits reduced.",
+    "published": "Fri, 22 May 2026 11:19:00 -0700",
+    "start_dt": "Fri, 22 May 2026 11:19:00 -0700",
+    "record_type": "press_release",
+    "source_label": "City of Spearfish"
+  },
+  {
+    "url": "https://www.spearfish.gov/CivicAlerts.aspx?aid=559",
+    "title": "Speed Limit Reductions on Colorado Boulevard and North Avenue",
+    "slug": "speed-limit-reductions-on-colorado-boulevard-and-north-avenue",
+    "description": "On Tuesday, May 26th, 2026, the City of Spearfish Public Works Department will be permanently decreasing the speed limit from 35 MPH to 25 MPH on sections of North Avenue and East Colorado Boulevard.",
+    "published": "Fri, 22 May 2026 17:01:15 -0700",
+    "start_dt": "Fri, 22 May 2026 17:01:15 -0700",
+    "record_type": "press_release",
+    "source_label": "City of Spearfish"
+  },
+  {
+    "url": "https://www.spearfish.gov/CivicAlerts.aspx?aid=560",
+    "title": "Reminder: When outdoor warning sirens sound in Spearfish, take cover",
+    "slug": "reminder-when-outdoor-warning-sirens-sound-in-spearfish-take-cover",
+    "description": "Outdoor warning sirens are activated for severe weather that may pose an immediate threat to life. When they sound, people should take cover in the safest place available in their immediate vicinity ASAP.",
+    "published": "Tue, 02 Jun 2026 08:48:37 -0700",
+    "start_dt": "Tue, 02 Jun 2026 08:48:37 -0700",
+    "record_type": "press_release",
+    "source_label": "City of Spearfish"
   }
 ]
