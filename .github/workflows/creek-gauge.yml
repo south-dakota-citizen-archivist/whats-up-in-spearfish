@@ -1,9 +1,9 @@
 name: Creek Gauge Update
 
 on:
-  schedule:
+  # schedule:
     # Every 30 minutes
-    - cron: '*/30 * * * *'
+    # - cron: '*/30 * * * *'
   workflow_dispatch:
 
 concurrency:
