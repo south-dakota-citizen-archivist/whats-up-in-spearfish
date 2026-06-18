@@ -1879,5 +1879,71 @@
     "image_url": "https://npr.brightspotcdn.com/legacy/prod/filer_public/kusd-bento-live-pbs/Entertainment%20Blog/Heather%20Benson/6085993c4f_rick_kahler_from_bhs_on_1_30_20_credit_paul_shackow_0.jpg",
     "record_type": "news",
     "source_label": "SDPB"
+  },
+  {
+    "url": "https://www.sdpb.org/education/2026-06-17/report-sd-ranks-22nd-nationally-in-overall-child-well-being-bottom-half-in-education",
+    "title": "Report: SD ranks 22nd nationally in overall child well-being, bottom half in education",
+    "slug": "sdpb-report-sd-ranks-22nd-nationally-in-overall-child-well-being-bottom-half-in",
+    "published": "2026-06-17",
+    "byline": "By Jackson Dircks",
+    "description": "Despite <a href=\"https://assets.aecf.org/m/resourcedoc/2026-KCDB-profile-SD.pdf\" target=\"_blank\" link-data=\"{\"cms.site.owner\":{\"_ref\":\"00000178-5ae7-d19d-a1fa-ffef051d0000\",\"_type\":\"ae3387cc-b875-31b7-b82d-63fd8d758c20\"},\"cms.content.publishDate\":1781125090446,\"cms.content.publishUser\":{\"_ref\":\"0000018f-9cae-de7b-a1df-ffef3dcd0000\",\"_type\":\"6aa69ae1-35be-30dc-87e9-410da9e1cdcc\"},\"cms.content.updateDate\":1781125090446,\"cms.content.updateUser\":{\"_ref\":\"0000018f-9cae-de7b-a1df-ffef3dcd0000\",\"_type\":\"6aa69ae1-35be-30dc-87e9-410da9e1cdcc\"},\"cms.directory.paths\":[],\"anchorable.showAnchor\":false,\"link\":{\"cms.directory.paths\":[],\"attributes\":[],\"linkText\":\"<b>ranking South Dakota</b>\",\"target\":\"NEW\",\"attachSourceUrl\":false,\"url\":\"https://assets.aecf.org/m/resourcedoc/2026-KCDB-profile-SD.pdf\",\"_id\":\"0000019e-b353-d3e6-a1de-f7dff7af0000\",\"_type\":\"ff658216-e70f-39d0-b660-bdfe57a5599a\"},\"_id\":\"0000019e-b353-d3e6-a1de-f7dff6eb0000\",\"_type\":\"809caec9-30e2-3666-8b71-b32ddbffc288\"}\"><b>ranking South Dakota</b></a> in the top half of the nation overall for children, a new report suggests the state has room to improve in education.",
+    "image_url": "https://npr.brightspotcdn.com/e6/d5/9d648e2243f3bb420e1ce53f5525/school-teaching-education-sdpb.jpg",
+    "record_type": "news",
+    "source_label": "SDPB"
+  },
+  {
+    "url": "https://www.sdpb.org/crime-courts/2026-06-17/fbi-atf-to-partner-with-tribal-authorities-to-crack-cold-cases",
+    "title": "FBI, ATF to partner with tribal authorities to crack cold cases",
+    "slug": "sdpb-fbi-atf-to-partner-with-tribal-authorities-to-crack-cold-cases",
+    "published": "2026-06-17",
+    "byline": "By C.J. Keene",
+    "description": "Authorities are looking for methods to close gaps preventing justice from being served when violent crimes happen on reservation settings. Now, the FBI, ATF, and tribal law enforcement are doubling down on these efforts.",
+    "image_url": "https://npr.brightspotcdn.com/32/ce/b4b1b71b4248939a5a3f9ce108ba/image-84.jpg",
+    "record_type": "news",
+    "source_label": "SDPB"
+  },
+  {
+    "url": "https://www.sdpb.org/politics/2026-06-16/head-of-legislative-research-council-resigns-interim-director-appointed",
+    "title": "Head of Legislative Research Council resigns; interim director appointed",
+    "slug": "sdpb-head-of-legislative-research-council-resigns-interim-director-appointed",
+    "published": "2026-06-16",
+    "byline": "By Jackson Dircks",
+    "description": "The head of the Legislative Research Council has resigned. A search to find a new, permanent director is underway.",
+    "image_url": "https://npr.brightspotcdn.com/legacy/prod/filer_public/kusd-bento-live-pbs/Cara/e6c15052dd_capitol.jpg",
+    "record_type": "news",
+    "source_label": "SDPB"
+  },
+  {
+    "url": "https://www.sdpb.org/business-economics/2026-06-16/state-labor-official-believes-ai-could-help-south-dakota-workforce-challenges",
+    "title": "State labor official believes AI could help South Dakota workforce challenges",
+    "slug": "sdpb-state-labor-official-believes-ai-could-help-south-dakota-workforce",
+    "published": "2026-06-16",
+    "byline": "By Jackson Dircks",
+    "description": "While there’s fear Artificial Intelligence could negatively impact much of the nation’s workforce, one South Dakota official believes the tech could help the state’s workforce struggles rather than negatively impact it.",
+    "image_url": "https://npr.brightspotcdn.com/8d/4b/66cc17564f87a21b7710cc0418f2/south-dakota-sd-cash-money-economy-business.jpg",
+    "record_type": "news",
+    "source_label": "SDPB"
+  },
+  {
+    "url": "https://www.sdpb.org/healthcare/2026-06-16/lost-found-announces-plans-to-dissolve-awaits-acquisition-of-programming",
+    "title": "Lost & Found announces plans to dissolve, awaits acquisition of programming",
+    "slug": "sdpb-lost-found-announces-plans-to-dissolve-awaits-acquisition-of-programming",
+    "published": "2026-06-16",
+    "byline": "By Jackie Hendry",
+    "description": "The Sound Dakota-based nonprofit dedicated to preventing suicide is dissolving, but its leadership says there's a path forward despite limited funding.",
+    "image_url": "https://npr.brightspotcdn.com/1c/b1/04d36e024ea0b5544cddfffe30ee/lostandfound-empty-office.jpg",
+    "record_type": "news",
+    "source_label": "SDPB"
+  },
+  {
+    "url": "https://www.sdpb.org/healthcare/2026-06-16/west-nile-virus-detected-in-south-dakota-mosquitoes",
+    "title": "West Nile virus detected in South Dakota mosquitoes",
+    "slug": "sdpb-west-nile-virus-detected-in-south-dakota-mosquitoes",
+    "published": "2026-06-16",
+    "byline": "By Julia Stelter",
+    "description": "Health officials have confirmed West Nile virus in mosquitoes in South Dakota for the first time this season.",
+    "image_url": "https://npr.brightspotcdn.com/legacy/prod/filer_public/kusd-bento-live-pbs/DEC2/a947fa209a_mm6831a1_WestNileVirus_09Aug19_Image1_1200x675.jpg",
+    "record_type": "news",
+    "source_label": "SDPB"
   }
 ]

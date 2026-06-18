@@ -88,5 +88,15 @@
     "start_dt": "Mon, 08 Jun 2026 13:34:27 -0700",
     "record_type": "alert",
     "source_label": "City of Spearfish"
+  },
+  {
+    "url": "https://www.spearfish.gov/AlertCenter.aspx?AID=66",
+    "title": "City of Spearfish - Juneteenth Closure",
+    "slug": "city-of-spearfish-juneteenth-closure",
+    "description": "City Hall Offices, Library, & Restricted Use Site will be closed on Friday June 19, 2026. There will be no changes to garbage collection.",
+    "published": "Thu, 18 Jun 2026 08:44:20 -0700",
+    "start_dt": "Thu, 18 Jun 2026 08:44:20 -0700",
+    "record_type": "alert",
+    "source_label": "City of Spearfish"
   }
 ]

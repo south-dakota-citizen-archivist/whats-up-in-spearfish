@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-06-08T19:21:20.025433+00:00",
+  "fetched_at": "2026-06-18T19:28:04.380076+00:00",
   "cases": [
     {
       "ccid": "123",
@@ -74,6 +74,10 @@
       "docs_url": "https://danr.sd.gov/public/ccdocs.aspx?CCID=CCID117",
       "documents": [
         {
+          "label": "Department's Response to Potters' Post-Hearing Brief, and Department's Objection to Potters' Proposed Findings of Fact & Conclusions of Law",
+          "url": "https://danr.sd.gov/Environment/WasteManagement/docs/MadisonContestedCase2024/DANR Response Brief and Objxn FOF & COL.Madison RUS Permit Application.service 06 12 2026.pdf"
+        },
+        {
           "label": "Potters' Proposed Order",
           "url": "https://danr.sd.gov/Environment/WasteManagement/docs/MadisonContestedCase2024/Potters - Proposed Order.pdf"
         },
@@ -88,13 +92,9 @@
         {
           "label": "Potters' Post-Hearing Brief",
           "url": "https://danr.sd.gov/Environment/WasteManagement/docs/MadisonContestedCase2024/Potters - Post Hearing Brief.pdf"
-        },
-        {
-          "label": "Extension of Briefing Schedule",
-          "url": "https://danr.sd.gov/Environment/WasteManagement/docs/MadisonContestedCase2024/BriefingScheduleExtension.pdf"
         }
       ],
-      "total_docs": 61,
+      "total_docs": 62,
       "latest_doc_date": "0000-00-00"
     },
     {
@@ -158,6 +158,14 @@
       "docs_url": "https://danr.sd.gov/public/ccdocs.aspx?CCID=CCID125",
       "documents": [
         {
+          "label": "Sending Contested Case Hearing Information to Commenters",
+          "url": "https://danr.sd.gov/Press/docs/publicnotices/FeedlotCCH/HearingInfoLtr.pdf"
+        },
+        {
+          "label": "Sending Draft Response to Comments to Petitioners and Commenters",
+          "url": "https://danr.sd.gov/Press/docs/publicnotices/FeedlotCCH/DraftResponseCommentsLtr.pdf"
+        },
+        {
           "label": "Draft Response to Comments",
           "url": "https://danr.sd.gov/Press/docs/publicnotices/FeedlotCCH/DraftResponseComments.pdf"
         },
@@ -168,17 +176,9 @@
         {
           "label": "Comments",
           "url": "https://danr.sd.gov/Press/docs/publicnotices/FeedlotCCH/Comments.pdf"
-        },
-        {
-          "label": "NPDES Permit Statement of Basis",
-          "url": "https://danr.sd.gov/Press/docs/publicnotices/FeedlotCCH/NPDESPermitSoB.pdf"
-        },
-        {
-          "label": "Draft NPDES Permit",
-          "url": "https://danr.sd.gov/Press/docs/publicnotices/FeedlotCCH/NPDESPermitDraft.pdf"
         }
       ],
-      "total_docs": 8,
+      "total_docs": 10,
       "latest_doc_date": "0000-00-00"
     },
     {
@@ -189,6 +189,10 @@
       "description": "Application for a water permit to appropriate up to 154 acre-feet of water annually at a maximum combined pump rate of 0.50 cubic feet of water per second from one existing well and up to two additional wells to be completed into the Dakota Aquifer (approximately 1,540 feet deep) located in the NW 1/4 NW 1/4 Section 9 for commercial use in a swine facility located in the NW 1/4 Section 9; all in T121N-R71W.",
       "docs_url": "https://danr.sd.gov/public/ccdocs.aspx?CCID=CCID129",
       "documents": [
+        {
+          "label": "Proposed Findings of Fact & Conclusions of Law - Counsel for Petitioners",
+          "url": "https://danr.sd.gov/wrimage/pub/8991-3_propFOF_pet.pdf"
+        },
         {
           "label": "Response to Applicant's Findings of Fact - Counsel for Chief Engineer",
           "url": "https://danr.sd.gov/wrimage/pub/8991-3_Response to Applicant's Findings of Fact.pdf"
@@ -204,13 +208,9 @@
         {
           "label": "Filings Submitted by Counsel for Water Management Board",
           "url": "https://danr.sd.gov/wrimage/pub/8991-3_greco_2.pdf"
-        },
-        {
-          "label": "Notice of Appearance - Legal Counsel for Petitioners (Heinz & Abarca)",
-          "url": "https://danr.sd.gov/wrimage/pub/8991-3_notappear_pet.pdf"
         }
       ],
-      "total_docs": 21,
+      "total_docs": 22,
       "latest_doc_date": "0000-00-00"
     },
     {
@@ -221,6 +221,10 @@
       "description": "Application for a water permit to appropriate up to 2.45 acre-feet of water annually at a maximum pump rate of 0.22 cubic feet of water per second from one existing well completed into the Grey Goose Aquifer (90 feet deep). The well, located in the NW 1/4 SE 1/4 Section 34, will supply water for commercial use at an RV Park to be located in the SE 1/4 Section 34; all in T113N-R80W.",
       "docs_url": "https://danr.sd.gov/public/ccdocs.aspx?CCID=CCID127",
       "documents": [
+        {
+          "label": "Filings Submitted by Counsel for the Applicant",
+          "url": "https://danr.sd.gov/wrimage/pub/8987-3_objFOF_app.pdf"
+        },
         {
           "label": "Notice",
           "url": "https://danr.sd.gov/wrimage/pub/8987-3_noticeerror0001.pdf"
@@ -236,13 +240,9 @@
         {
           "label": "Petitioner's Response to Applicant's Pre-Hearing Submission",
           "url": "https://danr.sd.gov/wrimage/pub/8987-3_petresponse.pdf"
-        },
-        {
-          "label": "Filings Submitted by Counsel for the Chief Engineer",
-          "url": "https://danr.sd.gov/wrimage/pub/8987-3_greco_2.pdf"
         }
       ],
-      "total_docs": 25,
+      "total_docs": 26,
       "latest_doc_date": "0000-00-00"
     },
     {
@@ -286,6 +286,14 @@
       "docs_url": "https://danr.sd.gov/public/ccdocs.aspx?CCID=CCID128",
       "documents": [
         {
+          "label": "Notice of Entry of Procedural and Scheduling Order - Counsel for Water Management Board",
+          "url": "https://danr.sd.gov/wrimage/pub/8990-3_proc_sch_order.pdf"
+        },
+        {
+          "label": "Notice of Appearance - Counsel for Chief Engineer & Water Rights Program",
+          "url": "https://danr.sd.gov/wrimage/pub/8990-3_notapp_CE.pdf"
+        },
+        {
           "label": "Notice of Appearance - Counsel for Applicant",
           "url": "https://danr.sd.gov/wrimage/pub/8990-3_notapp_app.pdf"
         },
@@ -296,17 +304,9 @@
         {
           "label": "Notice of Automatic Delay of Hearing",
           "url": "https://danr.sd.gov/wrimage/pub/8990-3_not2_dly.pdf"
-        },
-        {
-          "label": "Request for Automatic Delay - Petitioner Arthur",
-          "url": "https://danr.sd.gov/wrimage/pub/8990-3_requestdly.pdf"
-        },
-        {
-          "label": "Notice of Hearing",
-          "url": "https://danr.sd.gov/wrimage/pub/8990-3_not.pdf"
         }
       ],
-      "total_docs": 10,
+      "total_docs": 12,
       "latest_doc_date": "0000-00-00"
     },
     {

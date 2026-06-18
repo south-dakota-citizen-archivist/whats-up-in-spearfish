@@ -1,5 +1,18 @@
 [
   {
+    "url": "https://untappd.com/b/infusion-brewing-company-vanilla-bean-blonde-ale/622119",
+    "title": "Vanilla Bean Blonde Ale",
+    "slug": "vanilla-bean-blonde-ale",
+    "category": "Blonde / Golden Ale - Other",
+    "abv": "4.8%",
+    "ibu": "16",
+    "brewery": "Infusion Brewing Company",
+    "rating": "3.8",
+    "image_url": "https://labels.untappd.com/622119",
+    "record_type": "beer",
+    "source_label": "Redwater Kitchen"
+  },
+  {
     "url": "https://untappd.com/b/laughing-sun-brewing-co-droppin-cones/1391906",
     "title": "Droppin' Cones",
     "slug": "droppin-cones",
@@ -104,19 +117,6 @@
     "source_label": "Redwater Kitchen"
   },
   {
-    "url": "https://untappd.com/b/new-belgium-brewing-company-voodoo-ranger-sweet-ride-juicy-ipa/6496375",
-    "title": "Voodoo Ranger Sweet Ride Juicy IPA",
-    "slug": "voodoo-ranger-sweet-ride-juicy-ipa",
-    "category": "IPA - Other",
-    "abv": "6.5%",
-    "ibu": "25",
-    "brewery": "New Belgium Brewing Company",
-    "rating": "3.7",
-    "image_url": "https://labels.untappd.com/6496375",
-    "record_type": "beer",
-    "source_label": "Redwater Kitchen"
-  },
-  {
     "url": "https://untappd.com/b/sawyer-brewing-co-blood-orange-blonde-ale/3627064",
     "title": "Blood Orange Blonde Ale",
     "slug": "blood-orange-blonde-ale",
@@ -124,7 +124,7 @@
     "abv": "4.9%",
     "ibu": "18",
     "brewery": "Sawyer Brewing Co",
-    "rating": "3.61",
+    "rating": "3.62",
     "image_url": "https://labels.untappd.com/3627064",
     "record_type": "beer",
     "source_label": "Redwater Kitchen"

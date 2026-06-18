@@ -1830,5 +1830,116 @@
     "category": "Campus Calendar/Events",
     "record_type": "event",
     "source_label": "BHSU Campus Calendar"
+  },
+  {
+    "event_id": "ea8ac3d4-0e6e-4cea-a80b-5b81611485b2",
+    "url": "https://bhsu.edu/campus-calendar.html#event-details/ea8ac3d4-0e6e-4cea-a80b-5b81611485b2",
+    "title": "Sim Civics - Professional Development Seminar for K-12 Teachers",
+    "slug": "sim-civics-professional-development-seminar-for-k-12-teachers",
+    "description": "Sim Civics – Professional Development Seminar for K-12 Teachers Sponsored by: Sim Civics Program, Center for Civic Engagement, BHSU Location: Black Hills State University, Spearfish For more information: JASON MCCONNELL Director Center for Civic Engagement Jonas Academic, 123 Black Hills State University P: 605.642.6028 | E: Jason.McConnell@BHSU.edu",
+    "start_dt": "2026-07-13",
+    "end_dt": "2026-07-15",
+    "location": "BHSU - Spearfish",
+    "image_url": "",
+    "image_alt": "",
+    "organizer": "Jason McConnell",
+    "tags": [
+      "CCE",
+      "Home"
+    ],
+    "featured": false,
+    "ticket_url": "",
+    "category": "Campus Calendar/Events",
+    "record_type": "event",
+    "source_label": "BHSU Campus Calendar"
+  },
+  {
+    "event_id": "999e08c3-707c-4d7d-ae5f-8608bae5d005",
+    "url": "https://bhsu.edu/campus-calendar.html#event-details/999e08c3-707c-4d7d-ae5f-8608bae5d005",
+    "title": "Jeffrey Engel – “America at 250: A Founder’s Report Card”",
+    "slug": "jeffrey-engel-america-at-250-a-founders-report-card",
+    "description": "Jeffrey Engel – “America at 250: A Founder’s Report Card” Sponsored by: Sim Civics Program, Center for Civic Engagement, BHSU Location: Black Hills State University, Spearfish For more information: JASON MCCONNELL Director Center for Civic Engagement Jonas Academic, 123 Black Hills State University P: 605.642.6028 | E: Jason.McConnell@BHSU.edu",
+    "start_dt": "2026-07-15",
+    "end_dt": "2026-07-15",
+    "location": "BHSU - Spearfish",
+    "image_url": "",
+    "image_alt": "",
+    "organizer": "Jason McConnell",
+    "tags": [
+      "CCE",
+      "Home"
+    ],
+    "featured": false,
+    "ticket_url": "",
+    "category": "Campus Calendar/Events",
+    "record_type": "event",
+    "source_label": "BHSU Campus Calendar"
+  },
+  {
+    "event_id": "a977df01-af3c-4eaf-8907-e562212b3e21",
+    "url": "https://bhsu.edu/campus-calendar.html#event-details/a977df01-af3c-4eaf-8907-e562212b3e21",
+    "title": "Sim Civics – Professional Development Seminar for K-12 Teachers",
+    "slug": "sim-civics-professional-development-seminar-for-k-12-teachers",
+    "description": "Sim Civics – Professional Development Seminar for K-12 Teachers Sponsored by: Sim Civics Program, Center for Civic Engagement, BHSU Location: TBA For more information: JASON MCCONNELL Director Center for Civic Engagement Jonas Academic, 123 Black Hills State University P: 605.642.6028 | E: Jason.McConnell@BHSU.edu",
+    "start_dt": "2026-07-31",
+    "end_dt": "2026-08-02",
+    "location": "",
+    "image_url": "",
+    "image_alt": "",
+    "organizer": "Jason McConnell",
+    "tags": [
+      "CCE",
+      "Home"
+    ],
+    "featured": false,
+    "ticket_url": "",
+    "category": "Campus Calendar/Events",
+    "record_type": "event",
+    "source_label": "BHSU Campus Calendar"
+  },
+  {
+    "event_id": "6396e926-9ca7-4e4f-bfa4-9722be45ea9d",
+    "url": "https://bhsu.edu/campus-calendar.html#event-details/6396e926-9ca7-4e4f-bfa4-9722be45ea9d",
+    "title": "Sim Civics – Professional Development Seminar for K-12 Teachers",
+    "slug": "sim-civics-professional-development-seminar-for-k-12-teachers",
+    "description": "Sim Civics – Professional Development Seminar for K-12 Teachers Sponsored by: Sim Civics Program, Center for Civic Engagement, BHSU Location: TBA For more information: JASON MCCONNELL Director Center for Civic Engagement Jonas Academic, 123 Black Hills State University P: 605.642.6028 | E: Jason.McConnell@BHSU.edu",
+    "start_dt": "2026-08-18",
+    "end_dt": "2026-08-20",
+    "location": "",
+    "image_url": "",
+    "image_alt": "",
+    "organizer": "Jason McConnell",
+    "tags": [
+      "CCE",
+      "Home"
+    ],
+    "featured": false,
+    "ticket_url": "",
+    "category": "Campus Calendar/Events",
+    "record_type": "event",
+    "source_label": "BHSU Campus Calendar"
+  },
+  {
+    "event_id": "a6dd4c38-03a2-4f4b-89d1-6cba4a519602",
+    "url": "https://bhsu.edu/campus-calendar.html#event-details/a6dd4c38-03a2-4f4b-89d1-6cba4a519602",
+    "title": "Chalk the Walk",
+    "slug": "chalk-the-walk",
+    "description": "Chalk the Walk is a global initiative aimed at promoting suicide prevention and mental well-being. It encourages communities to use chalk to create messages of hope and resilience on sidewalks, driveways, and entryways. This event serves as a reminder that those struggling with mental health issues are not alone and that support is available. The initiative aims to break down stigma, promote open conversations, and create a ripple of hope through simple acts of kindness. The event team will have several stations around the campus promoting the event and will be supplied with plenty of chalk to offer to willing participants.",
+    "start_dt": "2026-09-10T15:00",
+    "end_dt": "2026-09-10T20:00",
+    "location": "Student Union Outside Student Union",
+    "image_url": "",
+    "image_alt": "",
+    "organizer": "Kyle Jones",
+    "tags": [
+      "Community Event",
+      "BHSU Event",
+      "Home"
+    ],
+    "featured": false,
+    "ticket_url": "",
+    "category": "Campus Calendar/Events",
+    "record_type": "event",
+    "source_label": "BHSU Campus Calendar"
   }
 ]

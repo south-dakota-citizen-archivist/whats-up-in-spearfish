@@ -2286,5 +2286,31 @@
     "website": "http://westernheritagecenter.com",
     "record_type": "event",
     "source_label": "Spearfish Chamber"
+  },
+  {
+    "url": "https://business.spearfishchamber.org/events/details/live-music-ice-cream-social-30804",
+    "title": "Live Music & Ice Cream Social",
+    "slug": "live-music-ice-cream-social",
+    "start_dt": "2026-06-12 1:00 PM MDT",
+    "end_dt": "2026-06-12 3:00 PM MDT",
+    "location": "Spearfish Senior Center 1306 N 10th St. Spearfish, 57783",
+    "fees": "Free will donation",
+    "description": "Live Music & Ice Cream Social on Friday, June 12th 1PM-3PM. Join Us for an afternoon with the Golden Creek Trio & The Kingstons Band. It’ll be a fun, relaxing afternoon filled with music & friendship. Free will donation at the door, 100% of proceeds go toward our New Building Fund. Open to the public! Located at the Spearfish Senior Center 1306 N 10th St. Spearfish.",
+    "website": "http://www.spearfishseniorcenter.com",
+    "record_type": "event",
+    "source_label": "Spearfish Chamber"
+  },
+  {
+    "url": "https://business.spearfishchamber.org/events/details/ice-cream-social-30807",
+    "title": "ICE CREAM SOCIAL",
+    "slug": "ice-cream-social",
+    "start_dt": "2026-06-27 2:00 PM MDT",
+    "end_dt": "2026-06-27 4:00 PM MDT",
+    "location": "435 Meier Ave. Spearfish",
+    "fees": "$25 per attendee, $10 per child (12 years old and under)",
+    "description": "Grab a lawn chair and some friends, and join us for a good old-fashioned Ice Cream Social. Delicious handcrafted local ice cream from Leones’ Creamery. Yummy homemade cookies from our development committee. Live music from Black Hills Gamelan \"Joyful Heart\", a dynamic community musical ensemble. This Fundraiser Event is presented by the Spearfish Museum Development Committee. Secure your tickets here: https://www.spearfishmuseum.org/events",
+    "website": "https://www.spearfishmuseum.org/events",
+    "record_type": "event",
+    "source_label": "Spearfish Chamber"
   }
 ]

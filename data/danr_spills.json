@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-05-31T18:01:57.765559+00:00",
+  "fetched_at": "2026-06-18T19:30:27.330211+00:00",
   "lookback_days": 30,
   "total_bh_sites": 3296,
   "known_ids": [
@@ -3302,27 +3302,8 @@
   ],
   "new_records": [
     {
-      "objectid": 1323723,
-      "first_seen": "2026-05-19",
-      "id_raw": 2026.073,
-      "year": 2026,
-      "pdf_url": "https://danr.sd.gov/spillimages/2026/2026.073.pdf",
-      "site_name": "FEDEX Truck Fire - Cheyenne River",
-      "site_type": "Other(See Case File)",
-      "status": "O",
-      "street": "W-bound I-90 near MM 98",
-      "city": "Wasta",
-      "county": "Pennington",
-      "spill_cat": "Petroleum",
-      "material": "Diesel",
-      "sor_type": "Fuel Tank",
-      "resp_party": "FEDEX",
-      "lat": 44.064446,
-      "lon": -102.442657
-    },
-    {
       "objectid": 1311294,
-      "first_seen": "2026-05-13",
+      "first_seen": "2026-06-18",
       "id_raw": 2026.006,
       "year": 2026,
       "pdf_url": "https://danr.sd.gov/spillimages/2026/2026.006.pdf",
@@ -3341,7 +3322,7 @@
     },
     {
       "objectid": 1311295,
-      "first_seen": "2026-05-13",
+      "first_seen": "2026-06-18",
       "id_raw": 2026.007,
       "year": 2026,
       "pdf_url": "https://danr.sd.gov/spillimages/2026/2026.007.pdf",
@@ -3360,7 +3341,7 @@
     },
     {
       "objectid": 1312502,
-      "first_seen": "2026-05-13",
+      "first_seen": "2026-06-18",
       "id_raw": 2026.013,
       "year": 2026,
       "pdf_url": "https://danr.sd.gov/spillimages/2026/2026.013.pdf",
@@ -3379,7 +3360,7 @@
     },
     {
       "objectid": 1312903,
-      "first_seen": "2026-05-13",
+      "first_seen": "2026-06-18",
       "id_raw": 2026.018,
       "year": 2026,
       "pdf_url": "https://danr.sd.gov/spillimages/2026/2026.018.pdf",
@@ -3398,7 +3379,7 @@
     },
     {
       "objectid": 1313302,
-      "first_seen": "2026-05-13",
+      "first_seen": "2026-06-18",
       "id_raw": 2026.021,
       "year": 2026,
       "pdf_url": "https://danr.sd.gov/spillimages/2026/2026.021.pdf",
@@ -3417,7 +3398,7 @@
     },
     {
       "objectid": 1314903,
-      "first_seen": "2026-05-13",
+      "first_seen": "2026-06-18",
       "id_raw": 2026.027,
       "year": 2026,
       "pdf_url": "https://danr.sd.gov/spillimages/2026/2026.027.pdf",
@@ -3436,7 +3417,7 @@
     },
     {
       "objectid": 1316108,
-      "first_seen": "2026-05-13",
+      "first_seen": "2026-06-18",
       "id_raw": 2026.037,
       "year": 2026,
       "pdf_url": "https://danr.sd.gov/spillimages/2026/2026.037.pdf",
@@ -3455,7 +3436,7 @@
     },
     {
       "objectid": 1317711,
-      "first_seen": "2026-05-13",
+      "first_seen": "2026-06-18",
       "id_raw": 2026.044,
       "year": 2026,
       "pdf_url": "https://danr.sd.gov/spillimages/2026/2026.044.pdf",
@@ -3471,6 +3452,25 @@
       "resp_party": "Black Hills Energy",
       "lat": 44.078963,
       "lon": -103.230137
+    },
+    {
+      "objectid": 1323723,
+      "first_seen": "2026-05-19",
+      "id_raw": 2026.073,
+      "year": 2026,
+      "pdf_url": "https://danr.sd.gov/spillimages/2026/2026.073.pdf",
+      "site_name": "FEDEX Truck Fire - Cheyenne River",
+      "site_type": "Other(See Case File)",
+      "status": "O",
+      "street": "W-bound I-90 near MM 98",
+      "city": "Wasta",
+      "county": "Pennington",
+      "spill_cat": "Petroleum",
+      "material": "Diesel",
+      "sor_type": "Fuel Tank",
+      "resp_party": "FEDEX",
+      "lat": 44.064446,
+      "lon": -102.442657
     }
   ]
 }

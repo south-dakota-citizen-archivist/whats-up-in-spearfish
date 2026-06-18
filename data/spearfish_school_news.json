@@ -61,5 +61,14 @@
     "description": "Unofficial School Board Election Results",
     "record_type": "press_release",
     "source_label": "Spearfish School District"
+  },
+  {
+    "url": "https://www.spearfish.k12.sd.us/article/2977355",
+    "title": "School Board Announcement",
+    "slug": "school-board-announcement",
+    "published": "2026-06-09",
+    "description": "School Board Announcement",
+    "record_type": "press_release",
+    "source_label": "Spearfish School District"
   }
 ]

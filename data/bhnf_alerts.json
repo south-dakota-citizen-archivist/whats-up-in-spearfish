@@ -31,6 +31,16 @@
   },
   {
     "record_type": "alert",
+    "title": "Flag Mountain Area Closure June 18-24",
+    "url": "https://www.fs.usda.gov/r02/blackhills/alerts/flag-mountain-area-closure-june-18-24",
+    "description": "Black Hills National Forest announces a temporary area and road closure near Flag Mountain from June 18–24, 2026.",
+    "published": "2026-06-18",
+    "source_label": "BHNF",
+    "alert_type": "information",
+    "forest_order": "BKF-192-2026"
+  },
+  {
+    "record_type": "alert",
     "title": "Temporary Road Closure: NFSR 353.2C near Keystone, SD",
     "url": "https://www.fs.usda.gov/r02/blackhills/alerts/temporary-road-closure-nfsr-3532c-near-keystone-sd",
     "description": "Forest Road 353.2C near Keystone, SD is closed to motor vehicles, June 1–July 1, 2026. Check the Black Hills NF alerts page or call for details.",

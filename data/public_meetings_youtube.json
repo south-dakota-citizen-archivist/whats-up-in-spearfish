@@ -385,5 +385,32 @@
     "source_label": "Lawrence County",
     "channel_url": "https://www.youtube.com/channel/UC2CZKGr9OGrsMcCZkW0_HMA",
     "record_type": "youtube_video"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=Le_sjLs9fl0",
+    "title": "SSD School Board Meeting 8:27 PM 06/08/2026",
+    "published": "2026-06-09",
+    "thumbnail_url": "https://i1.ytimg.com/vi/Le_sjLs9fl0/hqdefault.jpg",
+    "source_label": "Spearfish School District",
+    "channel_url": "https://www.youtube.com/@spearfishschooldistrictliv3794/streams",
+    "record_type": "youtube_video"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=s-PeI64dBhE",
+    "title": "SSD School Board Meeting 5:30 PM 06/08/2026",
+    "published": "2026-06-09",
+    "thumbnail_url": "https://i4.ytimg.com/vi/s-PeI64dBhE/hqdefault.jpg",
+    "source_label": "Spearfish School District",
+    "channel_url": "https://www.youtube.com/@spearfishschooldistrictliv3794/streams",
+    "record_type": "youtube_video"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=tf4dyLicpKs",
+    "title": "Lawrence County Commission Meeting - June 9, 2026",
+    "published": "2026-06-10",
+    "thumbnail_url": "https://i1.ytimg.com/vi/tf4dyLicpKs/hqdefault.jpg",
+    "source_label": "Lawrence County",
+    "channel_url": "https://www.youtube.com/channel/UC2CZKGr9OGrsMcCZkW0_HMA",
+    "record_type": "youtube_video"
   }
 ]

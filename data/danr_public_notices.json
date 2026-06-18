@@ -1,76 +1,6 @@
 {
-  "fetched_at": "2026-06-08T19:19:05.621285+00:00",
+  "fetched_at": "2026-06-18T19:25:44.319967+00:00",
   "notices": [
-    {
-      "notice_type": "Surface Water Discharge (NPDES)",
-      "deadline": "06/08/2026",
-      "comment_url": "https://danr.sd.gov/public/comment.aspx?d_comment=06/08/2026&name=City of Alcester&pntype=sw_npdes&description=The City of Alcester is authorized under this permit to discharge to East Brule Creek from its wastewater treatment facility located in Union County.",
-      "name": "City of Alcester",
-      "description": "The City of Alcester is authorized under this permit to discharge to East Brule Creek from its wastewater treatment facility located in Union County.",
-      "location": "Union County",
-      "links": [
-        {
-          "label": "Public Notice",
-          "url": "https://danr.sd.gov/officeofwater/surfacewaterquality/pn/AlcesterDraftPNFR.pdf"
-        },
-        {
-          "label": "Draft Permit",
-          "url": "https://danr.sd.gov/officeofwater/surfacewaterquality/pn/AlcesterPermitDraftFR.pdf"
-        },
-        {
-          "label": "Statement of Basis",
-          "url": "https://danr.sd.gov/officeofwater/surfacewaterquality/pn/AlcesterSOBDraftFR.pdf"
-        }
-      ]
-    },
-    {
-      "notice_type": "Water Rights",
-      "deadline": "06/08/2026",
-      "comment_url": "",
-      "application_no": "9022-3",
-      "name": "Leonard Sigdestad, c/o Jim  Thyen,\u00a0Grand Terrace\u00a0CA",
-      "location": "Codington",
-      "water_source": "Antelope Valley Aquifer",
-      "use_type": "Irrigation (40 acres)",
-      "links": [
-        {
-          "label": "Public Notice",
-          "url": "https://danr.sd.gov/wrimage/pub/9022-3_app.pdf"
-        },
-        {
-          "label": "Appl.",
-          "url": "https://danr.sd.gov/wrimage/pub/9022-3_apl.pdf"
-        },
-        {
-          "label": "Recom. Action",
-          "url": "https://danr.sd.gov/wrimage/pub/9022-3_rec.pdf"
-        }
-      ]
-    },
-    {
-      "notice_type": "Water Rights",
-      "deadline": "06/08/2026",
-      "comment_url": "",
-      "application_no": "2050-1",
-      "name": "Venekamps LLC, Willis Venekamp,\u00a0Rapid City\u00a0SD",
-      "location": "Meade",
-      "water_source": "Inyan Kara Aquifer",
-      "use_type": "Water Distribution System",
-      "links": [
-        {
-          "label": "Public Notice",
-          "url": "https://danr.sd.gov/wrimage/pub/2050-1_app.pdf"
-        },
-        {
-          "label": "Appl.",
-          "url": "https://danr.sd.gov/wrimage/pub/2050-1_apl.pdf"
-        },
-        {
-          "label": "Recom. Action",
-          "url": "https://danr.sd.gov/wrimage/pub/2050-1_rec.pdf"
-        }
-      ]
-    },
     {
       "notice_type": "Water Rights \u2014 Future Use Review",
       "deadline": "06/08/2026",
@@ -176,304 +106,6 @@
         {
           "label": "Recom. Action",
           "url": "https://danr.sd.gov/wrimage/pub/5358-3_rec.pdf"
-        }
-      ]
-    },
-    {
-      "notice_type": "Surface Water Discharge (NPDES)",
-      "deadline": "06/12/2026",
-      "comment_url": "https://danr.sd.gov/public/comment.aspx?d_comment=06/12/2026&name=City of Flandreau&pntype=sw_npdes&description=The City of Flandreau is authorized under this permit to discharge to the Big Sioux River from its wastewater treatment facility located in Moody County.",
-      "name": "City of Flandreau",
-      "description": "The City of Flandreau is authorized under this permit to discharge to the Big Sioux River from its wastewater treatment facility located in Moody County.",
-      "location": "Moody County",
-      "links": [
-        {
-          "label": "Public Notice",
-          "url": "https://danr.sd.gov/officeofwater/surfacewaterquality/pn/FlandreauPN.pdf"
-        },
-        {
-          "label": "Draft Permit",
-          "url": "https://danr.sd.gov/officeofwater/surfacewaterquality/pn/FlandreauPermit.pdf"
-        },
-        {
-          "label": "Statement of Basis",
-          "url": "https://danr.sd.gov/officeofwater/surfacewaterquality/pn/FlandreauSOB.pdf"
-        }
-      ]
-    },
-    {
-      "notice_type": "Air Quality Permit",
-      "deadline": "06/13/2026",
-      "comment_url": "https://danr.sd.gov/public/comment.aspx?d_comment=06/13/2026&name=CoAxis Energy&pntype=aq&description=CoAxis proposes construction for its liquid natural gas facility. The DANR recommends issuance of an air quality construction permit.\u201d",
-      "description": "CoAxis proposes construction for its liquid natural gas facility. The DANR recommends issuance of an air quality construction permit.\u201d",
-      "location": "Buffalo",
-      "links": [
-        {
-          "label": "Public Notice",
-          "url": "http://danr.sd.gov/Environment/AirQuality/PN/CAEpn.pdf"
-        },
-        {
-          "label": "Draft Permit",
-          "url": "http://danr.sd.gov/Environment/AirQuality/PN/CAEdp.pdf"
-        },
-        {
-          "label": "Application Review",
-          "url": "http://danr.sd.gov/Environment/AirQuality/PN/CAEsb.pdf"
-        }
-      ]
-    },
-    {
-      "notice_type": "Surface Water Enhancement & Restoration",
-      "deadline": "06/13/2026",
-      "comment_url": "https://danr.sd.gov/public/comment.aspx?d_comment=06/13/2026&name=South Dakota Game, Fish, and Parks&pntype=sw_er&description=SD GFP is proposing a project to restore stream function and improve fish habitat on Spring Creek within the Spring Creek Game Production Area.",
-      "name": "South Dakota Game, Fish, and Parks",
-      "description": "SD GFP is proposing a project to restore stream function and improve fish habitat on Spring Creek within the Spring Creek Game Production Area.",
-      "links": [
-        {
-          "label": "Public Notice",
-          "url": "https://danr.sd.gov/officeofwater/surfacewaterquality/pn/26-017_GFP_Spring_PN.pdf"
-        },
-        {
-          "label": "Application",
-          "url": "https://danr.sd.gov/officeofwater/surfacewaterquality/pn/DANR_WRE_Form_SDGFP Spring Creek submittal.pdf"
-        }
-      ]
-    },
-    {
-      "notice_type": "Surface Water Discharge (NPDES)",
-      "deadline": "06/15/2026",
-      "comment_url": "https://danr.sd.gov/public/comment.aspx?d_comment=06/15/2026&name=City of Canistota&pntype=sw_npdes&description=The City of Canistota is authorized under this permit to discharge to Unnamed Tributary of West Fork Vermillion River from its wastewater treatment facility located in McCook County",
-      "name": "City of Canistota",
-      "description": "The City of Canistota is authorized under this permit to discharge to Unnamed Tributary of West Fork Vermillion River from its wastewater treatment facility located in McCook County",
-      "location": "McCook County",
-      "links": [
-        {
-          "label": "Public Notice",
-          "url": "https://danr.sd.gov/officeofwater/surfacewaterquality/pn/PublicNotice.pdf"
-        },
-        {
-          "label": "Draft Permit",
-          "url": "https://danr.sd.gov/officeofwater/surfacewaterquality/pn/CanistotaPermit.pdf"
-        },
-        {
-          "label": "Statement of Basis",
-          "url": "https://danr.sd.gov/officeofwater/surfacewaterquality/pn/CanistotaSOB.pdf"
-        }
-      ]
-    },
-    {
-      "notice_type": "Water Rights",
-      "deadline": "06/15/2026",
-      "comment_url": "",
-      "application_no": "8996-3",
-      "name": "Wayne or Scott Binger,\u00a0Tulare\u00a0SD",
-      "location": "Spink",
-      "water_source": "Tulare: Western Spink Hitchcock Aquifer",
-      "use_type": "Irrigation (130 acres)",
-      "links": [
-        {
-          "label": "Public Notice",
-          "url": "https://danr.sd.gov/wrimage/pub/8996-3_app.pdf"
-        },
-        {
-          "label": "Appl.",
-          "url": "https://danr.sd.gov/wrimage/pub/8996-3_apl.pdf"
-        },
-        {
-          "label": "Recom. Action",
-          "url": "https://danr.sd.gov/wrimage/pub/8996-3_rec.pdf"
-        }
-      ]
-    },
-    {
-      "notice_type": "Water Rights",
-      "deadline": "06/15/2026",
-      "comment_url": "",
-      "application_no": "8997-3",
-      "name": "Wayne or Scott Binger,\u00a0Tulare\u00a0SD",
-      "location": "Spink",
-      "water_source": "Tulare: Western Spink Hitchcock Aquifer",
-      "use_type": "Irrigation (130 acres)",
-      "links": [
-        {
-          "label": "Public Notice",
-          "url": "https://danr.sd.gov/wrimage/pub/8997-3_app.pdf"
-        },
-        {
-          "label": "Appl.",
-          "url": "https://danr.sd.gov/wrimage/pub/8997-3_apl.pdf"
-        },
-        {
-          "label": "Recom. Action",
-          "url": "https://danr.sd.gov/wrimage/pub/8997-3_rec.pdf"
-        }
-      ]
-    },
-    {
-      "notice_type": "Water Rights",
-      "deadline": "06/15/2026",
-      "comment_url": "",
-      "application_no": "8998-3",
-      "name": "Terry McClain,\u00a0Hitchcock\u00a0SD",
-      "location": "Spink",
-      "water_source": "Tulare: Western Spink Hitchcock Aquifer",
-      "use_type": "Irrigation (180 acres)",
-      "links": [
-        {
-          "label": "Public Notice",
-          "url": "https://danr.sd.gov/wrimage/pub/8998-3_app.pdf"
-        },
-        {
-          "label": "Appl.",
-          "url": "https://danr.sd.gov/wrimage/pub/8998-3_apl.pdf"
-        },
-        {
-          "label": "Recom. Action",
-          "url": "https://danr.sd.gov/wrimage/pub/8998-3_rec.pdf"
-        }
-      ]
-    },
-    {
-      "notice_type": "Water Rights",
-      "deadline": "06/15/2026",
-      "comment_url": "",
-      "application_no": "9001-3",
-      "name": "Matthew Van Buskirk,\u00a0Hitchcock\u00a0SD",
-      "location": "Spink",
-      "water_source": "Tulare: Western Spink Hitchcock Aquifer",
-      "use_type": "Irrigation (136 acres)",
-      "links": [
-        {
-          "label": "Public Notice",
-          "url": "https://danr.sd.gov/wrimage/pub/9001-3_app.pdf"
-        },
-        {
-          "label": "Appl.",
-          "url": "https://danr.sd.gov/wrimage/pub/9001-3_apl.pdf"
-        },
-        {
-          "label": "Recom. Action",
-          "url": "https://danr.sd.gov/wrimage/pub/9001-3_rec.pdf"
-        }
-      ]
-    },
-    {
-      "notice_type": "Water Rights",
-      "deadline": "06/15/2026",
-      "comment_url": "",
-      "application_no": "9002-3",
-      "name": "Matthew Van Buskirk,\u00a0Hitchcock\u00a0SD",
-      "location": "Spink",
-      "water_source": "Tulare: Western Spink Hitchcock Aquifer",
-      "use_type": "Irrigation (136 acres)",
-      "links": [
-        {
-          "label": "Public Notice",
-          "url": "https://danr.sd.gov/wrimage/pub/9002-3_app.pdf"
-        },
-        {
-          "label": "Appl.",
-          "url": "https://danr.sd.gov/wrimage/pub/9002-3_apl.pdf"
-        },
-        {
-          "label": "Recom. Action",
-          "url": "https://danr.sd.gov/wrimage/pub/9002-3_rec.pdf"
-        }
-      ]
-    },
-    {
-      "notice_type": "Water Rights",
-      "deadline": "06/15/2026",
-      "comment_url": "",
-      "application_no": "9003-3",
-      "name": "Matthew Van Buskirk,\u00a0Hitchcock\u00a0SD",
-      "location": "Beadle",
-      "water_source": "Tulare: Western Spink Hitchcock Aquifer",
-      "use_type": "Irrigation (272 acres)",
-      "links": [
-        {
-          "label": "Public Notice",
-          "url": "https://danr.sd.gov/wrimage/pub/9003-3_app.pdf"
-        },
-        {
-          "label": "Appl.",
-          "url": "https://danr.sd.gov/wrimage/pub/9003-3_apl.pdf"
-        },
-        {
-          "label": "Recom. Action",
-          "url": "https://danr.sd.gov/wrimage/pub/9003-3_rec.pdf"
-        }
-      ]
-    },
-    {
-      "notice_type": "Water Rights",
-      "deadline": "06/15/2026",
-      "comment_url": "",
-      "application_no": "9004-3",
-      "name": "Matthew Van Buskirk,\u00a0Hitchcock\u00a0SD",
-      "location": "Beadle",
-      "water_source": "Tulare: Western Spink Hitchcock Aquifer",
-      "use_type": "Irrigation (136 acres)",
-      "links": [
-        {
-          "label": "Public Notice",
-          "url": "https://danr.sd.gov/wrimage/pub/9004-3_app.pdf"
-        },
-        {
-          "label": "Appl.",
-          "url": "https://danr.sd.gov/wrimage/pub/9004-3_apl.pdf"
-        },
-        {
-          "label": "Recom. Action",
-          "url": "https://danr.sd.gov/wrimage/pub/9004-3_rec.pdf"
-        }
-      ]
-    },
-    {
-      "notice_type": "Water Rights",
-      "deadline": "06/15/2026",
-      "comment_url": "",
-      "application_no": "9005-3",
-      "name": "Matthew Van Buskirk,\u00a0Hitchcock\u00a0SD",
-      "location": "Beadle",
-      "water_source": "Tulare: Western Spink Hitchcock Aquifer",
-      "use_type": "Irrigation (136 acres)",
-      "links": [
-        {
-          "label": "Public Notice",
-          "url": "https://danr.sd.gov/wrimage/pub/9005-3_app.pdf"
-        },
-        {
-          "label": "Appl.",
-          "url": "https://danr.sd.gov/wrimage/pub/9005-3_apl.pdf"
-        },
-        {
-          "label": "Recom. Action",
-          "url": "https://danr.sd.gov/wrimage/pub/9005-3_rec.pdf"
-        }
-      ]
-    },
-    {
-      "notice_type": "Water Rights",
-      "deadline": "06/15/2026",
-      "comment_url": "",
-      "application_no": "9000-3",
-      "name": "Matthew Van Buskirk,\u00a0Hitchcock\u00a0SD",
-      "location": "Beadle",
-      "water_source": "Tulare: Western Spink Hitchcock Aquifer",
-      "use_type": "Irrigation (136 acres)",
-      "links": [
-        {
-          "label": "Public Notice",
-          "url": "https://danr.sd.gov/wrimage/pub/9000-3_app.pdf"
-        },
-        {
-          "label": "Appl.",
-          "url": "https://danr.sd.gov/wrimage/pub/9000-3_apl.pdf"
-        },
-        {
-          "label": "Recom. Action",
-          "url": "https://danr.sd.gov/wrimage/pub/9000-3_rec.pdf"
         }
       ]
     },
@@ -633,6 +265,150 @@
       ]
     },
     {
+      "notice_type": "Water Rights",
+      "deadline": "06/22/2026",
+      "comment_url": "",
+      "application_no": "8986-3",
+      "name": "John Hall Jr.,\u00a0Clear Lake\u00a0SD",
+      "location": "Deuel",
+      "water_source": "Lake Sutton",
+      "use_type": "Irrigation (60 acres)",
+      "links": [
+        {
+          "label": "Public Notice",
+          "url": "https://danr.sd.gov/wrimage/pub/8986-3_app.pdf"
+        },
+        {
+          "label": "Appl.",
+          "url": "https://danr.sd.gov/wrimage/pub/8986-3_apl.pdf"
+        },
+        {
+          "label": "Recom. Action",
+          "url": "https://danr.sd.gov/wrimage/pub/8986-3_rec.pdf"
+        }
+      ]
+    },
+    {
+      "notice_type": "Water Rights",
+      "deadline": "06/22/2026",
+      "comment_url": "",
+      "application_no": "9006-3",
+      "name": "Timothy Masat,\u00a0Redfield\u00a0SD",
+      "location": "Spink",
+      "water_source": "Tulare: Western Spink Hitchcock Aquifer",
+      "use_type": "Irrigation (204 acres)",
+      "links": [
+        {
+          "label": "Public Notice",
+          "url": "https://danr.sd.gov/wrimage/pub/9006-3_app.pdf"
+        },
+        {
+          "label": "Appl.",
+          "url": "https://danr.sd.gov/wrimage/pub/9006-3_apl.pdf"
+        },
+        {
+          "label": "Recom. Action",
+          "url": "https://danr.sd.gov/wrimage/pub/9006-3_rec.pdf"
+        }
+      ]
+    },
+    {
+      "notice_type": "Water Rights",
+      "deadline": "06/22/2026",
+      "comment_url": "",
+      "application_no": "9033-3",
+      "name": "Joseph Hardin, c/o Corey Fredrich,\u00a0Brookings\u00a0SD",
+      "location": "Brookings",
+      "water_source": "Big Sioux: Aurora Aquifer",
+      "use_type": "Irrigation (50 acres)",
+      "links": [
+        {
+          "label": "Public Notice",
+          "url": "https://danr.sd.gov/wrimage/pub/9033-3_app.pdf"
+        },
+        {
+          "label": "Appl.",
+          "url": "https://danr.sd.gov/wrimage/pub/9033-3_apl.pdf"
+        },
+        {
+          "label": "Recom. Action",
+          "url": "https://danr.sd.gov/wrimage/pub/9033-3_rec.pdf"
+        }
+      ]
+    },
+    {
+      "notice_type": "Water Rights",
+      "deadline": "06/22/2026",
+      "comment_url": "",
+      "application_no": "2049-1",
+      "name": "Stanley R Goschke,\u00a0Piedmont\u00a0SD",
+      "location": "Meade",
+      "water_source": "Minnelusa Aquifer",
+      "use_type": "Domestic & Water Distribution System",
+      "links": [
+        {
+          "label": "Public Notice",
+          "url": "https://danr.sd.gov/wrimage/pub/2049-1_app.pdf"
+        },
+        {
+          "label": "Appl.",
+          "url": "https://danr.sd.gov/wrimage/pub/2049-1_apl.pdf"
+        },
+        {
+          "label": "Recom. Action",
+          "url": "https://danr.sd.gov/wrimage/pub/2049-1_rec.pdf"
+        }
+      ]
+    },
+    {
+      "notice_type": "Water Rights",
+      "deadline": "06/22/2026",
+      "comment_url": "",
+      "application_no": "2906-2",
+      "name": "Black Hills Electric Cooperative, c/o Michelle Fisher,\u00a0Custer\u00a0SD",
+      "location": "Custer",
+      "water_source": "Inyan Kara Aquifer",
+      "use_type": "Commercial",
+      "links": [
+        {
+          "label": "Public Notice",
+          "url": "https://danr.sd.gov/wrimage/pub/2906-2_app.pdf"
+        },
+        {
+          "label": "Appl.",
+          "url": "https://danr.sd.gov/wrimage/pub/2906-2_apl.pdf"
+        },
+        {
+          "label": "Recom. Action",
+          "url": "https://danr.sd.gov/wrimage/pub/2906-2_rec.pdf"
+        }
+      ]
+    },
+    {
+      "notice_type": "Water Rights",
+      "deadline": "06/22/2026",
+      "comment_url": "",
+      "application_no": "9032-3",
+      "name": "Wilbur Ellis, c/o Jake Miller,\u00a0Tulare\u00a0SD",
+      "location": "Spink",
+      "water_source": "Dakota Aquifer",
+      "use_type": "Commercial & Fire Suppression",
+      "links": [
+        {
+          "label": "Public Notice",
+          "url": "https://danr.sd.gov/wrimage/pub/9032-3_app.pdf"
+        },
+        {
+          "label": "Appl.",
+          "url": "https://danr.sd.gov/wrimage/pub/9032-3_apl.pdf"
+        },
+        {
+          "label": "Recom. Action",
+          "url": "https://danr.sd.gov/wrimage/pub/9032-3_rec.pdf"
+        }
+      ]
+    },
+    {
       "notice_type": "Waste Management \u2014 Solid Waste",
       "deadline": "6/25/2026",
       "comment_url": "",
@@ -647,6 +423,23 @@
         {
           "label": "Draft Permit",
           "url": "https://danr.sd.gov/Press/docs/publicnotices/wastemanagementnotices/DRAFT_Corsica_26_IP.pdf"
+        }
+      ]
+    },
+    {
+      "notice_type": "Surface Water Enhancement & Restoration",
+      "deadline": "06/26/2026",
+      "comment_url": "https://danr.sd.gov/public/comment.aspx?d_comment=06/26/2026&name=BHNF Mystic Ranger District - Horsethief Creek&pntype=sw_er&description=Proposing a project to restore wetland habitat, reconnect stream floodplain, and provide riparian habitat along Horsethief Creek.",
+      "name": "BHNF Mystic Ranger District - Horsethief Creek",
+      "description": "Proposing a project to restore wetland habitat, reconnect stream floodplain, and provide riparian habitat along Horsethief Creek.",
+      "links": [
+        {
+          "label": "Public Notice",
+          "url": "https://danr.sd.gov/officeofwater/surfacewaterquality/pn/BHNFHorsethiefCreekPN.pdf"
+        },
+        {
+          "label": "Application",
+          "url": "https://danr.sd.gov/officeofwater/surfacewaterquality/pn/BHNFHorsethiefCreekDANRResEnhanceFORM.pdf"
         }
       ]
     },
@@ -804,16 +597,91 @@
       ]
     },
     {
-      "notice_type": "Mining License",
-      "deadline": "",
-      "comment_url": "",
-      "name": "Sterzinger Crushing, Inc",
-      "description": "Notice of Intent to Mine Gravel",
-      "location": "181St, Clear Lake Township",
+      "notice_type": "Air Quality Permit",
+      "deadline": "07/11/2026",
+      "comment_url": "https://danr.sd.gov/public/comment.aspx?d_comment=07/11/2026&name=Dakota Ethanol, LLC&pntype=aq&description=Dakota Ethanol, LLC is expanding their ethanol plant in Wentworth, South Dakota. The department recommends issuance of an air quality construction permit.",
+      "description": "Dakota Ethanol, LLC is expanding their ethanol plant in Wentworth, South Dakota. The department recommends issuance of an air quality construction permit.",
+      "location": "Wentworth",
       "links": [
         {
           "label": "Public Notice",
-          "url": "https://media.sd.gov/danr/MM/S997007PublicNotice.pdf"
+          "url": "http://danr.sd.gov/Environment/AirQuality/PN/DELpn.pdf"
+        },
+        {
+          "label": "Draft Permit",
+          "url": "http://danr.sd.gov/Environment/AirQuality/PN/DELdp.pdf"
+        },
+        {
+          "label": "Application Review",
+          "url": "http://danr.sd.gov/Environment/AirQuality/PN/DELsb.pdf"
+        }
+      ]
+    },
+    {
+      "notice_type": "Concentrated Animal Feeding Operations (State Permit)",
+      "deadline": "07/11/2026",
+      "comment_url": "https://danr.sd.gov/public/comment.aspx?d_comment=07/11/2026&name=Cedar Grove Hutterian Brethren, Inc.&pntype=fp_cafo&description=New Swine Feeding Operation - State Permit",
+      "name": "Cedar Grove Hutterian Brethren, Inc.",
+      "description": "New Swine Feeding Operation - State Permit",
+      "location": "Aurora County",
+      "links": [
+        {
+          "label": "Public Notice",
+          "url": "https://danr.sd.gov/Press/docs/publicnotices/FeedlotPermit/CedarGroveHBIEastPN.pdf"
+        }
+      ]
+    },
+    {
+      "notice_type": "Waste Management \u2014 Solid Waste",
+      "deadline": "7/16/2026",
+      "comment_url": "",
+      "name": "City of Wall",
+      "description": "Permit renewal application to continue operation of a Type III Restricted Use Solid Waste Facility",
+      "location": "Wall, SD",
+      "links": [
+        {
+          "label": "Public Notice",
+          "url": "https://danr.sd.gov/Press/docs/publicnotices/wastemanagementnotices/Wall_PN.pdf"
+        },
+        {
+          "label": "Draft Permit",
+          "url": "https://danr.sd.gov/Press/docs/publicnotices/wastemanagementnotices/DRAFT_Wall_26_RU_IP.pdf"
+        }
+      ]
+    },
+    {
+      "notice_type": "Waste Management \u2014 Solid Waste",
+      "deadline": "7/18/2026",
+      "comment_url": "",
+      "name": "City of Bridgewater",
+      "description": "Permit renewal application to continue operation of a Type IV Yard Waste Compost Solid Waste Facility",
+      "location": "Bridgewater, SD",
+      "links": [
+        {
+          "label": "Public Notice",
+          "url": "https://danr.sd.gov/Press/docs/publicnotices/wastemanagementnotices/Bridgewater_PN.pdf"
+        },
+        {
+          "label": "Draft Permit",
+          "url": "https://danr.sd.gov/Press/docs/publicnotices/wastemanagementnotices/DRAFT_Bridgewater_26_IP.pdf"
+        }
+      ]
+    },
+    {
+      "notice_type": "Waste Management \u2014 Solid Waste",
+      "deadline": "7/18/2026",
+      "comment_url": "",
+      "name": "Town of Pollock",
+      "description": "Permit renewal application to continue operation of a Type IV Restricted Use Solid Waste Facility",
+      "location": "Pollock, SD",
+      "links": [
+        {
+          "label": "Public Notice",
+          "url": "https://danr.sd.gov/Press/docs/publicnotices/wastemanagementnotices/Pollock_PN.pdf"
+        },
+        {
+          "label": "Draft Permit",
+          "url": "https://danr.sd.gov/Press/docs/publicnotices/wastemanagementnotices/DRAFT_Pollock_26_IP.pdf"
         }
       ]
     }

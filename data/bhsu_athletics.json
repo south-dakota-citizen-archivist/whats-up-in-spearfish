@@ -3286,5 +3286,29 @@
     "result_opp": null,
     "record_type": "event",
     "source_label": "BHSU Athletics"
+  },
+  {
+    "game_id": 9904,
+    "url": "https://bhsuathletics.com/schedule.aspx?schedule=414",
+    "title": "Women's Rodeo vs PBR Collegiate All-Star Rodeo",
+    "slug": "women-s-rodeo-vs-pbr-collegiate-all-star-rodeo",
+    "sport": "Women's Rodeo",
+    "sport_shortname": "rodeo",
+    "opponent": "PBR Collegiate All-Star Rodeo",
+    "home_away": "N",
+    "is_conference": false,
+    "start_dt": "2026-07-11T00:45:00Z",
+    "time": "6:45 PM",
+    "tbd": false,
+    "location": "Canvas Stadium, Fort Collins, Colo.",
+    "conference": null,
+    "status": "A",
+    "video_url": null,
+    "stats_url": null,
+    "tickets_url": "https://csurams.evenue.net/events/PBR",
+    "result_team": null,
+    "result_opp": null,
+    "record_type": "event",
+    "source_label": "BHSU Athletics"
   }
 ]

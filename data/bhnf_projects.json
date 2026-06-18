@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-06-08T19:21:29.561219+00:00",
+  "fetched_at": "2026-06-18T19:28:08.293175+00:00",
   "projects": [
     {
       "project_id": "66463",
@@ -213,22 +213,6 @@
       "last_updated": ""
     },
     {
-      "project_id": "68194",
-      "title": "Custer Chamber of Commerce OHV Rally",
-      "url": "https://www.fs.usda.gov/r02/blackhills/projects/68194",
-      "status": "Completed",
-      "district": "Hell Canyon Ranger District",
-      "purpose": "Special Use Management",
-      "description": "5-year recreational event special use permit from 2025-2029 on Hell Canyon and Mystic Ranger Districts, Black Hills National Forest",
-      "milestones": [],
-      "comment_period_date": null,
-      "comment_period_sort": "9999-99",
-      "location_summary": "",
-      "counties": [],
-      "contact": {},
-      "last_updated": ""
-    },
-    {
       "project_id": "54418",
       "title": "Custer County Conservation District Sign renewal",
       "url": "https://www.fs.usda.gov/r02/blackhills/projects/54418",
@@ -392,7 +376,7 @@
       "project_id": "171823",
       "title": "NFSR 653.1C Reroute Construction",
       "url": "https://www.fs.usda.gov/r02/blackhills/projects/171823",
-      "status": "Developing Proposal",
+      "status": "Completed",
       "district": "Hell Canyon Ranger District",
       "purpose": "Road Management",
       "description": "Reroute NFS Road 653.1C to accommodate expansion of Custer County Airport, SD. To view documents related to this proposal, please copy and paste this link into your internet browser: https://usfs-public.box.com/s/igz27xmhnsexb2euwc5bci4ymo50vdz9",
@@ -472,7 +456,7 @@
       "project_id": "213841",
       "title": "Palmer Creek (NFSR 350) Roadside Maintenance",
       "url": "https://www.fs.usda.gov/r02/blackhills/projects/213841",
-      "status": "Developing Proposal",
+      "status": "Completed",
       "district": "Hell Canyon Ranger District",
       "purpose": "Road Management",
       "description": "Road work activities for maintenance and safety that include removal of trees within 5 ft of the Pennington County's right of way along Palmer Creek Road; decommissioning approximately 760' of the westernmost part of the road the southern wye segment; proposed chip sealing; and culvert replacement.",
@@ -556,6 +540,22 @@
       "district": "Mystic Ranger District",
       "purpose": "Forest Products|Vegetation Management (Other Than Forest Products)|Fuels Management",
       "description": "The purpose and need of this project is to improve forest health and increase resiliency within the project area to wildfire and insect disease using a variety of commercial and non-commercial treatments.",
+      "milestones": [],
+      "comment_period_date": null,
+      "comment_period_sort": "9999-99",
+      "location_summary": "",
+      "counties": [],
+      "contact": {},
+      "last_updated": ""
+    },
+    {
+      "project_id": "293810",
+      "title": "Roby Forest Management Project",
+      "url": "https://www.fs.usda.gov/r02/blackhills/projects/293810",
+      "status": "Developing Proposal",
+      "district": "Hell Canyon Ranger District",
+      "purpose": "Forest Products|Fuels Management|Vegetation Management (Other Than Forest Products)|Watershed Management",
+      "description": "The Roby Forest Management Project proposes timber harvest, fuel reduction, prescribed fire, road improvements, meadow restoration, and riparian restoration activities.",
       "milestones": [],
       "comment_period_date": null,
       "comment_period_sort": "9999-99",

@@ -53,7 +53,7 @@
   },
   {
     "url": "https://www.sawyerbrewingco.com/menu",
-    "image_url": "https://images.squarespace-cdn.com/content/v1/5c484d047c9327393b19dc04/0c282338-9ffa-4039-876d-c91e78f03cf9/bloodorangedarkweb.jpg",
+    "image_url": "https://images.squarespace-cdn.com/content/v1/5c484d047c9327393b19dc04/dd3d9953-b1a1-4abb-8bd0-fb00686e039e/bloodorangedarkweb.jpg",
     "title": "Blood Orange Blonde",
     "slug": "blood-orange-blonde",
     "category": "Light & Easy",
@@ -131,7 +131,7 @@
   },
   {
     "url": "https://www.sawyerbrewingco.com/menu",
-    "image_url": "https://images.squarespace-cdn.com/content/v1/5c484d047c9327393b19dc04/f34b4a12-fd23-4b61-b2b1-da24ba320c18/squatchMother.jpg",
+    "image_url": "https://images.squarespace-cdn.com/content/v1/5c484d047c9327393b19dc04/ca269c01-a972-4633-879c-c3557a703675/squatchMother.jpg",
     "title": "squatchMother.jpg",
     "slug": "squatchmother-jpg",
     "category": "Hop Heads",
@@ -170,6 +170,19 @@
   },
   {
     "url": "https://www.sawyerbrewingco.com/menu",
+    "image_url": "https://images.squarespace-cdn.com/content/v1/5c484d047c9327393b19dc04/e565b5db-873e-4c1b-bff7-7412cece3384/hopsplitterdark.jpg",
+    "title": "hopsplitterdark.jpg",
+    "slug": "hopsplitterdark-jpg",
+    "category": "Hop Heads",
+    "description": "",
+    "abv": "",
+    "notes": "",
+    "prices": [],
+    "record_type": "beer",
+    "source_label": "Sawyer Brewing Co."
+  },
+  {
+    "url": "https://www.sawyerbrewingco.com/menu",
     "image_url": "https://images.squarespace-cdn.com/content/v1/5c484d047c9327393b19dc04/c628c4d6-03ab-4d46-9805-a7ec11b9a00a/4LO.jpg",
     "title": "4LO PALE ALE",
     "slug": "4lo-pale-ale",
@@ -196,40 +209,27 @@
   },
   {
     "url": "https://www.sawyerbrewingco.com/menu",
-    "image_url": "https://images.squarespace-cdn.com/content/v1/5c484d047c9327393b19dc04/428b8f03-6d45-41c3-90ce-cca94e5cb8d5/petal%26thorndarkwebsite.jpg",
-    "title": "Petal & Thorn Blackberry Sour",
-    "slug": "petal-thorn-blackberry-sour",
-    "category": "Sour Power",
-    "description": "The girls of Sawyer (with some help ;) brewed up Petal & Thorn with this years Pink Boots hop blend. Blackberry tarness and enough floral softness to keep you coming back for another sip. She's sweet, she's sharp, & she bites back.",
-    "abv": "5.5%",
+    "image_url": "https://images.squarespace-cdn.com/content/v1/5c484d047c9327393b19dc04/d4ee3072-12ee-434c-b1a7-847774c2e2a9/newninjawebsitedark.jpg",
+    "title": "Ninja Juice IPA",
+    "slug": "ninja-juice-ipa",
+    "category": "Hop Heads",
+    "description": "Unleash your inner beast with this tropical + juicy IPA. Mosaic & Citra hops will kick your taste buds into high gear & leave you begging for more. Beware of potential extra stealthy abilities.",
+    "abv": "6.1%",
     "notes": "",
     "prices": [
       {
-        "price": 3.0,
+        "price": 2.0,
         "ounces": 5
       },
       {
-        "price": 5.0,
+        "price": 4.0,
         "ounces": 10
       },
       {
-        "price": 7.5,
+        "price": 6.0,
         "ounces": 16
       }
     ],
-    "record_type": "beer",
-    "source_label": "Sawyer Brewing Co."
-  },
-  {
-    "url": "https://www.sawyerbrewingco.com/menu",
-    "image_url": "https://images.squarespace-cdn.com/content/v1/5c484d047c9327393b19dc04/18f7624c-4710-4df6-b35e-20775dc1d7ab/pinneapplepeacheswebsitedark.jpg",
-    "title": "pinneapplepeacheswebsitedark.jpg",
-    "slug": "pinneapplepeacheswebsitedark-jpg",
-    "category": "Sour Power",
-    "description": "",
-    "abv": "",
-    "notes": "",
-    "prices": [],
     "record_type": "beer",
     "source_label": "Sawyer Brewing Co."
   },
@@ -256,19 +256,6 @@
         "ounces": 16
       }
     ],
-    "record_type": "beer",
-    "source_label": "Sawyer Brewing Co."
-  },
-  {
-    "url": "https://www.sawyerbrewingco.com/menu",
-    "image_url": "https://images.squarespace-cdn.com/content/v1/5c484d047c9327393b19dc04/e40f3f49-ef67-490c-b989-aaafd8ea8678/nightowlstoutdark.jpg",
-    "title": "nightowlstoutdark.jpg",
-    "slug": "nightowlstoutdark-jpg",
-    "category": "Dark Side",
-    "description": "",
-    "abv": "",
-    "notes": "",
-    "prices": [],
     "record_type": "beer",
     "source_label": "Sawyer Brewing Co."
   }
