@@ -1,6 +1,84 @@
 {
-  "fetched_at": "2026-06-18T19:24:58.421157+00:00",
+  "fetched_at": "2026-06-19T18:51:55.795007+00:00",
   "observations": [
+    {
+      "species_code": "comnig",
+      "common_name": "Common Nighthawk",
+      "scientific_name": "Chordeiles minor",
+      "observed_on": "2026-06-18",
+      "count": 2,
+      "location_name": "1615 Cleveland St, Sundance US-WY (44.4121,-104.3677)",
+      "lat": 44.412141,
+      "lng": -104.367746,
+      "location_id": "L70578449",
+      "checklist_id": "S359397992",
+      "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/279194539/square.jpg"
+    },
+    {
+      "species_code": "amecro",
+      "common_name": "American Crow",
+      "scientific_name": "Corvus brachyrhynchos",
+      "observed_on": "2026-06-18",
+      "count": 3,
+      "location_name": "1615 Cleveland St, Sundance US-WY (44.4121,-104.3677)",
+      "lat": 44.412141,
+      "lng": -104.367746,
+      "location_id": "L70578449",
+      "checklist_id": "S359397992",
+      "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/4661023/square.jpg"
+    },
+    {
+      "species_code": "bkcchi",
+      "common_name": "Black-capped Chickadee",
+      "scientific_name": "Poecile atricapillus",
+      "observed_on": "2026-06-18",
+      "count": 1,
+      "location_name": "1615 Cleveland St, Sundance US-WY (44.4121,-104.3677)",
+      "lat": 44.412141,
+      "lng": -104.367746,
+      "location_id": "L70578449",
+      "checklist_id": "S359397992",
+      "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/178279576/square.jpg"
+    },
+    {
+      "species_code": "turvul",
+      "common_name": "Turkey Vulture",
+      "scientific_name": "Cathartes aura",
+      "observed_on": "2026-06-18",
+      "count": 2,
+      "location_name": "I-90 BL E, Spearfish US-SD 44.49056, -103.84484",
+      "lat": 44.490559,
+      "lng": -103.844838,
+      "location_id": "L70573772",
+      "checklist_id": "S359378472",
+      "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/52277010/square.jpg"
+    },
+    {
+      "species_code": "chiswi",
+      "common_name": "Chimney Swift",
+      "scientific_name": "Chaetura pelagica",
+      "observed_on": "2026-06-18",
+      "count": 2,
+      "location_name": "137 Charles St, Deadwood US-SD 44.36933, -103.73184",
+      "lat": 44.369333,
+      "lng": -103.731844,
+      "location_id": "L70573965",
+      "checklist_id": "S359379213",
+      "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/383206018/square.jpeg"
+    },
+    {
+      "species_code": "wesfly",
+      "common_name": "Western Flycatcher",
+      "scientific_name": "Empidonax difficilis",
+      "observed_on": "2026-06-18",
+      "count": 1,
+      "location_name": "137 Charles St, Deadwood US-SD 44.36933, -103.73184",
+      "lat": 44.369333,
+      "lng": -103.731844,
+      "location_id": "L70573965",
+      "checklist_id": "S359379213",
+      "photo_url": "https://static.inaturalist.org/photos/586237/square.jpg"
+    },
     {
       "species_code": "cangoo",
       "common_name": "Canada Goose",
@@ -93,19 +171,6 @@
       "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/123007/square.jpg"
     },
     {
-      "species_code": "amecro",
-      "common_name": "American Crow",
-      "scientific_name": "Corvus brachyrhynchos",
-      "observed_on": "2026-06-18",
-      "count": 1,
-      "location_name": "Bear Butte Lake",
-      "lat": 44.4600309,
-      "lng": -103.4500146,
-      "location_id": "L70521099",
-      "checklist_id": "S359157230",
-      "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/4661023/square.jpg"
-    },
-    {
       "species_code": "treswa",
       "common_name": "Tree Swallow",
       "scientific_name": "Tachycineta bicolor",
@@ -158,19 +223,6 @@
       "photo_url": "https://static.inaturalist.org/photos/25544008/square.jpeg"
     },
     {
-      "species_code": "wesfly",
-      "common_name": "Western Flycatcher",
-      "scientific_name": "Empidonax difficilis",
-      "observed_on": "2026-06-18",
-      "count": 1,
-      "location_name": "121 East Cleveland Street, Sundance, Wyoming, US (44.404, -104.381)",
-      "lat": 44.4042726,
-      "lng": -104.3808626,
-      "location_id": "L53005412",
-      "checklist_id": "S359089712",
-      "photo_url": "https://static.inaturalist.org/photos/586237/square.jpg"
-    },
-    {
       "species_code": "amered",
       "common_name": "American Redstart",
       "scientific_name": "Setophaga ruticilla",
@@ -221,19 +273,6 @@
       "location_id": "L70444718",
       "checklist_id": "S358811688",
       "photo_url": "https://static.inaturalist.org/photos/290384780/square.jpg"
-    },
-    {
-      "species_code": "bkcchi",
-      "common_name": "Black-capped Chickadee",
-      "scientific_name": "Poecile atricapillus",
-      "observed_on": "2026-06-17",
-      "count": 2,
-      "location_name": "Warren's Peak Road, Sundance, Wyoming, US (44.482, -104.45)",
-      "lat": 44.4822486,
-      "lng": -104.4499372,
-      "location_id": "L70444718",
-      "checklist_id": "S358811688",
-      "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/178279576/square.jpg"
     },
     {
       "species_code": "whbnut",
@@ -325,19 +364,6 @@
       "location_id": "L70370304",
       "checklist_id": "S358470975",
       "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/293515565/square.jpg"
-    },
-    {
-      "species_code": "turvul",
-      "common_name": "Turkey Vulture",
-      "scientific_name": "Cathartes aura",
-      "observed_on": "2026-06-16",
-      "count": 1,
-      "location_name": "Long Valley Picnic Area",
-      "lat": 44.377724,
-      "lng": -103.913946,
-      "location_id": "L70373195",
-      "checklist_id": "S358485492",
-      "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/52277010/square.jpg"
     },
     {
       "species_code": "sonspa",
@@ -624,32 +650,6 @@
       "location_id": "L70315218",
       "checklist_id": "S358231844",
       "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/384965723/square.jpg"
-    },
-    {
-      "species_code": "macwar",
-      "common_name": "MacGillivray's Warbler",
-      "scientific_name": "Geothlypis tolmiei",
-      "observed_on": "2026-06-16",
-      "count": 2,
-      "location_name": "Roughlock Falls Trail SD",
-      "lat": 44.351855,
-      "lng": -103.931591,
-      "location_id": "L70315218",
-      "checklist_id": "S358231844",
-      "photo_url": "https://static.inaturalist.org/photos/72354309/square.jpeg"
-    },
-    {
-      "species_code": "comyel",
-      "common_name": "Common Yellowthroat",
-      "scientific_name": "Geothlypis trichas",
-      "observed_on": "2026-06-16",
-      "count": 2,
-      "location_name": "Roughlock Falls Trail SD",
-      "lat": 44.351855,
-      "lng": -103.931591,
-      "location_id": "L70315218",
-      "checklist_id": "S358231844",
-      "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/35803961/square.jpg"
     }
   ]
 }

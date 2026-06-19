@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-06-18T19:30:27.330211+00:00",
+  "fetched_at": "2026-06-19T18:56:58.939497+00:00",
   "lookback_days": 30,
   "total_bh_sites": 3296,
   "known_ids": [
@@ -3302,6 +3302,25 @@
   ],
   "new_records": [
     {
+      "objectid": 1323723,
+      "first_seen": "2026-06-19",
+      "id_raw": 2026.073,
+      "year": 2026,
+      "pdf_url": "https://danr.sd.gov/spillimages/2026/2026.073.pdf",
+      "site_name": "Truck Fire - Cheyenne River",
+      "site_type": "Other(See Case File)",
+      "status": "O",
+      "street": "W-bound I-90 near MM 98",
+      "city": "Wasta",
+      "county": "Pennington",
+      "spill_cat": "Petroleum",
+      "material": "Diesel",
+      "sor_type": "Saddle Tank",
+      "resp_party": "Gracious Transportation Services Inc.",
+      "lat": 44.064446,
+      "lon": -102.442657
+    },
+    {
       "objectid": 1311294,
       "first_seen": "2026-06-18",
       "id_raw": 2026.006,
@@ -3452,25 +3471,6 @@
       "resp_party": "Black Hills Energy",
       "lat": 44.078963,
       "lon": -103.230137
-    },
-    {
-      "objectid": 1323723,
-      "first_seen": "2026-05-19",
-      "id_raw": 2026.073,
-      "year": 2026,
-      "pdf_url": "https://danr.sd.gov/spillimages/2026/2026.073.pdf",
-      "site_name": "FEDEX Truck Fire - Cheyenne River",
-      "site_type": "Other(See Case File)",
-      "status": "O",
-      "street": "W-bound I-90 near MM 98",
-      "city": "Wasta",
-      "county": "Pennington",
-      "spill_cat": "Petroleum",
-      "material": "Diesel",
-      "sor_type": "Fuel Tank",
-      "resp_party": "FEDEX",
-      "lat": 44.064446,
-      "lon": -102.442657
     }
   ]
 }

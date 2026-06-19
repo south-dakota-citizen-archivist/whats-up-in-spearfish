@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-06-18T19:25:18.146872+00:00",
+  "fetched_at": "2026-06-19T18:52:15.611507+00:00",
   "records": [
     {
       "id": 12089,
@@ -346,7 +346,7 @@
       "status": 1,
       "date_created": "2026-05-18T21:45:33.633Z",
       "date_submitted": "2026-05-18T21:47:47.000Z",
-      "last_updated": "2026-05-26T17:33:11.200Z",
+      "last_updated": "2026-06-18T20:27:34.266Z",
       "address": "Platinum  Dr, Spearfish, SD 57783",
       "lat": 44.479581,
       "lon": -103.815322,
@@ -2704,6 +2704,22 @@
       "lon": -103.859167,
       "applicant": "Loren Vrem",
       "portal_url": "https://spearfishsd.portal.opengov.com/records/11254"
+    },
+    {
+      "id": 11224,
+      "record_no": "",
+      "record_type": "Sign Permit ",
+      "record_type_id": 6460,
+      "category": "infrastructure",
+      "status": 0,
+      "date_created": "2025-12-25T04:57:29.113Z",
+      "date_submitted": "",
+      "last_updated": "2025-12-25T05:08:02.000Z",
+      "address": "806 North Main Street, Spearfish, SD 57783",
+      "lat": 44.491332,
+      "lon": -103.858983,
+      "applicant": "Roger Riley",
+      "portal_url": "https://spearfishsd.portal.opengov.com/records/11224"
     },
     {
       "id": 11203,

@@ -131,6 +131,19 @@
   },
   {
     "url": "https://www.sawyerbrewingco.com/menu",
+    "image_url": "https://images.squarespace-cdn.com/content/v1/5c484d047c9327393b19dc04/52bdec73-8a4c-45a0-9a2d-db48f2d9becc/witbier.jpg",
+    "title": "witbier.jpg",
+    "slug": "witbier-jpg",
+    "category": "Light & Easy",
+    "description": "",
+    "abv": "",
+    "notes": "",
+    "prices": [],
+    "record_type": "beer",
+    "source_label": "Sawyer Brewing Co."
+  },
+  {
+    "url": "https://www.sawyerbrewingco.com/menu",
     "image_url": "https://images.squarespace-cdn.com/content/v1/5c484d047c9327393b19dc04/ca269c01-a972-4633-879c-c3557a703675/squatchMother.jpg",
     "title": "squatchMother.jpg",
     "slug": "squatchmother-jpg",
@@ -144,14 +157,27 @@
   },
   {
     "url": "https://www.sawyerbrewingco.com/menu",
-    "image_url": "https://images.squarespace-cdn.com/content/v1/5c484d047c9327393b19dc04/0117285c-ff3f-4f2e-b9ed-2763ac236558/pineappleninjaweb.jpg",
-    "title": "pineappleninjaweb.jpg",
-    "slug": "pineappleninjaweb-jpg",
+    "image_url": "https://images.squarespace-cdn.com/content/v1/5c484d047c9327393b19dc04/48bff8f9-16d8-4751-8adf-e31a5dabdaf2/2strokewebsitedark.jpg",
+    "title": "2-Stroke Haze IPA",
+    "slug": "2-stroke-haze-ipa",
     "category": "Hop Heads",
-    "description": "",
-    "abv": "",
+    "description": "Don't you just love the smell of a two stroke engine? It usually means a good day spent in the woods or yard getting stuff done! 2-Stroke Haze is a juicy + hazy + citrusy IPA featuring citra, mosaic, & amarillo hops.",
+    "abv": "5.7%",
     "notes": "",
-    "prices": [],
+    "prices": [
+      {
+        "price": 2.0,
+        "ounces": 5
+      },
+      {
+        "price": 4.0,
+        "ounces": 10
+      },
+      {
+        "price": 6.0,
+        "ounces": 16
+      }
+    ],
     "record_type": "beer",
     "source_label": "Sawyer Brewing Co."
   },
@@ -230,6 +256,19 @@
         "ounces": 16
       }
     ],
+    "record_type": "beer",
+    "source_label": "Sawyer Brewing Co."
+  },
+  {
+    "url": "https://www.sawyerbrewingco.com/menu",
+    "image_url": "https://images.squarespace-cdn.com/content/v1/5c484d047c9327393b19dc04/0d54566a-8384-4f0f-810c-f1b670f2fa96/pinneapplepeacheswebsitedark.jpg",
+    "title": "pinneapplepeacheswebsitedark.jpg",
+    "slug": "pinneapplepeacheswebsitedark-jpg",
+    "category": "Sour Power",
+    "description": "",
+    "abv": "",
+    "notes": "",
+    "prices": [],
     "record_type": "beer",
     "source_label": "Sawyer Brewing Co."
   },

@@ -1258,5 +1258,45 @@
     "start_dt": "Fri, 10 Apr 2026 13:34:59 -0700",
     "record_type": "event",
     "source_label": "City of Spearfish"
+  },
+  {
+    "url": "https://www.spearfish.gov/Calendar.aspx?EID=3621",
+    "title": "Special City Council Meeting 6/22/2026",
+    "slug": "special-city-council-meeting-6-22-2026",
+    "description": "<strong>Event date:</strong> June 22, 2026 <br /><strong>Event Time: </strong>06:30 PM - 11:59 PM<br /><strong>Location:</strong> <br />City Hall<br />625 N 5th St<br />Spearfish, SD 57783<br /><strong>Description:</strong><br />https://us02web.zoom.us/j/84399991036",
+    "published": "Thu, 18 Jun 2026 16:16:22 -0700",
+    "start_dt": "Thu, 18 Jun 2026 16:16:22 -0700",
+    "record_type": "event",
+    "source_label": "City of Spearfish"
+  },
+  {
+    "url": "https://www.spearfish.gov/Calendar.aspx?EID=3339",
+    "title": "Holiday - Offices Closed",
+    "slug": "holiday-offices-closed",
+    "description": "<strong>Event date:</strong> July 3, 2026 <br /><strong>Event Time: </strong>12:00 AM - 11:59 PM<br /><strong>Location:</strong> <br />Spearfish, SD 57783",
+    "published": "Thu, 15 Jan 2026 12:51:06 -0700",
+    "start_dt": "Thu, 15 Jan 2026 12:51:06 -0700",
+    "record_type": "event",
+    "source_label": "City of Spearfish"
+  },
+  {
+    "url": "https://www.spearfish.gov/Calendar.aspx?EID=3324",
+    "title": "Library CLOSED for Independence Day",
+    "slug": "library-closed-for-independence-day",
+    "description": "<strong>Event dates:</strong> July 3, 2026 - July 4, 2026<br /><strong>Event Time: </strong>12:00 AM - 11:59 PM<br /><strong>Location:</strong> <br />Spearfish, SD 57783<br /><strong>Description:</strong><br />The library will be CLOSED Friday & Saturday for Independence Day.",
+    "published": "Tue, 06 Jan 2026 13:42:38 -0700",
+    "start_dt": "Tue, 06 Jan 2026 13:42:38 -0700",
+    "record_type": "event",
+    "source_label": "City of Spearfish"
+  },
+  {
+    "url": "https://www.spearfish.gov/Calendar.aspx?EID=3614",
+    "title": "The Spearfish America 250th Parade",
+    "slug": "the-spearfish-america-250th-parade",
+    "description": "<strong>Event date:</strong> July 3, 2026 <br /><strong>Event Time: </strong>02:00 PM - 11:59 PM<br /><strong>Location:</strong> <br />Spearfish, SD 57783",
+    "published": "Thu, 28 May 2026 12:18:02 -0700",
+    "start_dt": "Thu, 28 May 2026 12:18:02 -0700",
+    "record_type": "event",
+    "source_label": "City of Spearfish"
   }
 ]

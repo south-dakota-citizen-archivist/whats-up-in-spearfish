@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-06-18T19:25:44.319967+00:00",
+  "fetched_at": "2026-06-19T18:52:37.571112+00:00",
   "notices": [
     {
       "notice_type": "Water Rights \u2014 Future Use Review",
@@ -682,6 +682,27 @@
         {
           "label": "Draft Permit",
           "url": "https://danr.sd.gov/Press/docs/publicnotices/wastemanagementnotices/DRAFT_Pollock_26_IP.pdf"
+        }
+      ]
+    },
+    {
+      "notice_type": "Air Quality Permit",
+      "deadline": "07/19/2026",
+      "comment_url": "https://danr.sd.gov/public/comment.aspx?d_comment=07/19/2026&name=Hub City Energy&pntype=aq&description=Hub City proposes to construct a new replacement baghouse for one of their units and update short-term limits for the facility. DANR recommends approval of an air quality construction permit.",
+      "description": "Hub City proposes to construct a new replacement baghouse for one of their units and update short-term limits for the facility. DANR recommends approval of an air quality construction permit.",
+      "location": "Aberdeen",
+      "links": [
+        {
+          "label": "Public Notice",
+          "url": "https://danr.sd.gov/Environment/AirQuality/PN/HCpn.pdf"
+        },
+        {
+          "label": "Draft Permit",
+          "url": "https://danr.sd.gov/Environment/AirQuality/PN/HCdp.pdf"
+        },
+        {
+          "label": "Application Review",
+          "url": "https://danr.sd.gov/Environment/AirQuality/PN/HCsb.pdf"
         }
       ]
     }

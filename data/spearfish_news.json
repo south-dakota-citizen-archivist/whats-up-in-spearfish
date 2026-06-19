@@ -178,5 +178,15 @@
     "start_dt": "Tue, 16 Jun 2026 10:53:58 -0700",
     "record_type": "press_release",
     "source_label": "City of Spearfish"
+  },
+  {
+    "url": "https://www.spearfish.gov/CivicAlerts.aspx?aid=562",
+    "title": "Juneteenth Closures",
+    "slug": "juneteenth-closures",
+    "description": "City Hall, Library and Rubble Site will be closed on Friday, June 19th in observance of Juneteenth. Garbage routes will continue to run as scheduled.",
+    "published": "Thu, 18 Jun 2026 17:48:08 -0700",
+    "start_dt": "Thu, 18 Jun 2026 17:48:08 -0700",
+    "record_type": "press_release",
+    "source_label": "City of Spearfish"
   }
 ]
