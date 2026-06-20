@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-06-19T18:52:37.571112+00:00",
+  "fetched_at": "2026-06-20T18:08:28.072856+00:00",
   "notices": [
     {
       "notice_type": "Water Rights \u2014 Future Use Review",
@@ -106,38 +106,6 @@
         {
           "label": "Recom. Action",
           "url": "https://danr.sd.gov/wrimage/pub/5358-3_rec.pdf"
-        }
-      ]
-    },
-    {
-      "notice_type": "Concentrated Animal Feeding Operations (State Permit)",
-      "deadline": "06/19/2026",
-      "comment_url": "https://danr.sd.gov/public/comment.aspx?d_comment=06/19/2026&name=Spink Hutterian Brethren, Inc.&pntype=fp_cafo&description=Expanding Swine Feeding Operation - State Permit",
-      "name": "Spink Hutterian Brethren, Inc.",
-      "description": "Expanding Swine Feeding Operation - State Permit",
-      "location": "Spink County",
-      "links": [
-        {
-          "label": "Public Notice",
-          "url": "https://danr.sd.gov/Press/docs/publicnotices/FeedlotPermit/SpinkHBIExpansionPN.pdf"
-        }
-      ]
-    },
-    {
-      "notice_type": "Waste Management \u2014 Solid Waste",
-      "deadline": "6/19/2026",
-      "comment_url": "",
-      "name": "City of Faulkton",
-      "description": "Permit renewal application to continue operation of a Type IV Restricted Use Solid Waste Facility",
-      "location": "Faulkton, SD",
-      "links": [
-        {
-          "label": "Public Notice",
-          "url": "https://danr.sd.gov/Press/docs/publicnotices/wastemanagementnotices/Faulkton_PN.pdf"
-        },
-        {
-          "label": "Draft Permit",
-          "url": "https://danr.sd.gov/Press/docs/publicnotices/wastemanagementnotices/DRAFT_Faulkton_26_IP.pdf"
         }
       ]
     },

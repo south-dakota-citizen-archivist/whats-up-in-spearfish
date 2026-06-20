@@ -1,6 +1,22 @@
 {
-  "fetched_at": "2026-06-19T18:52:15.611507+00:00",
+  "fetched_at": "2026-06-20T18:08:06.434071+00:00",
   "records": [
+    {
+      "id": 12112,
+      "record_no": "",
+      "record_type": "Minor Final Plat",
+      "record_type_id": 6457,
+      "category": "planning",
+      "status": 0,
+      "date_created": "2026-06-19T19:48:21.842Z",
+      "date_submitted": "",
+      "last_updated": "2026-06-19T19:49:17.000Z",
+      "address": "",
+      "lat": null,
+      "lon": null,
+      "applicant": "Dave Vliem",
+      "portal_url": "https://spearfishsd.portal.opengov.com/records/12112"
+    },
     {
       "id": 12089,
       "record_no": "",

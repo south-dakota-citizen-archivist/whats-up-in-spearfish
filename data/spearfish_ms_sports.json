@@ -5918,5 +5918,37 @@
     "status": "CONFIRMED",
     "record_type": "event",
     "source_label": "Spearfish MS Sports"
+  },
+  {
+    "uid": "h202606190819040119827e229188b40",
+    "url": "https://gobound.com/direct/comps/h202606190819040119827e229188b40/show",
+    "title": "Girls Basketball: Sturgis Quad (8th Grade)",
+    "slug": "girls-basketball-sturgis-quad-8th-grade",
+    "sport": "Girls Basketball",
+    "level": "8th Grade",
+    "sex": "female",
+    "description": "8th Grade Girls Basketball - Sturgis Quad",
+    "start_dt": "2026-12-12T15:00:00",
+    "end_dt": "2026-12-12T20:00:00",
+    "location": "Sturgis Brown High School, Sturgis Williams Middle School",
+    "status": "CONFIRMED",
+    "record_type": "event",
+    "source_label": "Spearfish MS Sports"
+  },
+  {
+    "uid": "h20260619075224842e5089a61f40a4e",
+    "url": "https://gobound.com/direct/comps/h20260619075224842e5089a61f40a4e/show",
+    "title": "Girls Basketball: Spearfish MS vs Sturgis Williams MS (7th Grade)",
+    "slug": "girls-basketball-spearfish-ms-vs-sturgis-williams-ms-7th-grade",
+    "sport": "Girls Basketball",
+    "level": "7th Grade",
+    "sex": "female",
+    "description": "7th Grade Girls Basketball - Spearfish MS vs Sturgis Williams MS",
+    "start_dt": "2026-12-15T23:00:00",
+    "end_dt": "2026-12-16T00:00:00",
+    "location": "Sturgis Williams Middle School Grunwald Auditorium/Gym",
+    "status": "CONFIRMED",
+    "record_type": "event",
+    "source_label": "Spearfish MS Sports"
   }
 ]

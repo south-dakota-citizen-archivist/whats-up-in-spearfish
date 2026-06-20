@@ -1,5 +1,44 @@
 [
   {
+    "url": "https://untappd.com/b/dakota-point-brewing-long-trek-ipa/3792761",
+    "title": "Long Trek IPA",
+    "slug": "long-trek-ipa",
+    "category": "IPA - American",
+    "abv": "6.9%",
+    "ibu": "69",
+    "brewery": "Dakota Point Brewing",
+    "rating": "3.82",
+    "image_url": "https://labels.untappd.com/3792761",
+    "record_type": "beer",
+    "source_label": "Redwater Kitchen"
+  },
+  {
+    "url": "https://untappd.com/b/outer-range-brewing-co-in-the-steep/2002572",
+    "title": "In the Steep",
+    "slug": "in-the-steep",
+    "category": "IPA - New England / Hazy",
+    "abv": "6.7%",
+    "ibu": "",
+    "brewery": "Outer Range Brewing Co.",
+    "rating": "4.09",
+    "image_url": "https://labels.untappd.com/2002572",
+    "record_type": "beer",
+    "source_label": "Redwater Kitchen"
+  },
+  {
+    "url": "https://untappd.com/b/dry-dock-brewing-company-apricot-blonde/304989",
+    "title": "Apricot Blonde",
+    "slug": "apricot-blonde",
+    "category": "Blonde / Golden Ale - Other",
+    "abv": "5.1%",
+    "ibu": "17",
+    "brewery": "Dry Dock Brewing Company",
+    "rating": "3.8",
+    "image_url": "https://labels.untappd.com/304989",
+    "record_type": "beer",
+    "source_label": "Redwater Kitchen"
+  },
+  {
     "url": "https://untappd.com/b/infusion-brewing-company-vanilla-bean-blonde-ale/622119",
     "title": "Vanilla Bean Blonde Ale",
     "slug": "vanilla-bean-blonde-ale",
@@ -9,19 +48,6 @@
     "brewery": "Infusion Brewing Company",
     "rating": "3.8",
     "image_url": "https://labels.untappd.com/622119",
-    "record_type": "beer",
-    "source_label": "Redwater Kitchen"
-  },
-  {
-    "url": "https://untappd.com/b/laughing-sun-brewing-co-droppin-cones/1391906",
-    "title": "Droppin' Cones",
-    "slug": "droppin-cones",
-    "category": "IPA - Imperial / Double",
-    "abv": "9.5%",
-    "ibu": "100",
-    "brewery": "Laughing Sun Brewing Co.",
-    "rating": "3.86",
-    "image_url": "https://labels.untappd.com/1391906",
     "record_type": "beer",
     "source_label": "Redwater Kitchen"
   },
@@ -87,32 +113,6 @@
     "brewery": "Anderson Valley Brewing Company",
     "rating": "3.52",
     "image_url": "https://labels.untappd.com/4481",
-    "record_type": "beer",
-    "source_label": "Redwater Kitchen"
-  },
-  {
-    "url": "https://untappd.com/b/modist-brewing-co-heated-rivalry/6634660",
-    "title": "Heated Rivalry",
-    "slug": "heated-rivalry",
-    "category": "IPA - Triple New England / Hazy",
-    "abv": "10%",
-    "ibu": "",
-    "brewery": "Modist Brewing Co.",
-    "rating": "4.11",
-    "image_url": "https://labels.untappd.com/6634660",
-    "record_type": "beer",
-    "source_label": "Redwater Kitchen"
-  },
-  {
-    "url": "https://untappd.com/b/kros-strain-brewing-web-of-lies/3550236",
-    "title": "Web of Lies",
-    "slug": "web-of-lies",
-    "category": "IPA - Imperial / Double New England / Hazy",
-    "abv": "7.5%",
-    "ibu": "",
-    "brewery": "Kros Strain Brewing",
-    "rating": "4.05",
-    "image_url": "https://labels.untappd.com/3550236",
     "record_type": "beer",
     "source_label": "Redwater Kitchen"
   },
