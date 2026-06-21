@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-06-20T18:08:28.072856+00:00",
+  "fetched_at": "2026-06-21T18:17:21.686024+00:00",
   "notices": [
     {
       "notice_type": "Water Rights \u2014 Future Use Review",
@@ -106,69 +106,6 @@
         {
           "label": "Recom. Action",
           "url": "https://danr.sd.gov/wrimage/pub/5358-3_rec.pdf"
-        }
-      ]
-    },
-    {
-      "notice_type": "Air Quality Permit",
-      "deadline": "06/20/2026",
-      "comment_url": "https://danr.sd.gov/public/comment.aspx?d_comment=06/20/2026&name=Astec&pntype=aq&description=Astec is adding a new laser cutting table to their facility in Yankton. DANR recommends approval of an air quality construction permit.",
-      "description": "Astec is adding a new laser cutting table to their facility in Yankton. DANR recommends approval of an air quality construction permit.",
-      "location": "Yankton",
-      "links": [
-        {
-          "label": "Public Notice",
-          "url": "http://danr.sd.gov/Environment/AirQuality/PN/ASTpn.pdf"
-        },
-        {
-          "label": "Draft Permit",
-          "url": "http://danr.sd.gov/Environment/AirQuality/PN/ASTdp.pdf"
-        },
-        {
-          "label": "Application Review",
-          "url": "http://danr.sd.gov/Environment/AirQuality/PN/ASTsb.pdf"
-        }
-      ]
-    },
-    {
-      "notice_type": "Air Quality Permit",
-      "deadline": "06/20/2026",
-      "comment_url": "https://danr.sd.gov/public/comment.aspx?d_comment=06/20/2026&name=MJF State Veterans Home&pntype=aq&description=MJF State Veterans Home is a healthcare facility in Hot Springs. DANR recommends approval of a Title V air quality operating permit renewal.",
-      "description": "MJF State Veterans Home is a healthcare facility in Hot Springs. DANR recommends approval of a Title V air quality operating permit renewal.",
-      "location": "Hot Springs",
-      "links": [
-        {
-          "label": "Public Notice",
-          "url": "http://danr.sd.gov/Environment/AirQuality/PN/MFJpn.pdf"
-        },
-        {
-          "label": "Draft Permit",
-          "url": "http://danr.sd.gov/Environment/AirQuality/PN/MJFdp.pdf"
-        },
-        {
-          "label": "Application Review",
-          "url": "http://danr.sd.gov/Environment/AirQuality/PN/MJFsb.pdf"
-        }
-      ]
-    },
-    {
-      "notice_type": "Air Quality Permit",
-      "deadline": "06/20/2026",
-      "comment_url": "https://danr.sd.gov/public/comment.aspx?d_comment=06/20/2026&name=Astec&pntype=aq&description=Astec is adding a new laser cutting table to their facility in Yankton. DANR recommends approval of a minor air quality operating permit modification.",
-      "description": "Astec is adding a new laser cutting table to their facility in Yankton. DANR recommends approval of a minor air quality operating permit modification.",
-      "location": "Yankton",
-      "links": [
-        {
-          "label": "Public Notice",
-          "url": "https://danr.sd.gov/Environment/AirQuality/PN/ASTpn.pdf"
-        },
-        {
-          "label": "Draft Permit",
-          "url": "https://danr.sd.gov/Environment/AirQuality/PN/dp.pdf"
-        },
-        {
-          "label": "Application Review",
-          "url": "https://danr.sd.gov/Environment/AirQuality/PN/ASTsb.pdf"
         }
       ]
     },

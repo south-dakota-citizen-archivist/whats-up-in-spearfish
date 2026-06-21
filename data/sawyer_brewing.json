@@ -1,6 +1,32 @@
 [
   {
     "url": "https://www.sawyerbrewingco.com/menu",
+    "image_url": "https://images.squarespace-cdn.com/content/v1/5c484d047c9327393b19dc04/827fa4f2-fd6e-4985-963f-22b7976fbc8f/pilsdark.jpg",
+    "title": "PILS",
+    "slug": "pils",
+    "category": "Light & Easy",
+    "description": "Bright, golden, & refreshingly crisp. Our German-style pilsner is brewed with light malt & noble hops for that signature snappy finish. Pours clear with a beautiful floral aroma. Prost to simplicity done right.",
+    "abv": "5.6%",
+    "notes": "",
+    "prices": [
+      {
+        "price": 2.0,
+        "ounces": 5
+      },
+      {
+        "price": 3.5,
+        "ounces": 10
+      },
+      {
+        "price": 5.5,
+        "ounces": 16
+      }
+    ],
+    "record_type": "beer",
+    "source_label": "Sawyer Brewing Co."
+  },
+  {
+    "url": "https://www.sawyerbrewingco.com/menu",
     "image_url": "https://images.squarespace-cdn.com/content/v1/5c484d047c9327393b19dc04/886dc41f-ef5c-411b-a594-7389de6df6a5/pcldark.jpg",
     "title": "Premium Craft Lager",
     "slug": "premium-craft-lager",
