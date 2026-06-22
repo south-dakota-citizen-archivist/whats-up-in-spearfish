@@ -1956,5 +1956,27 @@
     "image_url": "https://npr.brightspotcdn.com/cf/fc/41385ae54e0c950f3f77fe7d60ee/image-59.jpg",
     "record_type": "news",
     "source_label": "SDPB"
+  },
+  {
+    "url": "https://www.sdpb.org/politics/2026-06-22/real-estate-car-dealerships-bitcoin-and-a-tif-a-look-into-toby-doedens-empire",
+    "title": "Real estate, car dealerships, bitcoin and a TIF: A look into Toby Doeden's empire",
+    "slug": "sdpb-real-estate-car-dealerships-bitcoin-and-a-tif-a-look-into-toby-doeden-s",
+    "published": "2026-06-22",
+    "byline": "By SDPB News Staff",
+    "description": "A new report digs into the finances and business background of South Dakota gubernatorial candidate Toby Doeden.",
+    "image_url": "https://npr.brightspotcdn.com/75/54/dbb9ac6e41058d21c8c727739e56/tobydoeden-1-00-10-55-11-still001.png",
+    "record_type": "news",
+    "source_label": "SDPB"
+  },
+  {
+    "url": "https://www.sdpb.org/arts-life/2026-06-22/abbott-house-opens-new-foster-facilities-in-rapid-city",
+    "title": "Abbott House opens new foster facilities in Rapid City",
+    "slug": "sdpb-abbott-house-opens-new-foster-facilities-in-rapid-city",
+    "published": "2026-06-22",
+    "byline": "By C.J. Keene",
+    "description": "Abbott House, a foster care program, has opened two new homes to serve the Rapid City community. The city, leaders say, needs all the foster care opportunities it can get.",
+    "image_url": "https://npr.brightspotcdn.com/ad/0b/9c6e69924b1f8ab53758aa758241/image-85.jpg",
+    "record_type": "news",
+    "source_label": "SDPB"
   }
 ]

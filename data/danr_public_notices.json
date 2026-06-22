@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-06-21T18:17:21.686024+00:00",
+  "fetched_at": "2026-06-22T20:02:05.670398+00:00",
   "notices": [
     {
       "notice_type": "Water Rights \u2014 Future Use Review",
@@ -106,48 +106,6 @@
         {
           "label": "Recom. Action",
           "url": "https://danr.sd.gov/wrimage/pub/5358-3_rec.pdf"
-        }
-      ]
-    },
-    {
-      "notice_type": "Air Quality Permit",
-      "deadline": "06/21/2026",
-      "comment_url": "https://danr.sd.gov/public/comment.aspx?d_comment=06/21/2026&name=Load King Trailers&pntype=aq&description=Load King is adding a new plasma cutting table to their facility in Elk Point. DANR recommends a minor air quality operating permit modification.",
-      "description": "Load King is adding a new plasma cutting table to their facility in Elk Point. DANR recommends a minor air quality operating permit modification.",
-      "location": "Elk Point",
-      "links": [
-        {
-          "label": "Public Notice",
-          "url": "http://danr.sd.gov/Environment/AirQuality/PN/LKTcpn.pdf"
-        },
-        {
-          "label": "Draft Permit",
-          "url": "http://danr.sd.gov/Environment/AirQuality/PN/dp.pdf"
-        },
-        {
-          "label": "Application Review",
-          "url": "http://danr.sd.gov/Environment/AirQuality/PNLKTcsb.pdf"
-        }
-      ]
-    },
-    {
-      "notice_type": "Air Quality Permit",
-      "deadline": "06/21/2026",
-      "comment_url": "https://danr.sd.gov/public/comment.aspx?d_comment=06/21/2026&name=Load King Trailers&pntype=aq&description=Load King is adding a new plasma cutting table to their facility in Elk Point. DANR recommends approval of an air quality construction permit.",
-      "description": "Load King is adding a new plasma cutting table to their facility in Elk Point. DANR recommends approval of an air quality construction permit.",
-      "location": "Elk Point",
-      "links": [
-        {
-          "label": "Public Notice",
-          "url": "http://danr.sd.gov/Environment/AirQuality/PN/LKTcpn.pdf"
-        },
-        {
-          "label": "Draft Permit",
-          "url": "http://danr.sd.gov/Environment/AirQuality/PN/LKTcdp.pdf"
-        },
-        {
-          "label": "Application Review",
-          "url": "http://danr.sd.gov/Environment/AirQuality/PN/LKTcsb.pdf"
         }
       ]
     },

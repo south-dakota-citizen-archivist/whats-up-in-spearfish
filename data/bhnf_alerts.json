@@ -41,6 +41,16 @@
   },
   {
     "record_type": "alert",
+    "title": "Closures for Mt. Rushmore Fourth of July Fireworks",
+    "url": "https://www.fs.usda.gov/r02/blackhills/alerts/closures-mt-rushmore-fourth-july-fireworks",
+    "description": "Breezy Point and Wrinkled Rock Recreation Sites found on South Dakota Hwy 244 and  Roads 442, 442.1A, and 751 are closed to public access July 2-July 3, 2026.",
+    "published": "2026-06-02",
+    "source_label": "BHNF",
+    "alert_type": "caution",
+    "forest_order": "BKF-193-2026"
+  },
+  {
+    "record_type": "alert",
     "title": "Temporary Road Closure: NFSR 353.2C near Keystone, SD",
     "url": "https://www.fs.usda.gov/r02/blackhills/alerts/temporary-road-closure-nfsr-3532c-near-keystone-sd",
     "description": "Forest Road 353.2C near Keystone, SD is closed to motor vehicles, June 1–July 1, 2026. Check the Black Hills NF alerts page or call for details.",

@@ -1,6 +1,22 @@
 {
-  "fetched_at": "2026-06-21T18:16:59.007088+00:00",
+  "fetched_at": "2026-06-22T20:01:50.186482+00:00",
   "records": [
+    {
+      "id": 12120,
+      "record_no": "GRA-26-8",
+      "record_type": "Grading Permit",
+      "record_type_id": 6467,
+      "category": "infrastructure",
+      "status": -1,
+      "date_created": "2026-06-22T18:26:01.186Z",
+      "date_submitted": "2026-06-22T18:47:04.000Z",
+      "last_updated": "2026-06-22T19:11:06.000Z",
+      "address": "355 Camp Comfort  Rd, Spearfish, SD 57783",
+      "lat": 44.538211,
+      "lon": -103.863831,
+      "applicant": "Kent Johner",
+      "portal_url": "https://spearfishsd.portal.opengov.com/records/12120"
+    },
     {
       "id": 12112,
       "record_no": "",
@@ -19,14 +35,14 @@
     },
     {
       "id": 12089,
-      "record_no": "",
+      "record_no": "GRA-26-7",
       "record_type": "Grading Permit",
       "record_type_id": 6467,
       "category": "infrastructure",
-      "status": 0,
+      "status": 1,
       "date_created": "2026-06-16T15:00:38.869Z",
-      "date_submitted": "",
-      "last_updated": "2026-06-16T15:11:42.000Z",
+      "date_submitted": "2026-06-22T18:30:29.000Z",
+      "last_updated": "2026-06-22T18:30:29.000Z",
       "address": "509 Bandsaw Avenue, Spearfish, SD 57783",
       "lat": null,
       "lon": null,

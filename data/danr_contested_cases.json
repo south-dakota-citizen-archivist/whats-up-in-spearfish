@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-06-21T18:19:34.984378+00:00",
+  "fetched_at": "2026-06-22T20:04:23.735688+00:00",
   "cases": [
     {
       "ccid": "123",
@@ -9,6 +9,10 @@
       "description": "Proposed uranium exploration project seven miles north of Edgemont, SD.  Up to 50 holes will be drilled to a maximum vertical depth of 700 feet.  In addition, 50 drill platforms will be created with a dimension of 60 feet by 60 feet.  Exploration will be conducted using reverse circulation drilling with sumps.",
       "docs_url": "https://danr.sd.gov/public/ccdocs.aspx?CCID=CCID123",
       "documents": [
+        {
+          "label": "June 16, 2026 Motion Submitted by Clean Nuclear Energy to Expedite Hearing on Uranium Exploration Permit Application",
+          "url": "https://danr.sd.gov/Environment/MineralsMining/Exploration/docs/061626CNECMotionExpediteHearing.pdf"
+        },
         {
           "label": "May 16, 2026 CRST and OST Supplemental Exhibit",
           "url": "https://danr.sd.gov/Environment/MineralsMining/Exploration/docs/051926GunnSupplementalExhibit437.pdf"
@@ -24,10 +28,6 @@
         {
           "label": "May 16, 2026 CRST and OST Supplemental Exhibits 3",
           "url": "https://danr.sd.gov/Environment/MineralsMining/Exploration/docs/51626Gunn436.pdf"
-        },
-        {
-          "label": "May 16, 2026 CRST and OST Supplemental Exhibits 2",
-          "url": "https://danr.sd.gov/Environment/MineralsMining/Exploration/docs/51626Gunn435.pdf"
         }
       ],
       "total_docs": 100,
@@ -286,6 +286,10 @@
       "docs_url": "https://danr.sd.gov/public/ccdocs.aspx?CCID=CCID128",
       "documents": [
         {
+          "label": "Notice of Appearance - Counsel for Petitioner (GRRWS)",
+          "url": "https://danr.sd.gov/wrimage/pub/8990-3_NOA_pet_GRWS.pdf"
+        },
+        {
           "label": "Notice of Entry of Procedural and Scheduling Order - Counsel for Water Management Board",
           "url": "https://danr.sd.gov/wrimage/pub/8990-3_proc_sch_order.pdf"
         },
@@ -300,13 +304,9 @@
         {
           "label": "Notice of Hearing",
           "url": "https://danr.sd.gov/wrimage/pub/8990-3_NOH_2.pdf"
-        },
-        {
-          "label": "Notice of Automatic Delay of Hearing",
-          "url": "https://danr.sd.gov/wrimage/pub/8990-3_not2_dly.pdf"
         }
       ],
-      "total_docs": 12,
+      "total_docs": 13,
       "latest_doc_date": "0000-00-00"
     },
     {
