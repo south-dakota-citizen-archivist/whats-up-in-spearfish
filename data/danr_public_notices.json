@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-06-22T20:02:05.670398+00:00",
+  "fetched_at": "2026-06-23T19:08:37.658471+00:00",
   "notices": [
     {
       "notice_type": "Water Rights \u2014 Future Use Review",
@@ -106,24 +106,6 @@
         {
           "label": "Recom. Action",
           "url": "https://danr.sd.gov/wrimage/pub/5358-3_rec.pdf"
-        }
-      ]
-    },
-    {
-      "notice_type": "Waste Management \u2014 Solid Waste",
-      "deadline": "6/22/2026",
-      "comment_url": "",
-      "name": "Waste Management of Huron",
-      "description": "Permit renewal application to continue operation of a Type IIB Municipal Solid Waste Transfer Station Solid Waste Facility",
-      "location": "Huron, SD",
-      "links": [
-        {
-          "label": "Public Notice",
-          "url": "https://danr.sd.gov/Press/docs/publicnotices/wastemanagementnotices/Waste_Management_of_Huron_26_PN.pdf"
-        },
-        {
-          "label": "Draft Permit",
-          "url": "https://danr.sd.gov/Press/docs/publicnotices/wastemanagementnotices/DRAFT_Waste_Management_of_Huron_26_IP.pdf"
         }
       ]
     },
@@ -460,6 +442,30 @@
       ]
     },
     {
+      "notice_type": "Water Rights",
+      "deadline": "07/06/2026",
+      "comment_url": "",
+      "application_no": "FC39-3",
+      "name": "Upper Minnesota River Watershed District, c/o Amber Doschadis,\u00a0Ortonville\u00a0MN",
+      "location": "Grant",
+      "water_source": "Whetstone River",
+      "use_type": "Flood Control",
+      "links": [
+        {
+          "label": "Public Notice",
+          "url": "https://danr.sd.gov/wrimage/pub/FC39-3_app.pdf"
+        },
+        {
+          "label": "Appl.",
+          "url": "https://danr.sd.gov/wrimage/pub/FC39-3_apl.pdf"
+        },
+        {
+          "label": "Recom. Action",
+          "url": "https://danr.sd.gov/wrimage/pub/FC39-3_rec.pdf"
+        }
+      ]
+    },
+    {
       "notice_type": "Air Quality Permit",
       "deadline": "07/11/2026",
       "comment_url": "https://danr.sd.gov/public/comment.aspx?d_comment=07/11/2026&name=Dakota Ethanol, LLC&pntype=aq&description=Dakota Ethanol, LLC is expanding their ethanol plant in Wentworth, South Dakota. The department recommends issuance of an air quality construction permit.",
@@ -557,15 +563,15 @@
       "links": [
         {
           "label": "Public Notice",
-          "url": "https://danr.sd.gov/Environment/AirQuality/PN/HCpn.pdf"
+          "url": "https://danr.sd.gov/Environment/AirQuality/PN/HC12pn.pdf"
         },
         {
           "label": "Draft Permit",
-          "url": "https://danr.sd.gov/Environment/AirQuality/PN/HCdp.pdf"
+          "url": "https://danr.sd.gov/Environment/AirQuality/PN/HC12dp.pdf"
         },
         {
           "label": "Application Review",
-          "url": "https://danr.sd.gov/Environment/AirQuality/PN/HCsb.pdf"
+          "url": "https://danr.sd.gov/Environment/AirQuality/PN/HC12sb.pdf"
         }
       ]
     }

@@ -1318,5 +1318,35 @@
     "start_dt": "Fri, 12 Dec 2025 15:28:53 -0700",
     "record_type": "event",
     "source_label": "City of Spearfish"
+  },
+  {
+    "url": "https://www.spearfish.gov/Calendar.aspx?EID=3519",
+    "title": "Toddler Story Time",
+    "slug": "toddler-story-time",
+    "description": "<strong>Event date:</strong> July 7, 2026 <br /><strong>Event Time: </strong>09:30 AM - 10:15 AM<br /><strong>Location:</strong> <br />Spearfish, SD 57783<br /><strong>Description:</strong><br />Early literacy activities for ages 1-3.",
+    "published": "Fri, 10 Apr 2026 14:29:16 -0700",
+    "start_dt": "Fri, 10 Apr 2026 14:29:16 -0700",
+    "record_type": "event",
+    "source_label": "City of Spearfish"
+  },
+  {
+    "url": "https://www.spearfish.gov/Calendar.aspx?EID=3546",
+    "title": "Story Time",
+    "slug": "story-time",
+    "description": "<strong>Event date:</strong> July 7, 2026 <br /><strong>Event Time: </strong>10:30 AM - 11:15 AM<br /><strong>Location:</strong> <br />Spearfish, SD 57783<br /><strong>Description:</strong><br />Stories and activities for ages 4+",
+    "published": "Fri, 10 Apr 2026 14:34:31 -0700",
+    "start_dt": "Fri, 10 Apr 2026 14:34:31 -0700",
+    "record_type": "event",
+    "source_label": "City of Spearfish"
+  },
+  {
+    "url": "https://www.spearfish.gov/Calendar.aspx?EID=3419",
+    "title": "Planning Commission",
+    "slug": "planning-commission",
+    "description": "<strong>Event date:</strong> July 7, 2026 <br /><strong>Event Time: </strong>04:00 PM - 05:00 PM<br /><strong>Location:</strong> <br />City Hall <br />625 N 5th St<br />Spearfish, SD 57783",
+    "published": "Wed, 08 Apr 2026 11:04:48 -0700",
+    "start_dt": "Wed, 08 Apr 2026 11:04:48 -0700",
+    "record_type": "event",
+    "source_label": "City of Spearfish"
   }
 ]

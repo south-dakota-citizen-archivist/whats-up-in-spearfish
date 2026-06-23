@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-06-22T20:04:23.735688+00:00",
+  "fetched_at": "2026-06-23T19:10:47.335619+00:00",
   "cases": [
     {
       "ccid": "123",
@@ -126,6 +126,10 @@
       "docs_url": "https://danr.sd.gov/public/ccdocs.aspx?CCID=CCID130",
       "documents": [
         {
+          "label": "Notice Entry of Orders re Recusal and Procedural Order",
+          "url": "https://danr.sd.gov/OfficeOfWater/SurfaceWaterQuality/docs/CCH/Custer/Notice Entry of Orders.pdf"
+        },
+        {
           "label": "The Program's Answer to Petitions",
           "url": "https://danr.sd.gov/OfficeOfWater/SurfaceWaterQuality/docs/CCH/Custer/The Programs Answer to Petitions.pdf"
         },
@@ -140,13 +144,9 @@
         {
           "label": "Video of French Creek USGS 06403300",
           "url": "https://danr.sd.gov/OfficeOfWater/SurfaceWaterQuality/docs/CCH/Custer/S_Video USGS 06403300 102022.mp4"
-        },
-        {
-          "label": "Video of French Creek Site 4",
-          "url": "https://danr.sd.gov/OfficeOfWater/SurfaceWaterQuality/docs/CCH/Custer/S_video site 4 090725.mp4"
         }
       ],
-      "total_docs": 13,
+      "total_docs": 14,
       "latest_doc_date": "0000-00-00"
     },
     {

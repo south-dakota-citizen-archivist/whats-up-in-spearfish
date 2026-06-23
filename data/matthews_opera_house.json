@@ -718,5 +718,29 @@
     "image_url": "https://www.matthewsopera.com/wp-content/uploads/2026/06/2025-Bellman.webp",
     "record_type": "event",
     "source_label": "Matthews Opera House"
+  },
+  {
+    "title": "Aladdin – Missoula Children’s Theatre",
+    "url": "https://www.matthewsopera.com/event/aladdin-missoula-childrens-theatre/2026-07-11/1/",
+    "slug": "aladdin-missoula-childrens-theatre",
+    "start_dt": "2026-07-11T14:00:00-06:00",
+    "end_dt": "2026-07-11T15:30:00-06:00",
+    "description": "Local Young People to Perform Aladdin on July 11th at 2pm & 6pm! The Missoula Children’s Theatre returns to Spearfish with their beloved touring residency, bringing the magic of Aladdin to life in ... Read more \\n",
+    "location": "The Matthews Opera House – Theatre",
+    "image_url": "https://www.matthewsopera.com/wp-content/uploads/2026/06/Website-5.png",
+    "record_type": "event",
+    "source_label": "Matthews Opera House"
+  },
+  {
+    "title": "Aladdin – Missoula Children’s Theatre",
+    "url": "https://www.matthewsopera.com/event/aladdin-missoula-childrens-theatre/2026-07-11/2/",
+    "slug": "aladdin-missoula-childrens-theatre",
+    "start_dt": "2026-07-11T18:00:00-06:00",
+    "end_dt": "2026-07-11T19:30:00-06:00",
+    "description": "Local Young People to Perform Aladdin on July 11th at 2pm & 6pm! The Missoula Children’s Theatre returns to Spearfish with their beloved touring residency, bringing the magic of Aladdin to life in ... Read more \\n",
+    "location": "The Matthews Opera House – Theatre",
+    "image_url": "https://www.matthewsopera.com/wp-content/uploads/2026/06/Website-5.png",
+    "record_type": "event",
+    "source_label": "Matthews Opera House"
   }
 ]

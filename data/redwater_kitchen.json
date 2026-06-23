@@ -1,5 +1,18 @@
 [
   {
+    "url": "https://untappd.com/b/dakota-point-brewing-tangerine-treat/5008713",
+    "title": "Tangerine Treat",
+    "slug": "tangerine-treat",
+    "category": "Wheat Beer - Fruited",
+    "abv": "5.2%",
+    "ibu": "17",
+    "brewery": "Dakota Point Brewing",
+    "rating": "3.77",
+    "image_url": "https://labels.untappd.com/5008713",
+    "record_type": "beer",
+    "source_label": "Redwater Kitchen"
+  },
+  {
     "url": "https://untappd.com/b/dakota-point-brewing-long-trek-ipa/3792761",
     "title": "Long Trek IPA",
     "slug": "long-trek-ipa",
@@ -87,19 +100,6 @@
     "brewery": "2 Towns Ciderhouse",
     "rating": "4.01",
     "image_url": "https://labels.untappd.com/2474142",
-    "record_type": "beer",
-    "source_label": "Redwater Kitchen"
-  },
-  {
-    "url": "https://untappd.com/b/surly-brewing-company-this-beer-is-niiice/6097469",
-    "title": "This Beer Is NIIICE!",
-    "slug": "this-beer-is-niiice",
-    "category": "Blonde / Golden Ale - American",
-    "abv": "4.5%",
-    "ibu": "",
-    "brewery": "Surly Brewing Company",
-    "rating": "3.53",
-    "image_url": "https://labels.untappd.com/6097469",
     "record_type": "beer",
     "source_label": "Redwater Kitchen"
   },
