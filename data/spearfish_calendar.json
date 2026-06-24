@@ -1348,5 +1348,35 @@
     "start_dt": "Wed, 08 Apr 2026 11:04:48 -0700",
     "record_type": "event",
     "source_label": "City of Spearfish"
+  },
+  {
+    "url": "https://www.spearfish.gov/Calendar.aspx?EID=3554",
+    "title": "Story Time",
+    "slug": "story-time",
+    "description": "<strong>Event date:</strong> July 8, 2026 <br /><strong>Event Time: </strong>09:30 AM - 10:15 AM<br /><strong>Location:</strong> <br />Spearfish, SD 57783<br /><strong>Description:</strong><br />Stories and activities for ages 4+",
+    "published": "Fri, 10 Apr 2026 14:35:13 -0700",
+    "start_dt": "Fri, 10 Apr 2026 14:35:13 -0700",
+    "record_type": "event",
+    "source_label": "City of Spearfish"
+  },
+  {
+    "url": "https://www.spearfish.gov/Calendar.aspx?EID=3527",
+    "title": "Toddler Story Time",
+    "slug": "toddler-story-time",
+    "description": "<strong>Event date:</strong> July 8, 2026 <br /><strong>Event Time: </strong>10:30 AM - 11:15 AM<br /><strong>Location:</strong> <br />Spearfish, SD 57783<br /><strong>Description:</strong><br />Early literacy activities for ages 1-3.",
+    "published": "Fri, 10 Apr 2026 14:30:06 -0700",
+    "start_dt": "Fri, 10 Apr 2026 14:30:06 -0700",
+    "record_type": "event",
+    "source_label": "City of Spearfish"
+  },
+  {
+    "url": "https://www.spearfish.gov/Calendar.aspx?EID=3600",
+    "title": "Uncovering the Thoen Stone",
+    "slug": "uncovering-the-thoen-stone",
+    "description": "<strong>Event date:</strong> July 8, 2026 <br /><strong>Event Time: </strong>05:30 PM - 06:30 PM<br /><strong>Location:</strong> <br />Spearfish, SD 57783<br /><strong>Description:</strong><br />Uncovering the Thoen Stone presentation with local historian Paul Higbee",
+    "published": "Fri, 15 May 2026 16:19:58 -0700",
+    "start_dt": "Fri, 15 May 2026 16:19:58 -0700",
+    "record_type": "event",
+    "source_label": "City of Spearfish"
   }
 ]

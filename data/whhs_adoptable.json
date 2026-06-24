@@ -243,17 +243,6 @@
   },
   {
     "url": "https://www.westernhillshumanesociety.com/cats",
-    "title": "Precious Moments",
-    "slug": "cat-precious-moments",
-    "species": "cat",
-    "description": "Female | 8 weeks \nApplication Pending\nPrecious Moments was one of the three Gage’s kittens to come to us in May 2026, turning an approx 8 weeks on June 15th. She is the last one of her litter to find a home. She’s sweet, cuddly, and playful!",
-    "image_url": "https://images.squarespace-cdn.com/content/v1/6833638f52663f7b5354620e/d17451f7-9adc-4713-bbf7-2b17c4bc302a/1000046606.jpg?format=500w",
-    "image_alt": "Precious Moments",
-    "record_type": "adoptable",
-    "source_label": "Western Hills Humane Society"
-  },
-  {
-    "url": "https://www.westernhillshumanesociety.com/cats",
     "title": "Dr. Mittens",
     "slug": "cat-dr-mittens",
     "species": "cat",
@@ -271,6 +260,39 @@
     "description": "Male | Born 9/2023\nCoon and his sister, Badger, came to us June 2026. Their owner was moving and unable to take them with. Coon has been a bit more timid but is affectionate. We are still getting to know him and although he and his sister do get along, they do not appear bonded and can be adopted separately. Coon would do best in a quieter home where he doesn’t feel the need to hide away.",
     "image_url": "https://images.squarespace-cdn.com/content/v1/6833638f52663f7b5354620e/05224db0-51fa-4e4a-bf70-7b83c448cddd/1000046602.jpg?format=500w",
     "image_alt": "Coon",
+    "record_type": "adoptable",
+    "source_label": "Western Hills Humane Society"
+  },
+  {
+    "url": "https://www.westernhillshumanesociety.com/cats",
+    "title": "Alfie",
+    "slug": "cat-alfie",
+    "species": "cat",
+    "description": "Male | Born 12/2024\nAlfie came to us June 2026 after family members could no longer care for him after being bounced around. He is used to living outside but loving indoor life and extra attention. He has lots to say and is quite the love bug.",
+    "image_url": "https://images.squarespace-cdn.com/content/v1/6833638f52663f7b5354620e/f588775f-d990-4ba4-8bd4-331441602776/1000047203.jpg?format=500w",
+    "image_alt": "Alfie",
+    "record_type": "adoptable",
+    "source_label": "Western Hills Humane Society"
+  },
+  {
+    "url": "https://www.westernhillshumanesociety.com/cats",
+    "title": "Spino",
+    "slug": "cat-spino",
+    "species": "cat",
+    "description": "Male | Born 4.1.2015\nSpino came to us at 11 years old in June 2026. He is a senior that is taking time to adjust but we are looking forward to getting to know this sweet older boy. He’ll be in our senior room and we’ve love for you to come fall for this big hunk.\nSeniors are $25 to adopt or ask about our Senior for Senior program!",
+    "image_url": "https://images.squarespace-cdn.com/content/v1/6833638f52663f7b5354620e/a318aa65-400f-47da-a3b2-5b9c99f1b108/1000047205.jpg?format=500w",
+    "image_alt": "Spino",
+    "record_type": "adoptable",
+    "source_label": "Western Hills Humane Society"
+  },
+  {
+    "url": "https://www.westernhillshumanesociety.com/cats",
+    "title": "Arthur",
+    "slug": "cat-arthur",
+    "species": "cat",
+    "description": "Male | Born 2024\nArthur is a young, handsome fella looking for his new forever home! He came to us June 2026 after his owner was unable to continue to care for him. He was very loved and has a lot of personality. He’s ready to start his next chapter would love another cat to play with.",
+    "image_url": "https://images.squarespace-cdn.com/content/v1/6833638f52663f7b5354620e/91202d2f-48a8-42cd-83cc-920707b73c90/Arthur.jpg?format=500w",
+    "image_alt": "Arthur",
     "record_type": "adoptable",
     "source_label": "Western Hills Humane Society"
   },

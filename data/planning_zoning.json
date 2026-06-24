@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-06-23T19:08:18.950438+00:00",
+  "fetched_at": "2026-06-24T18:32:13.466862+00:00",
   "records": [
     {
       "id": 12125,
@@ -58,7 +58,7 @@
       "status": 1,
       "date_created": "2026-06-22T21:00:26.430Z",
       "date_submitted": "2026-06-23T14:51:31.000Z",
-      "last_updated": "2026-06-23T14:51:31.000Z",
+      "last_updated": "2026-06-24T13:56:42.000Z",
       "address": "1047 W KING ST, SPEARFISH, SD 57783",
       "lat": 44.491888,
       "lon": -103.874635,
@@ -631,10 +631,10 @@
       "record_type": "Water/Sewer Service Agreement Application",
       "record_type_id": 6515,
       "category": "infrastructure",
-      "status": 1,
+      "status": 2,
       "date_created": "2026-05-05T20:50:10.107Z",
       "date_submitted": "2026-05-05T21:01:22.000Z",
-      "last_updated": "2026-06-12T15:29:44.000Z",
+      "last_updated": "2026-06-24T17:25:19.000Z",
       "address": "1030 Maitland  Rd, Spearfish, SD 57783",
       "lat": 44.466685,
       "lon": -103.78928,

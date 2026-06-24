@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-06-23T19:10:57.233378+00:00",
+  "fetched_at": "2026-06-24T18:35:02.807238+00:00",
   "lookback_days": 30,
   "records": [
     {
@@ -14,6 +14,97 @@
       "lat": 44.11813,
       "lon": -103.008149,
       "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/68550/attachments/11260"
+    },
+    {
+      "objectid": 68554,
+      "date": "2026-06-23",
+      "species": "White-tailed Deer",
+      "highway": "I90",
+      "sex": "Female",
+      "present": "Yes",
+      "comments": null,
+      "contractor": "Tony Hanig",
+      "lat": 44.25634,
+      "lon": -103.406249,
+      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/68554/attachments/11264"
+    },
+    {
+      "objectid": 68555,
+      "date": "2026-06-23",
+      "species": "White-tailed Deer",
+      "highway": "I90",
+      "sex": "Female",
+      "present": "Yes",
+      "comments": null,
+      "contractor": "Tony Hanig",
+      "lat": 44.377722,
+      "lon": -103.480482,
+      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/68555/attachments/11265"
+    },
+    {
+      "objectid": 68559,
+      "date": "2026-06-23",
+      "species": "White-tailed Deer",
+      "highway": "I90",
+      "sex": "Male",
+      "present": "Yes",
+      "comments": null,
+      "contractor": "Tony Hanig",
+      "lat": 44.482573,
+      "lon": -103.689986,
+      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/68559/attachments/11269"
+    },
+    {
+      "objectid": 68560,
+      "date": "2026-06-23",
+      "species": "White-tailed Deer",
+      "highway": "I90",
+      "sex": "Unknown",
+      "present": "Yes",
+      "comments": null,
+      "contractor": "Tony Hanig",
+      "lat": 44.46165,
+      "lon": -103.621768,
+      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/68560/attachments/11270"
+    },
+    {
+      "objectid": 68561,
+      "date": "2026-06-23",
+      "species": "White-tailed Deer",
+      "highway": "I90",
+      "sex": "Female",
+      "present": "Yes",
+      "comments": null,
+      "contractor": "Tony Hanig",
+      "lat": 44.420561,
+      "lon": -103.537806,
+      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/68561/attachments/11271"
+    },
+    {
+      "objectid": 68562,
+      "date": "2026-06-23",
+      "species": "White-tailed Deer",
+      "highway": "I90",
+      "sex": "Female",
+      "present": "Yes",
+      "comments": null,
+      "contractor": "Tony Hanig",
+      "lat": 44.397241,
+      "lon": -103.512152,
+      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/68562/attachments/11272"
+    },
+    {
+      "objectid": 68563,
+      "date": "2026-06-23",
+      "species": "White-tailed Deer",
+      "highway": "I90",
+      "sex": "Female",
+      "present": "Yes",
+      "comments": null,
+      "contractor": "Tony Hanig",
+      "lat": 44.396935,
+      "lon": -103.510695,
+      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/68563/attachments/11273"
     },
     {
       "objectid": 68538,
