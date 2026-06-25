@@ -31,16 +31,6 @@
   },
   {
     "record_type": "alert",
-    "title": "Flag Mountain Area Closure June 18-24",
-    "url": "https://www.fs.usda.gov/r02/blackhills/alerts/flag-mountain-area-closure-june-18-24",
-    "description": "Black Hills National Forest announces a temporary area and road closure near Flag Mountain from June 18–24, 2026.",
-    "published": "2026-06-18",
-    "source_label": "BHNF",
-    "alert_type": "information",
-    "forest_order": "BKF-192-2026"
-  },
-  {
-    "record_type": "alert",
     "title": "Closures for Mt. Rushmore Fourth of July Fireworks",
     "url": "https://www.fs.usda.gov/r02/blackhills/alerts/closures-mt-rushmore-fourth-july-fireworks",
     "description": "Breezy Point and Wrinkled Rock Recreation Sites found on South Dakota Hwy 244 and  Roads 442, 442.1A, and 751 are closed to public access July 2-July 3, 2026.",

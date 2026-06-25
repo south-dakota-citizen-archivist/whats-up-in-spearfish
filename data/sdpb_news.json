@@ -2099,5 +2099,49 @@
     "image_url": "https://npr.brightspotcdn.com/41/25/a34a870a4d259083a2a8159aad90/image-3.jpg",
     "record_type": "news",
     "source_label": "SDPB"
+  },
+  {
+    "url": "https://www.sdpb.org/politics/2026-06-25/trump-to-attend-mount-rushmore-fireworks-show",
+    "title": "Trump to attend Mount Rushmore fireworks show",
+    "slug": "sdpb-trump-to-attend-mount-rushmore-fireworks-show",
+    "published": "2026-06-25",
+    "byline": "By Josh Chilson",
+    "description": "U.S. President Donald Trump is returning to South Dakota for the America 250 Mount Rushmore Fireworks Celebration.",
+    "image_url": "https://npr.brightspotcdn.com/aa/62/10ffa11b47ac91525ada976aeccc/b79a77ec7b-rushmorefireworks07-03-20cc0348.jpg",
+    "record_type": "news",
+    "source_label": "SDPB"
+  },
+  {
+    "url": "https://www.sdpb.org/politics/2026-06-25/erickson-declares-victory-in-razor-thin-sioux-falls-mayoral-race",
+    "title": "Erickson declares victory in razor-thin Sioux Falls mayoral race",
+    "slug": "sdpb-erickson-declares-victory-in-razor-thin-sioux-falls-mayoral-race",
+    "published": "2026-06-25",
+    "byline": "By Julia Stelter",
+    "description": "Sioux Falls mayoral candidate Christine Erickson declared victory while having only a two-vote lead in a race headed for a likely recount.",
+    "image_url": "https://npr.brightspotcdn.com/f3/04/dc6feb25425aa7e875acddf5e923/img-40212.JPG",
+    "record_type": "news",
+    "source_label": "SDPB"
+  },
+  {
+    "url": "https://www.sdpb.org/healthcare/2026-06-25/parks-and-rec-public-health-collaborating-to-meet-sioux-falls-community-needs",
+    "title": "Parks and rec, public health collaborating to meet Sioux Falls community needs",
+    "slug": "sdpb-parks-and-rec-public-health-collaborating-to-meet-sioux-falls-community",
+    "published": "2026-06-25",
+    "byline": "By Julia Stelter",
+    "description": "Two departments in the City of Sioux Falls are collaborating to link long-term parks and recreation planning with community health priorities.",
+    "image_url": "https://npr.brightspotcdn.com/af/75/62af054d441bb03c6eb042ecdd83/img-6486.jpg",
+    "record_type": "news",
+    "source_label": "SDPB"
+  },
+  {
+    "url": "https://www.sdpb.org/arts-life/2026-06-25/displacement-and-resistance-in-the-home-of-the-drowned",
+    "title": "Displacement and resistance in 'The Home of the Drowned'",
+    "slug": "sdpb-displacement-and-resistance-in-the-home-of-the-drowned",
+    "published": "2026-06-25",
+    "byline": "By Lori Walsh",
+    "description": "This novel by Elin Anna Labba chronicles the generational struggle of Sámi women to preserve culture, language, and a semblance of home.",
+    "image_url": "https://npr.brightspotcdn.com/a3/3f/cf4572e34314988f1a9a689bb9d9/untitled-june-24-2026-at-09-19-41-2.png",
+    "record_type": "news",
+    "source_label": "SDPB"
   }
 ]

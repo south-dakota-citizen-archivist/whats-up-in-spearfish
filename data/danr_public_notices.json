@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-06-24T18:32:28.636727+00:00",
+  "fetched_at": "2026-06-25T19:05:35.752972+00:00",
   "notices": [
     {
       "notice_type": "Water Rights \u2014 Future Use Review",
@@ -572,6 +572,20 @@
         {
           "label": "Application Review",
           "url": "https://danr.sd.gov/Environment/AirQuality/PN/HC12sb.pdf"
+        }
+      ]
+    },
+    {
+      "notice_type": "Concentrated Animal Feeding Operations (State Permit)",
+      "deadline": "07/25/2026",
+      "comment_url": "https://danr.sd.gov/public/comment.aspx?d_comment=07/25/2026&name=Meadow View Hutterian Brethren, Inc.&pntype=fp_cafo&description=New Swine Feeding Operation - State Permit",
+      "name": "Meadow View Hutterian Brethren, Inc.",
+      "description": "New Swine Feeding Operation - State Permit",
+      "location": "McCook County",
+      "links": [
+        {
+          "label": "Public Notice",
+          "url": "https://danr.sd.gov/Press/docs/publicnotices/FeedlotPermit/MeadowViewPN.pdf"
         }
       ]
     }

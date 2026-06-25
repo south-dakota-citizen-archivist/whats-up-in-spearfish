@@ -2325,5 +2325,57 @@
     "website": "https://www.eventbrite.com/e/free-internet-safety-presentation-with-hollie-strand-tickets-1990524538478?aff=oddtdtcreator&fbclid=IwY2xjawSntV9leHRuA2FlbQIxMABicmlkETFUREZab3JqMmZUUno5ZGpwc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHqkPWIJ-uLdspiz346u1hQWaLQfToPvRFtXDZoGwmewTJ315BfKUSLx35l28_aem_f5Mv-rNjsuGoYlFZlk4ufA",
     "record_type": "event",
     "source_label": "Spearfish Chamber"
+  },
+  {
+    "url": "https://business.spearfishchamber.org/events/details/rca-classics-30809",
+    "title": "RCA Classics",
+    "slug": "rca-classics",
+    "start_dt": "2026-06-30 7:00 PM MDT",
+    "end_dt": "2026-06-30 9:00 PM MDT",
+    "location": "The Matthews",
+    "fees": "Single tickets are $35. A three-show pass is available for $90 ($30 per show)",
+    "description": "Experience world-class chamber music in the heart of Spearfish as The Matthews and Rushmore Music Festival present RCA Classics at The Matthews. This three-part summer concert series features the Rushmore Concert Artists performing electrifying chamber works every other Tuesday evening from June 30 to July 14, 2026.",
+    "website": "https://www.eventbrite.com/cc/rushmore-concert-artists-at-the-matthews-4843596",
+    "record_type": "event",
+    "source_label": "Spearfish Chamber"
+  },
+  {
+    "url": "https://business.spearfishchamber.org/events/details/aladdin-children-s-theater-auditions-30812",
+    "title": "Aladdin - Children's Theater Auditions",
+    "slug": "aladdin-children-s-theater-auditions",
+    "start_dt": "2026-07-06 10:00 AM CDT",
+    "end_dt": "2026-07-06 12:00 PM CDT",
+    "location": "The Matthews",
+    "fees": "$50",
+    "description": "The Missoula Children’s Theatre returns to Spearfish with their beloved touring residency, bringing the magic of Aladdin to life in just one week! Local students will audition, rehearse, and perform a full-scale musical production. Complete with colorful costumes, lively music, and unforgettable characters. Professional touring Actor/Directors from Missoula Children’s Theatre guide students through every step of the process, including auditions, rehearsals, staging, and performance. No experience or advance preparation is required, just enthusiasm and a willingness to jump into the adventure.",
+    "website": "https://www.matthewsopera.com/childrens-theater-aladdin/",
+    "record_type": "event",
+    "source_label": "Spearfish Chamber"
+  },
+  {
+    "url": "https://business.spearfishchamber.org/events/details/rca-classics-07-14-2026-30810",
+    "title": "RCA Classics",
+    "slug": "rca-classics",
+    "start_dt": "2026-07-14 7:00 PM MDT",
+    "end_dt": "2026-07-14 9:00 PM MDT",
+    "location": "The Matthews",
+    "fees": "$35 GA",
+    "description": "Rushmore Concert Artists return to The Matthews for the second night of their three-show chamber music series on Tuesday, July 14. The program features Schubert’s Sonata in A minor, D.821 “Arpeggione” and Paul Schoenfield’s Café Music for a lively, wide-ranging evening of chamber favorites. Doors 6:30 p.m. | Show 7:00 p.m. Tickets are $35 general admission. Post-concert reception included.",
+    "website": "https://www.eventbrite.com/cc/rushmore-concert-artists-at-the-matthews-4843596",
+    "record_type": "event",
+    "source_label": "Spearfish Chamber"
+  },
+  {
+    "url": "https://business.spearfishchamber.org/events/details/rca-classics-07-28-2026-30811",
+    "title": "RCA Classics",
+    "slug": "rca-classics",
+    "start_dt": "2026-07-28 7:00 PM CDT",
+    "end_dt": "2026-07-28 9:00 PM CDT",
+    "location": "The Matthews",
+    "fees": "$35 GA",
+    "description": "Rushmore Concert Artists close their three-show chamber music series at The Matthews on Tuesday, July 28. The final program includes Jessie Montgomery’s Voodoo Dolls, Ralph Vaughan Williams’ Piano Quintet in C minor, and a special performance by the Emerging Artists Trio-in-Residence. Doors 6:30 p.m. | Show 7:00 p.m. Tickets are $35 general admission. Post-concert reception included.",
+    "website": "https://www.eventbrite.com/cc/rushmore-concert-artists-at-the-matthews-4843596",
+    "record_type": "event",
+    "source_label": "Spearfish Chamber"
   }
 ]
