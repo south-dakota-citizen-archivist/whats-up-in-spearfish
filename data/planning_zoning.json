@@ -1,6 +1,22 @@
 {
-  "fetched_at": "2026-06-25T19:05:18.979629+00:00",
+  "fetched_at": "2026-06-26T18:27:42.555286+00:00",
   "records": [
+    {
+      "id": 12137,
+      "record_no": "ENCR-26-4",
+      "record_type": "Encroachment Agreement Request",
+      "record_type_id": 6464,
+      "category": "infrastructure",
+      "status": 1,
+      "date_created": "2026-06-25T20:14:09.426Z",
+      "date_submitted": "2026-06-25T20:17:58.000Z",
+      "last_updated": "2026-06-25T20:33:50.000Z",
+      "address": "",
+      "lat": null,
+      "lon": null,
+      "applicant": "",
+      "portal_url": "https://spearfishsd.portal.opengov.com/records/12137"
+    },
     {
       "id": 12136,
       "record_no": "",
@@ -3354,7 +3370,7 @@
       "status": 1,
       "date_created": "2025-11-14T18:59:20.100Z",
       "date_submitted": "2025-11-14T19:13:40.000Z",
-      "last_updated": "2026-06-16T22:02:22.000Z",
+      "last_updated": "2026-06-26T18:12:03.000Z",
       "address": "545 W JACKSON BLVD, SPEARFISH, SD 57783",
       "lat": 44.489902,
       "lon": -103.86679,

@@ -2143,5 +2143,38 @@
     "image_url": "https://npr.brightspotcdn.com/a3/3f/cf4572e34314988f1a9a689bb9d9/untitled-june-24-2026-at-09-19-41-2.png",
     "record_type": "news",
     "source_label": "SDPB"
+  },
+  {
+    "url": "https://www.sdpb.org/politics/2026-06-26/south-dakota-touts-lowest-snap-error-rate-in-america",
+    "title": "South Dakota touts lowest SNAP error rate in America",
+    "slug": "sdpb-south-dakota-touts-lowest-snap-error-rate-in-america",
+    "published": "2026-06-26",
+    "byline": "By C.J. Keene",
+    "description": "SNAP is a food assistance program that helps low-income residents purchase grocery store food. SNAP errors are usually the result of either clerical errors, incorrect, or incomplete information.",
+    "image_url": "https://npr.brightspotcdn.com/90/4c/9512484b402d956dc50236c3d482/shopping-g3c5b40fb9-1920.jpg",
+    "record_type": "news",
+    "source_label": "SDPB"
+  },
+  {
+    "url": "https://www.sdpb.org/arts-life/2026-06-26/father-and-daughter-connect-after-60-years-of-longing",
+    "title": "Father and daughter connect after 60 years of longing",
+    "slug": "sdpb-father-and-daughter-connect-after-60-years-of-longing",
+    "published": "2026-06-26",
+    "byline": "By Lori Walsh",
+    "description": "She wanted to meet her father. He wondered whatever happened to his daughter. Then a stuffed panda from a county fair showed them love had been closer than they realized.",
+    "image_url": "https://npr.brightspotcdn.com/f3/c2/8378eb4c4975bb552ea275301023/buum-angie-listens-to-alvern-edit.JPG",
+    "record_type": "news",
+    "source_label": "SDPB"
+  },
+  {
+    "url": "https://www.sdpb.org/business-economics/2026-06-25/puc-approves-black-hills-energy-northwestern-energy-merger",
+    "title": "PUC approves Black Hills Energy, NorthWestern Energy merger",
+    "slug": "sdpb-puc-approves-black-hills-energy-northwestern-energy-merger",
+    "published": "2026-06-25",
+    "byline": "By SDPB News Staff",
+    "description": "The state Public Utilities Commission  has approved a merger between Black Hills Energy and NorthWestern Energy.",
+    "image_url": "https://npr.brightspotcdn.com/legacy/prod/filer_public/kusd-bento-live-pbs/Art/BrianG/RuralConnection/f1ad781eba_powerPole-thumb-small.jpg",
+    "record_type": "news",
+    "source_label": "SDPB"
   }
 ]

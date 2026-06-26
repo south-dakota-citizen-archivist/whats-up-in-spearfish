@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-06-25T19:05:35.752972+00:00",
+  "fetched_at": "2026-06-26T18:28:06.492601+00:00",
   "notices": [
     {
       "notice_type": "Water Rights \u2014 Future Use Review",
@@ -250,24 +250,6 @@
         {
           "label": "Recom. Action",
           "url": "https://danr.sd.gov/wrimage/pub/9032-3_rec.pdf"
-        }
-      ]
-    },
-    {
-      "notice_type": "Waste Management \u2014 Solid Waste",
-      "deadline": "6/25/2026",
-      "comment_url": "",
-      "name": "City of Corsica",
-      "description": "Permit renewal application to continue operation of a Type IV Restricted Use Solid Waste Facility",
-      "location": "Corsica, SD",
-      "links": [
-        {
-          "label": "Public Notice",
-          "url": "https://danr.sd.gov/Press/docs/publicnotices/wastemanagementnotices/Corsica_PN.pdf"
-        },
-        {
-          "label": "Draft Permit",
-          "url": "https://danr.sd.gov/Press/docs/publicnotices/wastemanagementnotices/DRAFT_Corsica_26_IP.pdf"
         }
       ]
     },
@@ -586,6 +568,20 @@
         {
           "label": "Public Notice",
           "url": "https://danr.sd.gov/Press/docs/publicnotices/FeedlotPermit/MeadowViewPN.pdf"
+        }
+      ]
+    },
+    {
+      "notice_type": "Concentrated Animal Feeding Operations (State Permit)",
+      "deadline": "07/26/2026",
+      "comment_url": "https://danr.sd.gov/public/comment.aspx?d_comment=07/26/2026&name=Boadwine Farms, Inc.&pntype=fp_cafo&description=Expanding Dairy Cattle Feeding Operation - State Permit",
+      "name": "Boadwine Farms, Inc.",
+      "description": "Expanding Dairy Cattle Feeding Operation - State Permit",
+      "location": "Minnehaha County",
+      "links": [
+        {
+          "label": "Public Notice",
+          "url": "https://danr.sd.gov/Press/docs/publicnotices/FeedlotPermit/BoadwineFarmsIncExpansionPN.pdf"
         }
       ]
     }

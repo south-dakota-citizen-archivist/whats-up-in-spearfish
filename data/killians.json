@@ -1,8 +1,8 @@
 [
   {
     "url": "https://untappd.com/b/spearfish-brewing-adventure-pants/2493162",
-    "title": "Adventure Pants",
-    "slug": "adventure-pants",
+    "title": "ADVENTUREPANTS!",
+    "slug": "adventurepants",
     "category": "IPA - Imperial / Double",
     "abv": "10.2%",
     "ibu": "",
@@ -13,15 +13,15 @@
     "source_label": "Killian's"
   },
   {
-    "url": "https://untappd.com/b/fair-state-brewing-ddh-party-forward/5717110",
-    "title": "DDH Party Forward",
-    "slug": "ddh-party-forward",
+    "url": "https://untappd.com/b/lost-cabin-beer-co-midwest-manners/5729551",
+    "title": "Midwest Manners",
+    "slug": "midwest-manners",
     "category": "IPA - New England / Hazy",
     "abv": "6%",
-    "ibu": "",
-    "brewery": "Fair State Brewing",
-    "rating": "4.01",
-    "image_url": "https://labels.untappd.com/5717110",
+    "ibu": "60",
+    "brewery": "Lost Cabin Beer Co.",
+    "rating": "3.96",
+    "image_url": "https://labels.untappd.com/5729551",
     "record_type": "beer",
     "source_label": "Killian's"
   },
@@ -124,7 +124,7 @@
     "abv": "5.2%",
     "ibu": "4",
     "brewery": "Lost Cabin Beer Co.",
-    "rating": "3.75",
+    "rating": "3.76",
     "image_url": "https://labels.untappd.com/4297111",
     "record_type": "beer",
     "source_label": "Killian's"
@@ -208,15 +208,15 @@
     "source_label": "Killian's"
   },
   {
-    "url": "https://untappd.com/b/north-coast-brewing-company-old-rasputin/30855",
-    "title": "Old Rasputin",
-    "slug": "old-rasputin",
-    "category": "Stout - Russian Imperial",
-    "abv": "9%",
-    "ibu": "75",
-    "brewery": "North Coast Brewing Company",
-    "rating": "4",
-    "image_url": "https://labels.untappd.com/30855",
+    "url": "https://untappd.com/b/guinness-guinness-draught/4473",
+    "title": "Guinness Draught",
+    "slug": "guinness-draught",
+    "category": "Stout - Irish Dry",
+    "abv": "4.2%",
+    "ibu": "45",
+    "brewery": "Guinness",
+    "rating": "3.77",
+    "image_url": "https://labels.untappd.com/4473",
     "record_type": "beer",
     "source_label": "Killian's"
   }
