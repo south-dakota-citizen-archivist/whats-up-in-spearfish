@@ -91,15 +91,15 @@
     "source_label": "Killian's"
   },
   {
-    "url": "https://untappd.com/b/modist-brewing-co-teal-label/4763862",
-    "title": "Teal Label",
-    "slug": "teal-label",
+    "url": "https://untappd.com/b/remedy-brewing-company-ipa/4244353",
+    "title": "IPA",
+    "slug": "ipa",
     "category": "IPA - American",
-    "abv": "6.3%",
-    "ibu": "",
-    "brewery": "Modist Brewing Co.",
-    "rating": "3.75",
-    "image_url": "https://labels.untappd.com/4763862",
+    "abv": "6%",
+    "ibu": "65",
+    "brewery": "Remedy Brewing Company",
+    "rating": "3.7",
+    "image_url": "https://labels.untappd.com/4244353",
     "record_type": "beer",
     "source_label": "Killian's"
   },

@@ -2176,5 +2176,27 @@
     "image_url": "https://npr.brightspotcdn.com/legacy/prod/filer_public/kusd-bento-live-pbs/Art/BrianG/RuralConnection/f1ad781eba_powerPole-thumb-small.jpg",
     "record_type": "news",
     "source_label": "SDPB"
+  },
+  {
+    "url": "https://www.sdpb.org/crime-courts/2026-06-26/supreme-court-sides-with-monsanto-in-liability-fight-over-warning-labels",
+    "title": "Supreme Court sides with Monsanto in liability fight over warning labels",
+    "slug": "sdpb-supreme-court-sides-with-monsanto-in-liability-fight-over-warning-labels",
+    "published": "2026-06-26",
+    "byline": "By Julia Stelter",
+    "description": "The U.S. Supreme Court is siding with Monsanto in its fight against liability from the popular weed killer Roundup. The ruling comes in a 7-2 opinion.",
+    "image_url": "https://npr.brightspotcdn.com/prod/filer_public/kusd-bento-live-pbs/JAN21/6027ecda4c_Ag.jpg",
+    "record_type": "news",
+    "source_label": "SDPB"
+  },
+  {
+    "url": "https://www.sdpb.org/education/2026-06-26/several-south-dakota-out-of-school-programs-receive-federal-grants",
+    "title": "Several South Dakota out-of-school programs receive federal grants",
+    "slug": "sdpb-several-south-dakota-out-of-school-programs-receive-federal-grants",
+    "published": "2026-06-26",
+    "byline": "By SDPB News Staff",
+    "description": "The South Dakota Department of Education is awarding over $9 million dollars in grants to 11 out-of-school programs across the state.",
+    "image_url": "https://npr.brightspotcdn.com/4d/8b/8b49743745998b2b9b9799ce82e7/south-dakota-money-trade-business-budget.jpg",
+    "record_type": "news",
+    "source_label": "SDPB"
   }
 ]
