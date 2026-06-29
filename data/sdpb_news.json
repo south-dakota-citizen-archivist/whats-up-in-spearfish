@@ -2198,5 +2198,27 @@
     "image_url": "https://npr.brightspotcdn.com/4d/8b/8b49743745998b2b9b9799ce82e7/south-dakota-money-trade-business-budget.jpg",
     "record_type": "news",
     "source_label": "SDPB"
+  },
+  {
+    "url": "https://www.sdpb.org/politics/2026-06-29/group-fails-to-get-homeowner-property-tax-relief-law-on-november-ballot",
+    "title": "Group fails to get homeowner property tax relief law on November ballot",
+    "slug": "sdpb-group-fails-to-get-homeowner-property-tax-relief-law-on-november-ballot",
+    "published": "2026-06-29",
+    "byline": "By SDPB News Staff",
+    "description": "A group looking to challenge a new law shifting a scheduled sales tax increase toward property tax relief has failed to get their referendum on the ballot.",
+    "image_url": "https://npr.brightspotcdn.com/8a/d8/bf5b308e4837a595d28986f33c4a/geralt-home-589068.jpg",
+    "record_type": "news",
+    "source_label": "SDPB"
+  },
+  {
+    "url": "https://www.sdpb.org/healthcare/2026-06-26/workforce-shortage-threatens-to-shut-down-lemmons-ambulance-service",
+    "title": "Workforce shortage threatens to shut down Lemmon's ambulance service",
+    "slug": "sdpb-workforce-shortage-threatens-to-shut-down-lemmon-s-ambulance-service",
+    "published": "2026-06-26",
+    "byline": "By Delainey LaHood-Burns",
+    "description": "As lawmakers on the EMS Funding Task Force in Pierre work to solve a growing EMS crisis, ambulances in communities like Lemmon are fighting to stay open.",
+    "image_url": "https://npr.brightspotcdn.com/6f/73/dfcbf9d84a62bad9d2fbbd82f8b0/lemmon-emt-association-1.png",
+    "record_type": "news",
+    "source_label": "SDPB"
   }
 ]

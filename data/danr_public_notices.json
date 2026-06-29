@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-06-27T17:58:34.952351+00:00",
+  "fetched_at": "2026-06-29T19:02:12.320186+00:00",
   "notices": [
     {
       "notice_type": "Water Rights \u2014 Future Use Review",
@@ -250,41 +250,6 @@
         {
           "label": "Recom. Action",
           "url": "https://danr.sd.gov/wrimage/pub/9032-3_rec.pdf"
-        }
-      ]
-    },
-    {
-      "notice_type": "Air Quality Permit",
-      "deadline": "06/27/2026",
-      "comment_url": "https://danr.sd.gov/public/comment.aspx?d_comment=06/27/2026&name=Solmax&pntype=aq&description=Solmax manufactures two types of geosynthetic clay liners in Spearfish. DANR recommends approval of a minor air quality operating permit.",
-      "description": "Solmax manufactures two types of geosynthetic clay liners in Spearfish. DANR recommends approval of a minor air quality operating permit.",
-      "location": "Spearfish",
-      "links": [
-        {
-          "label": "Public Notice",
-          "url": "https://danr.sd.gov/Environment/AirQuality/PN/SOLpn.pdf"
-        },
-        {
-          "label": "Draft Permit",
-          "url": "https://danr.sd.gov/Environment/AirQuality/PN/SOLdp.pdf"
-        },
-        {
-          "label": "Application Review",
-          "url": "https://danr.sd.gov/Environment/AirQuality/PN/SOLsb.pdf"
-        }
-      ]
-    },
-    {
-      "notice_type": "Air Quality (Annual Air Monitoring Network Plan and Five Year Review)",
-      "deadline": "06/27/2026",
-      "comment_url": "https://danr.sd.gov/public/comment.aspx?d_comment=06/27/2026&name=South Dakota&#39;s 2026 Ambient Air Monitoring Annual Plan&pntype=aq_nplan&description=DANR develops an annual ambient air monitoring network plan which is a review of the ambient air monitoring network each year.  The 2026 Annual Plan is open for public comment through June 27, 2026.",
-      "name": "South Dakota's 2026 Ambient Air Monitoring Annual Plan",
-      "description": "DANR develops an annual ambient air monitoring network plan which is a review of the ambient air monitoring network each year.  The 2026 Annual Plan is open for public comment through June 27, 2026.",
-      "location": "Statewide",
-      "links": [
-        {
-          "label": "Public Notice",
-          "url": "https://danr.sd.gov/Environment/AirQuality/AirMonitoring/docs/Annual Plan 2026.pdf"
         }
       ]
     },

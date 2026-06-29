@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-06-27T17:58:16.550078+00:00",
+  "fetched_at": "2026-06-29T19:01:54.919555+00:00",
   "records": [
     {
       "id": 12140,
@@ -138,7 +138,7 @@
       "status": 1,
       "date_created": "2026-06-23T02:54:06.097Z",
       "date_submitted": "2026-06-23T03:15:07.000Z",
-      "last_updated": "2026-06-23T14:42:03.000Z",
+      "last_updated": "2026-06-29T16:16:32.000Z",
       "address": "1047 King St, Spearfish, SD 57783",
       "lat": 44.491923,
       "lon": -103.874632,
@@ -2506,7 +2506,7 @@
       "status": 1,
       "date_created": "2026-02-02T18:44:19.779Z",
       "date_submitted": "2026-02-05T17:07:50.000Z",
-      "last_updated": "2026-06-16T22:09:09.000Z",
+      "last_updated": "2026-06-27T20:46:54.000Z",
       "address": "1830 N MAIN ST, SPEARFISH, SD 57783",
       "lat": 44.502398,
       "lon": -103.860394,
