@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-06-29T19:02:12.320186+00:00",
+  "fetched_at": "2026-06-30T18:54:36.709762+00:00",
   "notices": [
     {
       "notice_type": "Water Rights \u2014 Future Use Review",
@@ -110,150 +110,6 @@
       ]
     },
     {
-      "notice_type": "Water Rights",
-      "deadline": "06/22/2026",
-      "comment_url": "",
-      "application_no": "8986-3",
-      "name": "John Hall Jr.,\u00a0Clear Lake\u00a0SD",
-      "location": "Deuel",
-      "water_source": "Lake Sutton",
-      "use_type": "Irrigation (60 acres)",
-      "links": [
-        {
-          "label": "Public Notice",
-          "url": "https://danr.sd.gov/wrimage/pub/8986-3_app.pdf"
-        },
-        {
-          "label": "Appl.",
-          "url": "https://danr.sd.gov/wrimage/pub/8986-3_apl.pdf"
-        },
-        {
-          "label": "Recom. Action",
-          "url": "https://danr.sd.gov/wrimage/pub/8986-3_rec.pdf"
-        }
-      ]
-    },
-    {
-      "notice_type": "Water Rights",
-      "deadline": "06/22/2026",
-      "comment_url": "",
-      "application_no": "9006-3",
-      "name": "Timothy Masat,\u00a0Redfield\u00a0SD",
-      "location": "Spink",
-      "water_source": "Tulare: Western Spink Hitchcock Aquifer",
-      "use_type": "Irrigation (204 acres)",
-      "links": [
-        {
-          "label": "Public Notice",
-          "url": "https://danr.sd.gov/wrimage/pub/9006-3_app.pdf"
-        },
-        {
-          "label": "Appl.",
-          "url": "https://danr.sd.gov/wrimage/pub/9006-3_apl.pdf"
-        },
-        {
-          "label": "Recom. Action",
-          "url": "https://danr.sd.gov/wrimage/pub/9006-3_rec.pdf"
-        }
-      ]
-    },
-    {
-      "notice_type": "Water Rights",
-      "deadline": "06/22/2026",
-      "comment_url": "",
-      "application_no": "9033-3",
-      "name": "Joseph Hardin, c/o Corey Fredrich,\u00a0Brookings\u00a0SD",
-      "location": "Brookings",
-      "water_source": "Big Sioux: Aurora Aquifer",
-      "use_type": "Irrigation (50 acres)",
-      "links": [
-        {
-          "label": "Public Notice",
-          "url": "https://danr.sd.gov/wrimage/pub/9033-3_app.pdf"
-        },
-        {
-          "label": "Appl.",
-          "url": "https://danr.sd.gov/wrimage/pub/9033-3_apl.pdf"
-        },
-        {
-          "label": "Recom. Action",
-          "url": "https://danr.sd.gov/wrimage/pub/9033-3_rec.pdf"
-        }
-      ]
-    },
-    {
-      "notice_type": "Water Rights",
-      "deadline": "06/22/2026",
-      "comment_url": "",
-      "application_no": "2049-1",
-      "name": "Stanley R Goschke,\u00a0Piedmont\u00a0SD",
-      "location": "Meade",
-      "water_source": "Minnelusa Aquifer",
-      "use_type": "Domestic & Water Distribution System",
-      "links": [
-        {
-          "label": "Public Notice",
-          "url": "https://danr.sd.gov/wrimage/pub/2049-1_app.pdf"
-        },
-        {
-          "label": "Appl.",
-          "url": "https://danr.sd.gov/wrimage/pub/2049-1_apl.pdf"
-        },
-        {
-          "label": "Recom. Action",
-          "url": "https://danr.sd.gov/wrimage/pub/2049-1_rec.pdf"
-        }
-      ]
-    },
-    {
-      "notice_type": "Water Rights",
-      "deadline": "06/22/2026",
-      "comment_url": "",
-      "application_no": "2906-2",
-      "name": "Black Hills Electric Cooperative, c/o Michelle Fisher,\u00a0Custer\u00a0SD",
-      "location": "Custer",
-      "water_source": "Inyan Kara Aquifer",
-      "use_type": "Commercial",
-      "links": [
-        {
-          "label": "Public Notice",
-          "url": "https://danr.sd.gov/wrimage/pub/2906-2_app.pdf"
-        },
-        {
-          "label": "Appl.",
-          "url": "https://danr.sd.gov/wrimage/pub/2906-2_apl.pdf"
-        },
-        {
-          "label": "Recom. Action",
-          "url": "https://danr.sd.gov/wrimage/pub/2906-2_rec.pdf"
-        }
-      ]
-    },
-    {
-      "notice_type": "Water Rights",
-      "deadline": "06/22/2026",
-      "comment_url": "",
-      "application_no": "9032-3",
-      "name": "Wilbur Ellis, c/o Jake Miller,\u00a0Tulare\u00a0SD",
-      "location": "Spink",
-      "water_source": "Dakota Aquifer",
-      "use_type": "Commercial & Fire Suppression",
-      "links": [
-        {
-          "label": "Public Notice",
-          "url": "https://danr.sd.gov/wrimage/pub/9032-3_app.pdf"
-        },
-        {
-          "label": "Appl.",
-          "url": "https://danr.sd.gov/wrimage/pub/9032-3_apl.pdf"
-        },
-        {
-          "label": "Recom. Action",
-          "url": "https://danr.sd.gov/wrimage/pub/9032-3_rec.pdf"
-        }
-      ]
-    },
-    {
       "notice_type": "Air Quality Permit",
       "deadline": "07/03/2026",
       "comment_url": "https://danr.sd.gov/public/comment.aspx?d_comment=07/03/2026&name=Dakota Metal Recycling, LLC&pntype=aq&description=Dakota Metal Recycling, LLC proposes to construct and operate a metal shredding recycling facility. The Department recommends issuance of an air quality construction permit.",
@@ -332,30 +188,6 @@
         {
           "label": "Application Review",
           "url": "http://danr.sd.gov/Environment/AirQuality/PN/WRIsb.pdf"
-        }
-      ]
-    },
-    {
-      "notice_type": "Water Rights",
-      "deadline": "07/06/2026",
-      "comment_url": "",
-      "application_no": "FC39-3",
-      "name": "Upper Minnesota River Watershed District, c/o Amber Doschadis,\u00a0Ortonville\u00a0MN",
-      "location": "Grant",
-      "water_source": "Whetstone River",
-      "use_type": "Flood Control",
-      "links": [
-        {
-          "label": "Public Notice",
-          "url": "https://danr.sd.gov/wrimage/pub/FC39-3_app.pdf"
-        },
-        {
-          "label": "Appl.",
-          "url": "https://danr.sd.gov/wrimage/pub/FC39-3_apl.pdf"
-        },
-        {
-          "label": "Recom. Action",
-          "url": "https://danr.sd.gov/wrimage/pub/FC39-3_rec.pdf"
         }
       ]
     },
@@ -512,6 +344,34 @@
         {
           "label": "Draft Permit",
           "url": "https://danr.sd.gov/Press/docs/publicnotices/wastemanagementnotices/DRAFT_Waubay_26_IP.pdf"
+        }
+      ]
+    },
+    {
+      "notice_type": "Mining License",
+      "deadline": "",
+      "comment_url": "",
+      "name": "Corson County Highway Department",
+      "description": "Notice of Intent to Mine Gravel",
+      "location": "16 miles South,\u00bd mile East of McIntosh, SD.",
+      "links": [
+        {
+          "label": "Public Notice",
+          "url": "https://media.sd.gov/danr/MM/S239049PublicNotice.pdf"
+        }
+      ]
+    },
+    {
+      "notice_type": "Mining License",
+      "deadline": "",
+      "comment_url": "",
+      "name": "Pete Lien & Sons, Inc",
+      "description": "Notice of Intent to Mine Gravel",
+      "location": "5 Miles North West of Buffalo Gap",
+      "links": [
+        {
+          "label": "Public Notice",
+          "url": "https://media.sd.gov/danr/MM/S100023PublicNotice.pdf"
         }
       ]
     }

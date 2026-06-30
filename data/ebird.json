@@ -1,6 +1,123 @@
 {
-  "fetched_at": "2026-06-29T19:01:40.999182+00:00",
+  "fetched_at": "2026-06-30T18:53:46.878161+00:00",
   "observations": [
+    {
+      "species_code": "rehwoo",
+      "common_name": "Red-headed Woodpecker",
+      "scientific_name": "Melanerpes erythrocephalus",
+      "observed_on": "2026-06-29",
+      "count": 1,
+      "location_name": "21496 Morris Creek Place, Sturgis, South Dakota, US (44.285, -103.349)",
+      "lat": 44.2854951,
+      "lng": -103.3485418,
+      "location_id": "L71023749",
+      "checklist_id": "S365557031",
+      "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/232699/square.jpg"
+    },
+    {
+      "species_code": "turvul",
+      "common_name": "Turkey Vulture",
+      "scientific_name": "Cathartes aura",
+      "observed_on": "2026-06-29",
+      "count": 1,
+      "location_name": "Deerfield Trail, Silver City US-SD 44.08695, -103.57455",
+      "lat": 44.086945,
+      "lng": -103.574545,
+      "location_id": "L71927935",
+      "checklist_id": "S365491731",
+      "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/52277010/square.jpg"
+    },
+    {
+      "species_code": "treswa",
+      "common_name": "Tree Swallow",
+      "scientific_name": "Tachycineta bicolor",
+      "observed_on": "2026-06-29",
+      "count": 5,
+      "location_name": "Deerfield Trail, Silver City US-SD 44.08695, -103.57455",
+      "lat": 44.086945,
+      "lng": -103.574545,
+      "location_id": "L71927935",
+      "checklist_id": "S365491731",
+      "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/196885341/square.jpeg"
+    },
+    {
+      "species_code": "amerob",
+      "common_name": "American Robin",
+      "scientific_name": "Turdus migratorius",
+      "observed_on": "2026-06-29",
+      "count": 3,
+      "location_name": "Deerfield Trail, Silver City US-SD 44.08695, -103.57455",
+      "lat": 44.086945,
+      "lng": -103.574545,
+      "location_id": "L71927935",
+      "checklist_id": "S365491731",
+      "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/34859026/square.jpg"
+    },
+    {
+      "species_code": "sonspa",
+      "common_name": "Song Sparrow",
+      "scientific_name": "Melospiza melodia",
+      "observed_on": "2026-06-29",
+      "count": 2,
+      "location_name": "Deerfield Trail, Silver City US-SD 44.08695, -103.57455",
+      "lat": 44.086945,
+      "lng": -103.574545,
+      "location_id": "L71927935",
+      "checklist_id": "S365491731",
+      "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/104749271/square.jpg"
+    },
+    {
+      "species_code": "spotow",
+      "common_name": "Spotted Towhee",
+      "scientific_name": "Pipilo maculatus",
+      "observed_on": "2026-06-29",
+      "count": 1,
+      "location_name": "Deerfield Trail, Silver City US-SD 44.08695, -103.57455",
+      "lat": 44.086945,
+      "lng": -103.574545,
+      "location_id": "L71927935",
+      "checklist_id": "S365491731",
+      "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/30818274/square.jpg"
+    },
+    {
+      "species_code": "comyel",
+      "common_name": "Common Yellowthroat",
+      "scientific_name": "Geothlypis trichas",
+      "observed_on": "2026-06-29",
+      "count": 1,
+      "location_name": "Deerfield Trail, Silver City US-SD 44.08695, -103.57455",
+      "lat": 44.086945,
+      "lng": -103.574545,
+      "location_id": "L71927935",
+      "checklist_id": "S365491731",
+      "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/35803961/square.jpg"
+    },
+    {
+      "species_code": "amered",
+      "common_name": "American Redstart",
+      "scientific_name": "Setophaga ruticilla",
+      "observed_on": "2026-06-29",
+      "count": 1,
+      "location_name": "Deerfield Trail, Silver City US-SD 44.08695, -103.57455",
+      "lat": 44.086945,
+      "lng": -103.574545,
+      "location_id": "L71927935",
+      "checklist_id": "S365491731",
+      "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/31539046/square.jpg"
+    },
+    {
+      "species_code": "bkhgro",
+      "common_name": "Black-headed Grosbeak",
+      "scientific_name": "Pheucticus melanocephalus",
+      "observed_on": "2026-06-29",
+      "count": 1,
+      "location_name": "Deerfield Trail, Silver City US-SD 44.08695, -103.57455",
+      "lat": 44.086945,
+      "lng": -103.574545,
+      "location_id": "L71927935",
+      "checklist_id": "S365491731",
+      "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/390443967/square.jpg"
+    },
     {
       "species_code": "rocpig",
       "common_name": "Rock Pigeon",
@@ -13,19 +130,6 @@
       "location_id": "L71904970",
       "checklist_id": "S365397273",
       "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/466776975/square.jpg"
-    },
-    {
-      "species_code": "turvul",
-      "common_name": "Turkey Vulture",
-      "scientific_name": "Cathartes aura",
-      "observed_on": "2026-06-29",
-      "count": 1,
-      "location_name": "3484 WY-24, Aladdin US-WY 44.66161, -104.29396",
-      "lat": 44.661611,
-      "lng": -104.293961,
-      "location_id": "L71905098",
-      "checklist_id": "S365397770",
-      "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/52277010/square.jpg"
     },
     {
       "species_code": "rethaw",
@@ -129,7 +233,7 @@
       "lng": -104.116185,
       "location_id": "L71905348",
       "checklist_id": "S365398847",
-      "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/4661023/square.jpg"
+      "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/24115/square.jpg"
     },
     {
       "species_code": "moudov",
@@ -184,6 +288,123 @@
       "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/28781133/square.jpeg"
     },
     {
+      "species_code": "haiwoo",
+      "common_name": "Hairy Woodpecker",
+      "scientific_name": "Leuconotopicus villosus",
+      "observed_on": "2026-06-29",
+      "count": 2,
+      "location_name": "Warren's Peak Road, Sundance, Wyoming, US (44.506, -104.453)",
+      "lat": 44.5060865,
+      "lng": -104.4528176,
+      "location_id": "L71915659",
+      "checklist_id": "S365440568",
+      "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/1275/square.jpg"
+    },
+    {
+      "species_code": "norfli",
+      "common_name": "Northern Flicker",
+      "scientific_name": "Colaptes auratus",
+      "observed_on": "2026-06-29",
+      "count": 2,
+      "location_name": "Warren's Peak Road, Sundance, Wyoming, US (44.506, -104.453)",
+      "lat": 44.5060865,
+      "lng": -104.4528176,
+      "location_id": "L71915659",
+      "checklist_id": "S365440568",
+      "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/123812445/square.jpg"
+    },
+    {
+      "species_code": "reevir1",
+      "common_name": "Red-eyed Vireo",
+      "scientific_name": "Vireo olivaceus",
+      "observed_on": "2026-06-29",
+      "count": 2,
+      "location_name": "Warren's Peak Road, Sundance, Wyoming, US (44.506, -104.453)",
+      "lat": 44.5060865,
+      "lng": -104.4528176,
+      "location_id": "L71915659",
+      "checklist_id": "S365440568",
+      "photo_url": "https://static.inaturalist.org/photos/33624391/square.jpg"
+    },
+    {
+      "species_code": "bkcchi",
+      "common_name": "Black-capped Chickadee",
+      "scientific_name": "Poecile atricapillus",
+      "observed_on": "2026-06-29",
+      "count": 1,
+      "location_name": "Warren's Peak Road, Sundance, Wyoming, US (44.506, -104.453)",
+      "lat": 44.5060865,
+      "lng": -104.4528176,
+      "location_id": "L71915659",
+      "checklist_id": "S365440568",
+      "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/178279576/square.jpg"
+    },
+    {
+      "species_code": "ruckin",
+      "common_name": "Ruby-crowned Kinglet",
+      "scientific_name": "Corthylio calendula",
+      "observed_on": "2026-06-29",
+      "count": 1,
+      "location_name": "Warren's Peak Road, Sundance, Wyoming, US (44.506, -104.453)",
+      "lat": 44.5060865,
+      "lng": -104.4528176,
+      "location_id": "L71915659",
+      "checklist_id": "S365440568",
+      "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/251475181/square.jpg"
+    },
+    {
+      "species_code": "rebnut",
+      "common_name": "Red-breasted Nuthatch",
+      "scientific_name": "Sitta canadensis",
+      "observed_on": "2026-06-29",
+      "count": 1,
+      "location_name": "Warren's Peak Road, Sundance, Wyoming, US (44.506, -104.453)",
+      "lat": 44.5060865,
+      "lng": -104.4528176,
+      "location_id": "L71915659",
+      "checklist_id": "S365440568",
+      "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/117331702/square.jpg"
+    },
+    {
+      "species_code": "redcro",
+      "common_name": "Red Crossbill",
+      "scientific_name": "Loxia curvirostra",
+      "observed_on": "2026-06-29",
+      "count": 1,
+      "location_name": "Warren's Peak Road, Sundance, Wyoming, US (44.506, -104.453)",
+      "lat": 44.5060865,
+      "lng": -104.4528176,
+      "location_id": "L71915659",
+      "checklist_id": "S365440568",
+      "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/332346026/square.jpeg"
+    },
+    {
+      "species_code": "chispa",
+      "common_name": "Chipping Sparrow",
+      "scientific_name": "Spizella passerina",
+      "observed_on": "2026-06-29",
+      "count": 1,
+      "location_name": "Warren's Peak Road, Sundance, Wyoming, US (44.506, -104.453)",
+      "lat": 44.5060865,
+      "lng": -104.4528176,
+      "location_id": "L71915659",
+      "checklist_id": "S365440568",
+      "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/273251789/square.jpg"
+    },
+    {
+      "species_code": "ovenbi1",
+      "common_name": "Ovenbird",
+      "scientific_name": "Seiurus aurocapilla",
+      "observed_on": "2026-06-29",
+      "count": 1,
+      "location_name": "Warren's Peak Road, Sundance, Wyoming, US (44.506, -104.453)",
+      "lat": 44.5060865,
+      "lng": -104.4528176,
+      "location_id": "L71915659",
+      "checklist_id": "S365440568",
+      "photo_url": "https://static.inaturalist.org/photos/25928382/square.jpg"
+    },
+    {
       "species_code": "eucdov",
       "common_name": "Eurasian Collared-Dove",
       "scientific_name": "Streptopelia decaocto",
@@ -195,19 +416,6 @@
       "location_id": "L22753315",
       "checklist_id": "S365070277",
       "photo_url": "https://static.inaturalist.org/photos/61919353/square.jpeg"
-    },
-    {
-      "species_code": "amerob",
-      "common_name": "American Robin",
-      "scientific_name": "Turdus migratorius",
-      "observed_on": "2026-06-28",
-      "count": 1,
-      "location_name": "8616 Blucksberg Court, Sturgis, South Dakota, US (44.361, -103.456)",
-      "lat": 44.3612851,
-      "lng": -103.4555869,
-      "location_id": "L22753315",
-      "checklist_id": "S365070277",
-      "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/34859026/square.jpg"
     },
     {
       "species_code": "amegfi",
@@ -288,19 +496,6 @@
       "photo_url": "https://static.inaturalist.org/photos/53465854/square.jpeg"
     },
     {
-      "species_code": "norfli",
-      "common_name": "Northern Flicker",
-      "scientific_name": "Colaptes auratus",
-      "observed_on": "2026-06-28",
-      "count": 2,
-      "location_name": "Black Hills NF--Black Fox Campground",
-      "lat": 44.1448304,
-      "lng": -103.8456059,
-      "location_id": "L7628306",
-      "checklist_id": "S365306134",
-      "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/123812445/square.jpg"
-    },
-    {
       "species_code": "gryjay",
       "common_name": "Canada Jay",
       "scientific_name": "Perisoreus canadensis",
@@ -312,32 +507,6 @@
       "location_id": "L7628306",
       "checklist_id": "S365306134",
       "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/444966796/square.jpg"
-    },
-    {
-      "species_code": "treswa",
-      "common_name": "Tree Swallow",
-      "scientific_name": "Tachycineta bicolor",
-      "observed_on": "2026-06-28",
-      "count": 5,
-      "location_name": "Black Hills NF--Black Fox Campground",
-      "lat": 44.1448304,
-      "lng": -103.8456059,
-      "location_id": "L7628306",
-      "checklist_id": "S365306134",
-      "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/196885341/square.jpeg"
-    },
-    {
-      "species_code": "ruckin",
-      "common_name": "Ruby-crowned Kinglet",
-      "scientific_name": "Corthylio calendula",
-      "observed_on": "2026-06-28",
-      "count": 12,
-      "location_name": "Black Hills NF--Black Fox Campground",
-      "lat": 44.1448304,
-      "lng": -103.8456059,
-      "location_id": "L7628306",
-      "checklist_id": "S365306134",
-      "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/251475181/square.jpg"
     },
     {
       "species_code": "gockin",
@@ -353,19 +522,6 @@
       "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/59391481/square.jpg"
     },
     {
-      "species_code": "rebnut",
-      "common_name": "Red-breasted Nuthatch",
-      "scientific_name": "Sitta canadensis",
-      "observed_on": "2026-06-28",
-      "count": 2,
-      "location_name": "Black Hills NF--Black Fox Campground",
-      "lat": 44.1448304,
-      "lng": -103.8456059,
-      "location_id": "L7628306",
-      "checklist_id": "S365306134",
-      "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/117331702/square.jpg"
-    },
-    {
       "species_code": "swathr",
       "common_name": "Swainson's Thrush",
       "scientific_name": "Catharus ustulatus",
@@ -377,19 +533,6 @@
       "location_id": "L7628306",
       "checklist_id": "S365306134",
       "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/194570525/square.jpg"
-    },
-    {
-      "species_code": "redcro",
-      "common_name": "Red Crossbill",
-      "scientific_name": "Loxia curvirostra",
-      "observed_on": "2026-06-28",
-      "count": 8,
-      "location_name": "Black Hills NF--Black Fox Campground",
-      "lat": 44.1448304,
-      "lng": -103.8456059,
-      "location_id": "L7628306",
-      "checklist_id": "S365306134",
-      "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/332346026/square.jpeg"
     },
     {
       "species_code": "pinsis",
@@ -405,19 +548,6 @@
       "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/13823002/square.jpg"
     },
     {
-      "species_code": "chispa",
-      "common_name": "Chipping Sparrow",
-      "scientific_name": "Spizella passerina",
-      "observed_on": "2026-06-28",
-      "count": 1,
-      "location_name": "Black Hills NF--Black Fox Campground",
-      "lat": 44.1448304,
-      "lng": -103.8456059,
-      "location_id": "L7628306",
-      "checklist_id": "S365306134",
-      "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/273251789/square.jpg"
-    },
-    {
       "species_code": "daejun",
       "common_name": "Dark-eyed Junco",
       "scientific_name": "Junco hyemalis",
@@ -429,32 +559,6 @@
       "location_id": "L7628306",
       "checklist_id": "S365306134",
       "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/111714701/square.jpeg"
-    },
-    {
-      "species_code": "sonspa",
-      "common_name": "Song Sparrow",
-      "scientific_name": "Melospiza melodia",
-      "observed_on": "2026-06-28",
-      "count": 3,
-      "location_name": "Black Hills NF--Black Fox Campground",
-      "lat": 44.1448304,
-      "lng": -103.8456059,
-      "location_id": "L7628306",
-      "checklist_id": "S365306134",
-      "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/104749271/square.jpg"
-    },
-    {
-      "species_code": "comyel",
-      "common_name": "Common Yellowthroat",
-      "scientific_name": "Geothlypis trichas",
-      "observed_on": "2026-06-28",
-      "count": 2,
-      "location_name": "Black Hills NF--Black Fox Campground",
-      "lat": 44.1448304,
-      "lng": -103.8456059,
-      "location_id": "L7628306",
-      "checklist_id": "S365306134",
-      "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/35803961/square.jpg"
     },
     {
       "species_code": "yerwar",
@@ -470,17 +574,17 @@
       "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/128439522/square.jpg"
     },
     {
-      "species_code": "bkhgro",
-      "common_name": "Black-headed Grosbeak",
-      "scientific_name": "Pheucticus melanocephalus",
+      "species_code": "brwhaw",
+      "common_name": "Broad-winged Hawk",
+      "scientific_name": "Buteo platypterus",
       "observed_on": "2026-06-28",
       "count": 1,
-      "location_name": "Black Hills NF--Black Fox Campground",
-      "lat": 44.1448304,
-      "lng": -103.8456059,
-      "location_id": "L7628306",
-      "checklist_id": "S365306134",
-      "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/390443967/square.jpg"
+      "location_name": "Warren's Peak Road, Sundance, Wyoming, US (44.506, -104.453)",
+      "lat": 44.5060865,
+      "lng": -104.4528176,
+      "location_id": "L71915659",
+      "checklist_id": "S365440926",
+      "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/112152791/square.jpg"
     },
     {
       "species_code": "wewpew",
@@ -507,19 +611,6 @@
       "location_id": "L71845424",
       "checklist_id": "S365113885",
       "photo_url": "https://static.inaturalist.org/photos/290384780/square.jpg"
-    },
-    {
-      "species_code": "bkcchi",
-      "common_name": "Black-capped Chickadee",
-      "scientific_name": "Poecile atricapillus",
-      "observed_on": "2026-06-28",
-      "count": 4,
-      "location_name": "Paha Sapa Rd, Deadwood US-SD 44.23706, -103.68432",
-      "lat": 44.237062,
-      "lng": -103.684323,
-      "location_id": "L71845424",
-      "checklist_id": "S365113885",
-      "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/178279576/square.jpg"
     },
     {
       "species_code": "vigswa",
@@ -559,97 +650,6 @@
       "location_id": "L71845424",
       "checklist_id": "S365113885",
       "photo_url": "https://static.inaturalist.org/photos/103258086/square.jpeg"
-    },
-    {
-      "species_code": "towsol",
-      "common_name": "Townsend's Solitaire",
-      "scientific_name": "Myadestes townsendi",
-      "observed_on": "2026-06-28",
-      "count": 1,
-      "location_name": "Paha Sapa Rd, Deadwood US-SD 44.23706, -103.68432",
-      "lat": 44.237062,
-      "lng": -103.684323,
-      "location_id": "L71845424",
-      "checklist_id": "S365113885",
-      "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/106405630/square.jpg"
-    },
-    {
-      "species_code": "westan",
-      "common_name": "Western Tanager",
-      "scientific_name": "Piranga ludoviciana",
-      "observed_on": "2026-06-28",
-      "count": 2,
-      "location_name": "Paha Sapa Rd, Deadwood US-SD 44.23706, -103.68432",
-      "lat": 44.237062,
-      "lng": -103.684323,
-      "location_id": "L71845424",
-      "checklist_id": "S365113885",
-      "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/289912656/square.jpg"
-    },
-    {
-      "species_code": "calgul",
-      "common_name": "California Gull",
-      "scientific_name": "Larus californicus",
-      "observed_on": "2026-06-28",
-      "count": 1,
-      "location_name": "10625–10799 US-212, Belle Fourche US-SD 44.71436, -103.90646",
-      "lat": 44.714356,
-      "lng": -103.906459,
-      "location_id": "L71845413",
-      "checklist_id": "S365113845",
-      "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/411766963/square.jpg"
-    },
-    {
-      "species_code": "ribgul",
-      "common_name": "Ring-billed Gull",
-      "scientific_name": "Larus delawarensis",
-      "observed_on": "2026-06-28",
-      "count": 4,
-      "location_name": "Hardees",
-      "lat": 44.6493503,
-      "lng": -103.8605945,
-      "location_id": "L71797967",
-      "checklist_id": "S364918130",
-      "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/117303151/square.jpg"
-    },
-    {
-      "species_code": "easkin",
-      "common_name": "Eastern Kingbird",
-      "scientific_name": "Tyrannus tyrannus",
-      "observed_on": "2026-06-28",
-      "count": 1,
-      "location_name": "7257–7261 Industrial Ave, Sundance US-WY 44.41420, -104.34001",
-      "lat": 44.414201,
-      "lng": -104.340006,
-      "location_id": "L71797692",
-      "checklist_id": "S364917028",
-      "photo_url": "https://static.inaturalist.org/photos/518522154/square.jpg"
-    },
-    {
-      "species_code": "cangoo",
-      "common_name": "Canada Goose",
-      "scientific_name": "Branta canadensis",
-      "observed_on": "2026-06-28",
-      "count": 2,
-      "location_name": "黑山, 里德 US-SD (44.3546,-103.9305)",
-      "lat": 44.354574,
-      "lng": -103.930533,
-      "location_id": "L71792876",
-      "checklist_id": "S364898459",
-      "photo_url": "https://static.inaturalist.org/photos/181719420/square.jpg"
-    },
-    {
-      "species_code": "reevir1",
-      "common_name": "Red-eyed Vireo",
-      "scientific_name": "Vireo olivaceus",
-      "observed_on": "2026-06-28",
-      "count": 2,
-      "location_name": "黑山, 里德 US-SD (44.3546,-103.9305)",
-      "lat": 44.354574,
-      "lng": -103.930533,
-      "location_id": "L71792876",
-      "checklist_id": "S364898459",
-      "photo_url": "https://static.inaturalist.org/photos/33624391/square.jpg"
     }
   ]
 }

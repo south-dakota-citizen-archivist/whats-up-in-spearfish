@@ -2220,5 +2220,49 @@
     "image_url": "https://npr.brightspotcdn.com/6f/73/dfcbf9d84a62bad9d2fbbd82f8b0/lemmon-emt-association-1.png",
     "record_type": "news",
     "source_label": "SDPB"
+  },
+  {
+    "url": "https://www.sdpb.org/healthcare/2026-06-30/state-installs-988-lifeline-signs-to-bring-awareness-towards-resource",
+    "title": "State installs 988 lifeline signs to bring awareness towards resource",
+    "slug": "sdpb-state-installs-988-lifeline-signs-to-bring-awareness-towards-resource",
+    "published": "2026-06-30",
+    "byline": "By Julia Stelter",
+    "description": "The 988 helpline is a 24/7 service connecting people directly to professionals who can help them cope with mental health, substance abuse or thoughts of self-harm.",
+    "image_url": "https://npr.brightspotcdn.com/f2/00/6426415b428fa6b9faf9fbfc8770/ls264523.jpg",
+    "record_type": "news",
+    "source_label": "SDPB"
+  },
+  {
+    "url": "https://www.sdpb.org/healthcare/2026-06-30/new-wic-program-income-guidelines-take-effect-across-the-state",
+    "title": "New WIC program income guidelines take effect across the state",
+    "slug": "sdpb-new-wic-program-income-guidelines-take-effect-across-the-state",
+    "published": "2026-06-30",
+    "byline": "By Julia Stelter",
+    "description": "The state Department of Health is releasing new guidelines for the Women, Infants and Children, or WIC, program.",
+    "image_url": "https://npr.brightspotcdn.com/50/4d/09867ad44f8384e1e3e1f8455d9b/grocery-store-stock-image.png",
+    "record_type": "news",
+    "source_label": "SDPB"
+  },
+  {
+    "url": "https://www.sdpb.org/politics/2026-06-29/day-one-seeks-more-equitable-future-as-america-nears-250th-anniversary",
+    "title": "Day One seeks more equitable future as America nears 250th anniversary",
+    "slug": "sdpb-day-one-seeks-more-equitable-future-as-america-nears-250th-anniversary",
+    "published": "2026-06-29",
+    "byline": "By C.J. Keene",
+    "description": "As America is nearly 250 years old, some aren’t looking for cookouts and fireworks. One new organization, called Day One, is a nationwide imitative seeking to build solidarity among historically marginalized communities.",
+    "image_url": "https://npr.brightspotcdn.com/d6/6c/163033ff4c56a9d54a8fd0526649/day-one.png",
+    "record_type": "news",
+    "source_label": "SDPB"
+  },
+  {
+    "url": "https://www.sdpb.org/politics/2026-06-29/results-and-process-from-2026-gop-convention-in-rapid-city",
+    "title": "Results and process from 2026 GOP Convention in Rapid City",
+    "slug": "sdpb-results-and-process-from-2026-gop-convention-in-rapid-city",
+    "published": "2026-06-29",
+    "byline": "By C.J. Keene",
+    "description": "The state Republican convention is wrapped, and constitutional officers for the state’s largest party are set.",
+    "image_url": "https://npr.brightspotcdn.com/96/7b/93db95ab48eeaf519317c899cd31/image-89.jpg",
+    "record_type": "news",
+    "source_label": "SDPB"
   }
 ]
