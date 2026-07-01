@@ -38,7 +38,7 @@
     "slug": "czech-coast-pilsner",
     "abv": "4.9%",
     "ibu": "35",
-    "image_url": "https://crowpeakbrewing.com/wp-content/uploads/2026/04/Small_Batch_Website_Thumbnail.png",
+    "image_url": "https://crowpeakbrewing.com/wp-content/uploads/2026/06/czechpils.png",
     "description": "",
     "record_type": "beer",
     "source_label": "Crow Peak Brewing"
@@ -60,7 +60,7 @@
     "slug": "sand-creek-sipa-sour-ipa",
     "abv": "4.6%",
     "ibu": "20",
-    "image_url": "https://crowpeakbrewing.com/wp-content/uploads/2026/04/Small_Batch_Website_Thumbnail.png",
+    "image_url": "https://crowpeakbrewing.com/wp-content/uploads/2026/06/sandcreeksipa.png",
     "description": "",
     "record_type": "beer",
     "source_label": "Crow Peak Brewing"
@@ -78,11 +78,11 @@
   },
   {
     "url": "https://crowpeakbrewing.com/",
-    "title": "Live At Budokan - Japanese Rice Radler",
-    "slug": "live-at-budokan-japanese-rice-radler",
-    "abv": "4.7%",
-    "ibu": "45",
-    "image_url": "https://crowpeakbrewing.com/wp-content/uploads/2026/04/Live_at_Budokan_Thumbnail.png",
+    "title": "Mother Gooseberry Gose",
+    "slug": "mother-gooseberry-gose",
+    "abv": "5.4%",
+    "ibu": "14",
+    "image_url": "https://crowpeakbrewing.com/wp-content/uploads/2026/06/15.png",
     "description": "",
     "record_type": "beer",
     "source_label": "Crow Peak Brewing"
@@ -104,7 +104,7 @@
     "slug": "west-african-session-ale",
     "abv": "5.0%",
     "ibu": "25",
-    "image_url": "https://crowpeakbrewing.com/wp-content/uploads/2026/04/Small_Batch_Website_Thumbnail.png",
+    "image_url": "https://crowpeakbrewing.com/wp-content/uploads/2026/06/westafricansession.png",
     "description": "",
     "record_type": "beer",
     "source_label": "Crow Peak Brewing"
@@ -160,17 +160,6 @@
     "abv": "5.1%",
     "ibu": "15",
     "image_url": "https://crowpeakbrewing.com/wp-content/uploads/2026/06/Pomona-thumbnail.png",
-    "description": "",
-    "record_type": "beer",
-    "source_label": "Crow Peak Brewing"
-  },
-  {
-    "url": "https://crowpeakbrewing.com/",
-    "title": "Wobbling Wheel Scottish Ale",
-    "slug": "wobbling-wheel-scottish-ale",
-    "abv": "5.3%",
-    "ibu": "25",
-    "image_url": "https://crowpeakbrewing.com/wp-content/uploads/2026/02/17.png",
     "description": "",
     "record_type": "beer",
     "source_label": "Crow Peak Brewing"

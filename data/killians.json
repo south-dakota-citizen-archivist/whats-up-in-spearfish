@@ -26,19 +26,6 @@
     "source_label": "Killian's"
   },
   {
-    "url": "https://untappd.com/b/crow-peak-brewing-company-bugling-bull-amber-lager/4541807",
-    "title": "Bugling Bull Amber Lager",
-    "slug": "bugling-bull-amber-lager",
-    "category": "Lager - Amber / Red",
-    "abv": "5.7%",
-    "ibu": "16",
-    "brewery": "Crow Peak Brewing Company",
-    "rating": "3.74",
-    "image_url": "https://labels.untappd.com/4541807",
-    "record_type": "beer",
-    "source_label": "Killian's"
-  },
-  {
     "url": "https://untappd.com/b/bell-s-brewery-oberon-ale/16581",
     "title": "Oberon Ale",
     "slug": "oberon-ale",
@@ -150,7 +137,7 @@
     "abv": "3.2%",
     "ibu": "",
     "brewery": "Sawyer Brewing Co",
-    "rating": "3.81",
+    "rating": "3.79",
     "image_url": "https://labels.untappd.com/6562340",
     "record_type": "beer",
     "source_label": "Killian's"

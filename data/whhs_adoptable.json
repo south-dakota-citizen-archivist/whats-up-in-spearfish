@@ -188,17 +188,6 @@
   },
   {
     "url": "https://www.westernhillshumanesociety.com/cats",
-    "title": "Eve",
-    "slug": "cat-eve",
-    "species": "cat",
-    "description": "Female | 9-10 weeks \nON HOLD\nEve came to us as a stray on 5.16.26 at around 7-8 weeks old. She came in with a bad upper respiratory infection and is finally feeling better and is full of spunk! If she doesn’t have a kitty friend to play with, she will most certainly hunt you, wrestle you, and squeeze in some lovin’ too. Eve was at a healthy weight to be spayed so her adoption is only $80 +tax (adult cat price).",
-    "image_url": "https://images.squarespace-cdn.com/content/v1/6833638f52663f7b5354620e/c2e0d650-5ac4-487b-9c03-5fd75ce2eb4e/1000045758.jpg?format=500w",
-    "image_alt": "Eve",
-    "record_type": "adoptable",
-    "source_label": "Western Hills Humane Society"
-  },
-  {
-    "url": "https://www.westernhillshumanesociety.com/cats",
     "title": "Smores",
     "slug": "cat-smores",
     "species": "cat",
@@ -293,6 +282,50 @@
     "description": "Female | Born around 5/11/26\nNox is a chill little female. She is playful, but never plays too hard with her siblings. She is quiet but loves to play and is gaining confidence. Look at her sweet face!",
     "image_url": "https://images.squarespace-cdn.com/content/v1/6833638f52663f7b5354620e/6016ca46-4b19-48a6-9f5e-8b466d5b8872/Nox.jpg?format=500w",
     "image_alt": "Nox",
+    "record_type": "adoptable",
+    "source_label": "Western Hills Humane Society"
+  },
+  {
+    "url": "https://www.westernhillshumanesociety.com/cats",
+    "title": "Twist Cone",
+    "slug": "cat-twist-cone",
+    "species": "cat",
+    "description": "Male | Born ~4.24.26\nA fiesty-ish little orange boy that needs some patience as he learns to trust humans. He came in as a feral with his “ice cream” siblings and is curious, but still a bit shy.",
+    "image_url": "https://images.squarespace-cdn.com/content/v1/6833638f52663f7b5354620e/1fc3548a-3313-44a6-9b1a-13a425fdd733/Twist+Cone.jpg?format=500w",
+    "image_alt": "Twist Cone",
+    "record_type": "adoptable",
+    "source_label": "Western Hills Humane Society"
+  },
+  {
+    "url": "https://www.westernhillshumanesociety.com/cats",
+    "title": "MooMoo",
+    "slug": "cat-moomoo",
+    "species": "cat",
+    "description": "Female | Born ~4.24.26\nThe spiciest of the “ice cream” babies. MooMoo is slowly learning to trust humans after living as a feral. Come give her some love!",
+    "image_url": "https://images.squarespace-cdn.com/content/v1/6833638f52663f7b5354620e/4fe39ab9-06ab-4df9-93d7-7924a32bed9e/MooMoo.jpg?format=500w",
+    "image_alt": "MooMoo",
+    "record_type": "adoptable",
+    "source_label": "Western Hills Humane Society"
+  },
+  {
+    "url": "https://www.westernhillshumanesociety.com/cats",
+    "title": "Chaco Taco",
+    "slug": "cat-chaco-taco",
+    "species": "cat",
+    "description": "Female | Born ~4.24.26\nChaco Taco is coming around and learning humans give treats and pets so they aren’t so bad. Choco Taco has gorgeous green eyes and we think they might stick! Her and her “ice cream” siblings are excited for their next adventure!",
+    "image_url": "https://images.squarespace-cdn.com/content/v1/6833638f52663f7b5354620e/a78b77b5-41ea-4a26-9013-2aedaffd6eb9/Choco+Taco.jpg?format=500w",
+    "image_alt": "Chaco Taco",
+    "record_type": "adoptable",
+    "source_label": "Western Hills Humane Society"
+  },
+  {
+    "url": "https://www.westernhillshumanesociety.com/cats",
+    "title": "Neapolitan",
+    "slug": "cat-neapolitan",
+    "species": "cat",
+    "description": "Female | Born ~4.24.26\nNeopolitan is the most scared of people. She is not loving being picked up but we encourage some gentle pets to help break her out of her shell. Her and her “ice cream” siblings are excited for their next adventure!",
+    "image_url": "https://images.squarespace-cdn.com/content/v1/6833638f52663f7b5354620e/62c4208d-ea59-4064-828c-855203aacb51/Neapolitan.jpg?format=500w",
+    "image_alt": "Neapolitan",
     "record_type": "adoptable",
     "source_label": "Western Hills Humane Society"
   },

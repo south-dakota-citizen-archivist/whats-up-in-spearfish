@@ -25086,5 +25086,21 @@
     "status": "CONFIRMED",
     "record_type": "event",
     "source_label": "Spearfish HS Sports"
+  },
+  {
+    "uid": "h2026070104242395227d4bc4c402b4a",
+    "url": "https://gobound.com/direct/comps/h2026070104242395227d4bc4c402b4a/show",
+    "title": "Girls Tennis: Vermillion vs Spearfish (Varsity)",
+    "slug": "girls-tennis-vermillion-vs-spearfish-varsity",
+    "sport": "Girls Tennis",
+    "level": "Varsity",
+    "sex": "female",
+    "description": "Varsity Girls Tennis - Vermillion vs Spearfish",
+    "start_dt": "2026-09-11T17:00:00",
+    "end_dt": "2026-09-11T20:00:00",
+    "location": "Brandon Valley Middle School Tennis Courts",
+    "status": "CONFIRMED",
+    "record_type": "event",
+    "source_label": "Spearfish HS Sports"
   }
 ]

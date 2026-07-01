@@ -98,5 +98,15 @@
     "start_dt": "Thu, 18 Jun 2026 08:44:20 -0700",
     "record_type": "alert",
     "source_label": "City of Spearfish"
+  },
+  {
+    "url": "https://www.spearfish.gov/AlertCenter.aspx?AID=67",
+    "title": "City of Spearfish - Independence Day Closure",
+    "slug": "city-of-spearfish-independence-day-closure",
+    "description": "City Hall Offices, Library, & Restricted Use Site will be closed Fri. July 3rd and Sat. July 4th.  Garbage collection will be moved to Mon July 6th. \nHave a safe and happy holiday weekend!",
+    "published": "Wed, 01 Jul 2026 09:23:44 -0700",
+    "start_dt": "Wed, 01 Jul 2026 09:23:44 -0700",
+    "record_type": "alert",
+    "source_label": "City of Spearfish"
   }
 ]

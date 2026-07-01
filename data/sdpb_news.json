@@ -2264,5 +2264,71 @@
     "image_url": "https://npr.brightspotcdn.com/96/7b/93db95ab48eeaf519317c899cd31/image-89.jpg",
     "record_type": "news",
     "source_label": "SDPB"
+  },
+  {
+    "url": "https://www.sdpb.org/politics/2026-07-01/property-tax-relief-data-center-bills-among-new-south-dakota-laws-taking-effect",
+    "title": "Property tax relief, data center bills among new South Dakota laws taking effect",
+    "slug": "sdpb-property-tax-relief-data-center-bills-among-new-south-dakota-laws-taking",
+    "published": "2026-07-01",
+    "byline": "By SDPB News Staff",
+    "description": "Nearly 200 new laws take effect in South Dakota Wednesday.",
+    "image_url": "https://npr.brightspotcdn.com/29/8c/3732138b4481aba482bc16e4d8a9/fdbce7eeb2-sd-capitol.jpg",
+    "record_type": "news",
+    "source_label": "SDPB"
+  },
+  {
+    "url": "https://www.sdpb.org/education/2026-07-01/south-dakotas-public-universities-are-celebrating-americas-250th",
+    "title": "South Dakota's public universities are celebrating America's 250th",
+    "slug": "sdpb-south-dakota-s-public-universities-are-celebrating-america-s-250th",
+    "published": "2026-07-01",
+    "byline": "By Julia Stelter",
+    "description": "South Dakota’s public universities are hosting events centered around civic and community engagement to honor America’s 250th anniversary.",
+    "image_url": "https://npr.brightspotcdn.com/28/a5/c295bf394cd289797269ef0b97fd/sdsu-south-dakota-state-universtiy-campus.jpg",
+    "record_type": "news",
+    "source_label": "SDPB"
+  },
+  {
+    "url": "https://www.sdpb.org/politics/2026-07-01/analysis-lawyers-debate-sweatshirts-websites-and-the-definition-of-illegal-drugs-in-south-dakotas-latest-legal-battle-over-abortion-pill-information",
+    "title": "Analysis: Lawyers debate sweatshirts, websites, and the definition of illegal drugs in South Dakota's latest legal battle over abortion pill information",
+    "slug": "sdpb-analysis-lawyers-debate-sweatshirts-websites-and-the-definition-of-illegal",
+    "published": "2026-07-01",
+    "byline": "By Lori Walsh",
+    "description": "Mayday Health is seeking to block a South Dakota law that prevents advertising abortion pill information in the state. Journalist Seth Tupper brings insight from inside the courtroom.",
+    "image_url": "https://npr.brightspotcdn.com/prod/filer_public/kusd-bento-live-pbs/01%20Heather%20Benson/Friends/12f07045f2_16x9_SV_SethTupper.png",
+    "record_type": "news",
+    "source_label": "SDPB"
+  },
+  {
+    "url": "https://www.sdpb.org/arts-life/2026-06-30/dahl-museum-connects-rapid-city-to-artistic-expression-on-community-night",
+    "title": "Dahl museum connects Rapid City to artistic expression on community night",
+    "slug": "sdpb-dahl-museum-connects-rapid-city-to-artistic-expression-on-community-night",
+    "published": "2026-06-30",
+    "byline": "By C.J. Keene",
+    "description": "The Dahl Arts Center’s recent community night – Dilly Dally to the Dahl – encouraged residents to slow down and take in the budding Rapid City arts scene. Offering everything from artist conversations, music, and even a tap-dancing demonstration, it highlighted the color arts provides communities.",
+    "image_url": "https://npr.brightspotcdn.com/68/07/f139720a478a90c95656c1ade185/image-91.jpg",
+    "record_type": "news",
+    "source_label": "SDPB"
+  },
+  {
+    "url": "https://www.sdpb.org/environment/2026-06-30/rhoden-declares-state-of-emergency-following-thunderstorm-damage",
+    "title": "Rhoden declares state of emergency following thunderstorm damage",
+    "slug": "sdpb-rhoden-declares-state-of-emergency-following-thunderstorm-damage",
+    "published": "2026-06-30",
+    "byline": "By SDPB News Staff",
+    "description": "Gov. Larry Rhoden declared a state of emergency for the counties impacted by the severe thunderstorm that hit central and northeastern South Dakota.",
+    "image_url": "https://npr.brightspotcdn.com/45/36/39e5928844c68b54ab7a785859fb/highmore-storm-cleanup.jpg",
+    "record_type": "news",
+    "source_label": "SDPB"
+  },
+  {
+    "url": "https://www.sdpb.org/business-economics/2026-06-30/puc-grapples-with-ai-usage-for-data-analysis",
+    "title": "PUC grapples with AI usage for data analysis",
+    "slug": "sdpb-puc-grapples-with-ai-usage-for-data-analysis",
+    "published": "2026-06-30",
+    "byline": "By C.J. Keene",
+    "description": "AI and its implications is at the basis of a consumer rights argument before the state Public Utilities Commission.",
+    "image_url": "https://npr.brightspotcdn.com/b9/8d/e4977284492483a6859ba6348cae/latest-d-wave-2000-qubit-processor-25215169297.jpg",
+    "record_type": "news",
+    "source_label": "SDPB"
   }
 ]

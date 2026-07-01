@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-06-30T18:56:50.085897+00:00",
+  "fetched_at": "2026-07-01T19:00:42.442683+00:00",
   "cases": [
     {
       "ccid": "123",
@@ -9,6 +9,10 @@
       "description": "Proposed uranium exploration project seven miles north of Edgemont, SD.  Up to 50 holes will be drilled to a maximum vertical depth of 700 feet.  In addition, 50 drill platforms will be created with a dimension of 60 feet by 60 feet.  Exploration will be conducted using reverse circulation drilling with sumps.",
       "docs_url": "https://danr.sd.gov/public/ccdocs.aspx?CCID=CCID123",
       "documents": [
+        {
+          "label": "June 30, 2026 Response from Elizabeth Lone Eagle in Opposition to Clean Nuclear Energy's Motion to Expedite Hearing",
+          "url": "https://danr.sd.gov/Environment/MineralsMining/Exploration/docs/63026LoneEagleResponse.pdf"
+        },
         {
           "label": "June 16, 2026 Motion Submitted by Clean Nuclear Energy to Expedite Hearing on Uranium Exploration Permit Application",
           "url": "https://danr.sd.gov/Environment/MineralsMining/Exploration/docs/061626CNECMotionExpediteHearing.pdf"
@@ -24,10 +28,6 @@
         {
           "label": "May 17, 2026 Additional Exhibits from Bruce Ellison",
           "url": "https://danr.sd.gov/Environment/MineralsMining/Exploration/docs/51726EllisonAdditionalExhibits_Redacted.pdf"
-        },
-        {
-          "label": "May 16, 2026 CRST and OST Supplemental Exhibits 3",
-          "url": "https://danr.sd.gov/Environment/MineralsMining/Exploration/docs/51626Gunn436.pdf"
         }
       ],
       "total_docs": 100,
