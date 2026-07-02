@@ -1,5 +1,31 @@
 [
   {
+    "url": "https://untappd.com/b/dakota-point-brewing-o-quinn-s-irish-red-ale/5991597",
+    "title": "O'Quinn's Irish Red Ale",
+    "slug": "o-quinn-s-irish-red-ale",
+    "category": "Red Ale - Irish",
+    "abv": "5.7%",
+    "ibu": "21",
+    "brewery": "Dakota Point Brewing",
+    "rating": "3.77",
+    "image_url": "https://labels.untappd.com/5991597",
+    "record_type": "beer",
+    "source_label": "Redwater Kitchen"
+  },
+  {
+    "url": "https://untappd.com/b/dry-dock-brewing-company-hopricot/1049148",
+    "title": "Hopricot",
+    "slug": "hopricot",
+    "category": "IPA - Fruited",
+    "abv": "6%",
+    "ibu": "17",
+    "brewery": "Dry Dock Brewing Company",
+    "rating": "3.73",
+    "image_url": "https://labels.untappd.com/1049148",
+    "record_type": "beer",
+    "source_label": "Redwater Kitchen"
+  },
+  {
     "url": "https://untappd.com/b/sawyer-brewing-co-blood-orange-blonde-ale/3627064",
     "title": "Blood Orange Blonde Ale",
     "slug": "blood-orange-blonde-ale",

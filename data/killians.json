@@ -26,6 +26,19 @@
     "source_label": "Killian's"
   },
   {
+    "url": "https://untappd.com/b/sawyer-brewing-co-american-amber-lager/5536492",
+    "title": "American Amber Lager",
+    "slug": "american-amber-lager",
+    "category": "Lager - American Amber / Red",
+    "abv": "4.2%",
+    "ibu": "",
+    "brewery": "Sawyer Brewing Co",
+    "rating": "3.66",
+    "image_url": "https://labels.untappd.com/5536492",
+    "record_type": "beer",
+    "source_label": "Killian's"
+  },
+  {
     "url": "https://untappd.com/b/bell-s-brewery-oberon-ale/16581",
     "title": "Oberon Ale",
     "slug": "oberon-ale",
@@ -91,15 +104,15 @@
     "source_label": "Killian's"
   },
   {
-    "url": "https://untappd.com/b/austin-eastciders-texas-honey-cider/857792",
-    "title": "Texas Honey Cider",
-    "slug": "texas-honey-cider",
-    "category": "Cider - Traditional / Apfelwein",
-    "abv": "5%",
+    "url": "https://untappd.com/b/austin-eastciders-agua-fresca-strawberry-hibiscus/6208449",
+    "title": "Agua Fresca - Strawberry Hibiscus",
+    "slug": "agua-fresca-strawberry-hibiscus",
+    "category": "Cider - Other Fruit",
+    "abv": "4.5%",
     "ibu": "",
     "brewery": "Austin Eastciders",
-    "rating": "3.73",
-    "image_url": "https://labels.untappd.com/857792",
+    "rating": "3.79",
+    "image_url": "https://labels.untappd.com/6208449",
     "record_type": "beer",
     "source_label": "Killian's"
   },
@@ -124,7 +137,7 @@
     "abv": "5.4%",
     "ibu": "",
     "brewery": "Eponymous Brewing Company",
-    "rating": "4.09",
+    "rating": "4.08",
     "image_url": "https://labels.untappd.com/6686733",
     "record_type": "beer",
     "source_label": "Killian's"
@@ -137,7 +150,7 @@
     "abv": "3.2%",
     "ibu": "",
     "brewery": "Sawyer Brewing Co",
-    "rating": "3.79",
+    "rating": "3.8",
     "image_url": "https://labels.untappd.com/6562340",
     "record_type": "beer",
     "source_label": "Killian's"

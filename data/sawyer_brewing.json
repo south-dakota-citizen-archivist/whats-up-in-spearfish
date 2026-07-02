@@ -287,6 +287,19 @@
   },
   {
     "url": "https://www.sawyerbrewingco.com/menu",
+    "image_url": "https://images.squarespace-cdn.com/content/v1/5c484d047c9327393b19dc04/e281a9a4-9449-494a-8d80-df084f88c819/strawcheesecakewebdark.jpg",
+    "title": "strawcheesecakewebdark.jpg",
+    "slug": "strawcheesecakewebdark-jpg",
+    "category": "Sour Power",
+    "description": "",
+    "abv": "",
+    "notes": "",
+    "prices": [],
+    "record_type": "beer",
+    "source_label": "Sawyer Brewing Co."
+  },
+  {
+    "url": "https://www.sawyerbrewingco.com/menu",
     "image_url": "https://images.squarespace-cdn.com/content/v1/5c484d047c9327393b19dc04/00dad8f8-a8a8-4008-a592-1dffa4c9651e/scotchdarkweb.jpg",
     "title": "Smoldering Scotch Ale",
     "slug": "smoldering-scotch-ale",

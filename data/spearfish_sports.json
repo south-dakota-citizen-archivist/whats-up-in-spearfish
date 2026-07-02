@@ -25102,5 +25102,53 @@
     "status": "CONFIRMED",
     "record_type": "event",
     "source_label": "Spearfish HS Sports"
+  },
+  {
+    "uid": "h202607020246555899ea3b5584fd74a",
+    "url": "https://gobound.com/direct/comps/h202607020246555899ea3b5584fd74a/show",
+    "title": "Girls Cross Country:  (Junior Varsity)",
+    "slug": "girls-cross-country-junior-varsity",
+    "sport": "Girls Cross Country",
+    "level": "Junior Varsity",
+    "sex": "female",
+    "description": "Junior Varsity Girls Cross Country -",
+    "start_dt": "2026-09-19T14:00:00",
+    "end_dt": "2026-09-19T19:00:00",
+    "location": "Broadland Creek Golf Course",
+    "status": "CONFIRMED",
+    "record_type": "event",
+    "source_label": "Spearfish HS Sports"
+  },
+  {
+    "uid": "h20260421050954105228adae67ab349",
+    "url": "https://gobound.com/direct/comps/h20260421050954105228adae67ab349/show",
+    "title": "Boys Cross Country:  (Varsity)",
+    "slug": "boys-cross-country-varsity",
+    "sport": "Boys Cross Country",
+    "level": "Varsity",
+    "sex": "male",
+    "description": "Varsity Boys Cross Country -",
+    "start_dt": "2026-09-19T14:00:00",
+    "end_dt": "2026-09-19T19:00:00",
+    "location": "Broadland Creek Golf Course",
+    "status": "CONFIRMED",
+    "record_type": "event",
+    "source_label": "Spearfish HS Sports"
+  },
+  {
+    "uid": "h2026042105101634733542253d6084a",
+    "url": "https://gobound.com/direct/comps/h2026042105101634733542253d6084a/show",
+    "title": "Boys Cross Country:  (Junior Varsity)",
+    "slug": "boys-cross-country-junior-varsity",
+    "sport": "Boys Cross Country",
+    "level": "Junior Varsity",
+    "sex": "male",
+    "description": "Junior Varsity Boys Cross Country -",
+    "start_dt": "2026-09-19T14:00:00",
+    "end_dt": "2026-09-19T19:00:00",
+    "location": "Broadland Creek Golf Course",
+    "status": "CONFIRMED",
+    "record_type": "event",
+    "source_label": "Spearfish HS Sports"
   }
 ]

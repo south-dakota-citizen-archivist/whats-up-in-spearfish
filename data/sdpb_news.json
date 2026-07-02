@@ -2330,5 +2330,16 @@
     "image_url": "https://npr.brightspotcdn.com/b9/8d/e4977284492483a6859ba6348cae/latest-d-wave-2000-qubit-processor-25215169297.jpg",
     "record_type": "news",
     "source_label": "SDPB"
+  },
+  {
+    "url": "https://www.sdpb.org/politics/2026-07-01/black-hills-preparing-for-july-3-presidential-visit",
+    "title": "Black Hills preparing for July 3 presidential visit",
+    "slug": "sdpb-black-hills-preparing-for-july-3-presidential-visit",
+    "published": "2026-07-01",
+    "byline": "By C.J. Keene",
+    "description": "Friday, the President will visit the Black Hills for the Mount Rushmore fireworks show. That creates complications for visitors, residents, and those managing the event.",
+    "image_url": "https://npr.brightspotcdn.com/aa/62/10ffa11b47ac91525ada976aeccc/b79a77ec7b-rushmorefireworks07-03-20cc0348.jpg",
+    "record_type": "news",
+    "source_label": "SDPB"
   }
 ]
