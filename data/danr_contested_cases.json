@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-02T18:27:27.537447+00:00",
+  "fetched_at": "2026-07-03T18:12:26.430200+00:00",
   "cases": [
     {
       "ccid": "123",
@@ -254,6 +254,10 @@
       "docs_url": "https://danr.sd.gov/public/ccdocs.aspx?CCID=CCID126",
       "documents": [
         {
+          "label": "Supplemental Pre-Hearing Submission by Counsel for the Petitioners",
+          "url": "https://danr.sd.gov/wrimage/pub/8982-3_Petitioners' Supplemental Pre-Hearing Submission.pdf"
+        },
+        {
           "label": "Notice",
           "url": "https://danr.sd.gov/wrimage/pub/8982-3_NOH_3.pdf"
         },
@@ -268,13 +272,9 @@
         {
           "label": "Proposed Exhibit Submitted by Petitioned (Baer)",
           "url": "https://danr.sd.gov/wrimage/pub/8982-3_BaerEX.pdf"
-        },
-        {
-          "label": "Notice of Appearance - Legal Counsel for Petitioners (Heinz)",
-          "url": "https://danr.sd.gov/wrimage/pub/8982-3_notappear_pet.pdf"
         }
       ],
-      "total_docs": 22,
+      "total_docs": 23,
       "latest_doc_date": "0000-00-00"
     },
     {

@@ -2341,5 +2341,27 @@
     "image_url": "https://npr.brightspotcdn.com/aa/62/10ffa11b47ac91525ada976aeccc/b79a77ec7b-rushmorefireworks07-03-20cc0348.jpg",
     "record_type": "news",
     "source_label": "SDPB"
+  },
+  {
+    "url": "https://www.sdpb.org/education/2026-07-03/reading-corners-summer-books-and-the-last-place-you-can-be-for-free-at-your-public-library",
+    "title": "Reading corners, summer books, and how the public library is one of the 'last places you can exist for free'",
+    "slug": "sdpb-reading-corners-summer-books-and-how-the-public-library-is-one-of-the-last",
+    "published": "2026-07-03",
+    "byline": "By Lori Walsh",
+    "description": "If you're worried summer is going too fast, why not slow down with a book? SDPB's Teacher Talk explores how to rediscover the joy of reading in libraries and all the places we make our own library worlds.",
+    "image_url": "https://npr.brightspotcdn.com/5f/2d/d50c7c734de9b2add39f322b9092/teachers.jpg",
+    "record_type": "news",
+    "source_label": "SDPB"
+  },
+  {
+    "url": "https://www.sdpb.org/education/2026-07-02/rural-america-initiative-dropping-mentorship-program-due-to-loss-of-federal-funds",
+    "title": "Rural America Initiative dropping mentorship program due to loss of federal funds",
+    "slug": "sdpb-rural-america-initiative-dropping-mentorship-program-due-to-loss-of-federal",
+    "published": "2026-07-02",
+    "byline": "By SDPB News Staff",
+    "description": "A Native nonprofit says it’s shuttering a mentorship program due to loss of federal funding.",
+    "image_url": "https://npr.brightspotcdn.com/47/86/c4b040e944438936b15fe4d80bc0/rural-america-initiative-logo.jpg",
+    "record_type": "news",
+    "source_label": "SDPB"
   }
 ]
