@@ -1,27 +1,6 @@
 {
-  "fetched_at": "2026-07-03T18:10:19.336111+00:00",
+  "fetched_at": "2026-07-04T18:01:02.283509+00:00",
   "notices": [
-    {
-      "notice_type": "Air Quality Permit",
-      "deadline": "07/03/2026",
-      "comment_url": "https://danr.sd.gov/public/comment.aspx?d_comment=07/03/2026&name=Dakota Metal Recycling, LLC&pntype=aq&description=Dakota Metal Recycling, LLC proposes to construct and operate a metal shredding recycling facility. The Department recommends issuance of an air quality construction permit.",
-      "description": "Dakota Metal Recycling, LLC proposes to construct and operate a metal shredding recycling facility. The Department recommends issuance of an air quality construction permit.",
-      "location": "Huron",
-      "links": [
-        {
-          "label": "Public Notice",
-          "url": "http://danr.sd.gov/Environment/AirQuality/PN/DMRpn.pdf"
-        },
-        {
-          "label": "Draft Permit",
-          "url": "http://danr.sd.gov/Environment/AirQuality/PN/DMRdp.pdf"
-        },
-        {
-          "label": "Application Review",
-          "url": "http://danr.sd.gov/Environment/AirQuality/PN/DMRsb.pdf"
-        }
-      ]
-    },
     {
       "notice_type": "Concentrated Animal Feeding Operations (State Permit)",
       "deadline": "07/04/2026",
