@@ -1,5 +1,18 @@
 [
   {
+    "url": "https://untappd.com/b/phat-fish-brewery-pronghorn-peach/4159588",
+    "title": "Pronghorn Peach",
+    "slug": "pronghorn-peach",
+    "category": "Wheat Beer - Fruited",
+    "abv": "4.7%",
+    "ibu": "18",
+    "brewery": "Phat Fish Brewery",
+    "rating": "3.71",
+    "image_url": "https://labels.untappd.com/4159588",
+    "record_type": "beer",
+    "source_label": "Redwater Kitchen"
+  },
+  {
     "url": "https://untappd.com/b/dakota-point-brewing-o-quinn-s-irish-red-ale/5991597",
     "title": "O'Quinn's Irish Red Ale",
     "slug": "o-quinn-s-irish-red-ale",
@@ -100,19 +113,6 @@
     "brewery": "Outer Range Brewing Co.",
     "rating": "4.09",
     "image_url": "https://labels.untappd.com/2002572",
-    "record_type": "beer",
-    "source_label": "Redwater Kitchen"
-  },
-  {
-    "url": "https://untappd.com/b/dry-dock-brewing-company-apricot-blonde/304989",
-    "title": "Apricot Blonde",
-    "slug": "apricot-blonde",
-    "category": "Blonde / Golden Ale - Other",
-    "abv": "5.1%",
-    "ibu": "17",
-    "brewery": "Dry Dock Brewing Company",
-    "rating": "3.8",
-    "image_url": "https://labels.untappd.com/304989",
     "record_type": "beer",
     "source_label": "Redwater Kitchen"
   },

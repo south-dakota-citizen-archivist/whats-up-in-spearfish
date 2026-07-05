@@ -137,7 +137,7 @@
     "abv": "5.5%",
     "ibu": "10",
     "brewery": "Cohort Craft Brewery",
-    "rating": "3.77",
+    "rating": "3.85",
     "image_url": "https://labels.untappd.com/6738831",
     "record_type": "beer",
     "source_label": "Killian's"
@@ -169,15 +169,15 @@
     "source_label": "Killian's"
   },
   {
-    "url": "https://untappd.com/b/dry-dock-brewing-company-apricot-blonde/304989",
-    "title": "Apricot Blonde",
-    "slug": "apricot-blonde",
-    "category": "Blonde / Golden Ale - Other",
-    "abv": "5.1%",
-    "ibu": "17",
-    "brewery": "Dry Dock Brewing Company",
-    "rating": "3.8",
-    "image_url": "https://labels.untappd.com/304989",
+    "url": "https://untappd.com/b/surly-brewing-company-cynic/8698",
+    "title": "Cynic",
+    "slug": "cynic",
+    "category": "Farmhouse Ale - Saison",
+    "abv": "6.5%",
+    "ibu": "33",
+    "brewery": "Surly Brewing Company",
+    "rating": "3.68",
+    "image_url": "https://labels.untappd.com/8698",
     "record_type": "beer",
     "source_label": "Killian's"
   },

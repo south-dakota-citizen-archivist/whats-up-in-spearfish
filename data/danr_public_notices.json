@@ -1,20 +1,6 @@
 {
-  "fetched_at": "2026-07-04T18:01:02.283509+00:00",
+  "fetched_at": "2026-07-05T17:59:13.223872+00:00",
   "notices": [
-    {
-      "notice_type": "Concentrated Animal Feeding Operations (State Permit)",
-      "deadline": "07/04/2026",
-      "comment_url": "https://danr.sd.gov/public/comment.aspx?d_comment=07/04/2026&name=Upland Hutterian Brethren, Inc.&pntype=fp_cafo&description=Expanding Swine Feeding Operation - State Permit",
-      "name": "Upland Hutterian Brethren, Inc.",
-      "description": "Expanding Swine Feeding Operation - State Permit",
-      "location": "Sanborn County",
-      "links": [
-        {
-          "label": "Public Notice",
-          "url": "https://danr.sd.gov/Press/docs/publicnotices/FeedlotPermit/UplandHBIExpansionJune2026PN.pdf"
-        }
-      ]
-    },
     {
       "notice_type": "Ground Water Discharge",
       "deadline": "7/5/2026",
