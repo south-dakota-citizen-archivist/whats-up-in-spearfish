@@ -1,32 +1,6 @@
 {
-  "fetched_at": "2026-07-05T17:59:13.223872+00:00",
+  "fetched_at": "2026-07-06T18:54:11.623525+00:00",
   "notices": [
-    {
-      "notice_type": "Ground Water Discharge",
-      "deadline": "7/5/2026",
-      "comment_url": "",
-      "name": "Wharf Resources Reliance Spent Ore Depository",
-      "description": "Groundwater Discharge Plan Renewal.",
-      "location": "Lawrence County",
-      "links": [
-        {
-          "label": "Public Notice",
-          "url": "https://danr.sd.gov/officeofwater/surfacewaterquality/pn/2026ReliancePublicNotice.pdf"
-        },
-        {
-          "label": "Application",
-          "url": "https://danr.sd.gov/officeofwater/surfacewaterquality/pn/2026RelianceApplicationGWD1-94.pdf"
-        },
-        {
-          "label": "Staff Report",
-          "url": "https://danr.sd.gov/officeofwater/surfacewaterquality/pn/2026RelianceStaffTechnicalReview.pdf"
-        },
-        {
-          "label": "Conditions",
-          "url": "https://danr.sd.gov/officeofwater/surfacewaterquality/pn/2026RelianceDRAFTPermitAndConditions.pdf"
-        }
-      ]
-    },
     {
       "notice_type": "Air Quality Permit",
       "deadline": "07/06/2026",
@@ -179,6 +153,30 @@
         {
           "label": "Application Review",
           "url": "https://danr.sd.gov/Environment/AirQuality/PN/HC12sb.pdf"
+        }
+      ]
+    },
+    {
+      "notice_type": "Water Rights",
+      "deadline": "07/20/2026",
+      "comment_url": "",
+      "application_no": "9035-3",
+      "name": "James or Angela Czech,\u00a0Watertown\u00a0SD",
+      "location": "Hamlin",
+      "water_source": "Big Sioux River",
+      "use_type": "Irrigation (152 acres)",
+      "links": [
+        {
+          "label": "Public Notice",
+          "url": "https://danr.sd.gov/wrimage/pub/9035-3_app.pdf"
+        },
+        {
+          "label": "Appl.",
+          "url": "https://danr.sd.gov/wrimage/pub/9035-3_apl.pdf"
+        },
+        {
+          "label": "Recom. Action",
+          "url": "https://danr.sd.gov/wrimage/pub/9035-3_rec.pdf"
         }
       ]
     },

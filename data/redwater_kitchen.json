@@ -1,5 +1,31 @@
 [
   {
+    "url": "https://untappd.com/b/jacob-leinenkugel-brewing-company-summer-shandy/8949",
+    "title": "Summer Shandy",
+    "slug": "summer-shandy",
+    "category": "Shandy / Radler",
+    "abv": "4.2%",
+    "ibu": "11",
+    "brewery": "Jacob Leinenkugel Brewing Company",
+    "rating": "3.53",
+    "image_url": "https://labels.untappd.com/8949",
+    "record_type": "beer",
+    "source_label": "Redwater Kitchen"
+  },
+  {
+    "url": "https://untappd.com/b/sawyer-brewing-co-ninja-juice/3198339",
+    "title": "Ninja Juice",
+    "slug": "ninja-juice",
+    "category": "IPA - American",
+    "abv": "6.1%",
+    "ibu": "53",
+    "brewery": "Sawyer Brewing Co",
+    "rating": "3.8",
+    "image_url": "https://labels.untappd.com/3198339",
+    "record_type": "beer",
+    "source_label": "Redwater Kitchen"
+  },
+  {
     "url": "https://untappd.com/b/phat-fish-brewery-pronghorn-peach/4159588",
     "title": "Pronghorn Peach",
     "slug": "pronghorn-peach",
@@ -78,19 +104,6 @@
     "source_label": "Redwater Kitchen"
   },
   {
-    "url": "https://untappd.com/b/lost-cabin-beer-co-bruce-banner-apa/1645307",
-    "title": "Bruce Banner APA",
-    "slug": "bruce-banner-apa",
-    "category": "Pale Ale - American",
-    "abv": "5.6%",
-    "ibu": "60",
-    "brewery": "Lost Cabin Beer Co.",
-    "rating": "3.79",
-    "image_url": "https://labels.untappd.com/1645307",
-    "record_type": "beer",
-    "source_label": "Redwater Kitchen"
-  },
-  {
     "url": "https://untappd.com/b/dakota-point-brewing-tangerine-treat/5008713",
     "title": "Tangerine Treat",
     "slug": "tangerine-treat",
@@ -100,19 +113,6 @@
     "brewery": "Dakota Point Brewing",
     "rating": "3.77",
     "image_url": "https://labels.untappd.com/5008713",
-    "record_type": "beer",
-    "source_label": "Redwater Kitchen"
-  },
-  {
-    "url": "https://untappd.com/b/outer-range-brewing-co-in-the-steep/2002572",
-    "title": "In the Steep",
-    "slug": "in-the-steep",
-    "category": "IPA - New England / Hazy",
-    "abv": "6.7%",
-    "ibu": "",
-    "brewery": "Outer Range Brewing Co.",
-    "rating": "4.09",
-    "image_url": "https://labels.untappd.com/2002572",
     "record_type": "beer",
     "source_label": "Redwater Kitchen"
   },

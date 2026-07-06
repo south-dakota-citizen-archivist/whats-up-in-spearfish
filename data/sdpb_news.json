@@ -2374,5 +2374,38 @@
     "image_url": "https://npr.brightspotcdn.com/1f/b9/6c190b32427f9ceab653583ec20e/img-2164.jpeg",
     "record_type": "news",
     "source_label": "SDPB"
+  },
+  {
+    "url": "https://www.sdpb.org/politics/2026-07-06/sioux-falls-mayor-endorses-rhoden-in-runoff-citing-resume-and-character",
+    "title": "Sioux Falls mayor endorses Rhoden in runoff, citing 'resume' and 'character'",
+    "slug": "sdpb-sioux-falls-mayor-endorses-rhoden-in-runoff-citing-resume-and-character",
+    "published": "2026-07-06",
+    "byline": "By Jackson Dircks",
+    "description": "The mayor of Sioux Falls is throwing his support behind incumbent Gov. Larry Rhoden ahead of a runoff for the GOP gubernatorial spot.",
+    "image_url": "https://npr.brightspotcdn.com/d1/80/2fe9e5164c21a31290fc08ff926d/image-60.jpg",
+    "record_type": "news",
+    "source_label": "SDPB"
+  },
+  {
+    "url": "https://www.sdpb.org/environment/2026-07-06/forest-service-community-of-wall-celebrating-black-footed-ferret-reintroduction",
+    "title": "Forest Service, community of Wall celebrating black-footed ferret reintroduction",
+    "slug": "sdpb-forest-service-community-of-wall-celebrating-black-footed-ferret",
+    "published": "2026-07-06",
+    "byline": "By SDPB News Staff",
+    "description": "Federal and local officials are organizing a celebration marking 30 years of black-footed ferret reintroduction in western South Dakota.",
+    "image_url": "https://npr.brightspotcdn.com/91/19/643aeef04442a73aef4f651b7155/ferrets-kimberly-fraser-usfws.jpg",
+    "record_type": "news",
+    "source_label": "SDPB"
+  },
+  {
+    "url": "https://www.sdpb.org/education/2026-07-06/chamberlain-elementary-sees-increasing-student-success-after-redesign",
+    "title": "Chamberlain Elementary sees increasing student success after redesign",
+    "slug": "sdpb-chamberlain-elementary-sees-increasing-student-success-after-redesign",
+    "published": "2026-07-06",
+    "byline": "By Julia Stelter",
+    "description": "The Chamberlain school district redesigned its elementary school in 2024. Now, the district is seeing success through higher proficiency percentages and a shrinking achievement gap.",
+    "image_url": "https://npr.brightspotcdn.com/ff/87/c64785614d8f9a0bbc3506c9b9d9/65-chamberlain-ext.jpg",
+    "record_type": "news",
+    "source_label": "SDPB"
   }
 ]
