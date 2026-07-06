@@ -218,5 +218,35 @@
     "start_dt": "Wed, 24 Jun 2026 14:36:53 -0700",
     "record_type": "press_release",
     "source_label": "City of Spearfish"
+  },
+  {
+    "url": "https://www.spearfish.gov/CivicAlerts.aspx?aid=568",
+    "title": "Spearfish Recreation Path Closure South of Evans Park",
+    "slug": "spearfish-recreation-path-closure-south-of-evans-park",
+    "description": "A section of the Spearfish Recreation Path will be closed between Evans Park and Jorgensen Park beginning Monday, July 13th, 2026 as constructions crews from Johner and Sons, Inc. of Spearfish work on the Spearfish Creek Bank Stabilization Project.",
+    "published": "Mon, 06 Jul 2026 16:42:01 -0700",
+    "start_dt": "Mon, 06 Jul 2026 16:42:01 -0700",
+    "record_type": "press_release",
+    "source_label": "City of Spearfish"
+  },
+  {
+    "url": "https://www.spearfish.gov/CivicAlerts.aspx?aid=567",
+    "title": "Jackson and Jonas Intersection Converting to 4-Way Stop",
+    "slug": "jackson-and-jonas-intersection-converting-to-4-way-stop",
+    "description": "On, Friday, July 10, 2026, the City of Spearfish Public Works Department will be converting the intersection of W. Jackson Boulevard and Jonas Boulevard, near Black Hills State University, from a 2-way stop configuration to a 4-way stop configuration.",
+    "published": "Mon, 06 Jul 2026 16:14:54 -0700",
+    "start_dt": "Mon, 06 Jul 2026 16:14:54 -0700",
+    "record_type": "press_release",
+    "source_label": "City of Spearfish"
+  },
+  {
+    "url": "https://www.spearfish.gov/CivicAlerts.aspx?aid=566",
+    "title": "Residents Asked to Conserve, Adjust Water Schedules",
+    "slug": "residents-asked-to-conserve-adjust-water-schedules",
+    "description": "The city’s Water/Wastewater Utilities Department is initiating the code “Green” water conservation alert. This alert asks that customers limit outside watering to every other day and to only water during the hours of 6:00 p.m. to 8:00 a.m.",
+    "published": "Mon, 06 Jul 2026 15:22:29 -0700",
+    "start_dt": "Mon, 06 Jul 2026 15:22:29 -0700",
+    "record_type": "press_release",
+    "source_label": "City of Spearfish"
   }
 ]

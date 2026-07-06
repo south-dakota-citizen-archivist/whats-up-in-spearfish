@@ -1,5 +1,18 @@
 [
   {
+    "url": "https://untappd.com/b/sawyer-brewing-co-smoldering-scotch/3069887",
+    "title": "Smoldering Scotch",
+    "slug": "smoldering-scotch",
+    "category": "Scotch Ale / Wee Heavy",
+    "abv": "7.1%",
+    "ibu": "16",
+    "brewery": "Sawyer Brewing Co",
+    "rating": "3.84",
+    "image_url": "https://labels.untappd.com/3069887",
+    "record_type": "beer",
+    "source_label": "Redwater Kitchen"
+  },
+  {
     "url": "https://untappd.com/b/jacob-leinenkugel-brewing-company-summer-shandy/8949",
     "title": "Summer Shandy",
     "slug": "summer-shandy",
@@ -126,19 +139,6 @@
     "brewery": "Infusion Brewing Company",
     "rating": "3.8",
     "image_url": "https://labels.untappd.com/622119",
-    "record_type": "beer",
-    "source_label": "Redwater Kitchen"
-  },
-  {
-    "url": "https://untappd.com/b/left-hand-brewing-company-peanut-butter-milk-stout/3159839",
-    "title": "Peanut Butter Milk Stout",
-    "slug": "peanut-butter-milk-stout",
-    "category": "Stout - Milk / Sweet",
-    "abv": "6.2%",
-    "ibu": "25",
-    "brewery": "Left Hand Brewing Company",
-    "rating": "3.81",
-    "image_url": "https://labels.untappd.com/3159839",
     "record_type": "beer",
     "source_label": "Redwater Kitchen"
   },
