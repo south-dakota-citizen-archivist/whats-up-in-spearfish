@@ -771,8 +771,23 @@ def load_danr_spills() -> dict:
     }
 
 
-def load_sasquatch_theme() -> list[dict]:
-    """Convert Sasquatch theme-night JSON into event records."""
+def _extract_sasquatch_date(record: dict) -> str:
+    """Best-effort date extraction from a Sasquatch schedule record."""
+    for key in ("date", "start_dt", "slug"):
+        value = record.get(key)
+        if not value:
+            continue
+        if isinstance(value, str):
+            if key == "slug" and value.startswith("sasquatch-"):
+                return value[len("sasquatch-") :]
+            match = re.match(r"^(\d{4}-\d{2}-\d{2})", value)
+            if match:
+                return match.group(1)
+    return ""
+
+
+def load_sasquatch_theme(records: list[dict] | None = None) -> list[dict]:
+    """Merge Sasquatch theme-night details into existing game schedule records."""
     path = DATA_DIR / "spearfish_sasquatch_theme.json"
     if not path.exists():
         return []
@@ -781,25 +796,51 @@ def load_sasquatch_theme() -> list[dict]:
     except Exception as exc:
         print(f"[build] Warning: could not load spearfish_sasquatch_theme.json: {exc}")
         return []
-    records = []
+
+    if records is None:
+        schedule_path = DATA_DIR / "spearfish_sasquatch.json"
+        if not schedule_path.exists():
+            return []
+        try:
+            records = json.loads(schedule_path.read_text(encoding="utf-8"))
+        except Exception as exc:
+            print(f"[build] Warning: could not load spearfish_sasquatch.json: {exc}")
+            return []
+
+    if not isinstance(records, list):
+        return []
+
+    theme_map = {}
     for night in raw.get("theme_nights") or []:
         d = night.get("date", "")
         theme = night.get("theme", "")
         if not d or not theme:
             continue
         description = "Fireworks after the game" if night.get("fireworks") else ""
-        records.append(
-            {
-                "title": f"Sasquatch: {theme}",
-                "start_dt": d,
-                "url": "https://www.spearfishsasquatch.com/theme-night-promo-schedule",
-                "location": "Black Hills Federal Credit Union Stadium, Spearfish",
-                "description": description,
-                "source_label": "Spearfish Sasquatch",
-                "record_type": "event",
-            }
-        )
-    print(f"[build] Sasquatch theme nights: {len(records)}")
+        theme_map[d] = {"theme": theme, "description": description}
+
+    if not theme_map:
+        return records
+
+    merged_count = 0
+    for record in records:
+        if not isinstance(record, dict):
+            continue
+        record_date = _extract_sasquatch_date(record)
+        theme_info = theme_map.get(record_date)
+        if not theme_info:
+            continue
+        theme = theme_info["theme"]
+        existing_title = record.get("title", "") or ""
+        if theme and theme not in existing_title:
+            record["title"] = f"{existing_title} — {theme}".strip()
+        if theme:
+            record["theme"] = theme
+        if theme_info.get("description") and not record.get("description"):
+            record["description"] = theme_info["description"]
+        merged_count += 1
+
+    print(f"[build] Sasquatch theme nights merged into {merged_count} schedule record(s)")
     return records
 
 
@@ -1122,7 +1163,8 @@ def build() -> None:
     OUTPUT_DIR.mkdir(parents=True)
 
     data = load_data()
-    data["spearfish_sasquatch_theme"] = load_sasquatch_theme()
+    if isinstance(data.get("spearfish_sasquatch"), list):
+        load_sasquatch_theme(data["spearfish_sasquatch"])
     groups = group_records(data)
 
     source_count = len(data)

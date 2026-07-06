@@ -9,6 +9,7 @@ from __future__ import annotations
 
 import datetime
 import hashlib
+import json
 from unittest.mock import patch
 
 import pytest
@@ -77,6 +78,34 @@ class TestToMountain:
 # ---------------------------------------------------------------------------
 
 _TODAY = datetime.date(2026, 4, 1)
+
+
+def test_load_sasquatch_theme_merges_into_schedule_titles(tmp_path, monkeypatch):
+    import build
+
+    monkeypatch.setattr(build, "DATA_DIR", tmp_path)
+    (tmp_path / "spearfish_sasquatch.json").write_text(
+        json.dumps(
+            [
+                {
+                    "title": "Sasquatch vs. Oahe Zap",
+                    "start_dt": "2026-05-25 6:05 PM-06:00",
+                    "slug": "sasquatch-2026-05-25",
+                }
+            ]
+        ),
+        encoding="utf-8",
+    )
+    (tmp_path / "spearfish_sasquatch_theme.json").write_text(
+        json.dumps({"theme_nights": [{"date": "2026-05-25", "theme": "Salute to Service Night", "fireworks": False}]}),
+        encoding="utf-8",
+    )
+
+    records = build.load_sasquatch_theme()
+
+    assert len(records) == 1
+    assert records[0]["title"] == "Sasquatch vs. Oahe Zap — Salute to Service Night"
+    assert records[0]["theme"] == "Salute to Service Night"
 
 
 class TestGroupRecords:
