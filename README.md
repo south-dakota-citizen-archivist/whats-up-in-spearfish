@@ -6,7 +6,7 @@ day from scrapers that collect public data across the web.
 
 Source code: [https://github.com/south-dakota-citizen-archivist/whats-up-spearfish](https://github.com/south-dakota-citizen-archivist/whats-up-spearfish)
 
-_Updated: June 10, 2026_
+_Updated: July 6, 2026_
 
 ---
 
@@ -15,30 +15,30 @@ _Updated: June 10, 2026_
 | Source | Slug | Record types | Count |
 |---|---|---|---:|
 | Bhca Calendar | `bhca_calendar` | `event` | 70 |
-| BHNF Alerts | `bhnf_alerts` | `alert` | 25 |
-| BHSU | `bhsu_jobs` | `job` | 17 |
-| BHSU Athletics | `bhsu_athletics` | `event` | 137 |
-| BHSU Campus Calendar | `bhsu_calendar` | `event` | 77 |
-| Black Hills National Forest | `bhnf` | `event`, `press_release` | 10 |
-| Black Hills National Forest (public projects) | `bhnf_projects` | — | 48 |
+| BHNF Alerts | `bhnf_alerts` | `alert` | 24 |
+| BHSU | `bhsu_jobs` | `job` | 16 |
+| BHSU Athletics | `bhsu_athletics` | `event` | 167 |
+| BHSU Campus Calendar | `bhsu_calendar` | `event` | 84 |
+| Black Hills National Forest | `bhnf` | `event`, `press_release` | 16 |
+| Black Hills National Forest (public projects) | `bhnf_projects` | — | 44 |
 | Black Hills Pioneer | `bhpioneer_jobs` | `job` | 16 |
-| Black Hills Pioneer | `black_hills_pioneer` | `news` | 516 |
+| Black Hills Pioneer | `black_hills_pioneer` | `news` | 855 |
 | Black Hills Wildflowers | `black_hills_wildflowers` | — | 5 |
 | Building Permits | `building_permits` | — | 3 |
-| City of Spearfish | `spearfish_city` | `document` | 4,241 |
-| City of Spearfish Alert Center | `spearfish_alert_center` | `alert` | 5 |
+| City of Spearfish | `spearfish_city` | `document` | 4,281 |
+| City of Spearfish Alert Center | `spearfish_alert_center` | `alert` | 11 |
 | City of Spearfish Blog | `spearfish_blog` | — | 0 |
-| City of Spearfish Calendar | `spearfish_calendar` | `event` | 85 |
+| City of Spearfish Calendar | `spearfish_calendar` | `event` | 151 |
 | City of Spearfish Jobs | `spearfish_jobs` | — | 0 |
-| City of Spearfish News Flash | `spearfish_news` | `press_release` | 14 |
-| Crow Peak Brewing | `crow_peak_brewing` | `beer` | 16 |
-| Custer County Chronicle | `custer_county_chronicle` | `news` | 102 |
+| City of Spearfish News Flash | `spearfish_news` | `press_release` | 22 |
+| Crow Peak Brewing | `crow_peak_brewing` | `beer` | 15 |
+| Custer County Chronicle | `custer_county_chronicle` | `news` | 155 |
 | Danr Spills | `danr_spills` | — | 5 |
 | eBird (recent sightings) | `ebird` | — | 50 |
 | Elementary 3-5 Lunch | `spearfish_elem_35_lunch` | `school_menu` | 60 |
 | Elementary Breakfast | `spearfish_elem_breakfast` | `school_menu` | 60 |
 | Elementary K-2 Lunch | `spearfish_elem_k2_lunch` | `school_menu` | 60 |
-| Grace Balloch Memorial Library | `spearfish_library` | `library_book` | 83 |
+| Grace Balloch Memorial Library | `spearfish_library` | `library_book` | 90 |
 | Grace Balloch Memorial Library (circulation) | `library_circulation` | — | 124 |
 | High School Lunch | `spearfish_hs_lunch` | `school_menu` | 60 |
 | Inaturalist Plant Cache | `inaturalist_plant_cache` | — | 317 |
@@ -46,40 +46,40 @@ _Updated: June 10, 2026_
 | Lawrence County | `lawrence_county` | `document` | 77 |
 | Lawrence County Jobs | `lawrence_county_jobs` | — | 0 |
 | Lawrence County News Flash | `lawrence_county_news` | `press_release` | 2 |
-| Leone's Creamery | `leones_creamery` | `flavor` | 8 |
-| Matthews Opera House | `matthews_opera_house` | `event` | 44 |
+| Leone's Creamery | `leones_creamery` | — | 0 |
+| Matthews Opera House | `matthews_opera_house` | `event` | 62 |
 | Middle School Lunch | `spearfish_ms_lunch` | `school_menu` | 60 |
 | MS/HS Breakfast | `spearfish_mshs_breakfast` | `school_menu` | 60 |
-| OpenGov / Spearfish Planning & Zoning Portal | `planning_zoning` | `Change of Use or Occupancy`, `Commercial Alterations, Additions, or Tenant Improvements`, `Commercial Demolition`, `Commercial New Construction`, `Conditional Use Permit`, `Development Review District`, `Encroachment Agreement Request`, `Fire Code Permit`, `Floodplain Development`, `Grading Permit`, `Major Final Plat`, `Major Preliminary Plat`, `Minor Final Plat`, `Residential Additions or Alterations`, `Residential Decks, Covered Patios, or Fences`, `Residential Demolition`, `Residential New Construction`, `Rezone`, `Right of Way Permit`, `Sign Permit `, `Sketch Plat`, `Standalone Permits - Plumbing, Mechanical, Gas`, `Subdivision Development Plans`, `Tax Increment Financing (TIF)`, `Vacate of Right of Way or Easement`, `Variance Application`, `Water/Sewer Service Agreement Application` | 544 |
+| OpenGov / Spearfish Planning & Zoning Portal | `planning_zoning` | `Change of Use or Occupancy`, `Commercial Alterations, Additions, or Tenant Improvements`, `Commercial Demolition`, `Commercial New Construction`, `Conditional Use Permit`, `Development Review District`, `Encroachment Agreement Request`, `Fire Code Permit`, `Floodplain Development`, `Grading Permit`, `Major Final Plat`, `Major Preliminary Plat`, `Minor Final Plat`, `Residential Additions or Alterations`, `Residential Decks, Covered Patios, or Fences`, `Residential Demolition`, `Residential New Construction`, `Rezone`, `Right of Way Permit`, `Sign Permit `, `Sketch Plat`, `Standalone Permits - Plumbing, Mechanical, Gas`, `Subdivision Development Plans`, `Tax Increment Financing (TIF)`, `Vacate of Right of Way or Easement`, `Variance Application`, `Water/Sewer Service Agreement Application` | 598 |
 | Public Bids | `public_bids` | — | 0 |
-| Public Meetings (YouTube) | `public_meetings_youtube` | `youtube_video` | 40 |
-| Rapid City Journal | `rapid_city_journal` | `news` | 502 |
+| Public Meetings (YouTube) | `public_meetings_youtube` | `youtube_video` | 48 |
+| Rapid City Journal | `rapid_city_journal` | `news` | 841 |
 | Redwater Kitchen | `redwater_kitchen` | `beer` | 12 |
-| Regional News | `news_feeds` | `news` | 270 |
+| Regional News | `news_feeds` | `news` | 419 |
 | Roadkill | `roadkill` | — | 3 |
-| Sawyer Brewing Co. | `sawyer_brewing` | `beer` | 17 |
-| SD Dept. of Agriculture & Natural Resources (contested cases) | `danr_contested_cases` | — | 10 |
-| SD Dept. of Agriculture & Natural Resources (public notices) | `danr_public_notices` | — | 38 |
+| Sawyer Brewing Co. | `sawyer_brewing` | `beer` | 15 |
+| SD Dept. of Agriculture & Natural Resources (contested cases) | `danr_contested_cases` | — | 11 |
+| SD Dept. of Agriculture & Natural Resources (public notices) | `danr_public_notices` | — | 14 |
 | Sd Flowering Plants | `sd_flowering_plants` | — | 5 |
 | Sd Living Landscapes | `sd_living_landscapes` | — | 5 |
-| SDPB | `sdpb_news` | `news` | 127 |
+| SDPB | `sdpb_news` | `news` | 219 |
 | Spearfish Agenda Center | `spearfish_agenda_center` | — | 0 |
 | Spearfish Brewing Company | `spearfish_brewing` | `beer` | 14 |
-| Spearfish Chamber | `spearfish_chamber` | `event` | 152 |
-| Spearfish HS Sports | `spearfish_sports` | `event` | 1,442 |
-| Spearfish MS Sports | `spearfish_ms_sports` | `event` | 199 |
+| Spearfish Chamber | `spearfish_chamber` | `event` | 202 |
+| Spearfish HS Sports | `spearfish_sports` | `event` | 1,572 |
+| Spearfish MS Sports | `spearfish_ms_sports` | `event` | 372 |
 | Spearfish Sasquatch | `spearfish_sasquatch` | `event` | 32 |
 | Spearfish Sasquatch Theme | `spearfish_sasquatch_theme` | — | 3 |
-| Spearfish School Board | `spearfish_school_board_docs` | `document` | 121 |
-| Spearfish School District | `spearfish_school_news` | `press_release` | 5 |
+| Spearfish School Board | `spearfish_school_board_docs` | `document` | 123 |
+| Spearfish School District | `spearfish_school_news` | `press_release` | 8 |
 | Spearfish School District | `spearfish_schools` | `event` | 20 |
-| Spearfish School District | `spearfish_schools_jobs` | `job` | 4 |
-| Sundance Times | `sundance_times` | `news` | 158 |
+| Spearfish School District | `spearfish_schools_jobs` | `job` | 8 |
+| Sundance Times | `sundance_times` | `news` | 271 |
 | The Clubhouse | `clubhouse_spearfish` | — | 0 |
 | USDA PLANTS Database (Black Hills full pull) | `plants_native_black_hills` | — | 24,984 |
 | USDA PLANTS Database (Native Plant Spotlight) | `native_plants_spotlight` | — | 195 |
 | USGS Stream Gauge — Spearfish Creek (06431500) | `creek_gauge` | — | 4 |
-| Western Hills Humane Society | `whhs_adoptable` | `adoptable` | 43 |
+| Western Hills Humane Society | `whhs_adoptable` | `adoptable` | 51 |
 
 ---
 
