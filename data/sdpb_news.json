@@ -2429,5 +2429,38 @@
     "image_url": "https://npr.brightspotcdn.com/b9/8d/e4977284492483a6859ba6348cae/latest-d-wave-2000-qubit-processor-25215169297.jpg",
     "record_type": "news",
     "source_label": "SDPB"
+  },
+  {
+    "url": "https://www.sdpb.org/environment/2026-07-07/sioux-falls-receives-grant-from-15m-grant-to-revitalize-quarry",
+    "title": "Sioux Falls receives grant from $15M grant to revitalize quarry",
+    "slug": "sdpb-sioux-falls-receives-grant-from-15m-grant-to-revitalize-quarry",
+    "published": "2026-07-07",
+    "byline": "By Julia Stelter",
+    "description": "Sioux Falls is receiving a $15 million dollar grant from the Bezos Earth Fund to revitalize property near Falls Park.",
+    "image_url": "https://npr.brightspotcdn.com/e7/b3/984990cc4e56b4f9ff5e58b086a4/img-6578.jpg",
+    "record_type": "news",
+    "source_label": "SDPB"
+  },
+  {
+    "url": "https://www.sdpb.org/environment/2026-07-07/community-raises-concerns-over-battery-energy-storage-facility-in-northeast-south-dakota",
+    "title": "Community raises concerns over battery energy storage facility in northeast South Dakota",
+    "slug": "sdpb-community-raises-concerns-over-battery-energy-storage-facility-in-northeast",
+    "published": "2026-07-07",
+    "byline": "By Julia Stelter",
+    "description": "Community members are raising major concerns over a proposed battery energy storage facility. A Florida-based company is seeking state approval for the $174 million dollar project.",
+    "image_url": "https://npr.brightspotcdn.com/ae/23/904fe9b3427cbab3c7cd2e64b612/de8a1f9441-black-hills-corp-wind-turbines.jpg",
+    "record_type": "news",
+    "source_label": "SDPB"
+  },
+  {
+    "url": "https://www.sdpb.org/business-economics/2026-07-07/june-economy-report-details-ongoing-trade-barriers-and-high-inflation",
+    "title": "June economy report details ongoing trade barriers and high inflation",
+    "slug": "sdpb-june-economy-report-details-ongoing-trade-barriers-and-high-inflation",
+    "published": "2026-07-07",
+    "byline": "By Julia Stelter",
+    "description": "A June indicator report shows a mostly positive outlook on the economy. However, one economist warns consumers of ongoing trade barriers and high inflation.",
+    "image_url": "https://npr.brightspotcdn.com/8d/4b/66cc17564f87a21b7710cc0418f2/south-dakota-sd-cash-money-economy-business.jpg",
+    "record_type": "news",
+    "source_label": "SDPB"
   }
 ]

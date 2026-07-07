@@ -1,7 +1,7 @@
 {
-  "fetched_at": "2026-07-06T23:19:48.838803+00:00",
+  "fetched_at": "2026-07-07T19:04:00.921125+00:00",
   "lookback_days": 30,
-  "total_bh_sites": 3296,
+  "total_bh_sites": 3297,
   "known_ids": [
     84379,
     84380,
@@ -3298,9 +3298,29 @@
     1314903,
     1316108,
     1317711,
-    1323723
+    1323723,
+    1325733
   ],
   "new_records": [
+    {
+      "objectid": 1325733,
+      "first_seen": "2026-07-07",
+      "id_raw": 2026003.0,
+      "year": 2026003,
+      "pdf_url": null,
+      "site_name": "Clean ATP - Derstine Property",
+      "site_type": "ATP",
+      "status": "O",
+      "street": "922 State Street",
+      "city": "Belle Fourche",
+      "county": "Butte",
+      "spill_cat": "Other(See Case File)",
+      "material": null,
+      "sor_type": "No Release",
+      "resp_party": "Russell Derstine",
+      "lat": 44.671209,
+      "lon": -103.846046
+    },
     {
       "objectid": 1323723,
       "first_seen": "2026-06-19",

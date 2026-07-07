@@ -1,27 +1,6 @@
 {
-  "fetched_at": "2026-07-06T23:15:00.925461+00:00",
+  "fetched_at": "2026-07-07T18:58:57.343589+00:00",
   "notices": [
-    {
-      "notice_type": "Air Quality Permit",
-      "deadline": "07/06/2026",
-      "comment_url": "https://danr.sd.gov/public/comment.aspx?d_comment=07/06/2026&name=Wharf Resources Inc. (Wharf Mine)&pntype=aq&description=Wharf Resources, Inc. operates a gold mine in Lead. The facility is constructing new mining equipment. The department recommends issuance of an air quality construction permit.",
-      "description": "Wharf Resources, Inc. operates a gold mine in Lead. The facility is constructing new mining equipment. The department recommends issuance of an air quality construction permit.",
-      "location": "Lead",
-      "links": [
-        {
-          "label": "Public Notice",
-          "url": "http://danr.sd.gov/Environment/AirQuality/PN/WRIpn.pdf"
-        },
-        {
-          "label": "Draft Permit",
-          "url": "http://danr.sd.gov/Environment/AirQuality/PN/WRIdp.pdf"
-        },
-        {
-          "label": "Application Review",
-          "url": "http://danr.sd.gov/Environment/AirQuality/PN/WRIsb.pdf"
-        }
-      ]
-    },
     {
       "notice_type": "Water Rights",
       "deadline": "07/06/2026",
@@ -223,6 +202,24 @@
         {
           "label": "Draft Permit",
           "url": "https://danr.sd.gov/Press/docs/publicnotices/wastemanagementnotices/DRAFT_Waubay_26_IP.pdf"
+        }
+      ]
+    },
+    {
+      "notice_type": "Waste Management \u2014 Solid Waste",
+      "deadline": "8/6/2026",
+      "comment_url": "",
+      "name": "Roberts County",
+      "description": "Permit amendment application from Roberts County to current Type IIB municipal solid waste landfill permit to allow for the construction of a new municipal solid waste disposal area, a new leachate storage pond and a new storm water pond.",
+      "location": "Sisseton, SD",
+      "links": [
+        {
+          "label": "Public Notice",
+          "url": "https://danr.sd.gov/Press/docs/publicnotices/wastemanagementnotices/Roberts_County_LF_PN.pdf"
+        },
+        {
+          "label": "Draft Permit",
+          "url": "https://danr.sd.gov/Press/docs/publicnotices/wastemanagementnotices/Roberts_County_LF_26_Permit_draft_amendment.pdf"
         }
       ]
     },
