@@ -1548,5 +1548,45 @@
     "start_dt": "Wed, 08 Apr 2026 11:15:56 -0700",
     "record_type": "event",
     "source_label": "City of Spearfish"
+  },
+  {
+    "url": "https://www.spearfish.gov/Calendar.aspx?EID=3556",
+    "title": "Story Time",
+    "slug": "story-time",
+    "description": "<strong>Event date:</strong> July 22, 2026 <br /><strong>Event Time: </strong>09:30 AM - 10:15 AM<br /><strong>Location:</strong> <br />Spearfish, SD 57783<br /><strong>Description:</strong><br />Stories and activities for ages 4+",
+    "published": "Fri, 10 Apr 2026 14:35:13 -0700",
+    "start_dt": "Fri, 10 Apr 2026 14:35:13 -0700",
+    "record_type": "event",
+    "source_label": "City of Spearfish"
+  },
+  {
+    "url": "https://www.spearfish.gov/Calendar.aspx?EID=3630",
+    "title": "Battle of the Badges Blood Drive",
+    "slug": "battle-of-the-badges-blood-drive",
+    "description": "<strong>Event date:</strong> July 22, 2026 <br /><strong>Event Time: </strong>10:00 AM - 05:00 PM<br /><strong>Location:</strong> <br />122 Recreation Lane<br />Spearfish, SD 57783<br /><strong>Description:</strong><br />It's urgent! Battle of the Badges blood drive needs your help. Grab a friend and come support local first responder teams and patients requiring transfusions. Your donation could save the life of a child who suffered a terrible accident, a grandmother battling cancer or a friend with a blood disorder. Make your appointment now to give blood!",
+    "published": "Wed, 24 Jun 2026 10:29:49 -0700",
+    "start_dt": "Wed, 24 Jun 2026 10:29:49 -0700",
+    "record_type": "event",
+    "source_label": "City of Spearfish"
+  },
+  {
+    "url": "https://www.spearfish.gov/Calendar.aspx?EID=3529",
+    "title": "Toddler Story Time",
+    "slug": "toddler-story-time",
+    "description": "<strong>Event date:</strong> July 22, 2026 <br /><strong>Event Time: </strong>10:30 AM - 11:15 AM<br /><strong>Location:</strong> <br />Spearfish, SD 57783<br /><strong>Description:</strong><br />Early literacy activities for ages 1-3.",
+    "published": "Fri, 10 Apr 2026 14:30:06 -0700",
+    "start_dt": "Fri, 10 Apr 2026 14:30:06 -0700",
+    "record_type": "event",
+    "source_label": "City of Spearfish"
+  },
+  {
+    "url": "https://www.spearfish.gov/Calendar.aspx?EID=3601",
+    "title": "Tween Craft Activity",
+    "slug": "tween-craft-activity",
+    "description": "<strong>Event date:</strong> July 22, 2026 <br /><strong>Event Time: </strong>03:30 PM - 04:30 PM<br /><strong>Location:</strong> <br />Spearfish, SD 57783<br /><strong>Description:</strong><br />Tween Craft Activity for ages 8-12",
+    "published": "Fri, 15 May 2026 16:23:12 -0700",
+    "start_dt": "Fri, 15 May 2026 16:23:12 -0700",
+    "record_type": "event",
+    "source_label": "City of Spearfish"
   }
 ]

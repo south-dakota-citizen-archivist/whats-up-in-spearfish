@@ -742,5 +742,29 @@
     "image_url": "https://www.matthewsopera.com/wp-content/uploads/2026/06/Website-5.png",
     "record_type": "event",
     "source_label": "Matthews Opera House"
+  },
+  {
+    "title": "AUDITIONS: 15th Annual Theatre on the Run",
+    "url": "https://www.matthewsopera.com/event/auditions-15th-annual-theatre-on-the-run/2026-07-29/",
+    "slug": "auditions-15th-annual-theatre-on-the-run",
+    "start_dt": "2026-07-29T18:30:00-06:00",
+    "end_dt": "2026-07-29T20:30:00-06:00",
+    "description": "The Matthews Opera House invites you to be part of a milestone season as we celebrate the 15th Annual Theatre on the Run with \"Murder at Legend Manor\" by C.A. ... Read more \\n",
+    "location": "The Matthews Opera House – Theatre",
+    "image_url": "https://www.matthewsopera.com/wp-content/uploads/2026/07/TOTR_Banner_no_text.png",
+    "record_type": "event",
+    "source_label": "Matthews Opera House"
+  },
+  {
+    "title": "AUDITIONS: 15th Annual Theatre on the Run",
+    "url": "https://www.matthewsopera.com/event/auditions-15th-annual-theatre-on-the-run/2026-07-30/",
+    "slug": "auditions-15th-annual-theatre-on-the-run",
+    "start_dt": "2026-07-30T18:30:00-06:00",
+    "end_dt": "2026-07-30T20:30:00-06:00",
+    "description": "The Matthews Opera House invites you to be part of a milestone season as we celebrate the 15th Annual Theatre on the Run with \"Murder at Legend Manor\" by C.A. ... Read more \\n",
+    "location": "The Matthews Opera House – Theatre",
+    "image_url": "https://www.matthewsopera.com/wp-content/uploads/2026/07/TOTR_Banner_no_text.png",
+    "record_type": "event",
+    "source_label": "Matthews Opera House"
   }
 ]

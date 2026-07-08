@@ -70,5 +70,23 @@
     "description": "School Board Announcement",
     "record_type": "press_release",
     "source_label": "Spearfish School District"
+  },
+  {
+    "url": "https://www.spearfish.k12.sd.us/article/3025010",
+    "title": "Vacancy Notices",
+    "slug": "vacancy-notices",
+    "published": "2026-07-08",
+    "description": "Vacancy Notices Spearfish School District",
+    "record_type": "press_release",
+    "source_label": "Spearfish School District"
+  },
+  {
+    "url": "https://www.spearfish.k12.sd.us/article/3024688",
+    "title": "First Day of School",
+    "slug": "first-day-of-school",
+    "published": "2026-07-07",
+    "description": "Back to School First Day of School August 27, 2026",
+    "record_type": "press_release",
+    "source_label": "Spearfish School District"
   }
 ]

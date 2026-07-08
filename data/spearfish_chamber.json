@@ -2624,5 +2624,18 @@
     "website": "https://spearfishrotary.org/",
     "record_type": "event",
     "source_label": "Spearfish Chamber"
+  },
+  {
+    "url": "https://business.spearfishchamber.org/events/details/jam-session-open-mic-07-25-2026-30815",
+    "title": "Jam Session Open Mic",
+    "slug": "jam-session-open-mic",
+    "start_dt": "2026-07-25 2:00 PM CDT",
+    "end_dt": "2026-07-25 4:00 PM CDT",
+    "location": "Spearfish Senior Center 1306 N 10th St Spearfish, SD 57783",
+    "fees": "Free will donation at the door",
+    "description": "The Spearfish Senior Center will be hosting a Jam Session open mic style on Saturday, July 25th at 2pm-4pm. We will have a collection of local musicians playing various instruments, and singing. Join us for a fun afternoon with music & friends. Coffee & light refreshments will be served. Free will donation at the door. 100% of proceeds goes to our nonprofit organization. Open to the public-everyone welcome! The event will be held at the Spearfish Senior Center at 1306 N 10th St. in Spearfish.",
+    "website": "http://www.spearfishseniorcenter.com",
+    "record_type": "event",
+    "source_label": "Spearfish Chamber"
   }
 ]

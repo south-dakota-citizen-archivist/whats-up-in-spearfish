@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-07T19:01:38.883690+00:00",
+  "fetched_at": "2026-07-08T18:18:43.340540+00:00",
   "cases": [
     {
       "ccid": "123",
@@ -254,6 +254,10 @@
       "docs_url": "https://danr.sd.gov/public/ccdocs.aspx?CCID=CCID126",
       "documents": [
         {
+          "label": "Supplemental Pre-Hearing Submission by Counsel for the Applicant",
+          "url": "https://danr.sd.gov/wrimage/pub/8982-3_CenturySwine Sub.pdf"
+        },
+        {
           "label": "Supplemental Pre-Hearing Submission by Counsel for the Petitioners",
           "url": "https://danr.sd.gov/wrimage/pub/8982-3_Petitioners' Supplemental Pre-Hearing Submission.pdf"
         },
@@ -268,13 +272,9 @@
         {
           "label": "Filings Submitted by Counsel for the Chief Engineer",
           "url": "https://danr.sd.gov/wrimage/pub/8982-3_greco_2.pdf"
-        },
-        {
-          "label": "Proposed Exhibit Submitted by Petitioned (Baer)",
-          "url": "https://danr.sd.gov/wrimage/pub/8982-3_BaerEX.pdf"
         }
       ],
-      "total_docs": 23,
+      "total_docs": 24,
       "latest_doc_date": "0000-00-00"
     },
     {

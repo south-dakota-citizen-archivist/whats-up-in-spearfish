@@ -2462,5 +2462,49 @@
     "image_url": "https://npr.brightspotcdn.com/8d/4b/66cc17564f87a21b7710cc0418f2/south-dakota-sd-cash-money-economy-business.jpg",
     "record_type": "news",
     "source_label": "SDPB"
+  },
+  {
+    "url": "https://www.sdpb.org/crime-courts/2026-07-08/suspect-dead-officer-injured-in-sioux-falls-incident",
+    "title": "Suspect dead, officer injured in Sioux Falls incident",
+    "slug": "sdpb-suspect-dead-officer-injured-in-sioux-falls-incident",
+    "published": "2026-07-08",
+    "byline": "By SDPB News Staff",
+    "description": "State officials are investigating after an officer-involved shooting in Sioux Falls left a suspect dead and a police officer in the hospital.",
+    "image_url": "https://npr.brightspotcdn.com/ec/6c/4b89595a44b3aa5c7ddad8b51af7/sioux-falls-police-department-sfpd.jpg",
+    "record_type": "news",
+    "source_label": "SDPB"
+  },
+  {
+    "url": "https://www.sdpb.org/environment/2026-07-08/nws-confirms-tornado-hit-huron-during-july-2-storm",
+    "title": "NWS confirms tornado hit Huron during July 2 storm",
+    "slug": "sdpb-nws-confirms-tornado-hit-huron-during-july-2-storm",
+    "published": "2026-07-08",
+    "byline": "By SDPB News Staff",
+    "description": "The National Weather Service confirms a tornado struck Huron as part of a powerful storm system that left widespread damage in the community.",
+    "image_url": "https://npr.brightspotcdn.com/e0/d9/d594620646f6b9df947feecc1f67/huron-tornado-nws.jpg",
+    "record_type": "news",
+    "source_label": "SDPB"
+  },
+  {
+    "url": "https://www.sdpb.org/environment/2026-07-07/highmore-recovery-efforts-nothing-short-of-amazing-mayor-says",
+    "title": "Highmore recovery efforts 'nothing short of amazing,' mayor says",
+    "slug": "sdpb-highmore-recovery-efforts-nothing-short-of-amazing-mayor-says",
+    "published": "2026-07-07",
+    "byline": "By Jackson Dircks",
+    "description": "While storms led to devastation across parts of South Dakota recently, affected areas are recovering and move forward.",
+    "image_url": "https://npr.brightspotcdn.com/45/36/39e5928844c68b54ab7a785859fb/highmore-storm-cleanup.jpg",
+    "record_type": "news",
+    "source_label": "SDPB"
+  },
+  {
+    "url": "https://www.sdpb.org/education/2026-07-07/state-library-announces-16-school-library-awards",
+    "title": "State Library announces 16 school library awards",
+    "slug": "sdpb-state-library-announces-16-school-library-awards",
+    "published": "2026-07-07",
+    "byline": "By Jackson Dircks",
+    "description": "Sixteen school libraries in South Dakota are being honored with School Achievement Through Libraries awards. The award recognizes outstanding school library programs and professionals.",
+    "image_url": "https://npr.brightspotcdn.com/f1/08/51da8acb4bea8dab6032e624891c/globes.jpg",
+    "record_type": "news",
+    "source_label": "SDPB"
   }
 ]
