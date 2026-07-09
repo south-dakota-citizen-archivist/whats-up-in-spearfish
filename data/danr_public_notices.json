@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-08T18:16:22.066343+00:00",
+  "fetched_at": "2026-07-09T18:48:41.552123+00:00",
   "notices": [
     {
       "notice_type": "Water Rights",
@@ -75,6 +75,40 @@
         {
           "label": "Draft Permit",
           "url": "https://danr.sd.gov/Press/docs/publicnotices/wastemanagementnotices/DRAFT_Wall_26_RU_IP.pdf"
+        }
+      ]
+    },
+    {
+      "notice_type": "Surface Water Enhancement & Restoration",
+      "deadline": "07/18/2026",
+      "comment_url": "https://danr.sd.gov/public/comment.aspx?d_comment=07/18/2026&name=White Buffalo Mitigation Bank Site&pntype=sw_er&description=Naturion West, LLC, is proposing a private wetland mitigation bank site to offset environmental losses due to unavoidable impacts to waters of the United States.",
+      "name": "White Buffalo Mitigation Bank Site",
+      "description": "Naturion West, LLC, is proposing a private wetland mitigation bank site to offset environmental losses due to unavoidable impacts to waters of the United States.",
+      "links": [
+        {
+          "label": "Public Notice",
+          "url": "https://danr.sd.gov/officeofwater/surfacewaterquality/pn/NaturionWhiteBuffaloWetlandPN.pdf"
+        },
+        {
+          "label": "Application",
+          "url": "https://danr.sd.gov/officeofwater/surfacewaterquality/pn/NaturionWhiteBuffaloApp.pdf"
+        }
+      ]
+    },
+    {
+      "notice_type": "Surface Water Enhancement & Restoration",
+      "deadline": "07/18/2026",
+      "comment_url": "https://danr.sd.gov/public/comment.aspx?d_comment=07/18/2026&name=Richmon Lake Bay Dredging - Paul Silvertsen&pntype=sw_er&description=Multiple shoreline property owners on Richmond Lake are proposing projects to remove accumulated sediment from various shorelines and bays in Richmond Lake.",
+      "name": "Richmon Lake Bay Dredging - Paul Silvertsen",
+      "description": "Multiple shoreline property owners on Richmond Lake are proposing projects to remove accumulated sediment from various shorelines and bays in Richmond Lake.",
+      "links": [
+        {
+          "label": "Public Notice",
+          "url": "https://danr.sd.gov/officeofwater/surfacewaterquality/pn/SivertsonRichmondPN2.pdf"
+        },
+        {
+          "label": "Application",
+          "url": "https://danr.sd.gov/officeofwater/surfacewaterquality/pn/SivertsonRichmondApp.pdf"
         }
       ]
     },

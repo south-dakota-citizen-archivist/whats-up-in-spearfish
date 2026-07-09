@@ -46,7 +46,7 @@
     "abv": "4.6%",
     "ibu": "",
     "brewery": "Sawyer Brewing Co",
-    "rating": "3.59",
+    "rating": "3.58",
     "image_url": "https://labels.untappd.com/5422508",
     "record_type": "beer",
     "source_label": "Killian's"
@@ -117,15 +117,15 @@
     "source_label": "Killian's"
   },
   {
-    "url": "https://untappd.com/b/lost-cabin-beer-co-electric-taco-truck/4297111",
-    "title": "Electric Taco Truck",
-    "slug": "electric-taco-truck",
-    "category": "Sour - Traditional Gose",
-    "abv": "5.2%",
-    "ibu": "4",
-    "brewery": "Lost Cabin Beer Co.",
-    "rating": "3.76",
-    "image_url": "https://labels.untappd.com/4297111",
+    "url": "https://untappd.com/b/cohort-craft-brewery-wonkey-donkey/6395690",
+    "title": "Wonkey Donkey",
+    "slug": "wonkey-donkey",
+    "category": "Sour - Fruited",
+    "abv": "5%",
+    "ibu": "5",
+    "brewery": "Cohort Craft Brewery",
+    "rating": "4.01",
+    "image_url": "https://labels.untappd.com/6395690",
     "record_type": "beer",
     "source_label": "Killian's"
   },
@@ -137,7 +137,7 @@
     "abv": "5.5%",
     "ibu": "10",
     "brewery": "Cohort Craft Brewery",
-    "rating": "3.84",
+    "rating": "3.86",
     "image_url": "https://labels.untappd.com/6738831",
     "record_type": "beer",
     "source_label": "Killian's"
@@ -163,7 +163,7 @@
     "abv": "5.1%",
     "ibu": "15",
     "brewery": "Crow Peak Brewing Company",
-    "rating": "3.98",
+    "rating": "4",
     "image_url": "https://labels.untappd.com/6726488",
     "record_type": "beer",
     "source_label": "Killian's"

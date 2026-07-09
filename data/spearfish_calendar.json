@@ -1588,5 +1588,15 @@
     "start_dt": "Fri, 15 May 2026 16:23:12 -0700",
     "record_type": "event",
     "source_label": "City of Spearfish"
+  },
+  {
+    "url": "https://www.spearfish.gov/Calendar.aspx?EID=3410",
+    "title": "Cody Landstrom Magic Show",
+    "slug": "cody-landstrom-magic-show",
+    "description": "<strong>Event date:</strong> July 23, 2026 <br /><strong>Event Time: </strong>06:00 PM - 07:00 PM<br /><strong>Location:</strong> <br />115 S Canyon<br />Spearfish, SD 57783<br /><strong>Description:</strong><br />All ages are welcome for this magic show at the Pavilion in City Park.",
+    "published": "Fri, 15 May 2026 16:24:18 -0700",
+    "start_dt": "Fri, 15 May 2026 16:24:18 -0700",
+    "record_type": "event",
+    "source_label": "City of Spearfish"
   }
 ]

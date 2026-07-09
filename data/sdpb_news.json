@@ -2506,5 +2506,60 @@
     "image_url": "https://npr.brightspotcdn.com/f1/08/51da8acb4bea8dab6032e624891c/globes.jpg",
     "record_type": "news",
     "source_label": "SDPB"
+  },
+  {
+    "url": "https://www.sdpb.org/crime-courts/2026-07-09/judicial-system-proposes-consolidating-two-state-court-circuits",
+    "title": "Judicial system proposes consolidating two state court circuits",
+    "slug": "sdpb-judicial-system-proposes-consolidating-two-state-court-circuits",
+    "published": "2026-07-09",
+    "byline": "By C.J. Keene",
+    "description": "Consolidating the Fourth and Seventh circuits would create a massive judicial circuit that stretches from Harding County down to the Pine Ridge Reservation that also includes the Rapid City metropolitan area.",
+    "image_url": "https://npr.brightspotcdn.com/9f/51/425df7414ecaab1d9bc41e7f9261/deadwoodsd-lawrencecountycourthouse.jpg",
+    "record_type": "news",
+    "source_label": "SDPB"
+  },
+  {
+    "url": "https://www.sdpb.org/crime-courts/2026-07-09/u-s-attorney-talks-one-of-largest-drug-organization-takedowns-in-sd-history",
+    "title": "U.S. Attorney talks one of 'largest' drug organization takedowns in SD history",
+    "slug": "sdpb-u-s-attorney-talks-one-of-largest-drug-organization-takedowns-in-sd-history",
+    "published": "2026-07-09",
+    "byline": "By Jackson Dircks",
+    "description": "Federal prosecutors announced they've dismantled four major Drug Trafficking Organizations that have been supplying illegal meth and fentanyl into South Dakota.",
+    "image_url": "https://npr.brightspotcdn.com/9b/1a/36a24f2741968aef47b7f99d70f3/image-36.jpg",
+    "record_type": "news",
+    "source_label": "SDPB"
+  },
+  {
+    "url": "https://www.sdpb.org/crime-courts/2026-07-09/analysis-u-s-supreme-court-closes-historic-term-with-heavy-reliance-on-shadow-docket-along-with-landmark-opinions",
+    "title": "Analysis: U.S. Supreme Court closes historic term with heavy reliance on shadow docket, along with landmark opinions",
+    "slug": "sdpb-analysis-u-s-supreme-court-closes-historic-term-with-heavy-reliance-on-with",
+    "published": "2026-07-09",
+    "byline": "By Lori Walsh",
+    "description": "From the intersection of gun rights and property rights to a signal to Congress about who counts as a U.S. citizen, the court tackled some of the biggest issues of our time this term. Mike Thompson provides insight into the impact of the opinions.",
+    "image_url": "https://npr.brightspotcdn.com/c2/ae/f2e57a4045d7a644c4cdeb8cad72/scotus.jpg",
+    "record_type": "news",
+    "source_label": "SDPB"
+  },
+  {
+    "url": "https://www.sdpb.org/politics/2026-07-09/board-says-changes-to-sds-save-act-must-come-through-legislation-next-year",
+    "title": "Board says changes to SD's 'SAVE Act' must come through legislation next year",
+    "slug": "sdpb-board-says-changes-to-sd-s-save-act-must-come-through-legislation-next-year",
+    "published": "2026-07-09",
+    "byline": "By Jackson Dircks",
+    "description": "A group seeking new rules around South Dakota’s state-version of the “SAVE Act” will have to wait until the Legislature reconvenes next year.",
+    "image_url": "https://npr.brightspotcdn.com/69/ca/f54cbc764cc48673a7229717ee1a/e57d0be5c7-110116ivotedstickersschoolteaareagovernmentcampaignelection.jpg",
+    "record_type": "news",
+    "source_label": "SDPB"
+  },
+  {
+    "url": "https://www.sdpb.org/politics/2026-07-08/sioux-falls-mayor-runoff-recount-begins-aclu-sd-requests-election-records",
+    "title": "Sioux Falls mayor runoff recount begins; ACLU SD requests election records",
+    "slug": "sdpb-sioux-falls-mayor-runoff-recount-begins-aclu-sd-requests-election-records",
+    "published": "2026-07-08",
+    "byline": "By Jackson Dircks",
+    "description": "The Sioux Falls Mayoral Runoff Recount is underway. It brings hours of recounting ballots and a new public request from a voting rights group.",
+    "image_url": "https://npr.brightspotcdn.com/6c/0f/c40a435449288327b4a31bcda5ee/image-61.jpg",
+    "record_type": "news",
+    "source_label": "SDPB"
   }
 ]

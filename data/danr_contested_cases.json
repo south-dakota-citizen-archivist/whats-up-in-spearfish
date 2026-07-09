@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-08T18:18:43.340540+00:00",
+  "fetched_at": "2026-07-09T18:50:59.791033+00:00",
   "cases": [
     {
       "ccid": "123",
@@ -42,6 +42,10 @@
       "docs_url": "https://danr.sd.gov/public/ccdocs.aspx?CCID=CCID124",
       "documents": [
         {
+          "label": "Correspondence to Binegar, Joint Motion Regarding Coordination and Use of Discovery, and Proposed Order",
+          "url": "https://danr.sd.gov/Environment/WasteManagement/docs/RapidCityContestedCase2025/7.08.2026 to Binegar re Joint Mot Disc.pdf"
+        },
+        {
           "label": "City of Rapid City's Notices of Deposition of Fern Johnson, Ross Johnson, and Harold P. Barber",
           "url": "https://danr.sd.gov/Environment/WasteManagement/docs/RapidCityContestedCase2025/City_of_Rapid_City_Notice_of_Depositions.pdf"
         },
@@ -56,13 +60,9 @@
         {
           "label": "Petitioners' Motion on Extension of Scheduling and Procedural Order, Stipulation on Extension of Procedural and Scheduling Order, and Order",
           "url": "https://danr.sd.gov/Environment/WasteManagement/docs/RapidCityContestedCase2025/2.26.2026 to Binegar.pdf"
-        },
-        {
-          "label": "City of Rapid City's Witness Disclosures",
-          "url": "https://danr.sd.gov/Environment/WasteManagement/docs/RapidCityContestedCase2025/City_of_Rapid_City_Witness_Disclosures.pdf"
         }
       ],
-      "total_docs": 25,
+      "total_docs": 26,
       "latest_doc_date": "0000-00-00"
     },
     {
