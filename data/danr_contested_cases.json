@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-09T18:50:59.791033+00:00",
+  "fetched_at": "2026-07-10T18:23:06.859699+00:00",
   "cases": [
     {
       "ccid": "123",
@@ -158,6 +158,10 @@
       "docs_url": "https://danr.sd.gov/public/ccdocs.aspx?CCID=CCID125",
       "documents": [
         {
+          "label": "Notice of Prehearing Conference",
+          "url": "https://danr.sd.gov/Press/docs/publicnotices/FeedlotCCH/PrehearingConfNotice.pdf"
+        },
+        {
           "label": "Sending Contested Case Hearing Information to Commenters",
           "url": "https://danr.sd.gov/Press/docs/publicnotices/FeedlotCCH/HearingInfoLtr.pdf"
         },
@@ -172,13 +176,9 @@
         {
           "label": "Petitions",
           "url": "https://danr.sd.gov/Press/docs/publicnotices/FeedlotCCH/Petitions.pdf"
-        },
-        {
-          "label": "Comments",
-          "url": "https://danr.sd.gov/Press/docs/publicnotices/FeedlotCCH/Comments.pdf"
         }
       ],
-      "total_docs": 10,
+      "total_docs": 11,
       "latest_doc_date": "0000-00-00"
     },
     {

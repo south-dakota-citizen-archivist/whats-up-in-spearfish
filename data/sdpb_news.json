@@ -2561,5 +2561,60 @@
     "image_url": "https://npr.brightspotcdn.com/6c/0f/c40a435449288327b4a31bcda5ee/image-61.jpg",
     "record_type": "news",
     "source_label": "SDPB"
+  },
+  {
+    "url": "https://www.sdpb.org/politics/2026-07-10/sioux-falls-mayoral-race-recount-affirms-ericksons-victory",
+    "title": "Sioux Falls mayoral race recount affirms Erickson's victory",
+    "slug": "sdpb-sioux-falls-mayoral-race-recount-affirms-erickson-s-victory",
+    "published": "2026-07-10",
+    "byline": "By Jackson Dircks",
+    "description": "Christine Erickson has been certified as winner of the mayoral runoff election recount.",
+    "image_url": "https://npr.brightspotcdn.com/53/79/ceff463645fbb5ad60143ce96a69/christine-erickson.jpg",
+    "record_type": "news",
+    "source_label": "SDPB"
+  },
+  {
+    "url": "https://www.sdpb.org/environment/2026-07-10/despite-recent-rains-black-hills-still-fire-prone-ahead-of-heatwave",
+    "title": "Despite recent rains, Black Hills still fire-prone ahead of heatwave",
+    "slug": "sdpb-despite-recent-rains-black-hills-still-fire-prone-ahead-of-heatwave",
+    "published": "2026-07-10",
+    "byline": "By C.J. Keene",
+    "description": "The Black Hills have greened up, but a deficit remains. State fire officials say with a heatwave incoming, a single errant spark could lead to a disaster.",
+    "image_url": "https://npr.brightspotcdn.com/legacy/prod/filer_public/kusd-bento-live-pbs/News%20Blog/Seth%20Tupper/c04d460782_Keystone%20fire%202.jpg",
+    "record_type": "news",
+    "source_label": "SDPB"
+  },
+  {
+    "url": "https://www.sdpb.org/science/2026-07-10/scientists-celebrate-a-milestone-for-the-critically-endangered-black-footed-ferret",
+    "title": "Scientists celebrate a milestone for the critically endangered black-footed ferret",
+    "slug": "sdpb-scientists-celebrate-a-milestone-for-the-critically-endangered-black-footed",
+    "published": "2026-07-10",
+    "byline": "By Lori Walsh",
+    "description": "It's been 30 years since the black-footed ferret was reintroduced to the wild after being presumed extinct. Biologist Travis Livieri offers an update on how drought, plague, and federal funding uncertainty is impacting recovery efforts on public land.",
+    "image_url": "https://npr.brightspotcdn.com/e8/c5/7fc657294fe6987781e931b9fbcc/buff-ferret.jpeg",
+    "record_type": "news",
+    "source_label": "SDPB"
+  },
+  {
+    "url": "https://www.sdpb.org/crime-courts/2026-07-09/pierre-woman-pleads-guilty-to-defrauding-state-medicaid-program-of-588-000",
+    "title": "Pierre woman pleads guilty to defrauding state Medicaid program of $588,000",
+    "slug": "sdpb-pierre-woman-pleads-guilty-to-defrauding-state-medicaid-program-of-588000",
+    "published": "2026-07-09",
+    "byline": "By SDPB News Staff",
+    "description": "State officials say a Pierre woman admitted to defrauding the South Dakota Medicaid program of over half-a-million dollars.",
+    "image_url": "https://npr.brightspotcdn.com/90/c4/032382334c3b9a19df8b0a6cba09/graphics-882726-1280.png",
+    "record_type": "news",
+    "source_label": "SDPB"
+  },
+  {
+    "url": "https://www.sdpb.org/crime-courts/2026-07-09/pennington-county-services-still-reeling-from-cybersecurity-incident",
+    "title": "Pennington County services still reeling from cybersecurity 'incident'",
+    "slug": "sdpb-pennington-county-services-still-reeling-from-cybersecurity-incident",
+    "published": "2026-07-09",
+    "byline": "By C.J. Keene",
+    "description": "County officials provided an update, though details remain sparse. Ultimately, they write that the goal is still to protect people’s personal information.",
+    "image_url": "https://npr.brightspotcdn.com/81/f6/ad7e609e41b6a785dd85be32cfaf/pennington-county-admin.jpg",
+    "record_type": "news",
+    "source_label": "SDPB"
   }
 ]

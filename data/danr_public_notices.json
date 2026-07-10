@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-09T18:48:41.552123+00:00",
+  "fetched_at": "2026-07-10T18:20:51.392631+00:00",
   "notices": [
     {
       "notice_type": "Water Rights",
@@ -254,6 +254,20 @@
         {
           "label": "Draft Permit",
           "url": "https://danr.sd.gov/Press/docs/publicnotices/wastemanagementnotices/Roberts_County_LF_26_Permit_draft_amendment.pdf"
+        }
+      ]
+    },
+    {
+      "notice_type": "Mining License",
+      "deadline": "",
+      "comment_url": "",
+      "name": "Carlson Crushing & Excavating, LLC",
+      "description": "Notice of Intent to Mine",
+      "location": "four miles south of Eden, SD on SD Hwy. 25",
+      "links": [
+        {
+          "label": "Public Notice",
+          "url": "https://media.sd.gov/danr/MM/S904009PublicNotice.pdf"
         }
       ]
     },

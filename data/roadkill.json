@@ -1,7 +1,46 @@
 {
-  "fetched_at": "2026-07-09T18:51:08.545094+00:00",
+  "fetched_at": "2026-07-10T18:23:12.997235+00:00",
   "lookback_days": 30,
   "records": [
+    {
+      "objectid": 69035,
+      "date": "2026-07-10",
+      "species": "White-tailed Deer",
+      "highway": "I90",
+      "sex": "Unknown",
+      "present": "Yes",
+      "comments": null,
+      "contractor": "Tony Hanig",
+      "lat": 44.477303,
+      "lon": -103.660279,
+      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/69035/attachments/11747"
+    },
+    {
+      "objectid": 69036,
+      "date": "2026-07-10",
+      "species": "White-tailed Deer",
+      "highway": "I90",
+      "sex": "Male",
+      "present": "Yes",
+      "comments": null,
+      "contractor": "Tony Hanig",
+      "lat": 44.487259,
+      "lon": -103.701244,
+      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/69036/attachments/11748"
+    },
+    {
+      "objectid": 69037,
+      "date": "2026-07-10",
+      "species": "White-tailed Deer",
+      "highway": "I90",
+      "sex": "Female",
+      "present": "Yes",
+      "comments": null,
+      "contractor": "Tony Hanig",
+      "lat": 44.545676,
+      "lon": -103.970989,
+      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/69037/attachments/11749"
+    },
     {
       "objectid": 69021,
       "date": "2026-07-08",
@@ -2614,19 +2653,6 @@
       "lat": 44.025061,
       "lon": -103.073119,
       "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/68379/attachments/11089"
-    },
-    {
-      "objectid": 68333,
-      "date": "2026-06-10",
-      "species": "Mule Deer",
-      "highway": "I90",
-      "sex": "Female",
-      "present": "Yes",
-      "comments": null,
-      "contractor": "Tony Hanig",
-      "lat": 44.166543,
-      "lon": -103.313128,
-      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/68333/attachments/11043"
     }
   ]
 }
