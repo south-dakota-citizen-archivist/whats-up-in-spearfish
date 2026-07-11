@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-10T18:23:06.859699+00:00",
+  "fetched_at": "2026-07-11T17:53:31.593126+00:00",
   "cases": [
     {
       "ccid": "123",
@@ -10,24 +10,24 @@
       "docs_url": "https://danr.sd.gov/public/ccdocs.aspx?CCID=CCID123",
       "documents": [
         {
+          "label": "July 9, 2026 Response from Joint Intervenors in Opposition to Clean Nuclear Energy's Motion to Expedite Hearing",
+          "url": "https://danr.sd.gov/Environment/MineralsMining/Exploration/docs/070926JointIntervenorMotion.pdf"
+        },
+        {
+          "label": "July 6, 2026 Response from Marla Cooley in Opposition to Clean Nuclear Energy's Motion to Expedite Hearing",
+          "url": "https://danr.sd.gov/Environment/MineralsMining/Exploration/docs/070626CooleyResponse.pdf"
+        },
+        {
+          "label": "July 2, 2026 Response from Sarah Peterson in Opposition to Clean Nuclear Energy's Motion to Expedite Hearing",
+          "url": "https://danr.sd.gov/Environment/MineralsMining/Exploration/docs/070226PetersonResponse.pdf"
+        },
+        {
           "label": "June 30, 2026 Response from Elizabeth Lone Eagle in Opposition to Clean Nuclear Energy's Motion to Expedite Hearing",
           "url": "https://danr.sd.gov/Environment/MineralsMining/Exploration/docs/63026LoneEagleResponse.pdf"
         },
         {
           "label": "June 16, 2026 Motion Submitted by Clean Nuclear Energy to Expedite Hearing on Uranium Exploration Permit Application",
           "url": "https://danr.sd.gov/Environment/MineralsMining/Exploration/docs/061626CNECMotionExpediteHearing.pdf"
-        },
-        {
-          "label": "May 16, 2026 CRST and OST Supplemental Exhibit",
-          "url": "https://danr.sd.gov/Environment/MineralsMining/Exploration/docs/051926GunnSupplementalExhibit437.pdf"
-        },
-        {
-          "label": "May 18, 2026 Supplemental Witness and Exhibit by Dr. Ben Sharp",
-          "url": "https://danr.sd.gov/Environment/MineralsMining/Exploration/docs/51826SharpSupplementalExhibit.pdf"
-        },
-        {
-          "label": "May 17, 2026 Additional Exhibits from Bruce Ellison",
-          "url": "https://danr.sd.gov/Environment/MineralsMining/Exploration/docs/51726EllisonAdditionalExhibits_Redacted.pdf"
         }
       ],
       "total_docs": 100,

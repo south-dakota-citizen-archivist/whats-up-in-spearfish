@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-10T18:20:51.392631+00:00",
+  "fetched_at": "2026-07-11T17:51:15.139885+00:00",
   "notices": [
     {
       "notice_type": "Water Rights",
@@ -254,6 +254,20 @@
         {
           "label": "Draft Permit",
           "url": "https://danr.sd.gov/Press/docs/publicnotices/wastemanagementnotices/Roberts_County_LF_26_Permit_draft_amendment.pdf"
+        }
+      ]
+    },
+    {
+      "notice_type": "Concentrated Animal Feeding Operations (State Permit)",
+      "deadline": "08/10/2026",
+      "comment_url": "https://danr.sd.gov/public/comment.aspx?d_comment=08/10/2026&name=Ryan Storm&pntype=fp_cafo&description=Expanding Swine Feeding Operation - State Permit",
+      "name": "Ryan Storm",
+      "description": "Expanding Swine Feeding Operation - State Permit",
+      "location": "Davison County",
+      "links": [
+        {
+          "label": "Public Notice",
+          "url": "https://danr.sd.gov/Press/docs/publicnotices/FeedlotPermit/RyanStormExpansionPN.pdf"
         }
       ]
     },

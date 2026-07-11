@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-10T18:23:12.997235+00:00",
+  "fetched_at": "2026-07-11T17:53:40.721263+00:00",
   "lookback_days": 30,
   "records": [
     {
@@ -40,6 +40,19 @@
       "lat": 44.545676,
       "lon": -103.970989,
       "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/69037/attachments/11749"
+    },
+    {
+      "objectid": 69038,
+      "date": "2026-07-10",
+      "species": "White-tailed Deer",
+      "highway": "I90",
+      "sex": "Male",
+      "present": "Yes",
+      "comments": null,
+      "contractor": "Tony Hanig",
+      "lat": 44.475242,
+      "lon": -103.766749,
+      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/69038/attachments/11750"
     },
     {
       "objectid": 69021,

@@ -2616,5 +2616,16 @@
     "image_url": "https://npr.brightspotcdn.com/81/f6/ad7e609e41b6a785dd85be32cfaf/pennington-county-admin.jpg",
     "record_type": "news",
     "source_label": "SDPB"
+  },
+  {
+    "url": "https://www.sdpb.org/crime-courts/2026-07-10/sd-supreme-court-rules-in-states-favor-in-hideaway-hills-sinkhole-case",
+    "title": "SD Supreme Court rules in state's favor in Hideaway Hills sinkhole case",
+    "slug": "sdpb-sd-supreme-court-rules-in-state-s-favor-in-hideaway-hills-sinkhole-case",
+    "published": "2026-07-10",
+    "byline": "By Josh Chilson",
+    "description": "The South Dakota Supreme Court has ruled against a group of homeowners suing the state after their homes were damaged by a mining sinkhole.",
+    "image_url": "https://npr.brightspotcdn.com/a6/e6/94ed2ef749258abcd19e7c8f9e58/hideaway-hills-sinkhole.jpg",
+    "record_type": "news",
+    "source_label": "SDPB"
   }
 ]
