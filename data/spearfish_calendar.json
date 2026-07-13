@@ -1618,5 +1618,25 @@
     "start_dt": "Fri, 01 May 2026 17:21:28 -0700",
     "record_type": "event",
     "source_label": "City of Spearfish"
+  },
+  {
+    "url": "https://www.spearfish.gov/Calendar.aspx?EID=3638",
+    "title": "Library Board of Trustees Meeting - CANCELLED",
+    "slug": "library-board-of-trustees-meeting-cancelled",
+    "description": "<strong>Event date:</strong> July 14, 2026 <br /><strong>Event Time: </strong>04:00 PM - 11:59 PM<br /><strong>Location:</strong> <br />City Hall<br />625 N 5th St<br />Spearfish, SD 57783",
+    "published": "Mon, 13 Jul 2026 09:06:03 -0700",
+    "start_dt": "Mon, 13 Jul 2026 09:06:03 -0700",
+    "record_type": "event",
+    "source_label": "City of Spearfish"
+  },
+  {
+    "url": "https://www.spearfish.gov/Calendar.aspx?EID=3610",
+    "title": "Teen Game Club",
+    "slug": "teen-game-club",
+    "description": "<strong>Event date:</strong> July 27, 2026 <br /><strong>Event Time: </strong>01:00 PM - 03:00 PM<br /><strong>Location:</strong> <br />Spearfish, SD 57783<br /><strong>Description:</strong><br />All teens are welcome! Games and snacks provided.",
+    "published": "Fri, 15 May 2026 16:30:25 -0700",
+    "start_dt": "Fri, 15 May 2026 16:30:25 -0700",
+    "record_type": "event",
+    "source_label": "City of Spearfish"
   }
 ]

@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-12T17:58:59.267254+00:00",
+  "fetched_at": "2026-07-13T18:32:44.385929+00:00",
   "projects": [
     {
       "project_id": "66463",
@@ -405,22 +405,6 @@
       "last_updated": ""
     },
     {
-      "project_id": "171823",
-      "title": "NFSR 653.1C Reroute Construction",
-      "url": "https://www.fs.usda.gov/r02/blackhills/projects/171823",
-      "status": "Completed",
-      "district": "Hell Canyon Ranger District",
-      "purpose": "Road Management",
-      "description": "Reroute NFS Road 653.1C to accommodate expansion of Custer County Airport, SD. To view documents related to this proposal, please copy and paste this link into your internet browser: https://usfs-public.box.com/s/igz27xmhnsexb2euwc5bci4ymo50vdz9",
-      "milestones": [],
-      "comment_period_date": null,
-      "comment_period_sort": "9999-99",
-      "location_summary": "",
-      "counties": [],
-      "contact": {},
-      "last_updated": ""
-    },
-    {
       "project_id": "65540",
       "title": "North Sand Vegetation Management",
       "url": "https://www.fs.usda.gov/r02/blackhills/projects/65540",
@@ -716,22 +700,6 @@
       "district": "Northern Hills Ranger District",
       "purpose": "Recreation Management|Special Use Management",
       "description": "The proponent has requested a one-year special use permit to conduct a marathon that would begin at Cement Ridge in WY and follow National Forest System roads and US Hwy 14 to the finish in Spearfish, SD.",
-      "milestones": [],
-      "comment_period_date": null,
-      "comment_period_sort": "9999-99",
-      "location_summary": "",
-      "counties": [],
-      "contact": {},
-      "last_updated": ""
-    },
-    {
-      "project_id": "68398",
-      "title": "Sunday Gulch USGS Stream Gage",
-      "url": "https://www.fs.usda.gov/r02/blackhills/projects/68398",
-      "status": "Completed",
-      "district": "Hell Canyon Ranger District",
-      "purpose": "Special Use Management",
-      "description": "Special use authorization to include this Hell Canyon Ranger District location in the operation and maintenance for an early warning, flash flood streamgage for Pennington County Emergency Management in Pennington County, SD",
       "milestones": [],
       "comment_period_date": null,
       "comment_period_sort": "9999-99",

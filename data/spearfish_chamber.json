@@ -2650,5 +2650,57 @@
     "website": "https://www.spearfishmuseum.org/events",
     "record_type": "event",
     "source_label": "Spearfish Chamber"
+  },
+  {
+    "url": "https://business.spearfishchamber.org/events/details/battle-of-the-badges-blood-drive-07-21-2026-30817",
+    "title": "Battle of the Badges Blood Drive",
+    "slug": "battle-of-the-badges-blood-drive",
+    "start_dt": "2026-07-21 11:00 AM CDT",
+    "end_dt": "2026-07-21 7:00 PM CDT",
+    "location": "Spearfish Rec & Aquatics Center Gym 122 Recreation Lane Spearfish, SD 57783",
+    "fees": "",
+    "description": "Day 1 of 2 Who will take home bragging rights in the 8th Annual Spearfish Battle of the Badges? Join local first responders as they compete for donations and help strengthen the blood supply for patients who depend on transfusions every day. Bring a friend, roll up your sleeve, and support the team of your choice while making a difference for hospital patients. Every donation has the potential to help multiple patients, including accident victims, cancer patients, and individuals living with blood disorders. Donors will receive T-shirts (while supplies last), lunch, and the chance to win local prizes. Vitalant is also offering the chance to win a new car. Appointments are encouraged. Reserve your spot today at vitalant.org/spearfishbattle",
+    "website": "http://vitalant.org/spearfishbattle",
+    "record_type": "event",
+    "source_label": "Spearfish Chamber"
+  },
+  {
+    "url": "https://business.spearfishchamber.org/events/details/battle-of-the-badges-blood-drive-07-22-2026-30818",
+    "title": "Battle of the Badges Blood Drive",
+    "slug": "battle-of-the-badges-blood-drive",
+    "start_dt": "2026-07-22 10:00 AM CDT",
+    "end_dt": "2026-07-22 5:00 PM CDT",
+    "location": "Spearfish Rec & Aquatics Center Gym 122 Recreation Lane Spearfish, SD 57783",
+    "fees": "",
+    "description": "Day 2 of 2 Who will take home bragging rights in the 8th Annual Spearfish Battle of the Badges? Join local first responders as they compete for donations and help strengthen the blood supply for patients who depend on transfusions every day. Bring a friend, roll up your sleeve, and support the team of your choice while making a difference for hospital patients. Every donation has the potential to help multiple patients, including accident victims, cancer patients, and individuals living with blood disorders. Donors will receive T-shirts (while supplies last), lunch, and the chance to win local prizes. Vitalant is also offering the chance to win a new car. Appointments are encouraged. Reserve your spot today at vitalant.org/spearfishbattle",
+    "website": "http://vitalant.org/spearfishbattle",
+    "record_type": "event",
+    "source_label": "Spearfish Chamber"
+  },
+  {
+    "url": "https://business.spearfishchamber.org/events/details/high-plains-live-paul-larson-and-ken-cook-cowboy-music-poetry-30819",
+    "title": "High Plains Live! Paul Larson and Ken Cook - Cowboy Music & Poetry",
+    "slug": "high-plains-live-paul-larson-and-ken-cook-cowboy-music-poetry",
+    "start_dt": "2026-07-26 2:00 PM CDT",
+    "end_dt": "2026-07-26 4:00 PM CDT",
+    "location": "Bruce Miller Theater",
+    "fees": "Reserved Seating: $20 General Admission: $15",
+    "description": "Celebrate the National Day Of The American Cowboy with some Cowboy Music and Poetry presented by Paul Larson and Ken Cook. Concert Sponsored by SD Arts Council & Perkins Restaurant South Dakota Arts Council support is provided with funds from the State of South Dakota, through the Department of Tourism, and the National Endowment for the Arts.",
+    "website": "http://www.westernheritagecenter.com/upcoming-events",
+    "record_type": "event",
+    "source_label": "Spearfish Chamber"
+  },
+  {
+    "url": "https://business.spearfishchamber.org/events/details/jj-kent-with-aces-8s-presents-strait-george-hpwhc-fundraiser-30820",
+    "title": "JJ Kent with Aces & 8s Presents Strait George - HPWHC Fundraiser",
+    "slug": "jj-kent-with-aces-8s-presents-strait-george-hpwhc-fundraiser",
+    "start_dt": "2026-08-23 12:00 PM CDT",
+    "end_dt": "2026-08-23 4:00 PM CDT",
+    "location": "High Plains Western Heritage Center",
+    "fees": "Tickets: $50 Advanced Reservations Required",
+    "description": "HPWHC Annual Fundraising Concert & BBQ. JJ Kent with Aces & 8s performs the songs of George Strait. BBQ at 12:00 PM. Concert at 2:00 PM Join us for High Plains Western Heritage Center's Annual Fundraiser. JJ Kent with Aces and 8s to perform \"Strait George\" - a tribute to George Strait featuring the hits fans know and love. BBQ - 12:00 PM - 1:30 PM Concert - 2:00 PM",
+    "website": "http://www.westernheritagecenter.com/upcoming-events",
+    "record_type": "event",
+    "source_label": "Spearfish Chamber"
   }
 ]

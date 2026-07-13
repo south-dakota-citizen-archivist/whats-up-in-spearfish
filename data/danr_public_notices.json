@@ -1,30 +1,6 @@
 {
-  "fetched_at": "2026-07-12T17:56:40.957265+00:00",
+  "fetched_at": "2026-07-13T18:30:14.799478+00:00",
   "notices": [
-    {
-      "notice_type": "Water Rights",
-      "deadline": "07/06/2026",
-      "comment_url": "",
-      "application_no": "FC39-3",
-      "name": "Upper Minnesota River Watershed District, c/o Amber Doschadis,\u00a0Ortonville\u00a0MN",
-      "location": "Grant",
-      "water_source": "Whetstone River",
-      "use_type": "Flood Control",
-      "links": [
-        {
-          "label": "Public Notice",
-          "url": "https://danr.sd.gov/wrimage/pub/FC39-3_app.pdf"
-        },
-        {
-          "label": "Appl.",
-          "url": "https://danr.sd.gov/wrimage/pub/FC39-3_apl.pdf"
-        },
-        {
-          "label": "Recom. Action",
-          "url": "https://danr.sd.gov/wrimage/pub/FC39-3_rec.pdf"
-        }
-      ]
-    },
     {
       "notice_type": "Waste Management \u2014 Solid Waste",
       "deadline": "7/16/2026",
@@ -201,6 +177,78 @@
         {
           "label": "Draft Permit",
           "url": "https://danr.sd.gov/Press/docs/publicnotices/wastemanagementnotices/DRAFT_Waubay_26_IP.pdf"
+        }
+      ]
+    },
+    {
+      "notice_type": "Water Rights",
+      "deadline": "07/27/2026",
+      "comment_url": "",
+      "application_no": "9034-3",
+      "name": "Richard D. & Konny R Lacey Living Trust, c/o Richard Lacey,\u00a0Brandon\u00a0SD",
+      "location": "Campbell",
+      "water_source": "Grand Aquifer",
+      "use_type": "Irrigation (135 acres)",
+      "links": [
+        {
+          "label": "Public Notice",
+          "url": "https://danr.sd.gov/wrimage/pub/9034-3_app.pdf"
+        },
+        {
+          "label": "Appl.",
+          "url": "https://danr.sd.gov/wrimage/pub/9034-3_apl.pdf"
+        },
+        {
+          "label": "Recom. Action",
+          "url": "https://danr.sd.gov/wrimage/pub/9034-3_rec.pdf"
+        }
+      ]
+    },
+    {
+      "notice_type": "Water Rights",
+      "deadline": "07/27/2026",
+      "comment_url": "",
+      "application_no": "2907-2",
+      "name": "Brad & Marlene Pisha,\u00a0Tuthill\u00a0SD",
+      "location": "Bennett",
+      "water_source": "Ogallala Aquifer",
+      "use_type": "Irrigation (no addt'l acres)",
+      "links": [
+        {
+          "label": "Public Notice",
+          "url": "https://danr.sd.gov/wrimage/pub/2907-2_app.pdf"
+        },
+        {
+          "label": "Appl.",
+          "url": "https://danr.sd.gov/wrimage/pub/2907-2_apl.pdf"
+        },
+        {
+          "label": "Recom. Action",
+          "url": "https://danr.sd.gov/wrimage/pub/2907-2_rec.pdf"
+        }
+      ]
+    },
+    {
+      "notice_type": "Water Rights",
+      "deadline": "07/27/2026",
+      "comment_url": "",
+      "application_no": "2910-2",
+      "name": "Ridgeview Water System, c/o Steve Simunek,\u00a0Oral\u00a0SD",
+      "location": "Pennington",
+      "water_source": "Inyan Kara Aquifer",
+      "use_type": "Rural Water System & Water Distribution System",
+      "links": [
+        {
+          "label": "Public Notice",
+          "url": "https://danr.sd.gov/wrimage/pub/2910-2_app.pdf"
+        },
+        {
+          "label": "Appl.",
+          "url": "https://danr.sd.gov/wrimage/pub/2910-2_apl.pdf"
+        },
+        {
+          "label": "Recom. Action",
+          "url": "https://danr.sd.gov/wrimage/pub/2910-2_rec.pdf"
         }
       ]
     },

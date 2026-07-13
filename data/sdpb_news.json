@@ -2627,5 +2627,38 @@
     "image_url": "https://npr.brightspotcdn.com/a6/e6/94ed2ef749258abcd19e7c8f9e58/hideaway-hills-sinkhole.jpg",
     "record_type": "news",
     "source_label": "SDPB"
+  },
+  {
+    "url": "https://www.sdpb.org/business-economics/2026-07-13/city-leaders-celebrate-breaking-ground-on-downtown-sioux-falls-development",
+    "title": "City leaders celebrate breaking ground on downtown Sioux Falls development",
+    "slug": "sdpb-city-leaders-celebrate-breaking-ground-on-downtown-sioux-falls-development",
+    "published": "2026-07-13",
+    "byline": "By Julia Stelter",
+    "description": "Community leaders and developers are celebrating the ceremonial groundbreaking of a new development in downtown Sioux Falls.",
+    "image_url": "https://npr.brightspotcdn.com/ef/58/c89491b84ba9b5081bf9ffe1804d/img-66642.JPG",
+    "record_type": "news",
+    "source_label": "SDPB"
+  },
+  {
+    "url": "https://www.sdpb.org/business-economics/2026-07-13/rapid-city-council-approves-west-side-heavy-industrial-expansion",
+    "title": "Rapid City Council approves west side heavy industrial expansion",
+    "slug": "sdpb-rapid-city-council-approves-west-side-heavy-industrial-expansion",
+    "published": "2026-07-13",
+    "byline": "By C.J. Keene",
+    "description": "The Rapid City Council has approved an effort to expand heavy industrial zoning near a west side cement plant and mining operation. It may come at a cost though, as many residents complain about air quality and other quality-of-life issues connected to the plant located near residential zones.",
+    "image_url": "https://npr.brightspotcdn.com/c2/74/fc842cf746709fa2d3231c9b5eae/west-rapid-city.jpg",
+    "record_type": "news",
+    "source_label": "SDPB"
+  },
+  {
+    "url": "https://www.sdpb.org/arts-life/2026-07-13/street-piano-leaves-indelible-mark-on-vermillionaires",
+    "title": "Street piano leaves indelible mark on 'Vermillionaires'",
+    "slug": "sdpb-street-piano-leaves-indelible-mark-on-vermillionaires",
+    "published": "2026-07-13",
+    "byline": "By Lori Walsh",
+    "description": "A pandemic-era public art project became a way for long-time residents and newcomers alike to play, perform, and belong. What happens now that the piano has been retired?",
+    "image_url": "https://npr.brightspotcdn.com/ca/0a/695682644ed98e74252bd14ea65b/piano-playing.JPG",
+    "record_type": "news",
+    "source_label": "SDPB"
   }
 ]

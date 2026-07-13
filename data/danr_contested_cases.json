@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-12T17:58:55.867599+00:00",
+  "fetched_at": "2026-07-13T18:32:40.474006+00:00",
   "cases": [
     {
       "ccid": "123",
@@ -9,6 +9,10 @@
       "description": "Proposed uranium exploration project seven miles north of Edgemont, SD.  Up to 50 holes will be drilled to a maximum vertical depth of 700 feet.  In addition, 50 drill platforms will be created with a dimension of 60 feet by 60 feet.  Exploration will be conducted using reverse circulation drilling with sumps.",
       "docs_url": "https://danr.sd.gov/public/ccdocs.aspx?CCID=CCID123",
       "documents": [
+        {
+          "label": "July 6, 2026 Response from Black Hills Group of the Sierra Club and Jay Davis in Opposition to Clean Nuclear Energy's Motion to Expedite Hearing",
+          "url": "https://danr.sd.gov/Environment/MineralsMining/Exploration/docs/070626SierraClubDavisResponse.pdf"
+        },
         {
           "label": "July 9, 2026 Response from Joint Intervenors in Opposition to Clean Nuclear Energy's Motion to Expedite Hearing",
           "url": "https://danr.sd.gov/Environment/MineralsMining/Exploration/docs/070926JointIntervenorMotion.pdf"
@@ -24,10 +28,6 @@
         {
           "label": "June 30, 2026 Response from Elizabeth Lone Eagle in Opposition to Clean Nuclear Energy's Motion to Expedite Hearing",
           "url": "https://danr.sd.gov/Environment/MineralsMining/Exploration/docs/63026LoneEagleResponse.pdf"
-        },
-        {
-          "label": "June 16, 2026 Motion Submitted by Clean Nuclear Energy to Expedite Hearing on Uranium Exploration Permit Application",
-          "url": "https://danr.sd.gov/Environment/MineralsMining/Exploration/docs/061626CNECMotionExpediteHearing.pdf"
         }
       ],
       "total_docs": 100,
@@ -41,6 +41,10 @@
       "description": "Petitioners seeks that the Board of Minerals and Environment modify the proposed solid waste permit for the Rapid City landfill",
       "docs_url": "https://danr.sd.gov/public/ccdocs.aspx?CCID=CCID124",
       "documents": [
+        {
+          "label": "Notice of Entry of Order Granting Joint Motion Regarding Coordination and Use of Discovery",
+          "url": "https://danr.sd.gov/Environment/WasteManagement/docs/RapidCityContestedCase2025/City of Rapid City Permit Application - NOE Order 7-13-2026.pdf"
+        },
         {
           "label": "Correspondence to Binegar, Joint Motion Regarding Coordination and Use of Discovery, and Proposed Order",
           "url": "https://danr.sd.gov/Environment/WasteManagement/docs/RapidCityContestedCase2025/7.08.2026 to Binegar re Joint Mot Disc.pdf"
@@ -56,13 +60,9 @@
         {
           "label": "Notice of Entry of Order to Extend Procedural and Scheduling Order",
           "url": "https://danr.sd.gov/Environment/WasteManagement/docs/RapidCityContestedCase2025/2026-03-02 Letter and NOE of Order to Extend Procedural and Scheduling Order.pdf"
-        },
-        {
-          "label": "Petitioners' Motion on Extension of Scheduling and Procedural Order, Stipulation on Extension of Procedural and Scheduling Order, and Order",
-          "url": "https://danr.sd.gov/Environment/WasteManagement/docs/RapidCityContestedCase2025/2.26.2026 to Binegar.pdf"
         }
       ],
-      "total_docs": 26,
+      "total_docs": 27,
       "latest_doc_date": "0000-00-00"
     },
     {
