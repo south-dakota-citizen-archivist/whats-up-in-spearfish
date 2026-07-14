@@ -1,7 +1,7 @@
 {
-  "fetched_at": "2026-07-13T18:34:39.416448+00:00",
+  "fetched_at": "2026-07-14T18:05:11.714552+00:00",
   "lookback_days": 30,
-  "total_bh_sites": 3297,
+  "total_bh_sites": 3298,
   "known_ids": [
     84379,
     84380,
@@ -3299,9 +3299,29 @@
     1316108,
     1317711,
     1323723,
-    1325733
+    1325733,
+    1327726
   ],
   "new_records": [
+    {
+      "objectid": 1327726,
+      "first_seen": "2026-07-14",
+      "id_raw": 2026.104,
+      "year": 2026,
+      "pdf_url": "https://danr.sd.gov/spillimages/2026/2026.104.pdf",
+      "site_name": "Hilderbrand Creek Culvert Petroleum and Beer Release",
+      "site_type": "Other(See Case File)",
+      "status": "O",
+      "street": "Highway 85 at Hilderbrand Creek",
+      "city": "Arpan",
+      "county": "Butte",
+      "spill_cat": "Petroleum",
+      "material": "Diesel",
+      "sor_type": "Saddle Tank",
+      "resp_party": "IDC Transport, Inc.",
+      "lat": 44.901409,
+      "lon": -103.712625
+    },
     {
       "objectid": 1325733,
       "first_seen": "2026-07-07",

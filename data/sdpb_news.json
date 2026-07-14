@@ -2660,5 +2660,60 @@
     "image_url": "https://npr.brightspotcdn.com/ca/0a/695682644ed98e74252bd14ea65b/piano-playing.JPG",
     "record_type": "news",
     "source_label": "SDPB"
+  },
+  {
+    "url": "https://www.sdpb.org/business-economics/2026-07-14/community-leaders-emphasize-importance-of-rural-identity-local-government",
+    "title": "Community leaders emphasize importance of rural identity, local government",
+    "slug": "sdpb-community-leaders-emphasize-importance-of-rural-identity-local-government",
+    "published": "2026-07-14",
+    "byline": "By Julia Stelter",
+    "description": "City leaders in the greater Sioux Falls area are emphasizing the importance of local government and maintaining identity during major economic growth.",
+    "image_url": "https://npr.brightspotcdn.com/af/a2/7a203b4747c8bd773e831d1d2c18/rotary2.jpg",
+    "record_type": "news",
+    "source_label": "SDPB"
+  },
+  {
+    "url": "https://www.sdpb.org/crime-courts/2026-07-14/woman-convicted-of-stealing-4-7m-from-oglala-sioux-tribe-sentenced",
+    "title": "Woman convicted of stealing $4.7M from Oglala Sioux Tribe sentenced",
+    "slug": "sdpb-woman-convicted-of-stealing-4-7m-from-oglala-sioux-tribe-sentenced",
+    "published": "2026-07-14",
+    "byline": "By SDPB News Staff",
+    "description": "Authorities say the woman and a co-conspirator embezzled millions over the course of several years while working for the tribe.",
+    "image_url": "https://npr.brightspotcdn.com/cd/be/09f8d0334a63b746dc496cb98c79/money-gavel-court-lawsuit-bank-financial.jpg",
+    "record_type": "news",
+    "source_label": "SDPB"
+  },
+  {
+    "url": "https://www.sdpb.org/politics/2026-07-14/tenhaken-next-mayor-must-unite-a-divided-electorate-consider-sustainability-arts-and-families-in-every-decision",
+    "title": "TenHaken: Next mayor must unite a divided electorate, consider sustainability, arts, and families in every decision",
+    "slug": "sdpb-tenhaken-next-mayor-must-unite-a-divided-electorate-consider-sustainability",
+    "published": "2026-07-14",
+    "byline": "By Lori Walsh",
+    "description": "Outgoing Sioux Falls Mayor Paul TenHaken led a citywide sustainability effort, then shifted gears on what the final report should say. But he has a message for the next mayor of Sioux Falls: Sustainability needs to be central to every future project.",
+    "image_url": "https://npr.brightspotcdn.com/9c/49/6c18309c4907af84efac10b9fb2c/958deb10fb-paul-tenhaken.jpg",
+    "record_type": "news",
+    "source_label": "SDPB"
+  },
+  {
+    "url": "https://www.sdpb.org/politics/2026-07-13/south-dakota-budget-surplus-tops-69-million",
+    "title": "South Dakota budget surplus tops $69 million",
+    "slug": "sdpb-south-dakota-budget-surplus-tops-69-million",
+    "published": "2026-07-13",
+    "byline": "By Jackson Dircks",
+    "description": "South Dakota’s state government ended the fiscal year with a $69 million surplus. That’s a larger surplus than the state brought in <a href=\"https://www.sdpb.org/politics/2025-07-14/south-dakota-state-government-closes-fy25-with-63m-budget-surplus\" target=\"_blank\" link-data=\"{\"cms.site.owner\":{\"_ref\":\"00000178-5ae7-d19d-a1fa-ffef051d0000\",\"_type\":\"ae3387cc-b875-31b7-b82d-63fd8d758c20\"},\"cms.content.publishDate\":1783974805534,\"cms.content.publishUser\":{\"_ref\":\"0000018f-9cae-de7b-a1df-ffef3dcd0000\",\"_type\":\"6aa69ae1-35be-30dc-87e9-410da9e1cdcc\"},\"cms.content.updateDate\":1783974805534,\"cms.content.updateUser\":{\"_ref\":\"0000018f-9cae-de7b-a1df-ffef3dcd0000\",\"_type\":\"6aa69ae1-35be-30dc-87e9-410da9e1cdcc\"},\"cms.directory.paths\":[],\"anchorable.showAnchor\":false,\"link\":{\"cms.directory.paths\":[],\"attributes\":[],\"linkText\":\"<b>the previous fiscal year</b>\",\"target\":\"NEW\",\"attachSourceUrl\":false,\"url\":\"https://www.sdpb.org/politics/2025-07-14/south-dakota-state-government-closes-fy25-with-63m-budget-surplus\",\"_id\":\"0000019f-5d2f-d2ca-a1bf-5f7f31200000\",\"_type\":\"ff658216-e70f-39d0-b660-bdfe57a5599a\"},\"_id\":\"0000019f-5d2f-d2ca-a1bf-5f7f31200001\",\"_type\":\"809caec9-30e2-3666-8b71-b32ddbffc288\"}\"><b>the previous fiscal year</b></a>.",
+    "image_url": "https://npr.brightspotcdn.com/0e/d7/4bbe540e498bb479f7676b79a34f/capitol-money-legislature-tax-south-dakota.jpg",
+    "record_type": "news",
+    "source_label": "SDPB"
+  },
+  {
+    "url": "https://www.sdpb.org/crime-courts/2026-07-13/roblox-settlement-yields-tighter-restrictions-over-8-million-for-south-dakota",
+    "title": "Roblox settlement yields tighter restrictions, over $8 million for South Dakota",
+    "slug": "sdpb-roblox-settlement-yields-tighter-restrictions-over-8-million-for-south",
+    "published": "2026-07-13",
+    "byline": "By Jackson Dircks",
+    "description": "South Dakota is set to receive millions of dollars and further restrictions to protect minors after settling with the popular online video game Roblox.",
+    "image_url": "https://npr.brightspotcdn.com/1b/e3/1d8f09cc4ca9b7ba259362443567/untitled-design-3-1.jpg",
+    "record_type": "news",
+    "source_label": "SDPB"
   }
 ]

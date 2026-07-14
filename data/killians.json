@@ -33,7 +33,7 @@
     "abv": "4.2%",
     "ibu": "",
     "brewery": "Sawyer Brewing Co",
-    "rating": "3.66",
+    "rating": "3.67",
     "image_url": "https://labels.untappd.com/5536492",
     "record_type": "beer",
     "source_label": "Killian's"
@@ -104,15 +104,15 @@
     "source_label": "Killian's"
   },
   {
-    "url": "https://untappd.com/b/austin-eastciders-agua-fresca-strawberry-hibiscus/6208449",
-    "title": "Agua Fresca - Strawberry Hibiscus",
-    "slug": "agua-fresca-strawberry-hibiscus",
+    "url": "https://untappd.com/b/2-towns-ciderhouse-huckleberry-cosmic-crisp/6386385",
+    "title": "Huckleberry Cosmic Crisp®",
+    "slug": "huckleberry-cosmic-crisp-r",
     "category": "Cider - Other Fruit",
-    "abv": "4.5%",
+    "abv": "8%",
     "ibu": "",
-    "brewery": "Austin Eastciders",
-    "rating": "3.79",
-    "image_url": "https://labels.untappd.com/6208449",
+    "brewery": "2 Towns Ciderhouse",
+    "rating": "3.96",
+    "image_url": "https://labels.untappd.com/6386385",
     "record_type": "beer",
     "source_label": "Killian's"
   },
@@ -202,7 +202,7 @@
     "abv": "4.7%",
     "ibu": "19",
     "brewery": "Ben's Brewing Co.",
-    "rating": "3.72",
+    "rating": "3.73",
     "image_url": "https://labels.untappd.com/2908434",
     "record_type": "beer",
     "source_label": "Killian's"
