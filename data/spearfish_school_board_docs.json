@@ -1123,5 +1123,23 @@
     "asset_type": "agenda",
     "record_type": "document",
     "source_label": "Spearfish School Board"
+  },
+  {
+    "url": "https://files-backend.assets.thrillshare.com/documents/asset/uploaded_file/5977/Ssd/46adfdcd-d179-4a84-b1cb-ffda0313e4fa/July-13%2C-2026-Annual-School-Board-Minutes.pdf?disposition=inline",
+    "title": "July 13, 2026 Annual School Board Minutes",
+    "slug": "spearfish-board-minutes-july-13-2026-annual-school-board-minutes",
+    "published": "2026-07-13",
+    "asset_type": "minutes",
+    "record_type": "document",
+    "source_label": "Spearfish School Board"
+  },
+  {
+    "url": "https://files-backend.assets.thrillshare.com/documents/asset/uploaded_file/5977/Ssd/4878768c-eca9-46ea-855f-f182a9d891f6/July-13%2C-2026-School-Board-Minutes.pdf?disposition=inline",
+    "title": "July 13, 2026 School Board Minutes",
+    "slug": "spearfish-board-minutes-july-13-2026-school-board-minutes",
+    "published": "2026-07-13",
+    "asset_type": "minutes",
+    "record_type": "document",
+    "source_label": "Spearfish School Board"
   }
 ]

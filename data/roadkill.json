@@ -1,7 +1,59 @@
 {
-  "fetched_at": "2026-07-14T18:03:15.147358+00:00",
+  "fetched_at": "2026-07-15T18:06:19.065782+00:00",
   "lookback_days": 30,
   "records": [
+    {
+      "objectid": 69170,
+      "date": "2026-07-14",
+      "species": "Mule Deer",
+      "highway": "I90",
+      "sex": "Male",
+      "present": "Yes",
+      "comments": null,
+      "contractor": "Tony Hanig",
+      "lat": 44.118052,
+      "lon": -103.06327,
+      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/69170/attachments/11883"
+    },
+    {
+      "objectid": 69172,
+      "date": "2026-07-14",
+      "species": "Mule Deer",
+      "highway": "I90",
+      "sex": "Female",
+      "present": "Yes",
+      "comments": null,
+      "contractor": "Tony Hanig",
+      "lat": 44.218191,
+      "lon": -103.368929,
+      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/69172/attachments/11885"
+    },
+    {
+      "objectid": 69173,
+      "date": "2026-07-14",
+      "species": "White-tailed Deer",
+      "highway": "I90",
+      "sex": "Male",
+      "present": "Yes",
+      "comments": null,
+      "contractor": "Tony Hanig",
+      "lat": 44.475184,
+      "lon": -103.643983,
+      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/69173/attachments/11886"
+    },
+    {
+      "objectid": 69175,
+      "date": "2026-07-14",
+      "species": "White-tailed Deer",
+      "highway": "I90",
+      "sex": "Female",
+      "present": "Yes",
+      "comments": null,
+      "contractor": "Tony Hanig",
+      "lat": 44.476664,
+      "lon": -103.653164,
+      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/69175/attachments/11888"
+    },
     {
       "objectid": 69147,
       "date": "2026-07-13",

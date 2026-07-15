@@ -2715,5 +2715,38 @@
     "image_url": "https://npr.brightspotcdn.com/1b/e3/1d8f09cc4ca9b7ba259362443567/untitled-design-3-1.jpg",
     "record_type": "news",
     "source_label": "SDPB"
+  },
+  {
+    "url": "https://www.sdpb.org/politics/2026-07-15/committee-approves-urban-airport-loans-discusses-appropriation-definition",
+    "title": "Committee approves urban airport loans, discusses 'appropriation' definition",
+    "slug": "sdpb-committee-approves-urban-airport-loans-discusses-appropriation-definition",
+    "published": "2026-07-15",
+    "byline": "By Jackson Dircks",
+    "description": "A <a href=\"https://sdlegislature.gov/Interim/Committee/503/Detail\" target=\"_blank\" link-data=\"{\"cms.site.owner\":{\"_ref\":\"00000178-5ae7-d19d-a1fa-ffef051d0000\",\"_type\":\"ae3387cc-b875-31b7-b82d-63fd8d758c20\"},\"cms.content.publishDate\":1784130607722,\"cms.content.publishUser\":{\"_ref\":\"0000018f-9cae-de7b-a1df-ffef3dcd0000\",\"_type\":\"6aa69ae1-35be-30dc-87e9-410da9e1cdcc\"},\"cms.content.updateDate\":1784130607722,\"cms.content.updateUser\":{\"_ref\":\"0000018f-9cae-de7b-a1df-ffef3dcd0000\",\"_type\":\"6aa69ae1-35be-30dc-87e9-410da9e1cdcc\"},\"cms.directory.paths\":[],\"anchorable.showAnchor\":false,\"link\":{\"cms.directory.paths\":[],\"attributes\":[],\"linkText\":\"<b>legislative committee</b>\",\"target\":\"NEW\",\"attachSourceUrl\":false,\"url\":\"https://sdlegislature.gov/Interim/Committee/503/Detail\",\"_id\":\"0000019f-6678-d90b-afff-f7f987f20000\",\"_type\":\"ff658216-e70f-39d0-b660-bdfe57a5599a\"},\"_id\":\"0000019f-6678-d90b-afff-f7f9873b0000\",\"_type\":\"809caec9-30e2-3666-8b71-b32ddbffc288\"}\"><b>legislative committee</b></a> approves <a href=\"https://rules.sd.gov/detail?Id=954\" target=\"_blank\" link-data=\"{\"cms.site.owner\":{\"_ref\":\"00000178-5ae7-d19d-a1fa-ffef051d0000\",\"_type\":\"ae3387cc-b875-31b7-b82d-63fd8d758c20\"},\"cms.content.publishDate\":1784130694083,\"cms.content.publishUser\":{\"_ref\":\"0000018f-9cae-de7b-a1df-ffef3dcd0000\",\"_type\":\"6aa69ae1-35be-30dc-87e9-410da9e1cdcc\"},\"cms.content.updateDate\":1784130694083,\"cms.content.updateUser\":{\"_ref\":\"0000018f-9cae-de7b-a1df-ffef3dcd0000\",\"_type\":\"6aa69ae1-35be-30dc-87e9-410da9e1cdcc\"},\"cms.directory.paths\":[],\"anchorable.showAnchor\":false,\"link\":{\"cms.directory.paths\":[],\"attributes\":[],\"linkText\":\"<b>rules around</b>\",\"target\":\"NEW\",\"attachSourceUrl\":false,\"url\":\"https://rules.sd.gov/detail?Id=954\",\"_id\":\"0000019f-6679-dea0-a9ff-ef7ddd5b0000\",\"_type\":\"ff658216-e70f-39d0-b660-bdfe57a5599a\"},\"_id\":\"0000019f-6679-dea0-a9ff-ef7ddd5b0001\",\"_type\":\"809caec9-30e2-3666-8b71-b32ddbffc288\"}\"><b>rules around</b></a> Sioux Falls and Rapid City airports receiving loan dollars from a state housing fund. However, legislators are still in disagreement over how the loans became possible.",
+    "image_url": "https://npr.brightspotcdn.com/41/a0/07fb0783403c9887602cb8978b53/rapid-city-regional-airport.jpg",
+    "record_type": "news",
+    "source_label": "SDPB"
+  },
+  {
+    "url": "https://www.sdpb.org/politics/2026-07-15/power-company-moves-on-from-deuel-county-project-following-local-opposition",
+    "title": "Power company moves on from Deuel County project following local opposition",
+    "slug": "sdpb-power-company-moves-on-from-deuel-county-project-following-local-opposition",
+    "published": "2026-07-15",
+    "byline": "By Julia Stelter",
+    "description": "The energy company looking to build a power plant in Deuel County is searching for a new site after strong opposition from the community.",
+    "image_url": "https://npr.brightspotcdn.com/legacy/prod/filer_public/kusd-bento-live-pbs/News%20Blog/John%20Nguyen/909b4eff5b_powerPoleThumb%2016.9%20real.jpg",
+    "record_type": "news",
+    "source_label": "SDPB"
+  },
+  {
+    "url": "https://www.sdpb.org/politics/2026-07-14/smith-wont-pursue-litigation-concedes-sioux-falls-mayor-to-erickson",
+    "title": "Smith won't pursue litigation, concedes Sioux Falls mayor to Erickson",
+    "slug": "sdpb-smith-won-t-pursue-litigation-concedes-sioux-falls-mayor-to-erickson",
+    "published": "2026-07-14",
+    "byline": "By Jackson Dircks",
+    "description": "After a prolonged election, the race for Sioux Falls mayor is officially over. Candidate Jamie Smith is conceding, ending the possibility of a legal battle over the recount that resulted in Christine Erickson’s victory.",
+    "image_url": "https://npr.brightspotcdn.com/11/09/999614544be68f8cef372e2e2b85/untitled-design-7.jpg",
+    "record_type": "news",
+    "source_label": "SDPB"
   }
 ]

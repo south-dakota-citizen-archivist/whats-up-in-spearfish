@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-14T18:00:08.955967+00:00",
+  "fetched_at": "2026-07-15T18:03:44.081596+00:00",
   "notices": [
     {
       "notice_type": "Waste Management \u2014 Solid Waste",
@@ -131,6 +131,23 @@
         {
           "label": "Recom. Action",
           "url": "https://danr.sd.gov/wrimage/pub/9035-3_rec.pdf"
+        }
+      ]
+    },
+    {
+      "notice_type": "Surface Water Enhancement & Restoration",
+      "deadline": "07/24/2026",
+      "comment_url": "https://danr.sd.gov/public/comment.aspx?d_comment=07/24/2026&name=John Nelson&pntype=sw_er&description=Proposing a project to restore wetlands and develop prairie pothole wetland mitigation credits for USDA Farm Program participants under a NRCS-approved mitigation agreement.",
+      "name": "John Nelson",
+      "description": "Proposing a project to restore wetlands and develop prairie pothole wetland mitigation credits for USDA Farm Program participants under a NRCS-approved mitigation agreement.",
+      "links": [
+        {
+          "label": "Public Notice",
+          "url": "https://danr.sd.gov/officeofwater/surfacewaterquality/pn/NelsonWetlandPN.pdf"
+        },
+        {
+          "label": "Application",
+          "url": "https://danr.sd.gov/officeofwater/surfacewaterquality/pn/JNelson2App.pdf"
         }
       ]
     },
@@ -281,6 +298,66 @@
         {
           "label": "Public Notice",
           "url": "https://danr.sd.gov/Press/docs/publicnotices/FeedlotPermit/RyanStormExpansionPN.pdf"
+        }
+      ]
+    },
+    {
+      "notice_type": "Concentrated Animal Feeding Operations (State Permit)",
+      "deadline": "08/14/2026",
+      "comment_url": "https://danr.sd.gov/public/comment.aspx?d_comment=08/14/2026&name=Thunderbird Hutterian Brethren, Inc.&pntype=fp_cafo&description=Expanding Swine Feeding Operation - State Permit",
+      "name": "Thunderbird Hutterian Brethren, Inc.",
+      "description": "Expanding Swine Feeding Operation - State Permit",
+      "location": "Faulk County",
+      "links": [
+        {
+          "label": "Public Notice",
+          "url": "https://danr.sd.gov/Press/docs/publicnotices/FeedlotPermit/ThunderbirdExpansionPN.pdf"
+        }
+      ]
+    },
+    {
+      "notice_type": "Concentrated Animal Feeding Operations (State Permit)",
+      "deadline": "08/14/2026",
+      "comment_url": "https://danr.sd.gov/public/comment.aspx?d_comment=08/14/2026&name=Jamesville Hutterian Brethren, Inc.&pntype=fp_cafo&description=New Swine Feeding Operation - State Permit",
+      "name": "Jamesville Hutterian Brethren, Inc.",
+      "description": "New Swine Feeding Operation - State Permit",
+      "location": "Yankton County",
+      "links": [
+        {
+          "label": "Public Notice",
+          "url": "https://danr.sd.gov/Press/docs/publicnotices/FeedlotPermit/JamesvilleNorthPN.pdf"
+        }
+      ]
+    },
+    {
+      "notice_type": "Concentrated Animal Feeding Operations (State Permit)",
+      "deadline": "08/14/2026",
+      "comment_url": "https://danr.sd.gov/public/comment.aspx?d_comment=08/14/2026&name=Great Bend, LLC&pntype=fp_cafo&description=New Swine Feeding Operation - State Permit",
+      "name": "Great Bend, LLC",
+      "description": "New Swine Feeding Operation - State Permit",
+      "location": "Spink County",
+      "links": [
+        {
+          "label": "Public Notice",
+          "url": "https://danr.sd.gov/Press/docs/publicnotices/FeedlotPermit/GreatBendLLCPN.pdf"
+        }
+      ]
+    },
+    {
+      "notice_type": "Waste Management \u2014 Solid Waste",
+      "deadline": "8/14/2026",
+      "comment_url": "",
+      "name": "Otter Tail Power Company",
+      "description": "Permit renewal application to continue operation of a Type IIA Solid Waste Facility",
+      "location": "Big Stone City, SD",
+      "links": [
+        {
+          "label": "Public Notice",
+          "url": "https://danr.sd.gov/Press/docs/publicnotices/wastemanagementnotices/Otter_Tail_Power_Company_PN.pdf"
+        },
+        {
+          "label": "Draft Permit",
+          "url": "https://danr.sd.gov/Press/docs/publicnotices/wastemanagementnotices/DRAFT_Otter_Tail_Power_Company_26.pdf"
         }
       ]
     },
