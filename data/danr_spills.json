@@ -1,7 +1,7 @@
 {
-  "fetched_at": "2026-07-15T18:08:39.451224+00:00",
+  "fetched_at": "2026-07-16T18:07:11.925039+00:00",
   "lookback_days": 30,
-  "total_bh_sites": 3298,
+  "total_bh_sites": 3299,
   "known_ids": [
     84379,
     84380,
@@ -3300,9 +3300,29 @@
     1317711,
     1323723,
     1325733,
-    1327726
+    1327726,
+    1327728
   ],
   "new_records": [
+    {
+      "objectid": 1327728,
+      "first_seen": "2026-07-16",
+      "id_raw": 2026.102,
+      "year": 2026,
+      "pdf_url": "https://danr.sd.gov/spillimages/2026/2026.102.pdf",
+      "site_name": "Truck in culvert",
+      "site_type": "Other(See Case File)",
+      "status": "O",
+      "street": "Highway 85, mile marker 75",
+      "city": "Arpan",
+      "county": "Butte",
+      "spill_cat": "Petroleum",
+      "material": "Diesel",
+      "sor_type": "Saddle Tank",
+      "resp_party": "Overholt Trucking",
+      "lat": 44.901508,
+      "lon": -103.712673
+    },
     {
       "objectid": 1327726,
       "first_seen": "2026-07-14",

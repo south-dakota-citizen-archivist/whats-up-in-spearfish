@@ -2748,5 +2748,38 @@
     "image_url": "https://npr.brightspotcdn.com/11/09/999614544be68f8cef372e2e2b85/untitled-design-7.jpg",
     "record_type": "news",
     "source_label": "SDPB"
+  },
+  {
+    "url": "https://www.sdpb.org/politics/2026-07-16/number-of-registered-republicans-at-record-high-ahead-of-governor-runoff",
+    "title": "Number of registered Republicans at record high ahead of governor runoff",
+    "slug": "sdpb-number-of-registered-republicans-at-record-high-ahead-of-governor-runoff",
+    "published": "2026-07-16",
+    "byline": "By Julia Stelter",
+    "description": "There are now more Republicans registered in South Dakota than ever before ahead of the runoff election for governor.",
+    "image_url": "https://npr.brightspotcdn.com/3b/d4/236513504969b2201fec343c332c/sdgop.jpg",
+    "record_type": "news",
+    "source_label": "SDPB"
+  },
+  {
+    "url": "https://www.sdpb.org/business-economics/2026-07-16/herried-awarded-rural-housing-grant-from-state-community-foundation",
+    "title": "Herried awarded rural housing grant from state Community Foundation",
+    "slug": "sdpb-herried-awarded-rural-housing-grant-from-state-community-foundation",
+    "published": "2026-07-16",
+    "byline": "By C.J. Keene",
+    "description": "South Dakota often prides itself on a rural lifestyle, but that isn’t possible long-term without affordable housing options in cities and towns that might not be financially viable. For one community, a grant has opened new doors to construction.",
+    "image_url": "https://npr.brightspotcdn.com/3f/67/af01231340eea9ad9139f05b7e88/construction-home-house-new.jpg",
+    "record_type": "news",
+    "source_label": "SDPB"
+  },
+  {
+    "url": "https://www.sdpb.org/business-economics/2026-07-16/new-report-highlights-the-heft-of-healthcare-in-south-dakota",
+    "title": "New report highlights the heft of healthcare in South Dakota",
+    "slug": "sdpb-new-report-highlights-the-heft-of-healthcare-in-south-dakota",
+    "published": "2026-07-16",
+    "byline": "By Lori Walsh",
+    "description": "The healthcare industry has grown to become a major player in South Dakota economic development. Economist Tracy Dice, Ph.D., shares her research.",
+    "image_url": "https://npr.brightspotcdn.com/da/09/42351be54476b71c77b62e6f9c26/2026q2-do-healthcare8.svg",
+    "record_type": "news",
+    "source_label": "SDPB"
   }
 ]

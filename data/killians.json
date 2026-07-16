@@ -33,7 +33,7 @@
     "abv": "4.2%",
     "ibu": "",
     "brewery": "Sawyer Brewing Co",
-    "rating": "3.67",
+    "rating": "3.66",
     "image_url": "https://labels.untappd.com/5536492",
     "record_type": "beer",
     "source_label": "Killian's"
@@ -124,7 +124,7 @@
     "abv": "5%",
     "ibu": "5",
     "brewery": "Cohort Craft Brewery",
-    "rating": "4.01",
+    "rating": "3.99",
     "image_url": "https://labels.untappd.com/6395690",
     "record_type": "beer",
     "source_label": "Killian's"
@@ -137,7 +137,7 @@
     "abv": "5.5%",
     "ibu": "10",
     "brewery": "Cohort Craft Brewery",
-    "rating": "3.92",
+    "rating": "3.89",
     "image_url": "https://labels.untappd.com/6738831",
     "record_type": "beer",
     "source_label": "Killian's"
@@ -208,15 +208,15 @@
     "source_label": "Killian's"
   },
   {
-    "url": "https://untappd.com/b/guinness-guinness-draught/4473",
-    "title": "Guinness Draught",
-    "slug": "guinness-draught",
-    "category": "Stout - Irish Dry",
-    "abv": "4.2%",
-    "ibu": "45",
-    "brewery": "Guinness",
-    "rating": "3.77",
-    "image_url": "https://labels.untappd.com/4473",
+    "url": "https://untappd.com/b/left-hand-brewing-company-flamingo-dreams-nitro/2985068",
+    "title": "Flamingo Dreams Nitro",
+    "slug": "flamingo-dreams-nitro",
+    "category": "Blonde / Golden Ale - Other",
+    "abv": "4.7%",
+    "ibu": "11",
+    "brewery": "Left Hand Brewing Company",
+    "rating": "3.5",
+    "image_url": "https://labels.untappd.com/2985068",
     "record_type": "beer",
     "source_label": "Killian's"
   }
