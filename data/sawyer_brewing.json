@@ -261,6 +261,19 @@
   },
   {
     "url": "https://www.sawyerbrewingco.com/menu",
+    "image_url": "https://images.squarespace-cdn.com/content/v1/5c484d047c9327393b19dc04/fa8b51ed-b925-45d8-8e46-94b22551fb1d/citradarkwebsite.jpg",
+    "title": "citradarkwebsite.jpg",
+    "slug": "citradarkwebsite-jpg",
+    "category": "Hop Heads",
+    "description": "",
+    "abv": "",
+    "notes": "",
+    "prices": [],
+    "record_type": "beer",
+    "source_label": "Sawyer Brewing Co."
+  },
+  {
+    "url": "https://www.sawyerbrewingco.com/menu",
     "image_url": "https://images.squarespace-cdn.com/content/v1/5c484d047c9327393b19dc04/0d54566a-8384-4f0f-810c-f1b670f2fa96/pinneapplepeacheswebsitedark.jpg",
     "title": "pinneapplepeacheswebsitedark.jpg",
     "slug": "pinneapplepeacheswebsitedark-jpg",

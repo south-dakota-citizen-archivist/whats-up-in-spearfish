@@ -1698,5 +1698,25 @@
     "start_dt": "Thu, 25 Jun 2026 11:55:22 -0700",
     "record_type": "event",
     "source_label": "City of Spearfish"
+  },
+  {
+    "url": "https://www.spearfish.gov/Calendar.aspx?EID=3641",
+    "title": "Planning Commission Meeting",
+    "slug": "planning-commission-meeting",
+    "description": "<strong>Event date:</strong> July 21, 2026 <br /><strong>Event Time: </strong>04:00 PM - 11:59 PM<br /><strong>Location:</strong> <br />City Hall<br />625 N 5th St<br />Spearfish, SD 57783",
+    "published": "Fri, 17 Jul 2026 08:07:48 -0700",
+    "start_dt": "Fri, 17 Jul 2026 08:07:48 -0700",
+    "record_type": "event",
+    "source_label": "City of Spearfish"
+  },
+  {
+    "url": "https://www.spearfish.gov/Calendar.aspx?EID=3602",
+    "title": "LAST DAY to log minutes for Summer Reading",
+    "slug": "last-day-to-log-minutes-for-summer-reading",
+    "description": "<strong>Event date:</strong> July 31, 2026 <br /><strong>Event Time: </strong>12:00 AM - 11:59 PM<br /><strong>Location:</strong> <br />Spearfish, SD 57783<br /><strong>Description:</strong><br />This is the last day to log minutes in order to be entered into the grand prize drawings for summer reading.",
+    "published": "Fri, 15 May 2026 16:27:57 -0700",
+    "start_dt": "Fri, 15 May 2026 16:27:57 -0700",
+    "record_type": "event",
+    "source_label": "City of Spearfish"
   }
 ]

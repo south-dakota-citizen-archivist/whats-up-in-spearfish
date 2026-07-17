@@ -1,24 +1,6 @@
 {
-  "fetched_at": "2026-07-16T18:02:51.584388+00:00",
+  "fetched_at": "2026-07-17T18:01:28.260196+00:00",
   "notices": [
-    {
-      "notice_type": "Waste Management \u2014 Solid Waste",
-      "deadline": "7/16/2026",
-      "comment_url": "",
-      "name": "City of Wall",
-      "description": "Permit renewal application to continue operation of a Type III Restricted Use Solid Waste Facility",
-      "location": "Wall, SD",
-      "links": [
-        {
-          "label": "Public Notice",
-          "url": "https://danr.sd.gov/Press/docs/publicnotices/wastemanagementnotices/Wall_PN.pdf"
-        },
-        {
-          "label": "Draft Permit",
-          "url": "https://danr.sd.gov/Press/docs/publicnotices/wastemanagementnotices/DRAFT_Wall_26_RU_IP.pdf"
-        }
-      ]
-    },
     {
       "notice_type": "Surface Water Enhancement & Restoration",
       "deadline": "07/18/2026",
@@ -409,6 +391,24 @@
         {
           "label": "Draft Permit",
           "url": "https://danr.sd.gov/Press/docs/publicnotices/wastemanagementnotices/DRAFT_Otter_Tail_Power_Company_26.pdf"
+        }
+      ]
+    },
+    {
+      "notice_type": "Mineral Exploration",
+      "deadline": "",
+      "comment_url": "https://danr.sd.gov/public/comment.aspx?d_comment=&name=DTRC LLC&pntype=mm_ex&description=Notice of Intent for Gold Exploration",
+      "name": "DTRC LLC",
+      "description": "Notice of Intent for Gold Exploration",
+      "location": "Two miles northwest of Central City, SD",
+      "links": [
+        {
+          "label": "Public Notice",
+          "url": "https://danr.sd.gov/Press/docs/publicnotices/MineralsMining/E471NoticeofIntent.pdf"
+        },
+        {
+          "label": "Application",
+          "url": "https://danr.sd.gov/Environment/MineralsMining/Exploration/NewEXNIS.aspx"
         }
       ]
     },

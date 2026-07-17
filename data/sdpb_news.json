@@ -2781,5 +2781,60 @@
     "image_url": "https://npr.brightspotcdn.com/da/09/42351be54476b71c77b62e6f9c26/2026q2-do-healthcare8.svg",
     "record_type": "news",
     "source_label": "SDPB"
+  },
+  {
+    "url": "https://www.sdpb.org/politics/2026-07-17/gop-gubernatorial-runoff-candidate-conversations",
+    "title": "GOP gubernatorial runoff candidate conversations",
+    "slug": "sdpb-gop-gubernatorial-runoff-candidate-conversations",
+    "published": "2026-07-17",
+    "byline": "By SDPB News Staff",
+    "description": "SDPB and South Dakota News Watch partnered to host candidate conversations with the two men seeking the Republican nomination in the South Dakota gubernatorial race.",
+    "image_url": "https://image.pbs.org/video-assets/CqjZFhX-asset-mezzanine-16x9-07y1OHh.png",
+    "record_type": "news",
+    "source_label": "SDPB"
+  },
+  {
+    "url": "https://www.sdpb.org/arts-life/2026-07-17/south-dakota-opera-giants-in-the-earth-finds-new-audience",
+    "title": "South Dakota opera 'Giants in the Earth' finds new audience",
+    "slug": "sdpb-south-dakota-opera-giants-in-the-earth-finds-new-audience",
+    "published": "2026-07-17",
+    "byline": "By Lori Walsh",
+    "description": "The professional recording of the opera \"Giants in the Earth\" is available now. Maestro Delta David Gier considers \"what's next\" for the orchestra.",
+    "image_url": "https://npr.brightspotcdn.com/f1/0c/f286f00e4ae1a501b18c8e450e19/3d0a8218.jpg",
+    "record_type": "news",
+    "source_label": "SDPB"
+  },
+  {
+    "url": "https://www.sdpb.org/crime-courts/2026-07-16/sioux-falls-man-indicted-for-alleged-20m-crypto-investment-fraud-scheme",
+    "title": "Sioux Falls man indicted for alleged $20M crypto investment fraud scheme",
+    "slug": "sdpb-sioux-falls-man-indicted-for-alleged-20m-crypto-investment-fraud-scheme",
+    "published": "2026-07-16",
+    "byline": "By Jackson Dircks",
+    "description": "Officials indict a Sioux Falls man for allegedly defrauding dozens of victims of a combined $20 million crypto investment fraud scheme.",
+    "image_url": "https://npr.brightspotcdn.com/c4/a6/444f1f7445cb993bbc74dca324a2/gavel-2492011-1280.jpg",
+    "record_type": "news",
+    "source_label": "SDPB"
+  },
+  {
+    "url": "https://www.sdpb.org/crime-courts/2026-07-16/35-fugitives-violent-offenders-arrested-in-large-scale-operation",
+    "title": "35 fugitives, violent offenders arrested in large-scale operation",
+    "slug": "sdpb-35-fugitives-violent-offenders-arrested-in-large-scale-operation",
+    "published": "2026-07-16",
+    "byline": "By Julia Stelter",
+    "description": "Officials say 35 fugitives are behind bars after a large-scale three-day operation combining federal, state and local law enforcement.",
+    "image_url": "https://npr.brightspotcdn.com/ec/6c/4b89595a44b3aa5c7ddad8b51af7/sioux-falls-police-department-sfpd.jpg",
+    "record_type": "news",
+    "source_label": "SDPB"
+  },
+  {
+    "url": "https://www.sdpb.org/education/2026-07-16/sioux-falls-school-district-approves-budget-with-additional-teacher-raises",
+    "title": "Sioux Falls School District approves budget with additional teacher raises",
+    "slug": "sdpb-sioux-falls-school-district-approves-budget-with-additional-teacher-raises",
+    "published": "2026-07-16",
+    "byline": "By C.J. Keene",
+    "description": "The budgets are finalized for the state’s largest school district in Sioux Falls. With some numbers dropping, the district simultaneously did something the state couldn’t – increasing its employees pay at the rate of inflation.",
+    "image_url": "https://npr.brightspotcdn.com/legacy/prod/blog/20150205_153950_960805_teachers.png",
+    "record_type": "news",
+    "source_label": "SDPB"
   }
 ]

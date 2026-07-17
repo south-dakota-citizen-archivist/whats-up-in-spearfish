@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-16T18:05:10.677375+00:00",
+  "fetched_at": "2026-07-17T18:03:45.732343+00:00",
   "cases": [
     {
       "ccid": "123",
@@ -190,6 +190,10 @@
       "docs_url": "https://danr.sd.gov/public/ccdocs.aspx?CCID=CCID129",
       "documents": [
         {
+          "label": "Findings of Fact, Conclusions of Law, and Decision",
+          "url": "https://danr.sd.gov/wrimage/pub/8991-3_FOF.pdf"
+        },
+        {
           "label": "Proposed Findings of Fact & Conclusions of Law - Counsel for Petitioners",
           "url": "https://danr.sd.gov/wrimage/pub/8991-3_propFOF_pet.pdf"
         },
@@ -204,13 +208,9 @@
         {
           "label": "Pre-Hearing Submission by Counsel for Petitioners",
           "url": "https://danr.sd.gov/wrimage/pub/8991-3_prehearsub_pet.pdf"
-        },
-        {
-          "label": "Filings Submitted by Counsel for Water Management Board",
-          "url": "https://danr.sd.gov/wrimage/pub/8991-3_greco_2.pdf"
         }
       ],
-      "total_docs": 22,
+      "total_docs": 23,
       "latest_doc_date": "0000-00-00"
     },
     {
@@ -222,6 +222,14 @@
       "docs_url": "https://danr.sd.gov/public/ccdocs.aspx?CCID=CCID127",
       "documents": [
         {
+          "label": "Notice of Entry of Order",
+          "url": "https://danr.sd.gov/wrimage/pub/8987-3_NOE_denial.pdf"
+        },
+        {
+          "label": "Findings of Fact, Conclusions of Law, and Decision",
+          "url": "https://danr.sd.gov/wrimage/pub/8987-3_FOF.pdf"
+        },
+        {
           "label": "Filings Submitted by Counsel for the Applicant",
           "url": "https://danr.sd.gov/wrimage/pub/8987-3_objFOF_app.pdf"
         },
@@ -232,17 +240,9 @@
         {
           "label": "Proposed Findings of Fact & Conclusions of Law - Counsel for Petitioner",
           "url": "https://danr.sd.gov/wrimage/pub/8987-3_propFOF_pet.pdf"
-        },
-        {
-          "label": "Notice of Entry of Order",
-          "url": "https://danr.sd.gov/wrimage/pub/8987-3_Utech_denied.pdf"
-        },
-        {
-          "label": "Petitioner's Response to Applicant's Pre-Hearing Submission",
-          "url": "https://danr.sd.gov/wrimage/pub/8987-3_petresponse.pdf"
         }
       ],
-      "total_docs": 26,
+      "total_docs": 28,
       "latest_doc_date": "0000-00-00"
     },
     {

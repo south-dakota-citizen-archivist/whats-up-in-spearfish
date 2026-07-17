@@ -1,6 +1,32 @@
 {
-  "fetched_at": "2026-07-16T18:02:20.933847+00:00",
+  "fetched_at": "2026-07-17T18:00:41.328633+00:00",
   "observations": [
+    {
+      "species_code": "cangoo",
+      "common_name": "Canada Goose",
+      "scientific_name": "Branta canadensis",
+      "observed_on": "2026-07-16",
+      "count": 8,
+      "location_name": "2312 Dakota Avenue, Belle Fourche, South Dakota, US (44.651, -103.862)",
+      "lat": 44.6511085,
+      "lng": -103.862008,
+      "location_id": "L73624639",
+      "checklist_id": "S372711874",
+      "photo_url": "https://static.inaturalist.org/photos/181719420/square.jpg"
+    },
+    {
+      "species_code": "houspa",
+      "common_name": "House Sparrow",
+      "scientific_name": "Passer domesticus",
+      "observed_on": "2026-07-16",
+      "count": 6,
+      "location_name": "2312 Dakota Avenue, Belle Fourche, South Dakota, US (44.651, -103.862)",
+      "lat": 44.6511085,
+      "lng": -103.862008,
+      "location_id": "L73624639",
+      "checklist_id": "S372711874",
+      "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/4608133/square.jpg"
+    },
     {
       "species_code": "chiswi",
       "common_name": "Chimney Swift",
@@ -561,19 +587,6 @@
       "photo_url": "https://static.inaturalist.org/photos/25544008/square.jpeg"
     },
     {
-      "species_code": "houspa",
-      "common_name": "House Sparrow",
-      "scientific_name": "Passer domesticus",
-      "observed_on": "2026-07-15",
-      "count": 5,
-      "location_name": "8616 Blucksberg Court, Sturgis, South Dakota, US (44.361, -103.456)",
-      "lat": 44.3612851,
-      "lng": -103.4555869,
-      "location_id": "L22753315",
-      "checklist_id": "S372389678",
-      "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/4608133/square.jpg"
-    },
-    {
       "species_code": "rethaw",
       "common_name": "Red-tailed Hawk",
       "scientific_name": "Buteo jamaicensis",
@@ -637,19 +650,6 @@
       "location_id": "L2265498",
       "checklist_id": "S372157247",
       "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/32152001/square.jpg"
-    },
-    {
-      "species_code": "comgra",
-      "common_name": "Common Grackle",
-      "scientific_name": "Quiscalus quiscula",
-      "observed_on": "2026-07-14",
-      "count": 3,
-      "location_name": "Spearfish--DC Booth Fish Hatchery",
-      "lat": 44.4836166,
-      "lng": -103.8615489,
-      "location_id": "L2265498",
-      "checklist_id": "S372157247",
-      "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/265296529/square.jpg"
     }
   ]
 }
