@@ -144,19 +144,6 @@
   },
   {
     "url": "https://www.sawyerbrewingco.com/menu",
-    "image_url": "https://images.squarespace-cdn.com/content/v1/5c484d047c9327393b19dc04/52bdec73-8a4c-45a0-9a2d-db48f2d9becc/witbier.jpg",
-    "title": "witbier.jpg",
-    "slug": "witbier-jpg",
-    "category": "Light & Easy",
-    "description": "",
-    "abv": "",
-    "notes": "",
-    "prices": [],
-    "record_type": "beer",
-    "source_label": "Sawyer Brewing Co."
-  },
-  {
-    "url": "https://www.sawyerbrewingco.com/menu",
     "image_url": "https://images.squarespace-cdn.com/content/v1/5c484d047c9327393b19dc04/ca269c01-a972-4633-879c-c3557a703675/squatchMother.jpg",
     "title": "squatchMother.jpg",
     "slug": "squatchmother-jpg",
