@@ -1,7 +1,7 @@
 {
-  "fetched_at": "2026-07-19T17:59:09.823620+00:00",
+  "fetched_at": "2026-07-20T18:56:54.403062+00:00",
   "lookback_days": 30,
-  "total_bh_sites": 3299,
+  "total_bh_sites": 3300,
   "known_ids": [
     84379,
     84380,
@@ -3301,9 +3301,48 @@
     1323723,
     1325733,
     1327726,
-    1327728
+    1327728,
+    1328129
   ],
   "new_records": [
+    {
+      "objectid": 1323723,
+      "first_seen": "2026-07-20",
+      "id_raw": 2026.073,
+      "year": 2026,
+      "pdf_url": "https://danr.sd.gov/spillimages/2026/2026.073.pdf",
+      "site_name": "Truck Fire - Cheyenne River",
+      "site_type": "Other(See Case File)",
+      "status": "NFA",
+      "street": "W-bound I-90 near MM 98",
+      "city": "Wasta",
+      "county": "Pennington",
+      "spill_cat": "Petroleum",
+      "material": "Diesel",
+      "sor_type": "Saddle Tank",
+      "resp_party": "Gracious Transportation Services Inc.",
+      "lat": 44.064446,
+      "lon": -102.442657
+    },
+    {
+      "objectid": 1328129,
+      "first_seen": "2026-07-20",
+      "id_raw": 2026.087,
+      "year": 2026,
+      "pdf_url": "https://danr.sd.gov/spillimages/2026/2026.087.pdf",
+      "site_name": "SURF Transformer Oil Leak",
+      "site_type": "Other(See Case File)",
+      "status": "O",
+      "street": "630 E Summit Street",
+      "city": "Lead",
+      "county": "Lawrence",
+      "spill_cat": "Oil",
+      "material": "Transformer Oil Non-PCB",
+      "sor_type": "Transformer",
+      "resp_party": "Sanford Underground Research Facility",
+      "lat": 44.353579,
+      "lon": -103.743123
+    },
     {
       "objectid": 1311294,
       "first_seen": "2026-07-19",
@@ -3512,25 +3551,6 @@
       "resp_party": "Russell Derstine",
       "lat": 44.671209,
       "lon": -103.846046
-    },
-    {
-      "objectid": 1323723,
-      "first_seen": "2026-06-19",
-      "id_raw": 2026.073,
-      "year": 2026,
-      "pdf_url": "https://danr.sd.gov/spillimages/2026/2026.073.pdf",
-      "site_name": "Truck Fire - Cheyenne River",
-      "site_type": "Other(See Case File)",
-      "status": "O",
-      "street": "W-bound I-90 near MM 98",
-      "city": "Wasta",
-      "county": "Pennington",
-      "spill_cat": "Petroleum",
-      "material": "Diesel",
-      "sor_type": "Saddle Tank",
-      "resp_party": "Gracious Transportation Services Inc.",
-      "lat": 44.064446,
-      "lon": -102.442657
     }
   ]
 }
