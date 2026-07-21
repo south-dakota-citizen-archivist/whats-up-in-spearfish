@@ -1,7 +1,7 @@
 {
-  "fetched_at": "2026-07-20T18:56:54.403062+00:00",
+  "fetched_at": "2026-07-21T18:19:15.062353+00:00",
   "lookback_days": 30,
-  "total_bh_sites": 3300,
+  "total_bh_sites": 3301,
   "known_ids": [
     84379,
     84380,
@@ -3302,9 +3302,29 @@
     1325733,
     1327726,
     1327728,
-    1328129
+    1328129,
+    1328529
   ],
   "new_records": [
+    {
+      "objectid": 1328529,
+      "first_seen": "2026-07-21",
+      "id_raw": 2026.108,
+      "year": 2026,
+      "pdf_url": "https://danr.sd.gov/spillimages/2026/2026.108.pdf",
+      "site_name": "ATP - Wall DOT Shop",
+      "site_type": "ATP",
+      "status": "O",
+      "street": "18995 235th Avenue",
+      "city": "Wall",
+      "county": "Pennington",
+      "spill_cat": "Petroleum",
+      "material": "Diesel, Gasoline",
+      "sor_type": "UST",
+      "resp_party": "SD Department of Transportation",
+      "lat": 43.9918,
+      "lon": -102.257762
+    },
     {
       "objectid": 1323723,
       "first_seen": "2026-07-20",

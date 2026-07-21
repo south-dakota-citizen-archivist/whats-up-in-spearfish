@@ -2869,5 +2869,49 @@
     "image_url": "https://npr.brightspotcdn.com/legacy/prod/blog/20150115_205914_671173_state-capital-in-pierre-sd.png",
     "record_type": "news",
     "source_label": "SDPB"
+  },
+  {
+    "url": "https://www.sdpb.org/business-economics/2026-07-21/lemmon-housing-authority-answers-need-for-safe-affordable-rural-housing",
+    "title": "Lemmon Housing Authority answers need for safe, affordable rural housing",
+    "slug": "sdpb-lemmon-housing-authority-answers-need-for-safe-affordable-rural-housing",
+    "published": "2026-07-21",
+    "byline": "By Delainey LaHood-Burns",
+    "description": "Since its inception, Lemmon Housing Authority has more than doubled the number of housing units available in its community.",
+    "image_url": "https://npr.brightspotcdn.com/96/92/90348c314909a8a504590b872930/lemmon-housing-authority-5.png",
+    "record_type": "news",
+    "source_label": "SDPB"
+  },
+  {
+    "url": "https://www.sdpb.org/arts-life/2026-07-21/three-south-dakota-students-win-a-national-art-contest",
+    "title": "Three South Dakota students win national art contest",
+    "slug": "sdpb-three-south-dakota-students-win-national-art-contest",
+    "published": "2026-07-21",
+    "byline": "By Julia Stelter",
+    "description": "Three South Dakota students are being recognized as winners of a national student art contest.",
+    "image_url": "https://npr.brightspotcdn.com/bf/68/86ae71954a89912fa982a0348e80/rosella.jpeg",
+    "record_type": "news",
+    "source_label": "SDPB"
+  },
+  {
+    "url": "https://www.sdpb.org/arts-life/2026-07-21/the-future-belongs-to-the-nature-smart-and-other-ways-to-be-human-through-noticing",
+    "title": "'The future belongs to the nature smart' and other ways to be human through 'Noticing'",
+    "slug": "sdpb-the-future-belongs-to-the-nature-smart-and-other-ways-to-be-human-through",
+    "published": "2026-07-21",
+    "byline": "By Lori Walsh",
+    "description": "Author Richard Louv's groundbreaking book \"Last Child in the Woods\" had a generation of parents rethinking screen time. His latest book features the science (and imagination) of bioenchantment.",
+    "image_url": "https://npr.brightspotcdn.com/24/ee/59b2b77b4848bda2da2d1a96c8f1/peonies.JPG",
+    "record_type": "news",
+    "source_label": "SDPB"
+  },
+  {
+    "url": "https://www.sdpb.org/politics/2026-07-20/state-appropriators-talk-budget-surplus-revenue-projections",
+    "title": "State appropriators talk budget surplus, revenue projections",
+    "slug": "sdpb-state-appropriators-talk-budget-surplus-revenue-projections",
+    "published": "2026-07-20",
+    "byline": "By Jackson Dircks",
+    "description": "Despite some skepticism from lawmakers, the state’s chief budget official said reversions in the state budget are “expected.”",
+    "image_url": "https://npr.brightspotcdn.com/45/20/36b51205495ead53187f05317e2d/capital-generi-8-brent-duerre.jpg",
+    "record_type": "news",
+    "source_label": "SDPB"
   }
 ]
