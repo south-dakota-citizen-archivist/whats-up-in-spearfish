@@ -2913,5 +2913,38 @@
     "image_url": "https://npr.brightspotcdn.com/45/20/36b51205495ead53187f05317e2d/capital-generi-8-brent-duerre.jpg",
     "record_type": "news",
     "source_label": "SDPB"
+  },
+  {
+    "url": "https://www.sdpb.org/healthcare/2026-07-22/states-top-health-official-says-mmr-vaccination-rates-stabilized-among-children",
+    "title": "State's top health official says MMR vaccination rates 'stabilized' among children",
+    "slug": "sdpb-state-s-top-health-official-says-mmr-vaccination-rates-stabilized-among",
+    "published": "2026-07-22",
+    "byline": "By Jackson Dircks",
+    "description": "South Dakota’s Department of Health is continuing to see an uptick in measles cases alongside a downtick in vaccination rates among school-age children.",
+    "image_url": "https://npr.brightspotcdn.com/e4/9a/5116b3eb489086be3f837d3cd3f5/e24c919b87-vaccine-viles.jpg",
+    "record_type": "news",
+    "source_label": "SDPB"
+  },
+  {
+    "url": "https://www.sdpb.org/politics/2026-07-22/analysis-inaction-in-june-and-election-night-insults-may-have-eroded-doedens-support-among-republican-voters",
+    "title": "Analysis: Inaction in June and election night insults may have eroded Doeden's support among Republican voters",
+    "slug": "sdpb-analysis-inaction-in-june-and-election-night-insults-may-have-eroded-doeden",
+    "published": "2026-07-22",
+    "byline": "By Lori Walsh",
+    "description": "SDPB's Dakota Political Junkies discuss key successes and missteps in gubernatorial runoff campaigns.",
+    "image_url": "https://npr.brightspotcdn.com/c1/8a/4a1ee3104d89a930ca42658449df/2026-political-junkies-logo-sdpb-1920x1080.png",
+    "record_type": "news",
+    "source_label": "SDPB"
+  },
+  {
+    "url": "https://www.sdpb.org/healthcare/2026-07-21/rosebud-sioux-tribe-building-4-6m-behavioral-health-center",
+    "title": "Rosebud Sioux Tribe building $4.6M behavioral health center",
+    "slug": "sdpb-rosebud-sioux-tribe-building-4-6m-behavioral-health-center",
+    "published": "2026-07-21",
+    "byline": "By Julia Stelter",
+    "description": "A behavioral health facility is being built near the Rosebud Sioux Tribe’s detoxification center and Indian Health Service emergency department, expanding the community’s access to health care.",
+    "image_url": "https://npr.brightspotcdn.com/fa/77/40333a0148489e22ee92f309aea4/rst-behavioral-health-rendering-2-credit-tsp-inc.png",
+    "record_type": "news",
+    "source_label": "SDPB"
   }
 ]

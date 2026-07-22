@@ -1,7 +1,7 @@
 {
-  "fetched_at": "2026-07-21T18:19:15.062353+00:00",
+  "fetched_at": "2026-07-22T18:12:08.307464+00:00",
   "lookback_days": 30,
-  "total_bh_sites": 3301,
+  "total_bh_sites": 3303,
   "known_ids": [
     84379,
     84380,
@@ -3302,10 +3302,50 @@
     1325733,
     1327726,
     1327728,
+    1327733,
     1328129,
-    1328529
+    1328529,
+    1328929
   ],
   "new_records": [
+    {
+      "objectid": 1327733,
+      "first_seen": "2026-07-22",
+      "id_raw": 2026005.0,
+      "year": 2026005,
+      "pdf_url": null,
+      "site_name": "Clean ATP - Spearfish DOT",
+      "site_type": "ATP",
+      "status": "O",
+      "street": "3510 Cactus Place",
+      "city": "Spearfish",
+      "county": "Lawrence",
+      "spill_cat": "Other(See Case File)",
+      "material": null,
+      "sor_type": "No Release",
+      "resp_party": "SD DOT",
+      "lat": 44.523787,
+      "lon": -103.860058
+    },
+    {
+      "objectid": 1328929,
+      "first_seen": "2026-07-22",
+      "id_raw": 2026.109,
+      "year": 2026,
+      "pdf_url": "https://danr.sd.gov/spillimages/2026/2026.109.pdf",
+      "site_name": "ATP- Grandview Elementary",
+      "site_type": "ATP",
+      "status": "O",
+      "street": "3301 Grandview Dr",
+      "city": "Rapid City",
+      "county": "Pennington",
+      "spill_cat": "Petroleum",
+      "material": "Diesel",
+      "sor_type": "UST",
+      "resp_party": "Rapid City School District 51-4",
+      "lat": 44.053583,
+      "lon": -103.217682
+    },
     {
       "objectid": 1328529,
       "first_seen": "2026-07-21",

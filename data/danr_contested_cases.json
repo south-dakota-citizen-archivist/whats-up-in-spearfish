@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-21T18:17:14.761557+00:00",
+  "fetched_at": "2026-07-22T18:09:37.300021+00:00",
   "cases": [
     {
       "ccid": "123",
@@ -42,6 +42,10 @@
       "docs_url": "https://danr.sd.gov/public/ccdocs.aspx?CCID=CCID124",
       "documents": [
         {
+          "label": "Motion for Procedural and Scheduling Order and Procedural and Scheduling Order",
+          "url": "https://danr.sd.gov/Environment/WasteManagement/docs/RapidCityContestedCase2025/7.17.26 Binegar correspondence.pdf"
+        },
+        {
           "label": "Notice of Entry of Order Granting Joint Motion Regarding Coordination and Use of Discovery",
           "url": "https://danr.sd.gov/Environment/WasteManagement/docs/RapidCityContestedCase2025/City of Rapid City Permit Application - NOE Order 7-13-2026.pdf"
         },
@@ -56,13 +60,9 @@
         {
           "label": "Letter to Binegar with Petitioners' Objections to City's Proposed Modification of Pending Permit's Solid Waste Operations Plan",
           "url": "https://danr.sd.gov/Environment/WasteManagement/docs/RapidCityContestedCase2025/5.04.2026 to Binegar.pdf"
-        },
-        {
-          "label": "Notice of Entry of Order to Extend Procedural and Scheduling Order",
-          "url": "https://danr.sd.gov/Environment/WasteManagement/docs/RapidCityContestedCase2025/2026-03-02 Letter and NOE of Order to Extend Procedural and Scheduling Order.pdf"
         }
       ],
-      "total_docs": 27,
+      "total_docs": 28,
       "latest_doc_date": "0000-00-00"
     },
     {

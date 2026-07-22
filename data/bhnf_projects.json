@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-21T18:17:30.072278+00:00",
+  "fetched_at": "2026-07-22T18:09:48.942553+00:00",
   "projects": [
     {
       "project_id": "304272",
@@ -571,6 +571,22 @@
       "district": "Mystic Ranger District",
       "purpose": "Minerals And Geology|Recreation Management|Special Use Management",
       "description": "Rattlesnake Randy (John Randall Nelson) is requesting authorization to conduct small-scale placer mining activities on National Forest System (NFS) lands under a Plan of Operations. Proposed activities include excavation to bedrock. No milling, processing, structures, or permanent facilities.",
+      "milestones": [],
+      "comment_period_date": null,
+      "comment_period_sort": "9999-99",
+      "location_summary": "",
+      "counties": [],
+      "contact": {},
+      "last_updated": ""
+    },
+    {
+      "project_id": "363530",
+      "title": "Ridge Forest Management",
+      "url": "https://www.fs.usda.gov/r02/blackhills/projects/363530",
+      "status": "Developing Proposal",
+      "district": "Northern Hills Ranger District",
+      "purpose": "Forest Products|Fuels Management|Vegetation Management (Other Than Forest Products)",
+      "description": "Forest management actions including commercial and non-commercial timber removal, hardwood and meadow enhancement, and prescribed fire.",
       "milestones": [],
       "comment_period_date": null,
       "comment_period_sort": "9999-99",
