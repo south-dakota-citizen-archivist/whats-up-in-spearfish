@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-22T18:09:37.300021+00:00",
+  "fetched_at": "2026-07-23T18:12:31.057943+00:00",
   "cases": [
     {
       "ccid": "123",
@@ -42,6 +42,14 @@
       "docs_url": "https://danr.sd.gov/public/ccdocs.aspx?CCID=CCID124",
       "documents": [
         {
+          "label": "Petitioner's July 23, 2026 Letter and Notice of Appearance",
+          "url": "https://danr.sd.gov/Environment/WasteManagement/docs/RapidCityContestedCase2025/Petitioners_Signed_Notice_of_Appearance.pdf"
+        },
+        {
+          "label": "Motion to Withdraw as Counsel for Verne Goodsell, Nate Oviatt and Kristi Erdman and Order to Withdraw as Counsel",
+          "url": "https://danr.sd.gov/Environment/WasteManagement/docs/RapidCityContestedCase2025/7.22.2026 to Binegar re Mot and Order Withdraw and Subst.pdf"
+        },
+        {
           "label": "Motion for Procedural and Scheduling Order and Procedural and Scheduling Order",
           "url": "https://danr.sd.gov/Environment/WasteManagement/docs/RapidCityContestedCase2025/7.17.26 Binegar correspondence.pdf"
         },
@@ -52,17 +60,9 @@
         {
           "label": "Correspondence to Binegar, Joint Motion Regarding Coordination and Use of Discovery, and Proposed Order",
           "url": "https://danr.sd.gov/Environment/WasteManagement/docs/RapidCityContestedCase2025/7.08.2026 to Binegar re Joint Mot Disc.pdf"
-        },
-        {
-          "label": "City of Rapid City's Notices of Deposition of Fern Johnson, Ross Johnson, and Harold P. Barber",
-          "url": "https://danr.sd.gov/Environment/WasteManagement/docs/RapidCityContestedCase2025/City_of_Rapid_City_Notice_of_Depositions.pdf"
-        },
-        {
-          "label": "Letter to Binegar with Petitioners' Objections to City's Proposed Modification of Pending Permit's Solid Waste Operations Plan",
-          "url": "https://danr.sd.gov/Environment/WasteManagement/docs/RapidCityContestedCase2025/5.04.2026 to Binegar.pdf"
         }
       ],
-      "total_docs": 28,
+      "total_docs": 30,
       "latest_doc_date": "0000-00-00"
     },
     {
@@ -126,6 +126,14 @@
       "docs_url": "https://danr.sd.gov/public/ccdocs.aspx?CCID=CCID130",
       "documents": [
         {
+          "label": "First Set Interrogatory Request to City of Custer",
+          "url": "https://danr.sd.gov/OfficeOfWater/SurfaceWaterQuality/docs/CCH/Custer/Interrogatory Request Custer.pdf"
+        },
+        {
+          "label": "First Set Interrogatory Request to DANR",
+          "url": "https://danr.sd.gov/OfficeOfWater/SurfaceWaterQuality/docs/CCH/Custer/Interrogatory Request DANR.pdf"
+        },
+        {
           "label": "Notice Entry of Orders re Recusal and Procedural Order",
           "url": "https://danr.sd.gov/OfficeOfWater/SurfaceWaterQuality/docs/CCH/Custer/Notice Entry of Orders.pdf"
         },
@@ -136,17 +144,9 @@
         {
           "label": "City of Custer Answer to Petitions",
           "url": "https://danr.sd.gov/OfficeOfWater/SurfaceWaterQuality/docs/CCH/Custer/Custer Answer to Petitions.pdf"
-        },
-        {
-          "label": "Motion to Recuse",
-          "url": "https://danr.sd.gov/OfficeOfWater/SurfaceWaterQuality/docs/CCH/Custer/Motion to Recuse.pdf"
-        },
-        {
-          "label": "Video of French Creek USGS 06403300",
-          "url": "https://danr.sd.gov/OfficeOfWater/SurfaceWaterQuality/docs/CCH/Custer/S_Video USGS 06403300 102022.mp4"
         }
       ],
-      "total_docs": 14,
+      "total_docs": 16,
       "latest_doc_date": "0000-00-00"
     },
     {
