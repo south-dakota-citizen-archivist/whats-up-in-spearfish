@@ -1,5 +1,31 @@
 [
   {
+    "url": "https://untappd.com/b/infusion-brewing-company-vanilla-bean-blonde-ale/622119",
+    "title": "Vanilla Bean Blonde Ale",
+    "slug": "vanilla-bean-blonde-ale",
+    "category": "Blonde / Golden Ale - Other",
+    "abv": "4.8%",
+    "ibu": "16",
+    "brewery": "Infusion Brewing Company",
+    "rating": "3.8",
+    "image_url": "https://labels.untappd.com/622119",
+    "record_type": "beer",
+    "source_label": "Redwater Kitchen"
+  },
+  {
+    "url": "https://untappd.com/b/central-waters-brewing-company-brewer-s-reserve-chocolate-kringle-stout/6756630",
+    "title": "Brewer's Reserve Chocolate Kringle Stout",
+    "slug": "brewer-s-reserve-chocolate-kringle-stout",
+    "category": "Stout - Imperial / Double Pastry",
+    "abv": "11.9%",
+    "ibu": "",
+    "brewery": "Central Waters Brewing Company",
+    "rating": "4.22",
+    "image_url": "https://labels.untappd.com/6756630",
+    "record_type": "beer",
+    "source_label": "Redwater Kitchen"
+  },
+  {
     "url": "https://untappd.com/b/lost-cabin-beer-co-bruce-banner-apa/1645307",
     "title": "Bruce Banner APA",
     "slug": "bruce-banner-apa",
@@ -35,19 +61,6 @@
     "brewery": "Angry Orchard Hard Cider",
     "rating": "3.54",
     "image_url": "https://labels.untappd.com/84251",
-    "record_type": "beer",
-    "source_label": "Redwater Kitchen"
-  },
-  {
-    "url": "https://untappd.com/b/sawyer-brewing-co-smoldering-scotch/3069887",
-    "title": "Smoldering Scotch",
-    "slug": "smoldering-scotch",
-    "category": "Scotch Ale / Wee Heavy",
-    "abv": "7.1%",
-    "ibu": "16",
-    "brewery": "Sawyer Brewing Co",
-    "rating": "3.84",
-    "image_url": "https://labels.untappd.com/3069887",
     "record_type": "beer",
     "source_label": "Redwater Kitchen"
   },

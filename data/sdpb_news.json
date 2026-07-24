@@ -2990,5 +2990,49 @@
     "image_url": "https://npr.brightspotcdn.com/4d/82/50c9ed5342f192178b98e4664f28/ron-parsons.jpg",
     "record_type": "news",
     "source_label": "SDPB"
+  },
+  {
+    "url": "https://www.sdpb.org/education/2026-07-24/south-dakota-public-universities-to-offer-new-ai-degrees-this-fall",
+    "title": "South Dakota public universities to offer new AI degrees this fall",
+    "slug": "sdpb-south-dakota-public-universities-to-offer-new-ai-degrees-this-fall",
+    "published": "2026-07-24",
+    "byline": "By Julia Stelter",
+    "description": "Two of South Dakota’s public universities are offering new academic programs in artificial intelligence this fall.",
+    "image_url": "https://npr.brightspotcdn.com/6f/cc/6013e5c747ac8976b6730676fe92/college-university-generic-classroom-sdsu.jpg",
+    "record_type": "news",
+    "source_label": "SDPB"
+  },
+  {
+    "url": "https://www.sdpb.org/politics/2026-07-24/johnson-warns-against-congressional-silence-on-prediction-market-apps",
+    "title": "Johnson warns against Congressional silence on prediction market apps",
+    "slug": "sdpb-johnson-warns-against-congressional-silence-on-prediction-market-apps",
+    "published": "2026-07-24",
+    "byline": "By Jackson Dircks",
+    "description": "Congress is beginning to take note of prediction markets, and one of South Dakota’s delegates wants to start the conversation.",
+    "image_url": "https://npr.brightspotcdn.com/legacy/prod/filer_public/kusd-bento-live-pbs/Cara/2b0d185104_Dusty%20Johnson.jpg",
+    "record_type": "news",
+    "source_label": "SDPB"
+  },
+  {
+    "url": "https://www.sdpb.org/politics/2026-07-23/rapid-city-mayor-proposes-municipal-budget-reduction-to-the-tune-of-25m",
+    "title": "Rapid City Mayor proposes municipal budget reduction to the tune of $25M",
+    "slug": "sdpb-rapid-city-mayor-proposes-municipal-budget-reduction-to-the-tune-of-25m",
+    "published": "2026-07-23",
+    "byline": "By C.J. Keene",
+    "description": "Rapid City Mayor Jason Salamun is again proposing reducing the city’s budget for the upcoming year. It’s the second year in a row the Salamun Administration has aimed to decrease the overall municipal budget.",
+    "image_url": "https://npr.brightspotcdn.com/bd/a3/8f6cdaf64cb89d79259b54c4da80/my-project.png",
+    "record_type": "news",
+    "source_label": "SDPB"
+  },
+  {
+    "url": "https://www.sdpb.org/politics/2026-07-23/rhoden-picks-up-sioux-falls-mayor-endorsement-doeden-says-no-hard-feelings",
+    "title": "Rhoden picks up Sioux Falls mayor endorsement; Doeden says 'no hard feelings'",
+    "slug": "sdpb-rhoden-picks-up-sioux-falls-mayor-endorsement-doeden-says-no-hard-feelings",
+    "published": "2026-07-23",
+    "byline": "By Jackson Dircks",
+    "description": "The new Sioux Falls mayor, who received endorsements from the two remaining GOP Gubernatorial candidates in a runoff, is endorsing the incumbent governor.",
+    "image_url": "https://npr.brightspotcdn.com/03/0a/9606c56a4152a592237a4902da7a/dsc-5911.JPG",
+    "record_type": "news",
+    "source_label": "SDPB"
   }
 ]
