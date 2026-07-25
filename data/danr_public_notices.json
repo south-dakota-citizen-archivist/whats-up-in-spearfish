@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-24T18:15:53.713447+00:00",
+  "fetched_at": "2026-07-25T17:55:11.292190+00:00",
   "notices": [
     {
       "notice_type": "Water Rights",
@@ -22,23 +22,6 @@
         {
           "label": "Recom. Action",
           "url": "https://danr.sd.gov/wrimage/pub/9035-3_rec.pdf"
-        }
-      ]
-    },
-    {
-      "notice_type": "Surface Water Enhancement & Restoration",
-      "deadline": "07/24/2026",
-      "comment_url": "https://danr.sd.gov/public/comment.aspx?d_comment=07/24/2026&name=John Nelson&pntype=sw_er&description=Proposing a project to restore wetlands and develop prairie pothole wetland mitigation credits for USDA Farm Program participants under a NRCS-approved mitigation agreement.",
-      "name": "John Nelson",
-      "description": "Proposing a project to restore wetlands and develop prairie pothole wetland mitigation credits for USDA Farm Program participants under a NRCS-approved mitigation agreement.",
-      "links": [
-        {
-          "label": "Public Notice",
-          "url": "https://danr.sd.gov/officeofwater/surfacewaterquality/pn/NelsonWetlandPN.pdf"
-        },
-        {
-          "label": "Application",
-          "url": "https://danr.sd.gov/officeofwater/surfacewaterquality/pn/JNelson2App.pdf"
         }
       ]
     },

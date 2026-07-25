@@ -52,15 +52,15 @@
     "source_label": "Killian's"
   },
   {
-    "url": "https://untappd.com/b/lupulin-brewing-company-fashion-mullet/3380453",
-    "title": "Fashion Mullet",
-    "slug": "fashion-mullet",
-    "category": "IPA - New England / Hazy",
-    "abv": "6.5%",
-    "ibu": "60",
-    "brewery": "Lupulin Brewing Company",
-    "rating": "3.87",
-    "image_url": "https://labels.untappd.com/3380453",
+    "url": "https://untappd.com/b/dry-dock-brewing-company-hopricot/1049148",
+    "title": "Hopricot",
+    "slug": "hopricot",
+    "category": "IPA - Fruited",
+    "abv": "6%",
+    "ibu": "17",
+    "brewery": "Dry Dock Brewing Company",
+    "rating": "3.73",
+    "image_url": "https://labels.untappd.com/1049148",
     "record_type": "beer",
     "source_label": "Killian's"
   },
@@ -202,7 +202,7 @@
     "abv": "4.7%",
     "ibu": "19",
     "brewery": "Ben's Brewing Co.",
-    "rating": "3.72",
+    "rating": "3.73",
     "image_url": "https://labels.untappd.com/2908434",
     "record_type": "beer",
     "source_label": "Killian's"
