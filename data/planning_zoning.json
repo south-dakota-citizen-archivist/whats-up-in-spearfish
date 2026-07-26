@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-25T17:54:54.480749+00:00",
+  "fetched_at": "2026-07-26T17:58:30.768706+00:00",
   "records": [
     {
       "id": 12247,
@@ -530,6 +530,38 @@
       "portal_url": "https://spearfishsd.portal.opengov.com/records/12120"
     },
     {
+      "id": 12115,
+      "record_no": "",
+      "record_type": "Residential Decks, Covered Patios, or Fences",
+      "record_type_id": 6480,
+      "category": "alterations",
+      "status": 0,
+      "date_created": "2026-06-22T14:50:37.360Z",
+      "date_submitted": "",
+      "last_updated": "2026-06-22T14:56:07.000Z",
+      "address": "1005 N 5TH ST, SPEARFISH, SD 57783",
+      "lat": 44.493301,
+      "lon": -103.861701,
+      "applicant": "Jonathan Cathey",
+      "portal_url": "https://spearfishsd.portal.opengov.com/records/12115"
+    },
+    {
+      "id": 12114,
+      "record_no": "",
+      "record_type": "Residential Decks, Covered Patios, or Fences",
+      "record_type_id": 6480,
+      "category": "alterations",
+      "status": 0,
+      "date_created": "2026-06-22T14:41:07.057Z",
+      "date_submitted": "",
+      "last_updated": "2026-06-22T14:43:10.000Z",
+      "address": "",
+      "lat": null,
+      "lon": null,
+      "applicant": "Jonathan Cathey",
+      "portal_url": "https://spearfishsd.portal.opengov.com/records/12114"
+    },
+    {
       "id": 12112,
       "record_no": "",
       "record_type": "Minor Final Plat",
@@ -624,6 +656,38 @@
       "lon": null,
       "applicant": "Kurt Jensen",
       "portal_url": "https://spearfishsd.portal.opengov.com/records/12079"
+    },
+    {
+      "id": 12071,
+      "record_no": "",
+      "record_type": "Commercial New Construction",
+      "record_type_id": 6477,
+      "category": "new_construction",
+      "status": 0,
+      "date_created": "2026-06-11T21:42:05.803Z",
+      "date_submitted": "",
+      "last_updated": "2026-06-11T21:43:27.000Z",
+      "address": "",
+      "lat": null,
+      "lon": null,
+      "applicant": "Michael Warwick",
+      "portal_url": "https://spearfishsd.portal.opengov.com/records/12071"
+    },
+    {
+      "id": 12067,
+      "record_no": "",
+      "record_type": "Right of Way Permit",
+      "record_type_id": 6440,
+      "category": "infrastructure",
+      "status": 0,
+      "date_created": "2026-06-11T20:22:35.000Z",
+      "date_submitted": "",
+      "last_updated": "2026-06-11T20:24:41.000Z",
+      "address": "210 Kansas  St, Spearfish, SD 57783",
+      "lat": 44.492157,
+      "lon": -103.861489,
+      "applicant": "Brady Mckeown",
+      "portal_url": "https://spearfishsd.portal.opengov.com/records/12067"
     },
     {
       "id": 12066,
@@ -4944,6 +5008,22 @@
       "lon": null,
       "applicant": "",
       "portal_url": "https://spearfishsd.portal.opengov.com/records/10374"
+    },
+    {
+      "id": 10371,
+      "record_no": "",
+      "record_type": "Residential New Construction",
+      "record_type_id": 6476,
+      "category": "new_construction",
+      "status": 0,
+      "date_created": "2025-07-16T14:43:29.539Z",
+      "date_submitted": "",
+      "last_updated": "2025-07-16T15:53:03.000Z",
+      "address": "206th St, Sturgis, SD 57785",
+      "lat": 44.413682,
+      "lon": -103.493582,
+      "applicant": "Greg Towry",
+      "portal_url": "https://spearfishsd.portal.opengov.com/records/10371"
     },
     {
       "id": 10353,

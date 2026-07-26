@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-25T17:55:11.292190+00:00",
+  "fetched_at": "2026-07-26T17:58:54.666606+00:00",
   "notices": [
     {
       "notice_type": "Water Rights",
@@ -22,71 +22,6 @@
         {
           "label": "Recom. Action",
           "url": "https://danr.sd.gov/wrimage/pub/9035-3_rec.pdf"
-        }
-      ]
-    },
-    {
-      "notice_type": "Concentrated Animal Feeding Operations (State Permit)",
-      "deadline": "07/25/2026",
-      "comment_url": "https://danr.sd.gov/public/comment.aspx?d_comment=07/25/2026&name=Meadow View Hutterian Brethren, Inc.&pntype=fp_cafo&description=New Swine Feeding Operation - State Permit",
-      "name": "Meadow View Hutterian Brethren, Inc.",
-      "description": "New Swine Feeding Operation - State Permit",
-      "location": "McCook County",
-      "links": [
-        {
-          "label": "Public Notice",
-          "url": "https://danr.sd.gov/Press/docs/publicnotices/FeedlotPermit/MeadowViewPN.pdf"
-        }
-      ]
-    },
-    {
-      "notice_type": "Surface Water Enhancement & Restoration",
-      "deadline": "07/25/2026",
-      "comment_url": "https://danr.sd.gov/public/comment.aspx?d_comment=07/25/2026&name=James Gilkerson - SD GFP&pntype=sw_er&description=Proposing a project to reconstruct the Lake Hiddenwood dam and restore\nthe lake by adding water features for wildlife and recreation.",
-      "name": "James Gilkerson - SD GFP",
-      "description": "Proposing a project to reconstruct the Lake Hiddenwood dam and restore the lake by adding water features for wildlife and recreation.",
-      "links": [
-        {
-          "label": "Public Notice",
-          "url": "https://danr.sd.gov/officeofwater/surfacewaterquality/pn/GFPHIddenwoodPN.pdf"
-        },
-        {
-          "label": "Application",
-          "url": "https://danr.sd.gov/officeofwater/surfacewaterquality/pn/GFPHiddenwoodApp.pdf"
-        }
-      ]
-    },
-    {
-      "notice_type": "Surface Water Enhancement & Restoration",
-      "deadline": "07/25/2026",
-      "comment_url": "https://danr.sd.gov/public/comment.aspx?d_comment=07/25/2026&name=Jason Jungwirth SDGFP&pntype=sw_er&description=Proposing the Shurman GPA Oxbow Restoration Project to increase wetland and riparian habitat and function through the restoration of cut off oxbow wetlands and planting native vegetation and pollinator plots.",
-      "name": "Jason Jungwirth SDGFP",
-      "description": "Proposing the Shurman GPA Oxbow Restoration Project to increase wetland and riparian habitat and function through the restoration of cut off oxbow wetlands and planting native vegetation and pollinator plots.",
-      "links": [
-        {
-          "label": "Public Notice",
-          "url": "https://danr.sd.gov/officeofwater/surfacewaterquality/pn/GFPSchurmanPN.pdf"
-        },
-        {
-          "label": "Application",
-          "url": "https://danr.sd.gov/officeofwater/surfacewaterquality/pn/SchurmanApp .pdf"
-        }
-      ]
-    },
-    {
-      "notice_type": "Surface Water Enhancement & Restoration",
-      "deadline": "07/25/2026",
-      "comment_url": "https://danr.sd.gov/public/comment.aspx?d_comment=07/25/2026&name=Jason Jungwirth - SDGFP&pntype=sw_er&description=Proposing the Ponderosa GPA Oxbow Restoration Project to increase wetland and riparian habitat and function through the restoration of cut off oxbow wetlands and planting native vegetation and pollinator plots.",
-      "name": "Jason Jungwirth - SDGFP",
-      "description": "Proposing the Ponderosa GPA Oxbow Restoration Project to increase wetland and riparian habitat and function through the restoration of cut off oxbow wetlands and planting native vegetation and pollinator plots.",
-      "links": [
-        {
-          "label": "Public Notice",
-          "url": "https://danr.sd.gov/officeofwater/surfacewaterquality/pn/GFPPonderosaPN.pdf"
-        },
-        {
-          "label": "Application",
-          "url": "https://danr.sd.gov/officeofwater/surfacewaterquality/pn/PonderosaApp.pdf"
         }
       ]
     },

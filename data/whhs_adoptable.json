@@ -100,17 +100,6 @@
   },
   {
     "url": "https://www.westernhillshumanesociety.com/cats",
-    "title": "Grace",
-    "slug": "cat-grace",
-    "species": "cat",
-    "description": "Female | 14+ years\nGrace was one of the 5 cats that came from the hoarding situation on November 20th. She was also severely matted and had to be shaved. Her hair has been growing back nicely! She gets a bit startled by noises and hides but quickly realizes she’s safe and comes back out. She loves to snuggle up on some blankets and enjoys head rubs. Grace does not like other cats and would do best as the only pet in a quiet home. \nGrace likely has a tumor so we’d like to find her a foster for her final months.",
-    "image_url": "https://images.squarespace-cdn.com/content/v1/6833638f52663f7b5354620e/2709029b-9df7-465b-88a6-230747153f7c/1000027287.jpg?format=500w",
-    "image_alt": "Grace",
-    "record_type": "adoptable",
-    "source_label": "Western Hills Humane Society"
-  },
-  {
-    "url": "https://www.westernhillshumanesociety.com/cats",
     "title": "Cleo Catra",
     "slug": "cat-cleo-catra",
     "species": "cat",
@@ -246,7 +235,7 @@
     "title": "Zeus",
     "slug": "cat-zeus",
     "species": "cat",
-    "description": "Male | 13 years old \nDiabetic, needing insulin every 12 hours // We know he will need dental work.\nWould love to find this sweet man a foster or adopter!!!\nZeus is a Maine Coon mix - a BIG boy! He’s an older gentlemen that needs some TLC and he will be visiting the groomer on 7/8/26 for a much needed shave and bath. He’ll be feeling fresh and looking for his forever home. He has lived with cats, dogs, and children. He does get defensive with dogs if they are too “up-in-his-business.”\nSeniors are $25 to adopt or ask about our Senior for Senior program!",
+    "description": "Male | 13 years old \nDiabetic, needing insulin every 12 hours.\n\nMaking dental appt.\nFront declaw - indoor only!\nWould love to find this sweet man a foster or adopter!!!\nZeus is a Maine Coon mix - a BIG boy! He’s an older gentlemen that needs some TLC and he will be visiting the groomer on 7/8/26 for a much needed shave and bath. He’ll be feeling fresh and looking for his forever home. He has lived with cats, dogs, and children. He does get defensive with dogs if they are too “up-in-his-business.”\nSeniors are $25 to adopt or ask about our Senior for Senior program!",
     "image_url": "https://images.squarespace-cdn.com/content/v1/6833638f52663f7b5354620e/61f3d512-719d-4497-97ed-67826584e1e6/1000049382.jpg?format=500w",
     "image_alt": "Zeus",
     "record_type": "adoptable",
@@ -356,9 +345,31 @@
     "title": "Brewski",
     "slug": "cat-brewski",
     "species": "cat",
-    "description": "Female | Undetermined age (Born 2025ish) \nAvailable following spay 8/6/26\nBrewski came to us July 16, 2026 from the Stadium Sports Grill parking lot. No one came for this sweetheart! We don’t know much about her but can only assume she likes a cold brewski… She is sweet and playful - we doubt she’s even a year old!",
+    "description": "Female | Est. Born 2025\nAvailable following spay 8/6/26\nBrewski came to us July 16, 2026 from the Stadium Sports Grill parking lot. No one came for this sweetheart! We don’t know much about her but can only assume she likes a cold brewski… She is sweet and playful - we doubt she’s even a year old!",
     "image_url": "https://images.squarespace-cdn.com/content/v1/6833638f52663f7b5354620e/8db12953-1600-4baa-9c4c-c8963bf1c23a/Brewski.jpg?format=500w",
     "image_alt": "Brewski",
+    "record_type": "adoptable",
+    "source_label": "Western Hills Humane Society"
+  },
+  {
+    "url": "https://www.westernhillshumanesociety.com/cats",
+    "title": "Liberty Bell",
+    "slug": "cat-liberty-bell",
+    "species": "cat",
+    "description": "Female | Est. Born 2024-2025\nAvailable following spay appt 8/6/26\nLiberty Bell came to us a pregnant stray in May of 2026. She gave birth to 6 beautiful babies and has been a wonderful mom. Liberty warms up to other cats just fine and doesn’t mind small dogs. She’s ready to start her new life… maybe it’s with you!",
+    "image_url": "https://images.squarespace-cdn.com/content/v1/6833638f52663f7b5354620e/c179adc8-c3d8-4bdc-b5d0-ae1b9b4986bf/1000050840.jpg?format=500w",
+    "image_alt": "Liberty Bell",
+    "record_type": "adoptable",
+    "source_label": "Western Hills Humane Society"
+  },
+  {
+    "url": "https://www.westernhillshumanesociety.com/cats",
+    "title": "Cascade",
+    "slug": "cat-cascade",
+    "species": "cat",
+    "description": "Female | Born 2025\nAvailable following spay appt 8/6/26\nCascade came to us in July 2026 with 4 babies. She is a just a baby herself, definitely not a year old. She’s got that grumpy face but she is a sweet pea, just a little shy. A quiet home would be best for this gal. She does warm up to other cats, especially older ones and she isn’t too upset by the presence of small dogs.",
+    "image_url": "https://images.squarespace-cdn.com/content/v1/6833638f52663f7b5354620e/4797bffc-c125-4be9-b6e7-e7e1904424aa/1000050846.jpg?format=500w",
+    "image_alt": "Cascade",
     "record_type": "adoptable",
     "source_label": "Western Hills Humane Society"
   },
@@ -458,17 +469,6 @@
     "description": "Male | Shepherd/Akita/Kelpie Mix | 1+ year old\nFenrir is a bit shy but starting to warm up. He seems to enjoy his space away from the other dogs he came in with and is a lover of humans. He always perks up for walks to and from his kennel! Fenrir weighs 50 lbs.\nFenrir came to us the week of June 21st, 2026 with 7 other dogs. They were involved in a house explosion in the early morning of June 21st. There were 17 dogs total and all dogs (and humans) survived. All dogs have singed fur but thankfully, only a couple had severe injuries. We don’t know their former names and any other history than potential breed mixes. We do know they lived with children.",
     "image_url": "https://images.squarespace-cdn.com/content/v1/6833638f52663f7b5354620e/4745e79c-fc19-4540-a0da-29e7ea17ac61/1000048201.jpg?format=500w",
     "image_alt": "Fenrir",
-    "record_type": "adoptable",
-    "source_label": "Western Hills Humane Society"
-  },
-  {
-    "url": "https://www.westernhillshumanesociety.com/dogs",
-    "title": "Faerie",
-    "slug": "dog-faerie",
-    "species": "dog",
-    "description": "Female | Shepherd/Akita/Kelpie Mix | <1 year old\nShe is currently being fostered but will be available for meet and greets on Fridays and Saturdays! Accepting adoption applications.\nFaerie has lots of puppy energy! She’s sweet, playful, and loves to give kisses. Faerie gets along with other dogs and cats too! She’ll chase kitties that are running, but hasn’t been aggressive. Faerie weighs 30 lbs.\nFaerie came to us the week of June 21st, 2026 with 7 other dogs. They were involved in a house explosion in the early morning of June 21st. There were 17 dogs total and all dogs (and humans) survived. All dogs have singed fur but thankfully, only a couple had severe injuries. We don’t know their former names and any other history than potential breed mixes. We do know they lived with children.",
-    "image_url": "https://images.squarespace-cdn.com/content/v1/6833638f52663f7b5354620e/4e07058b-0c02-45d0-a8a6-9e0f3e1e6129/1000048193.jpg?format=500w",
-    "image_alt": "Faerie",
     "record_type": "adoptable",
     "source_label": "Western Hills Humane Society"
   },

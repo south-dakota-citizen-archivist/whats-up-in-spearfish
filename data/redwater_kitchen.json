@@ -1,5 +1,18 @@
 [
   {
+    "url": "https://untappd.com/b/drekker-brewing-company-ectogasm/2248781",
+    "title": "Ectogasm",
+    "slug": "ectogasm",
+    "category": "IPA - New England / Hazy",
+    "abv": "7%",
+    "ibu": "65",
+    "brewery": "Drekker Brewing Company",
+    "rating": "4.06",
+    "image_url": "https://labels.untappd.com/2248781",
+    "record_type": "beer",
+    "source_label": "Redwater Kitchen"
+  },
+  {
     "url": "https://untappd.com/b/infusion-brewing-company-vanilla-bean-blonde-ale/622119",
     "title": "Vanilla Bean Blonde Ale",
     "slug": "vanilla-bean-blonde-ale",
@@ -20,7 +33,7 @@
     "abv": "11.9%",
     "ibu": "",
     "brewery": "Central Waters Brewing Company",
-    "rating": "4.21",
+    "rating": "4.22",
     "image_url": "https://labels.untappd.com/6756630",
     "record_type": "beer",
     "source_label": "Redwater Kitchen"
@@ -61,19 +74,6 @@
     "brewery": "Angry Orchard Hard Cider",
     "rating": "3.54",
     "image_url": "https://labels.untappd.com/84251",
-    "record_type": "beer",
-    "source_label": "Redwater Kitchen"
-  },
-  {
-    "url": "https://untappd.com/b/sawyer-brewing-co-ninja-juice/3198339",
-    "title": "Ninja Juice",
-    "slug": "ninja-juice",
-    "category": "IPA - American",
-    "abv": "6.1%",
-    "ibu": "53",
-    "brewery": "Sawyer Brewing Co",
-    "rating": "3.8",
-    "image_url": "https://labels.untappd.com/3198339",
     "record_type": "beer",
     "source_label": "Redwater Kitchen"
   },
@@ -150,7 +150,7 @@
     "abv": "4.2%",
     "ibu": "10",
     "brewery": "Anheuser-Busch",
-    "rating": "2.57",
+    "rating": "2.58",
     "image_url": "https://labels.untappd.com/6655",
     "record_type": "beer",
     "source_label": "Redwater Kitchen"
