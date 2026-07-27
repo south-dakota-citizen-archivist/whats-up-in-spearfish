@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-26T17:58:54.666606+00:00",
+  "fetched_at": "2026-07-27T18:21:33.624304+00:00",
   "notices": [
     {
       "notice_type": "Water Rights",
@@ -22,20 +22,6 @@
         {
           "label": "Recom. Action",
           "url": "https://danr.sd.gov/wrimage/pub/9035-3_rec.pdf"
-        }
-      ]
-    },
-    {
-      "notice_type": "Concentrated Animal Feeding Operations (State Permit)",
-      "deadline": "07/26/2026",
-      "comment_url": "https://danr.sd.gov/public/comment.aspx?d_comment=07/26/2026&name=Boadwine Farms, Inc.&pntype=fp_cafo&description=Expanding Dairy Cattle Feeding Operation - State Permit",
-      "name": "Boadwine Farms, Inc.",
-      "description": "Expanding Dairy Cattle Feeding Operation - State Permit",
-      "location": "Minnehaha County",
-      "links": [
-        {
-          "label": "Public Notice",
-          "url": "https://danr.sd.gov/Press/docs/publicnotices/FeedlotPermit/BoadwineFarmsIncExpansionPN.pdf"
         }
       ]
     },

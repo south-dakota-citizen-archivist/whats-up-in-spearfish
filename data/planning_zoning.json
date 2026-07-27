@@ -1,6 +1,22 @@
 {
-  "fetched_at": "2026-07-26T17:58:30.768706+00:00",
+  "fetched_at": "2026-07-27T18:21:17.876890+00:00",
   "records": [
+    {
+      "id": 12258,
+      "record_no": "CDM-26-3",
+      "record_type": "Commercial Demolition",
+      "record_type_id": 6481,
+      "category": "alterations",
+      "status": 1,
+      "date_created": "2026-07-27T17:17:39.872Z",
+      "date_submitted": "2026-07-27T17:36:42.000Z",
+      "last_updated": "2026-07-27T17:54:22.000Z",
+      "address": "714 5TH ST, SPEARFISH, SD 57783",
+      "lat": 44.490219,
+      "lon": -103.860059,
+      "applicant": "Matthew Powell",
+      "portal_url": "https://spearfishsd.portal.opengov.com/records/12258"
+    },
     {
       "id": 12247,
       "record_no": "COO-26-7",
@@ -2602,7 +2618,7 @@
       "status": 1,
       "date_created": "2026-02-25T21:39:52.240Z",
       "date_submitted": "2026-03-13T21:12:57.000Z",
-      "last_updated": "2026-07-20T21:47:02.000Z",
+      "last_updated": "2026-07-27T15:52:19.000Z",
       "address": "404 Canyon  St, Spearfish, SD 57783",
       "lat": 44.477376,
       "lon": -103.853887,

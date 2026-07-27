@@ -2702,5 +2702,18 @@
     "website": "http://www.westernheritagecenter.com/upcoming-events",
     "record_type": "event",
     "source_label": "Spearfish Chamber"
+  },
+  {
+    "url": "https://business.spearfishchamber.org/events/details/open-house-30823",
+    "title": "Open House",
+    "slug": "open-house",
+    "start_dt": "2026-07-31 1:00 PM MDT",
+    "end_dt": "2026-07-31 6:00 PM MDT",
+    "location": "435 Meier Ave.",
+    "fees": "",
+    "description": "OPEN HOUSE to see the future Spearfish Museum main building, 421 Meier Ave., Fri, July 31, 1-6 PM Theme: “Christmas in July.” Displays of nativity sets (over 50 on display) from around the world. Suggested donation: $10/per individual; Donors will receive a token for a scoop of Leones' Creamery delicious ice cream.",
+    "website": "https://www.spearfishmuseum.org/events",
+    "record_type": "event",
+    "source_label": "Spearfish Chamber"
   }
 ]
