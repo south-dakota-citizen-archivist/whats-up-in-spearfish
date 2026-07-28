@@ -3078,5 +3078,49 @@
     "image_url": "https://npr.brightspotcdn.com/3f/b0/a83dcc164652a9a3497fe8c89c94/img-6717.jpeg",
     "record_type": "news",
     "source_label": "SDPB"
+  },
+  {
+    "url": "https://www.sdpb.org/science/2026-07-28/scientists-are-finding-microplastics-in-south-dakotas-lakes-rivers-and-streams-what-happens-next",
+    "title": "Scientists are finding microplastics in South Dakota's lakes, rivers and streams. What happens next?",
+    "slug": "sdpb-scientists-are-finding-microplastics-in-south-dakota-s-lakes-rivers-and",
+    "published": "2026-07-28",
+    "byline": "By Lori Walsh",
+    "description": "A research team at Dakota State University is surveying and identifying microplastics in the state's bodies of water. We explore the state's first comprehensive search for microplastics.",
+    "image_url": "https://npr.brightspotcdn.com/bf/38/426d666e4f788472cba39de2950c/mp-water-bucket.JPG",
+    "record_type": "news",
+    "source_label": "SDPB"
+  },
+  {
+    "url": "https://www.sdpb.org/environment/2026-07-28/resource-experts-plan-expansions-to-meet-competing-demands-for-water",
+    "title": "Resource experts plan expansions to meet competing demands for water",
+    "slug": "sdpb-resource-experts-plan-expansions-to-meet-competing-demands-for-water",
+    "published": "2026-07-28",
+    "byline": "By Julia Stelter",
+    "description": "Water resource experts are asking South Dakotans to not take water for granted amid droughts and data center proposals happening across the country.",
+    "image_url": "https://npr.brightspotcdn.com/78/26/d041d1c44030827d327a8afc69c2/waterrotary.jpg",
+    "record_type": "news",
+    "source_label": "SDPB"
+  },
+  {
+    "url": "https://www.sdpb.org/education/2026-07-27/lucas-wintrode-learning-lab-opening-signals-new-education-accessibility-era",
+    "title": "Lucas Wintrode Learning Lab opening signals new education accessibility era",
+    "slug": "sdpb-lucas-wintrode-learning-lab-opening-signals-new-education-accessibility-era",
+    "published": "2026-07-27",
+    "byline": "By Jackson Dircks",
+    "description": "Sioux Falls leaders marked a major step forward in autism education with the opening of the Lucas P. Wintrode Learning Lab, a new specialized space designed to expand accessibility and hands-on learning opportunities for young adults with disabilities.",
+    "image_url": "https://npr.brightspotcdn.com/eb/47/6955e551472784bea303af99e93d/image-64.jpg",
+    "record_type": "news",
+    "source_label": "SDPB"
+  },
+  {
+    "url": "https://www.sdpb.org/arts-life/2026-07-27/little-by-little-a-south-dakota-nonprofit-is-helping-in-haiti-what-happens-when-one-of-its-cofounder-is-no-longer-welcome-in-the-u-s",
+    "title": "'Little by little' a South Dakota nonprofit is helping in Haiti. What happens when one of its cofounders is no longer welcome in the U.S.?",
+    "slug": "sdpb-little-by-little-a-south-dakota-nonprofit-is-helping-in-haiti-what-happens",
+    "published": "2026-07-27",
+    "byline": "By Lori Walsh",
+    "description": "Haiti Alive was co-founded by Brue Blumer and Dr. William Hyppolite. As Haitian Temporary Protected Status is set to expire, the group plans for the future amidst uncertainty in Haiti and at home.",
+    "image_url": "https://npr.brightspotcdn.com/38/fe/4f70568a41e98b0200189c7c2740/bruce-blumer-web-image.png",
+    "record_type": "news",
+    "source_label": "SDPB"
   }
 ]

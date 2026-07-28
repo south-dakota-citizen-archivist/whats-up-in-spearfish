@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-27T18:21:17.876890+00:00",
+  "fetched_at": "2026-07-28T18:09:09.571491+00:00",
   "records": [
     {
       "id": 12258,
@@ -314,7 +314,7 @@
       "status": 1,
       "date_created": "2026-07-01T22:32:10.393Z",
       "date_submitted": "2026-07-01T22:38:46.000Z",
-      "last_updated": "2026-07-22T16:49:35.000Z",
+      "last_updated": "2026-07-28T14:40:47.000Z",
       "address": "345 N 8TH ST, SPEARFISH, SD 57783",
       "lat": 44.487032,
       "lon": -103.855407,
@@ -762,7 +762,7 @@
       "status": 1,
       "date_created": "2026-06-09T15:17:44.666Z",
       "date_submitted": "2026-06-09T15:23:18.000Z",
-      "last_updated": "2026-07-20T19:35:40.000Z",
+      "last_updated": "2026-07-28T15:37:35.000Z",
       "address": "708 Christensen Dr, Spearfish, SD 57783",
       "lat": 44.469377,
       "lon": -103.826412,
@@ -1562,7 +1562,7 @@
       "status": 1,
       "date_created": "2026-04-23T17:55:49.330Z",
       "date_submitted": "2026-04-24T19:42:11.000Z",
-      "last_updated": "2026-07-23T22:16:44.000Z",
+      "last_updated": "2026-07-28T14:51:06.000Z",
       "address": "",
       "lat": 44.473963,
       "lon": -103.828412,

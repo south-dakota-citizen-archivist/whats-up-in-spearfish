@@ -4826,5 +4826,55 @@
     "description": "A timeline of how the state's first-ever gubernatorial runoff shaped up, from candidate announcements to underdog wins.",
     "record_type": "news",
     "source_label": "SD Newswatch"
+  },
+  {
+    "url": "https://www.sdnewswatch.org/fact-brief-sd-polling-places-gubernatorial-runoff-primary/",
+    "title": "Fact brief: Are all polling places for SD's runoff election the same as the primary?",
+    "slug": "sd-newswatch-fact-brief-are-all-polling-places-for-sd-s-runoff-election-the-same",
+    "published": "2026-07-28",
+    "byline": "Emily DeCock",
+    "description": "Republicans vote Tuesday, July 28, between Gov. Larry Rhoden and Toby Doeden, the two top vote-getters in the June 2 primary election.",
+    "record_type": "news",
+    "source_label": "SD Newswatch"
+  },
+  {
+    "url": "https://www.sdnewswatch.org/south-dakota-2026-republican-governor-runoff/",
+    "title": "South Dakota Republicans go to polls in 1st runoff",
+    "slug": "sd-newswatch-south-dakota-republicans-go-to-polls-in-1st-runoff",
+    "published": "2026-07-28",
+    "byline": "Molly Wetsch",
+    "description": "Single-race election today between Gov. Larry Rhoden and Toby Doeden is result of no candidate getting 35% in June 2 GOP primary.",
+    "record_type": "news",
+    "source_label": "SD Newswatch"
+  },
+  {
+    "url": "https://southdakotasearchlight.com/2026/07/28/south-dakota-republicans-go-to-polls-in-historic-runoff-for-governor-nomination/",
+    "title": "South Dakota Republicans go to polls in historic runoff for governor nomination",
+    "slug": "south-dakota-searchlight-south-dakota-republicans-go-to-polls-in-historic-runoff",
+    "published": "2026-07-28",
+    "byline": "South Dakota Searchlight staff",
+    "description": "Republican voters will select their nominee for governor today in South Dakota’s first statewide runoff election. Polls are open from 7 a.m. to 7 p.m. local time. The runoff is the only item on the ballot, and because the state Republican Party does not open its primaries to non-Republican voters, only registered Republicans are allowed [&#8230;]",
+    "record_type": "news",
+    "source_label": "South Dakota Searchlight"
+  },
+  {
+    "url": "https://southdakotasearchlight.com/2026/07/27/estimated-cost-of-proposed-eastern-south-dakota-water-pipeline-is-at-least-8-4-billion/",
+    "title": "Estimated cost of proposed eastern South Dakota water pipeline is at least $8.4 billion",
+    "slug": "south-dakota-searchlight-estimated-cost-of-proposed-eastern-south-dakota-water-8",
+    "published": "2026-07-27",
+    "byline": "Joshua Haiar",
+    "description": "SIOUX FALLS — One of several proposed pipeline systems to deliver Missouri River water in South Dakota could cost $8.4 billion to $10 billion, according to estimates shared Monday. Dakota Mainstem Regional Water System Executive Director Kurt Pfeifle was on a panel speaking to the Rotary Club of Downtown Sioux Falls. “That includes about a [&#8230;]",
+    "record_type": "news",
+    "source_label": "South Dakota Searchlight"
+  },
+  {
+    "url": "https://southdakotasearchlight.com/2026/07/27/governor-of-south-dakota-seeks-federal-help-for-damages-from-summer-storms/",
+    "title": "Governor of South Dakota seeks federal help for damages from summer storms",
+    "slug": "south-dakota-searchlight-governor-of-south-dakota-seeks-federal-help-for-damages",
+    "published": "2026-07-27",
+    "byline": "Makenzie Huber",
+    "description": "Gov. Larry Rhoden has asked the federal government to help pay for nearly $4.6 million in damage to public property in South Dakota caused by storms late last month and early this month. Wind gusts of 100 miles an hour or more tore through central and eastern South Dakota between June 28 and July 3, [&#8230;]",
+    "record_type": "news",
+    "source_label": "South Dakota Searchlight"
   }
 ]

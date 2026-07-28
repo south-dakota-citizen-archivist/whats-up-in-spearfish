@@ -152,5 +152,24 @@
     "description": "You are invited to join the Songbird of the Black Hills for an evening of campfire music including sing-alongs. Times: 7:00pm - 8:30pm Dates: September 5, 2026 Contact information: Black Hills National Forest, (605) 673-9200",
     "record_type": "event",
     "source_label": "Black Hills National Forest"
+  },
+  {
+    "url": "https://www.fs.usda.gov/r02/blackhills/newsroom/releases/forest-service-seeks-public-comment-proposed-rare-element",
+    "title": "Forest Service seeks public comment on proposed Rare Element Resources, Ltd. project",
+    "slug": "bhnf-release-forest-service-seeks-public-comment-on-proposed-rare-element-ltd",
+    "published": "2026-07-28",
+    "description": "(SUNDANCE, WY, July 28, 2026) — The Black Hills National Forest will submit a notice of intent to be published in the Federal…",
+    "record_type": "press_release",
+    "source_label": "Black Hills National Forest"
+  },
+  {
+    "url": "https://www.fs.usda.gov/r02/blackhills/events/national-public-lands-day-volunteer-event-cascade-falls",
+    "title": "National Public Lands Day Volunteer Event at Cascade Falls",
+    "slug": "bhnf-event-national-public-lands-day-volunteer-event-at-cascade-falls",
+    "start_dt": "2026-09-26",
+    "location": "Black Hills National Forest",
+    "description": "Volunteer at Cascade Falls on Sept. 26, 2026 and help restore this beloved Black Hills recreation site for National Public Lands Day. Times: All Day Dates: September 26, 2026 Contact information: Bradley Block, bradley.block@usda.gov , (605) 673-9200",
+    "record_type": "event",
+    "source_label": "Black Hills National Forest"
   }
 ]
