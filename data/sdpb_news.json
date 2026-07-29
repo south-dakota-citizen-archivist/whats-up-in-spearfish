@@ -3122,5 +3122,49 @@
     "image_url": "https://npr.brightspotcdn.com/38/fe/4f70568a41e98b0200189c7c2740/bruce-blumer-web-image.png",
     "record_type": "news",
     "source_label": "SDPB"
+  },
+  {
+    "url": "https://www.sdpb.org/arts-life/2026-07-29/lira-dance-company-turns-hard-times-into-good-art",
+    "title": "LiRa dance company turns hard times into good art",
+    "slug": "sdpb-lira-dance-company-turns-hard-times-into-good-art",
+    "published": "2026-07-29",
+    "byline": "By Lori Walsh",
+    "description": "The \"Tremors & Soar\" showcase highlights the artistry of the LiRa Dance Theatre Company. Co-founders Lisa Conlin and Raena Rasmussen talk about the art and business of dance.",
+    "image_url": "https://npr.brightspotcdn.com/52/a4/27ad8392458d90c0af200f3647e9/website-photo-1.png",
+    "record_type": "news",
+    "source_label": "SDPB"
+  },
+  {
+    "url": "https://www.sdpb.org/politics/2026-07-28/doeden-goes-back-to-business-rhoden-cites-walking-by-faith-here-are-the-candidate-speeches-from-election-night",
+    "title": "Doeden goes back to business; Rhoden cites \n'walking by faith.' Here are the candidate speeches from election night",
+    "slug": "sdpb-doeden-goes-back-to-business-rhoden-cites-walking-by-faith-here-are-the",
+    "published": "2026-07-29",
+    "byline": "By Lori Walsh, Jackson Dircks, Jackie Hendry",
+    "description": "Gov. Larry Rhoden bested Aberdeen businessman Toby Doeden in a Republican runoff election. Rhoden will face Democrat Dan Ahlers in November. But first, both candidates thanked their supporters in election night speeches.",
+    "image_url": "https://npr.brightspotcdn.com/c1/8a/4a1ee3104d89a930ca42658449df/2026-political-junkies-logo-sdpb-1920x1080.png",
+    "record_type": "news",
+    "source_label": "SDPB"
+  },
+  {
+    "url": "https://www.sdpb.org/politics/2026-07-28/ap-projects-rhoden-to-win-historic-gop-gubernatorial-primary-runoff",
+    "title": "Rhoden wins historic GOP gubernatorial primary runoff",
+    "slug": "sdpb-rhoden-wins-historic-gop-gubernatorial-primary-runoff",
+    "published": "2026-07-28",
+    "byline": "By Jackie Hendry, Jackson Dircks, Josh Chilson",
+    "description": "Gov. Larry Rhoden is set to represent the Republican Party in the race South Dakota governor this November.",
+    "image_url": "https://npr.brightspotcdn.com/8d/23/302cc574457ea8772642d5271055/rhoden-runoff-victory.jpg",
+    "record_type": "news",
+    "source_label": "SDPB"
+  },
+  {
+    "url": "https://www.sdpb.org/politics/2026-07-28/pischke-withdraws-from-state-senate-race-after-facing-election-related-charges",
+    "title": "Pischke withdraws from state Senate race after facing election-related charges",
+    "slug": "sdpb-pischke-withdraws-from-state-senate-race-after-facing-election-related",
+    "published": "2026-07-28",
+    "byline": "By Josh Chilson",
+    "description": "A South Dakota lawmaker facing charges for allegedly violating election laws is withdrawing his candidacy for reelection.",
+    "image_url": "https://npr.brightspotcdn.com/36/81/6672034641568d2e31f6a4b76028/tom-pischke.jpg",
+    "record_type": "news",
+    "source_label": "SDPB"
   }
 ]

@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-28T18:11:53.193153+00:00",
+  "fetched_at": "2026-07-29T18:06:46.985684+00:00",
   "cases": [
     {
       "ccid": "123",
@@ -42,8 +42,12 @@
       "docs_url": "https://danr.sd.gov/public/ccdocs.aspx?CCID=CCID124",
       "documents": [
         {
+          "label": "Notice of Entry of Order Granting G. Verne Goodsell, Nathan R. Oviatt, and Kristi Erdman Motion to Withdraw as Counsel",
+          "url": "https://danr.sd.gov/Environment/WasteManagement/docs/RapidCityContestedCase2025/Rapid City Permit App NOE Order 72826.pdf"
+        },
+        {
           "label": "Petitioner's July 23, 2026 Letter to Counsel for Board of Minerals and Environment",
-          "url": "https://danr.sd.gov/Environment/WasteManagement/docs/RapidCityContestedCase2025/July 23, 2026 email and letter to BOM Atty David McVey elcetronic version.pdf"
+          "url": "https://danr.sd.gov/Environment/WasteManagement/docs/RapidCityContestedCase2025/2026-7-28 Johnson letter to McVey with ltr to Goodsell withdrawing from legal rep.pdf"
         },
         {
           "label": "Petitioner's July 23, 2026 Letter and Notice of Appearance",
@@ -56,13 +60,9 @@
         {
           "label": "Motion for Procedural and Scheduling Order and Procedural and Scheduling Order",
           "url": "https://danr.sd.gov/Environment/WasteManagement/docs/RapidCityContestedCase2025/7.17.26 Binegar correspondence.pdf"
-        },
-        {
-          "label": "Notice of Entry of Order Granting Joint Motion Regarding Coordination and Use of Discovery",
-          "url": "https://danr.sd.gov/Environment/WasteManagement/docs/RapidCityContestedCase2025/City of Rapid City Permit Application - NOE Order 7-13-2026.pdf"
         }
       ],
-      "total_docs": 31,
+      "total_docs": 32,
       "latest_doc_date": "0000-00-00"
     },
     {

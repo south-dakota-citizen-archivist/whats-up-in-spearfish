@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-28T18:09:35.221917+00:00",
+  "fetched_at": "2026-07-29T18:04:39.201930+00:00",
   "notices": [
     {
       "notice_type": "Water Rights",
@@ -287,6 +287,20 @@
         {
           "label": "Draft Permit",
           "url": "https://danr.sd.gov/Press/docs/publicnotices/wastemanagementnotices/DRAFT_Ipswich_26_IP.pdf"
+        }
+      ]
+    },
+    {
+      "notice_type": "Concentrated Animal Feeding Operations (State Permit)",
+      "deadline": "08/30/2026",
+      "comment_url": "https://danr.sd.gov/public/comment.aspx?d_comment=08/30/2026&name=Popham Livestock, LLC&pntype=fp_cafo&description=Expanding Beef Cattle Feeding Operation - State Permit",
+      "name": "Popham Livestock, LLC",
+      "description": "Expanding Beef Cattle Feeding Operation - State Permit",
+      "location": "Hamlin County",
+      "links": [
+        {
+          "label": "Public Notice",
+          "url": "https://danr.sd.gov/Press/docs/publicnotices/FeedlotPermit/PophamLivestockLLCPN.pdf"
         }
       ]
     },

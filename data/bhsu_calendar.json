@@ -1941,5 +1941,49 @@
     "category": "Campus Calendar/Events",
     "record_type": "event",
     "source_label": "BHSU Campus Calendar"
+  },
+  {
+    "event_id": "345b90c7-1260-4475-94eb-3a0ff6121ed0",
+    "url": "https://bhsu.edu/campus-calendar.html#event-details/345b90c7-1260-4475-94eb-3a0ff6121ed0",
+    "title": "2026 Alumni Awards Luncheon",
+    "slug": "2026-alumni-awards-luncheon",
+    "description": "Friday, September 25 at 11:00 a.m. Joy Proctor Krautschun Alumni/Foundation Welcome Center Tickets are $25 per person Black Hills State University will honor five alumni during the 2026 Alumni awards Luncheon. Jim Dzierwa, ’63, will receive the Distinguished Alumnus Award Michelle Bartels, ’11, is the Excellence in Education Award recipient RF Buche, ’92, will receive the Special Achievement Award; Dr. Elaine (Doll) Dunn, ’79, the Special Service Award recipient Dr. Lacy (Stevens) DeGering, ’16, will receive the Young Alumni Achievement Award",
+    "start_dt": "2026-09-25T17:00",
+    "end_dt": "2026-09-25T19:00",
+    "location": "Joy (Proctor) Krautschun Alumni/Foundation Welcome Center",
+    "image_url": "",
+    "image_alt": "",
+    "organizer": "",
+    "tags": [
+      "Alumni Event",
+      "Swarm Days"
+    ],
+    "featured": false,
+    "ticket_url": "https://my.onecause.com/event/organizations/83ef1d72-41e3-46b8-9ccf-eb3268787491/events/vevt:bb9c7f00-aff9-4e73-9df5-2a8aa2360870/home/story",
+    "category": "Campus Calendar/Events",
+    "record_type": "event",
+    "source_label": "BHSU Campus Calendar"
+  },
+  {
+    "event_id": "ff7de910-b71a-4edf-abff-0eb300dbe34e",
+    "url": "https://bhsu.edu/campus-calendar.html#event-details/ff7de910-b71a-4edf-abff-0eb300dbe34e",
+    "title": "2026 Yellow Jacket Hall of Fame Banquet",
+    "slug": "2026-yellow-jacket-hall-of-fame-banquet",
+    "description": "Friday, September 25 at 6:00 p.m. Holiday Inn Spearfish - Convention Center Tickets are $35 per person BHSU will induct five athletes, one coach, and two teams into the Yellow Jacket Hall of Fame. Liz (Woodruff) Alderson, Scott Jaggi, Mandy (Brumfield) Lemmel, Janna (Schriber) Mason, and Allen Wood will be inducted as athletes. Paul Sather will be inducted as a coach, and the 1979 Football Team, and 2007-08 Women’s Basketball Team will be inducted.",
+    "start_dt": "2026-09-26T00:00",
+    "end_dt": "2026-09-26T02:00",
+    "location": "Joy (Proctor) Krautschun Alumni/Foundation Welcome Center",
+    "image_url": "",
+    "image_alt": "",
+    "organizer": "",
+    "tags": [
+      "Alumni Event",
+      "Swarm Days"
+    ],
+    "featured": false,
+    "ticket_url": "https://my.onecause.com/event/organizations/83ef1d72-41e3-46b8-9ccf-eb3268787491/events/vevt:6bd0a689-895e-4c5b-af6d-d2fa9a845116/home/story",
+    "category": "Campus Calendar/Events",
+    "record_type": "event",
+    "source_label": "BHSU Campus Calendar"
   }
 ]

@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-28T18:12:09.245233+00:00",
+  "fetched_at": "2026-07-29T18:07:24.665421+00:00",
   "lookback_days": 30,
   "records": [
     {
@@ -3017,58 +3017,6 @@
       "lat": 44.761238,
       "lon": -103.853,
       "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/68796/attachments/11507"
-    },
-    {
-      "objectid": 68781,
-      "date": "2026-06-29",
-      "species": "White-tailed Deer",
-      "highway": "",
-      "sex": "Female",
-      "present": "Yes",
-      "comments": "9790 SHERIDAN LAKE RD",
-      "contractor": "Chris Moeller",
-      "lat": 44.008502,
-      "lon": -103.343243,
-      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/68781/attachments/11492"
-    },
-    {
-      "objectid": 68782,
-      "date": "2026-06-29",
-      "species": "White-tailed Deer",
-      "highway": "",
-      "sex": "Female",
-      "present": "Yes",
-      "comments": "8983 SLR",
-      "contractor": "Chris Moeller",
-      "lat": 44.009388,
-      "lon": -103.325509,
-      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/68782/attachments/11493"
-    },
-    {
-      "objectid": 68783,
-      "date": "2026-06-29",
-      "species": "Mule Deer",
-      "highway": "",
-      "sex": "Female",
-      "present": "Yes",
-      "comments": "SHERIDAN LAKE RD\\CHANCERY LN",
-      "contractor": "Chris Moeller",
-      "lat": 44.056673,
-      "lon": -103.262333,
-      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/68783/attachments/11494"
-    },
-    {
-      "objectid": 68784,
-      "date": "2026-06-29",
-      "species": "White-tailed Deer",
-      "highway": "44",
-      "sex": "Female",
-      "present": "Yes",
-      "comments": null,
-      "contractor": "Chris Moeller",
-      "lat": 44.06616,
-      "lon": -103.39259,
-      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/68784/attachments/11495"
     }
   ]
 }

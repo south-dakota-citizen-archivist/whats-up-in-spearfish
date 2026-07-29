@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-28T18:12:01.417209+00:00",
+  "fetched_at": "2026-07-29T18:07:20.677092+00:00",
   "projects": [
     {
       "project_id": "304272",
@@ -9,28 +9,13 @@
       "district": "Northern Hills Ranger District",
       "purpose": "Forest Products|Fuels Management|Vegetation Management (Other Than Forest Products)",
       "description": "This project would provide commercial timber products to local industry and would reduce fire hazard and the risk of insect infestation in the wildland urban interface. Non-commercial harvest to reduce fuels and maintain hardwood and meadows would also occur.",
-      "milestones": [
-        {
-          "name": "NEPA Start Date",
-          "date": "1/23/2026"
-        },
-        {
-          "name": "Finding/Decision Date",
-          "date": "7/16/2026"
-        }
-      ],
+      "milestones": [],
       "comment_period_date": null,
       "comment_period_sort": "9999-99",
-      "location_summary": "The project area is located south of Lead-Deadwood, SD, and is bounded by Vanocker Canyon Highway (Forest Highway 26), Benchmark Road (National Forest System Road 198), Custer Crossing Road (National Forest System Road 256), and Rochford Road (County Highway 17).",
-      "counties": [
-        "Lawrence; Meade"
-      ],
-      "contact": {
-        "name": "Chris Stores",
-        "email": "chris.stores@usda.gov",
-        "phone": "605-443-3081"
-      },
-      "last_updated": "7/17/2026"
+      "location_summary": "",
+      "counties": [],
+      "contact": {},
+      "last_updated": ""
     },
     {
       "project_id": "66463",
