@@ -59,7 +59,7 @@
     "abv": "6%",
     "ibu": "17",
     "brewery": "Dry Dock Brewing Company",
-    "rating": "3.73",
+    "rating": "3.72",
     "image_url": "https://labels.untappd.com/1049148",
     "record_type": "beer",
     "source_label": "Killian's"
@@ -130,15 +130,15 @@
     "source_label": "Killian's"
   },
   {
-    "url": "https://untappd.com/b/2-towns-ciderhouse-mango-cosmic-crisp/5884541",
-    "title": "Mango Cosmic Crisp®",
-    "slug": "mango-cosmic-crisp-r",
-    "category": "Cider - Other Fruit",
-    "abv": "9%",
+    "url": "https://untappd.com/b/schilling-cider-yuzu-peach/6719469",
+    "title": "Yuzu Peach",
+    "slug": "yuzu-peach",
+    "category": "Cider - Sweet",
+    "abv": "6.5%",
     "ibu": "",
-    "brewery": "2 Towns Ciderhouse",
-    "rating": "3.86",
-    "image_url": "https://labels.untappd.com/5884541",
+    "brewery": "Schilling Cider",
+    "rating": "4.1",
+    "image_url": "https://labels.untappd.com/6719469",
     "record_type": "beer",
     "source_label": "Killian's"
   },

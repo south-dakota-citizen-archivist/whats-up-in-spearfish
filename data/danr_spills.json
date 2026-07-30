@@ -1,7 +1,7 @@
 {
-  "fetched_at": "2026-07-29T18:09:26.362266+00:00",
+  "fetched_at": "2026-07-30T18:17:08.278366+00:00",
   "lookback_days": 30,
-  "total_bh_sites": 3303,
+  "total_bh_sites": 3305,
   "known_ids": [
     84379,
     84380,
@@ -3305,9 +3305,49 @@
     1327733,
     1328129,
     1328529,
-    1328929
+    1328929,
+    1328932,
+    1328933
   ],
   "new_records": [
+    {
+      "objectid": 1328932,
+      "first_seen": "2026-07-30",
+      "id_raw": 2026.112,
+      "year": 2026,
+      "pdf_url": "https://danr.sd.gov/spillimages/2026/2026.112.pdf",
+      "site_name": "Ellsworth Air Force Base Diesel Spill",
+      "site_type": "Federal",
+      "status": "O",
+      "street": "2125 Scott Dr",
+      "city": "Ellsworth AFB",
+      "county": "Meade",
+      "spill_cat": "Petroleum",
+      "material": "Diesel",
+      "sor_type": "AST",
+      "resp_party": "CMS Corp",
+      "lat": 44.148325,
+      "lon": -103.095175
+    },
+    {
+      "objectid": 1328933,
+      "first_seen": "2026-07-30",
+      "id_raw": 2026.112,
+      "year": 2026,
+      "pdf_url": "https://danr.sd.gov/spillimages/2026/2026.112.pdf",
+      "site_name": "Ellsworth Air Force Base Diesel Spill",
+      "site_type": "Federal",
+      "status": "O",
+      "street": "2125 Scott Dr",
+      "city": "Ellsworth AFB",
+      "county": "Meade",
+      "spill_cat": "Petroleum",
+      "material": "Diesel",
+      "sor_type": "AST",
+      "resp_party": "CMS Corp",
+      "lat": 44.156737,
+      "lon": -103.095873
+    },
     {
       "objectid": 1327733,
       "first_seen": "2026-07-22",

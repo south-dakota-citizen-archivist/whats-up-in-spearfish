@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-29T18:04:39.201930+00:00",
+  "fetched_at": "2026-07-30T18:12:41.751431+00:00",
   "notices": [
     {
       "notice_type": "Water Rights",
@@ -333,34 +333,6 @@
         {
           "label": "Public Notice",
           "url": "https://media.sd.gov/danr/MM/S904009PublicNotice.pdf"
-        }
-      ]
-    },
-    {
-      "notice_type": "Mining License",
-      "deadline": "",
-      "comment_url": "",
-      "name": "Corson County Highway Department",
-      "description": "Notice of Intent to Mine Gravel",
-      "location": "16 miles South,\u00bd mile East of McIntosh, SD.",
-      "links": [
-        {
-          "label": "Public Notice",
-          "url": "https://media.sd.gov/danr/MM/S239049PublicNotice.pdf"
-        }
-      ]
-    },
-    {
-      "notice_type": "Mining License",
-      "deadline": "",
-      "comment_url": "",
-      "name": "Pete Lien & Sons, Inc",
-      "description": "Notice of Intent to Mine Gravel",
-      "location": "5 Miles North West of Buffalo Gap",
-      "links": [
-        {
-          "label": "Public Notice",
-          "url": "https://media.sd.gov/danr/MM/S100023PublicNotice.pdf"
         }
       ]
     }
