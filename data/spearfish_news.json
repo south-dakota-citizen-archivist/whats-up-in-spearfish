@@ -268,5 +268,15 @@
     "start_dt": "Fri, 10 Jul 2026 15:52:54 -0700",
     "record_type": "press_release",
     "source_label": "City of Spearfish"
+  },
+  {
+    "url": "https://www.spearfish.gov/CivicAlerts.aspx?aid=571",
+    "title": "Aurora Avenue closed to through traffic July 30th through end of day July 31st",
+    "slug": "aurora-avenue-closed-to-through-traffic-july-30th-through-end-of-day-july-31st",
+    "description": "Starting today, July 30th Aurora Avenue will be closed to through traffic. Woelber Excavating will be patching the asphalt in this location. This patch work is necessary as a result of the recent sanitary sewer connection in Aurora Avenue.",
+    "published": "Thu, 30 Jul 2026 15:32:37 -0700",
+    "start_dt": "Thu, 30 Jul 2026 15:32:37 -0700",
+    "record_type": "press_release",
+    "source_label": "City of Spearfish"
   }
 ]
