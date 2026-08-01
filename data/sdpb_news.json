@@ -3276,5 +3276,27 @@
     "image_url": "https://npr.brightspotcdn.com/61/ec/38eefe15437eb8c36f25fc0f3b56/image-63.jpg",
     "record_type": "news",
     "source_label": "SDPB"
+  },
+  {
+    "url": "https://www.sdpb.org/crime-courts/2026-07-31/rapid-city-faces-apparent-cyberattack-the-second-in-a-month-for-area",
+    "title": "Rapid City faces apparent cyberattack, the second in a month for area",
+    "slug": "sdpb-rapid-city-faces-apparent-cyberattack-the-second-in-a-month-for-area",
+    "published": "2026-07-31",
+    "byline": "By C.J. Keene",
+    "description": "As Pennington County reels from what it describes as a cybersecurity “incident,” Rapid City has also become a victim.",
+    "image_url": "https://npr.brightspotcdn.com/4b/e9/f24707f34c18a25603bf1aa30f64/computer-technology-feb-2024-sdpb.jpg",
+    "record_type": "news",
+    "source_label": "SDPB"
+  },
+  {
+    "url": "https://www.sdpb.org/crime-courts/2026-07-31/hideaway-hills-homeowners-seek-rehearing-in-subdivision-sinkhole-case",
+    "title": "Hideaway Hills homeowners seek rehearing in subdivision sinkhole case",
+    "slug": "sdpb-hideaway-hills-homeowners-seek-rehearing-in-subdivision-sinkhole-case",
+    "published": "2026-07-31",
+    "byline": "By Julia Stelter",
+    "description": "The homeowners involved in the Hideaway Hills subdivision sinkhole case are requesting a rehearing after the after the South Dakota Supreme Court ruled against them.",
+    "image_url": "https://npr.brightspotcdn.com/a6/e6/94ed2ef749258abcd19e7c8f9e58/hideaway-hills-sinkhole.jpg",
+    "record_type": "news",
+    "source_label": "SDPB"
   }
 ]

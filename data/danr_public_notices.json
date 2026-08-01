@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-31T18:17:50.324368+00:00",
+  "fetched_at": "2026-08-01T17:57:44.857451+00:00",
   "notices": [
     {
       "notice_type": "Water Rights",
@@ -94,23 +94,6 @@
         {
           "label": "Recom. Action",
           "url": "https://danr.sd.gov/wrimage/pub/2910-2_rec.pdf"
-        }
-      ]
-    },
-    {
-      "notice_type": "Surface Water Enhancement & Restoration",
-      "deadline": "07/31/2026",
-      "comment_url": "https://danr.sd.gov/public/comment.aspx?d_comment=07/31/2026&name=Jason Jungwirth - SD GFP&pntype=sw_er&description=Proposing a project to restore the riparian functionality and fish habitat on North Boxelder Creek and a tributary.",
-      "name": "Jason Jungwirth - SD GFP",
-      "description": "Proposing a project to restore the riparian functionality and fish habitat on North Boxelder Creek and a tributary.",
-      "links": [
-        {
-          "label": "Public Notice",
-          "url": "https://danr.sd.gov/officeofwater/surfacewaterquality/pn/GFPNBoxelderPN.pdf"
-        },
-        {
-          "label": "Application",
-          "url": "https://danr.sd.gov/officeofwater/surfacewaterquality/pn/GFPNBoxelderApp.pdf"
         }
       ]
     },
