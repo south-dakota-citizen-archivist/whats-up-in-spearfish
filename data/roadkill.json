@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-01T18:00:22.487839+00:00",
+  "fetched_at": "2026-08-02T18:01:14.846782+00:00",
   "lookback_days": 30,
   "records": [
     {
@@ -3108,32 +3108,6 @@
       "lat": 44.036662,
       "lon": -103.200865,
       "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/69095/attachments/11808"
-    },
-    {
-      "objectid": 69076,
-      "date": "2026-07-03",
-      "species": "White-tailed Deer",
-      "highway": "44",
-      "sex": "Unknown",
-      "present": "No",
-      "comments": null,
-      "contractor": "Chris Moeller",
-      "lat": 44.01733,
-      "lon": -103.050128,
-      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/69076/attachments/11789"
-    },
-    {
-      "objectid": 69077,
-      "date": "2026-07-03",
-      "species": "White-tailed Deer",
-      "highway": "",
-      "sex": "Unknown",
-      "present": "No",
-      "comments": "1514 Lando Ln, Rapid City",
-      "contractor": "Chris Moeller",
-      "lat": 44.09268,
-      "lon": -103.185384,
-      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/69077/attachments/11790"
     }
   ]
 }
