@@ -5950,5 +5950,21 @@
     "status": "CONFIRMED",
     "record_type": "event",
     "source_label": "Spearfish MS Sports"
+  },
+  {
+    "uid": "h202607150212193075f36540d782d43",
+    "url": "https://gobound.com/direct/comps/h202607150212193075f36540d782d43/show",
+    "title": "Girls Cross Country:  (Middle School)",
+    "slug": "girls-cross-country-middle-school",
+    "sport": "Girls Cross Country",
+    "level": "Middle School",
+    "sex": "female",
+    "description": "Middle School Girls Cross Country -",
+    "start_dt": "2026-09-19T14:00:00",
+    "end_dt": "2026-09-19T19:00:00",
+    "location": "Broadland Creek Golf Course",
+    "status": "CONFIRMED",
+    "record_type": "event",
+    "source_label": "Spearfish MS Sports"
   }
 ]

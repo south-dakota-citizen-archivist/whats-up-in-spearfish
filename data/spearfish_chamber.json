@@ -3014,5 +3014,31 @@
     "website": "https://spearfishrotary.org/",
     "record_type": "event",
     "source_label": "Spearfish Chamber"
+  },
+  {
+    "url": "https://business.spearfishchamber.org/events/details/fundraising-birthday-luncheon-08-07-2026-30828",
+    "title": "Fundraising Birthday Luncheon",
+    "slug": "fundraising-birthday-luncheon",
+    "start_dt": "2026-08-07 11:30 AM MDT",
+    "end_dt": "2026-08-07 1:00 PM MDT",
+    "location": "Spearfish Senior Center 1306 N 10th St Spearfish, Sd 57783",
+    "fees": "$10 donation",
+    "description": "The Spearfish Senior Center will be hosting their monthly fundraising Birthday Luncheon at 11:30AM on Friday, Aug. 7, 2026. Chicken salad on croissant, bean salad, dessert, & coffee for $10 donation. Special music by Ivan Kloefkorn and Arne Koski. Roses By Zonta, and Perkins pie drawing for all Senior Center members who celebrate a birthday this month! Open to the public. The luncheon will be held at the Spearfish Senior Citizen Center at 1306 N 10th St. in Spearfish.",
+    "website": "http://www.spearfishseniorcenter.com",
+    "record_type": "event",
+    "source_label": "Spearfish Chamber"
+  },
+  {
+    "url": "https://business.spearfishchamber.org/events/details/rally-breakfast-30827",
+    "title": "Rally Breakfast",
+    "slug": "rally-breakfast",
+    "start_dt": "2026-08-10",
+    "end_dt": "",
+    "location": "Spearfish Senior Center 1306 N 10th St Spearfish, SD 57783",
+    "fees": "$10 donation",
+    "description": "The Spearfish Senior Center will be serving a Fundraising Rally Breakfast beginning on Monday, August 10th through Friday, August 14th at 1306 N 10th Street. Breakfast is served from 7:30am until 11:00am. Pancakes, sausage patty, scrambled eggs or sausage gravy over biscuits with scrambled eggs will be offered with coffee, and orange juice. $10 donation. Try our homemade chokecherry syrup! Everyone is welcome, not just bikers! Spearfish Senior Center is located at 1306 N. 10th St. Spearfish.",
+    "website": "http://www.spearfishseniorcenter.com",
+    "record_type": "event",
+    "source_label": "Spearfish Chamber"
   }
 ]

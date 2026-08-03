@@ -3298,5 +3298,27 @@
     "image_url": "https://npr.brightspotcdn.com/a6/e6/94ed2ef749258abcd19e7c8f9e58/hideaway-hills-sinkhole.jpg",
     "record_type": "news",
     "source_label": "SDPB"
+  },
+  {
+    "url": "https://www.sdpb.org/politics/2026-08-03/mitchell-business-and-industrial-park-receives-future-fund-boost",
+    "title": "Mitchell Business and Industrial Park receives Future Fund boost",
+    "slug": "sdpb-mitchell-business-and-industrial-park-receives-future-fund-boost",
+    "published": "2026-08-03",
+    "byline": "By Jackson Dircks",
+    "description": "The Mitchell Business and Industrial Park is receiving a boost from the governor’s office. Governor Larry Rhoden announces a $1 million investment from the <a href=\"https://www.sdpb.org/politics/2026-01-19/here-it-is-folks-executive-order-outlines-future-fund-decisions-amid-legislative-debate\"><b>state’s Future Fund</b></a>.",
+    "image_url": "https://npr.brightspotcdn.com/f9/96/c03241084612b2be2935d1791e71/mitchell-1-e1504365963672.jpg",
+    "record_type": "news",
+    "source_label": "SDPB"
+  },
+  {
+    "url": "https://www.sdpb.org/business-economics/2026-08-03/monday-macro-fed-task-forces-could-lead-to-reform-in-u-s-monetary-policy",
+    "title": "Monday Macro: Fed task forces could lead to reform in U.S. monetary policy",
+    "slug": "sdpb-monday-macro-fed-task-forces-could-lead-to-reform-in-u-s-monetary-policy",
+    "published": "2026-08-03",
+    "byline": "By Lori Walsh",
+    "description": "From a massive balance sheet to the way the Fed communicates, Fed Chair's Kevin Warsh's new task forces will take a comprehensive look at U.S. monetary policy. Macroeconomist Joe Santos weighs in on the complicated work of reform now before the Fed.",
+    "image_url": "https://npr.brightspotcdn.com/52/a4/27ad8392458d90c0af200f3647e9/website-photo-1.png",
+    "record_type": "news",
+    "source_label": "SDPB"
   }
 ]
