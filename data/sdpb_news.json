@@ -3320,5 +3320,71 @@
     "image_url": "https://npr.brightspotcdn.com/52/a4/27ad8392458d90c0af200f3647e9/website-photo-1.png",
     "record_type": "news",
     "source_label": "SDPB"
+  },
+  {
+    "url": "https://www.sdpb.org/politics/2026-08-04/1-million-from-future-fund-heads-to-rapid-city-business-industrial-park",
+    "title": "$1 million from Future Fund heads to Rapid City business & industrial park",
+    "slug": "sdpb-1-million-from-future-fund-heads-to-rapid-city-business-industrial-park",
+    "published": "2026-08-04",
+    "byline": "By Jackson Dircks",
+    "description": "The development of a new Rapid City business and industrial park is receiving state backing. Gov. Larry Rhoden announces a $1 million investment from the Future Fund.",
+    "image_url": "https://npr.brightspotcdn.com/legacy/prod/filer_public/kusd-bento-live-pbs/00-FFA/0d87659c52_Rapid.jpg",
+    "record_type": "news",
+    "source_label": "SDPB"
+  },
+  {
+    "url": "https://www.sdpb.org/environment/2026-08-04/rapid-city-watershed-could-last-a-century-if-properly-managed-officials-say",
+    "title": "Rapid City watershed could last a century if properly managed, officials say",
+    "slug": "sdpb-rapid-city-watershed-could-last-a-century-if-properly-managed-officials-say",
+    "published": "2026-08-04",
+    "byline": "By C.J. Keene",
+    "description": "Rapid City and communities in the Pactola/Rapid Creek watershed should have enough water to last nearly the next century. However, that’s only if managed and utilized properly.",
+    "image_url": "https://npr.brightspotcdn.com/0d/8a/f236587a4bfaa695a87e2e173fb6/4678587151-4afc2ccfd7-h.jpg",
+    "record_type": "news",
+    "source_label": "SDPB"
+  },
+  {
+    "url": "https://www.sdpb.org/crime-courts/2026-08-04/analysis-korean-war-era-precedent-may-influence-decision-on-mail-in-ballot-restrictions",
+    "title": "Analysis: Korean War-era precedent may influence decision on mail-in ballot restrictions",
+    "slug": "sdpb-analysis-korean-war-era-precedent-may-influence-decision-on-mail-in-ballot",
+    "published": "2026-08-04",
+    "byline": "By Lori Walsh",
+    "description": "President Trump's executive order about a U.S. Postal Service rule is before the U.S. Supreme Court. How much can a president weigh in on how elections are conducted?",
+    "image_url": "https://npr.brightspotcdn.com/15/50/77afd9f64beb953a6f1ce67cee0c/scotus.jpg",
+    "record_type": "news",
+    "source_label": "SDPB"
+  },
+  {
+    "url": "https://www.sdpb.org/politics/2026-08-03/emilys-hope-among-those-pushing-back-against-altering-federal-thc-legislation",
+    "title": "Emily's Hope among those pushing back against altering federal THC legislation",
+    "slug": "sdpb-emily-s-hope-among-those-pushing-back-against-altering-federal-thc",
+    "published": "2026-08-03",
+    "byline": "By Jackson Dircks",
+    "description": "One South Dakota-based group is urging Congress against delaying federal THC regulations passed last year and set to take effect this fall.",
+    "image_url": "https://npr.brightspotcdn.com/05/ea/601a560043ae9c23c36656f07fbb/smokeshop.jpg",
+    "record_type": "news",
+    "source_label": "SDPB"
+  },
+  {
+    "url": "https://www.sdpb.org/crime-courts/2026-08-03/suspect-in-lower-brule-double-homicide-sentenced",
+    "title": "Suspect in Lower Brule double homicide sentenced",
+    "slug": "sdpb-suspect-in-lower-brule-double-homicide-sentenced",
+    "published": "2026-08-03",
+    "byline": "By SDPB News Staff",
+    "description": "The man charged in a double homicide in central South Dakota has been sentenced to 17 years in federal prison.",
+    "image_url": "https://npr.brightspotcdn.com/legacy/prod/filer_public/kusd-bento-live-pbs/af6d4c67c1_Judge-gavel-581875.jpg",
+    "record_type": "news",
+    "source_label": "SDPB"
+  },
+  {
+    "url": "https://www.sdpb.org/business-economics/2026-08-03/deadline-approaching-for-workforce-ai-adoption-funding-application",
+    "title": "Deadline approaching for workforce AI adoption funding application",
+    "slug": "sdpb-deadline-approaching-for-workforce-ai-adoption-funding-application",
+    "published": "2026-08-03",
+    "byline": "By Julia Stelter",
+    "description": "State officials are reminding businesses that the application deadline for workforce AI adoption funding is Friday, Aug. 7.",
+    "image_url": "https://npr.brightspotcdn.com/cb/5e/218f64ef40dcb725ce3496b307d9/yeiferr-computer-4795762.jpg",
+    "record_type": "news",
+    "source_label": "SDPB"
   }
 ]

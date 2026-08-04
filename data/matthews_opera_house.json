@@ -778,5 +778,41 @@
     "image_url": "https://www.matthewsopera.com/wp-content/uploads/2026/08/Brushes-History-1920-x-1080-px-1.jpg",
     "record_type": "event",
     "source_label": "Matthews Opera House"
+  },
+  {
+    "title": "Rakish",
+    "url": "https://www.matthewsopera.com/event/rakish/",
+    "slug": "rakish",
+    "start_dt": "2026-08-23T14:00:00-06:00",
+    "end_dt": "2026-08-23T16:00:00-06:00",
+    "description": "Rakish brings Celtic and American roots music to The Matthews with the kind of playing that honors tradition and still feels alive. These musicians have performed at the Library of ... Read more \\n",
+    "location": "The Matthews Opera House – Theatre",
+    "image_url": "https://www.matthewsopera.com/wp-content/uploads/2026/08/Rakish-Header.png",
+    "record_type": "event",
+    "source_label": "Matthews Opera House"
+  },
+  {
+    "title": "Theater on the Run | Night 1",
+    "url": "https://www.matthewsopera.com/event/theater-on-the-run-night-1/",
+    "slug": "theater-on-the-run-night-1",
+    "start_dt": "2026-09-05T18:00:00-06:00",
+    "end_dt": "2026-09-05T21:00:00-06:00",
+    "description": "A Progressive Theater Experience in Downtown Spearfish September 5 & 12 at 6:00 PM. You’ll move from venue to venue around downtown Spearfish to watch a series of short plays unfold ... Read more \\n",
+    "location": "",
+    "image_url": "https://www.matthewsopera.com/wp-content/uploads/2026/07/TOTR_Banner_no_text.png",
+    "record_type": "event",
+    "source_label": "Matthews Opera House"
+  },
+  {
+    "title": "Theater on the Run | Night 2",
+    "url": "https://www.matthewsopera.com/event/theater-on-the-run-night-1-2/",
+    "slug": "theater-on-the-run-night-2",
+    "start_dt": "2026-09-12T18:00:00-06:00",
+    "end_dt": "2026-09-12T21:00:00-06:00",
+    "description": "A Progressive Theater Experience in Downtown Spearfish September 5 & 12 at 6:00 PM. You’ll move from venue to venue around downtown Spearfish to watch a series of short plays unfold ... Read more \\n",
+    "location": "",
+    "image_url": "https://www.matthewsopera.com/wp-content/uploads/2026/07/TOTR_Banner_no_text.png",
+    "record_type": "event",
+    "source_label": "Matthews Opera House"
   }
 ]

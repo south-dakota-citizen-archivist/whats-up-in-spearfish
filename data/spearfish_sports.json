@@ -25246,5 +25246,21 @@
     "status": "CONFIRMED",
     "record_type": "event",
     "source_label": "Spearfish HS Sports"
+  },
+  {
+    "uid": "h20260804011955574705aa97b016c47",
+    "url": "https://gobound.com/direct/comps/h20260804011955574705aa97b016c47/show",
+    "title": "Girls Tennis: Spearfish vs Sioux Falls Christian (Varsity)",
+    "slug": "girls-tennis-spearfish-vs-sioux-falls-christian-varsity",
+    "sport": "Girls Tennis",
+    "level": "Varsity",
+    "sex": "female",
+    "description": "Varsity Girls Tennis - Spearfish vs Sioux Falls Christian",
+    "start_dt": "2026-09-12T16:00:00",
+    "end_dt": "2026-09-12T23:00:00",
+    "location": "",
+    "status": "CONFIRMED",
+    "record_type": "event",
+    "source_label": "Spearfish HS Sports"
   }
 ]

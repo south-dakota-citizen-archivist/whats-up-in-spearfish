@@ -1,30 +1,6 @@
 {
-  "fetched_at": "2026-08-03T18:47:53.486824+00:00",
+  "fetched_at": "2026-08-04T18:26:52.820004+00:00",
   "notices": [
-    {
-      "notice_type": "Water Rights",
-      "deadline": "08/03/2026",
-      "comment_url": "",
-      "application_no": "9039-3",
-      "name": "Frank Kralicek Jr,\u00a0Yankton\u00a0SD",
-      "location": "Yankton",
-      "water_source": "Lower James Missouri Aquifer",
-      "use_type": "Irrigation (400 acres)",
-      "links": [
-        {
-          "label": "Public Notice",
-          "url": "https://danr.sd.gov/wrimage/pub/9039-3_app.pdf"
-        },
-        {
-          "label": "Appl.",
-          "url": "https://danr.sd.gov/wrimage/pub/9039-3_apl.pdf"
-        },
-        {
-          "label": "Recom. Action",
-          "url": "https://danr.sd.gov/wrimage/pub/9039-3_rec.pdf"
-        }
-      ]
-    },
     {
       "notice_type": "Water Rights",
       "deadline": "08/04/2026",
@@ -156,6 +132,54 @@
         {
           "label": "Draft Permit",
           "url": "https://danr.sd.gov/Press/docs/publicnotices/wastemanagementnotices/DRAFT_Dakota_Metal_Recycling_26_IP.pdf"
+        }
+      ]
+    },
+    {
+      "notice_type": "Water Rights",
+      "deadline": "08/17/2026",
+      "comment_url": "",
+      "application_no": "9045-3",
+      "name": "Grey Zabel,\u00a0Pierre\u00a0SD",
+      "location": "Walworth",
+      "water_source": "Selby Aquifer",
+      "use_type": "Irrigation (159 ac)",
+      "links": [
+        {
+          "label": "Public Notice",
+          "url": "https://danr.sd.gov/wrimage/pub/9045-3_app.pdf"
+        },
+        {
+          "label": "Appl.",
+          "url": "https://danr.sd.gov/wrimage/pub/9045-3_apl.pdf"
+        },
+        {
+          "label": "Recom. Action",
+          "url": "https://danr.sd.gov/wrimage/pub/9045-3_rec.pdf"
+        }
+      ]
+    },
+    {
+      "notice_type": "Water Rights",
+      "deadline": "08/17/2026",
+      "comment_url": "",
+      "application_no": "2879A-2",
+      "name": "Weinreis Brothers, Charles Weinreis,\u00a0Edgemont\u00a0SD",
+      "location": "Fall River",
+      "water_source": "Madison Aquifer",
+      "use_type": "Irrigation (no addt'l)",
+      "links": [
+        {
+          "label": "Public Notice",
+          "url": "https://danr.sd.gov/wrimage/pub/2879A-2_app.pdf"
+        },
+        {
+          "label": "Appl.",
+          "url": "https://danr.sd.gov/wrimage/pub/2879A-2_apl.pdf"
+        },
+        {
+          "label": "Recom. Action",
+          "url": "https://danr.sd.gov/wrimage/pub/2879A-2_rec.pdf"
         }
       ]
     },
