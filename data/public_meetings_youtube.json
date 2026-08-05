@@ -448,5 +448,23 @@
     "source_label": "Lawrence County",
     "channel_url": "https://www.youtube.com/channel/UC2CZKGr9OGrsMcCZkW0_HMA",
     "record_type": "youtube_video"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=2_jMOl77yoM",
+    "title": "SSD School Board Meeting 5:31 PM 08/04/2026",
+    "published": "2026-08-05",
+    "thumbnail_url": "https://i3.ytimg.com/vi/2_jMOl77yoM/hqdefault.jpg",
+    "source_label": "Spearfish School District",
+    "channel_url": "https://www.youtube.com/@spearfishschooldistrictliv3794/streams",
+    "record_type": "youtube_video"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=JlTK-uAy_WU",
+    "title": "Lawrence County Commission and Board of Adjustment Meeting - July 30, 2026",
+    "published": "2026-08-05",
+    "thumbnail_url": "https://i3.ytimg.com/vi/JlTK-uAy_WU/hqdefault.jpg",
+    "source_label": "Lawrence County",
+    "channel_url": "https://www.youtube.com/channel/UC2CZKGr9OGrsMcCZkW0_HMA",
+    "record_type": "youtube_video"
   }
 ]

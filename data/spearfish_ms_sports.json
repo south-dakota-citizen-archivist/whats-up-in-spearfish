@@ -5966,5 +5966,53 @@
     "status": "CONFIRMED",
     "record_type": "event",
     "source_label": "Spearfish MS Sports"
+  },
+  {
+    "uid": "h202506240750211635e2ae7f30fb540",
+    "url": "https://gobound.com/direct/comps/h202506240750211635e2ae7f30fb540/show",
+    "title": "Knowledge Bowl:  vs  ()",
+    "slug": "knowledge-bowl-vs",
+    "sport": "Knowledge Bowl",
+    "level": "",
+    "sex": "coed",
+    "description": "Knowledge Bowl -  vs",
+    "start_dt": "2025-10-18T15:00:00",
+    "end_dt": "2025-10-18T18:00:00",
+    "location": "Spearfish High School CTE Building",
+    "status": "CONFIRMED",
+    "record_type": "event",
+    "source_label": "Spearfish MS Sports"
+  },
+  {
+    "uid": "h20251016070034573c2adcd4f03c84e",
+    "url": "https://gobound.com/direct/comps/h20251016070034573c2adcd4f03c84e/show",
+    "title": "Girls Wrestling: Wrestling Triangular (Middle School)",
+    "slug": "girls-wrestling-wrestling-triangular-middle-school",
+    "sport": "Girls Wrestling",
+    "level": "",
+    "sex": "female",
+    "description": "Middle School Girls Wrestling - Wrestling Triangular",
+    "start_dt": "2025-12-04T23:00:00",
+    "end_dt": "2025-12-05T01:00:00",
+    "location": "Spearfish Middle School Gym",
+    "status": "CONFIRMED",
+    "record_type": "event",
+    "source_label": "Spearfish MS Sports"
+  },
+  {
+    "uid": "h202601120744113347154f43998634e",
+    "url": "https://gobound.com/direct/comps/h202601120744113347154f43998634e/show",
+    "title": "Boys Basketball: Spearfish Shootout (8th Grade)",
+    "slug": "boys-basketball-spearfish-shootout-8th-grade",
+    "sport": "Boys Basketball",
+    "level": "",
+    "sex": "male",
+    "description": "8th Grade Boys Basketball - Spearfish Shootout",
+    "start_dt": "2026-02-21T15:00:00",
+    "end_dt": "2026-02-21T18:00:00",
+    "location": "Spearfish Middle School",
+    "status": "CONFIRMED",
+    "record_type": "event",
+    "source_label": "Spearfish MS Sports"
   }
 ]

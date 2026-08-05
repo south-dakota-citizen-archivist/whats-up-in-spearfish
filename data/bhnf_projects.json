@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-04T18:29:14.243883+00:00",
+  "fetched_at": "2026-08-05T18:20:26.073565+00:00",
   "projects": [
     {
       "project_id": "304272",
@@ -251,6 +251,22 @@
       "district": "Hell Canyon Ranger District",
       "purpose": "Special Use Management",
       "description": "Reissuance of a sign permit for the Custer County Conservation District.",
+      "milestones": [],
+      "comment_period_date": null,
+      "comment_period_sort": "9999-99",
+      "location_summary": "",
+      "counties": [],
+      "contact": {},
+      "last_updated": ""
+    },
+    {
+      "project_id": "380475",
+      "title": "Forestwide Well Decommissioning Project",
+      "url": "https://www.fs.usda.gov/r02/blackhills/projects/380475",
+      "status": "Completed",
+      "district": "Mystic Ranger District",
+      "purpose": "Recreation Management|Watershed Management",
+      "description": "The proposed action is to decommission unused, abandoned, and unneeded water wells across the Mystic and Hell Canyon Ranger Districts of the Black Hills National Forest.",
       "milestones": [],
       "comment_period_date": null,
       "comment_period_sort": "9999-99",

@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-04T18:26:52.820004+00:00",
+  "fetched_at": "2026-08-05T18:18:08.208498+00:00",
   "notices": [
     {
       "notice_type": "Water Rights",
@@ -212,6 +212,20 @@
         {
           "label": "Public Notice",
           "url": "https://danr.sd.gov/Press/docs/publicnotices/FeedlotPermit/PophamLivestockLLCPN.pdf"
+        }
+      ]
+    },
+    {
+      "notice_type": "Concentrated Animal Feeding Operations (State Permit)",
+      "deadline": "09/04/2026",
+      "comment_url": "https://danr.sd.gov/public/comment.aspx?d_comment=09/04/2026&name=Swine Ridge, LLC&pntype=fp_cafo&description=New Swine Feeding Operation - State Permit",
+      "name": "Swine Ridge, LLC",
+      "description": "New Swine Feeding Operation - State Permit",
+      "location": "Davison County",
+      "links": [
+        {
+          "label": "Public Notice",
+          "url": "https://danr.sd.gov/Press/docs/publicnotices/FeedlotPermit/SwineRidgeLLCPN.pdf"
         }
       ]
     },

@@ -25262,5 +25262,53 @@
     "status": "CONFIRMED",
     "record_type": "event",
     "source_label": "Spearfish HS Sports"
+  },
+  {
+    "uid": "h202508220512387602fad11a104f446",
+    "url": "https://gobound.com/direct/comps/h202508220512387602fad11a104f446/show",
+    "title": "Girls Tennis: Pierre T.F. Riggs vs Spearfish MS (Middle School)",
+    "slug": "girls-tennis-pierre-t-f-riggs-vs-spearfish-ms-middle-school",
+    "sport": "Girls Tennis",
+    "level": "",
+    "sex": "female",
+    "description": "Middle School Girls Tennis - Pierre T.F. Riggs vs Spearfish MS",
+    "start_dt": "2025-09-23",
+    "end_dt": "",
+    "location": "Spearfish High School High School Spartan Tennis Courts",
+    "status": "CONFIRMED",
+    "record_type": "event",
+    "source_label": "Spearfish HS Sports"
+  },
+  {
+    "uid": "h20260623041752032914955f3b58b4a",
+    "url": "https://gobound.com/direct/comps/h20260623041752032914955f3b58b4a/show",
+    "title": "Girls Golf: SDHSAA Girls Golf State Tournament (Varsity)",
+    "slug": "girls-golf-sdhsaa-girls-golf-state-tournament-varsity",
+    "sport": "Girls Golf",
+    "level": "",
+    "sex": "female",
+    "description": "Varsity Girls Golf - SDHSAA Girls Golf State Tournament",
+    "start_dt": "2027-06-07T16:00:00",
+    "end_dt": "",
+    "location": "Spearfish Canyon Country Club",
+    "status": "CONFIRMED",
+    "record_type": "event",
+    "source_label": "Spearfish HS Sports"
+  },
+  {
+    "uid": "h2026062304192191784f0a7aadba644",
+    "url": "https://gobound.com/direct/comps/h2026062304192191784f0a7aadba644/show",
+    "title": "Girls Golf: SDHSAA Girls Golf State Tournament (Varsity)",
+    "slug": "girls-golf-sdhsaa-girls-golf-state-tournament-varsity",
+    "sport": "Girls Golf",
+    "level": "",
+    "sex": "female",
+    "description": "Varsity Girls Golf - SDHSAA Girls Golf State Tournament",
+    "start_dt": "2027-06-08T16:00:00",
+    "end_dt": "",
+    "location": "Spearfish Canyon Country Club",
+    "status": "CONFIRMED",
+    "record_type": "event",
+    "source_label": "Spearfish HS Sports"
   }
 ]

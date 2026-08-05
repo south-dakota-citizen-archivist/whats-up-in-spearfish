@@ -1985,5 +1985,27 @@
     "category": "Campus Calendar/Events",
     "record_type": "event",
     "source_label": "BHSU Campus Calendar"
+  },
+  {
+    "event_id": "6c4570e0-93c6-43a3-972e-9be876f8f951",
+    "url": "https://bhsu.edu/campus-calendar.html#event-details/6c4570e0-93c6-43a3-972e-9be876f8f951",
+    "title": "Staff Senate Meeting",
+    "slug": "staff-senate-meeting",
+    "description": "To avoid welcome week, the next Staff Senate meeting will take place Wednesday, August 12th at 10am in the Trump Room of the Student Union. All staff are welcome to attend in person or online through Microsoft Teams.",
+    "start_dt": "2026-08-12T16:00",
+    "end_dt": "2026-08-12T17:00",
+    "location": "Student Union Trump Room",
+    "image_url": "",
+    "image_alt": "",
+    "organizer": "Alyssa Blake",
+    "tags": [
+      "Administrative",
+      "BHSU Event"
+    ],
+    "featured": false,
+    "ticket_url": "",
+    "category": "Campus Calendar/Events",
+    "record_type": "event",
+    "source_label": "BHSU Campus Calendar"
   }
 ]

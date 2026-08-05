@@ -3386,5 +3386,38 @@
     "image_url": "https://npr.brightspotcdn.com/cb/5e/218f64ef40dcb725ce3496b307d9/yeiferr-computer-4795762.jpg",
     "record_type": "news",
     "source_label": "SDPB"
+  },
+  {
+    "url": "https://www.sdpb.org/politics/2026-08-05/beaudion-ends-bid-for-u-s-senate",
+    "title": "Beaudion ends bid for U.S. Senate",
+    "slug": "sdpb-beaudion-ends-bid-for-u-s-senate",
+    "published": "2026-08-05",
+    "byline": "By SDPB News Staff",
+    "description": "Democrat Julian Beaudion is dropping his bid U.S. Senate, leaving only Republican incumbent Sen. Mike Rounds and independent Brian Bengs in the race.",
+    "image_url": "https://npr.brightspotcdn.com/2f/28/9987dbe44bb194e95ddaab689ff2/dsc-5860.JPG",
+    "record_type": "news",
+    "source_label": "SDPB"
+  },
+  {
+    "url": "https://www.sdpb.org/healthcare/2026-08-05/nationwide-blood-shortage-hits-as-sturgis-rally-set-to-begin",
+    "title": "Nationwide blood shortage hits as Sturgis Rally set to begin",
+    "slug": "sdpb-nationwide-blood-shortage-hits-as-sturgis-rally-set-to-begin",
+    "published": "2026-08-05",
+    "byline": "By C.J. Keene",
+    "description": "Bikers are revving up for the Sturgis Rally, but it comes at a complicated time. With the increased traffic, the rally annually brings a corresponding rise in crashes, some of which result in serious injuries. This year, the event is taking place at the same time as a nationwide blood shortage.",
+    "image_url": "https://npr.brightspotcdn.com/legacy/prod/filer_public/kusd-bento-live-pbs/JAN21/07b0884fda_Blook%20Drive.jpg",
+    "record_type": "news",
+    "source_label": "SDPB"
+  },
+  {
+    "url": "https://www.sdpb.org/environment/2026-08-04/wildfire-smoke-expected-to-persist-over-south-dakota-into-mid-august",
+    "title": "Wildfire smoke expected to persist over South Dakota into mid-August",
+    "slug": "sdpb-wildfire-smoke-expected-to-persist-over-south-dakota-into-mid-august",
+    "published": "2026-08-04",
+    "byline": "By Delainey LaHood-Burns",
+    "description": "Wildfires burning in the Pacific Northwest may keep skies hazy in the state for the next several weeks.",
+    "image_url": "https://npr.brightspotcdn.com/20/17/b8173d1a4a958b70ea72f883216d/rapid-city-wildfire-smoke-1.png",
+    "record_type": "news",
+    "source_label": "SDPB"
   }
 ]
