@@ -1,7 +1,7 @@
 {
-  "fetched_at": "2026-08-05T18:22:46.676601+00:00",
+  "fetched_at": "2026-08-07T17:51:54.088885+00:00",
   "lookback_days": 30,
-  "total_bh_sites": 3305,
+  "total_bh_sites": 3306,
   "known_ids": [
     84379,
     84380,
@@ -3307,9 +3307,29 @@
     1328529,
     1328929,
     1328932,
-    1328933
+    1328933,
+    1329736
   ],
   "new_records": [
+    {
+      "objectid": 1329736,
+      "first_seen": "2026-08-07",
+      "id_raw": 77.009,
+      "year": 1977,
+      "pdf_url": null,
+      "site_name": "Transport Event",
+      "site_type": "Other(See Case File)",
+      "status": "C",
+      "street": "Highway 36 - nine miles west of Hwy 79 & Hwy 36 Junction",
+      "city": "Hermosa",
+      "county": "Custer",
+      "spill_cat": "Petroleum",
+      "material": "Gasoline",
+      "sor_type": "Transport Trailer",
+      "resp_party": "Standard Oil",
+      "lat": 43.772054,
+      "lon": -103.340557
+    },
     {
       "objectid": 1328932,
       "first_seen": "2026-07-30",
@@ -3632,25 +3652,6 @@
       "resp_party": "IDC Transport, Inc.",
       "lat": 44.901409,
       "lon": -103.712625
-    },
-    {
-      "objectid": 1325733,
-      "first_seen": "2026-07-07",
-      "id_raw": 2026003.0,
-      "year": 2026003,
-      "pdf_url": null,
-      "site_name": "Clean ATP - Derstine Property",
-      "site_type": "ATP",
-      "status": "O",
-      "street": "922 State Street",
-      "city": "Belle Fourche",
-      "county": "Butte",
-      "spill_cat": "Other(See Case File)",
-      "material": null,
-      "sor_type": "No Release",
-      "resp_party": "Russell Derstine",
-      "lat": 44.671209,
-      "lon": -103.846046
     }
   ]
 }

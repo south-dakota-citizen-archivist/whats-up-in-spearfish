@@ -1159,5 +1159,23 @@
     "asset_type": "agenda",
     "record_type": "document",
     "source_label": "Spearfish School Board"
+  },
+  {
+    "url": "https://files-backend.assets.thrillshare.com/documents/asset/uploaded_file/5977/Ssd/f497863b-6726-4bc0-8c55-6888b17636ce/August-10%2C-2026-School-Board-Agenda.pdf?disposition=inline",
+    "title": "August 10, 2026 School Board Agenda",
+    "slug": "spearfish-board-agenda-august-10-2026-school-board-agenda",
+    "published": "2026-08-10",
+    "asset_type": "agenda",
+    "record_type": "document",
+    "source_label": "Spearfish School Board"
+  },
+  {
+    "url": "https://files-backend.assets.thrillshare.com/documents/asset/uploaded_file/5977/Ssd/4208c445-2e00-4994-8153-08aae87e34ee/August-4%2C-2026-Special-School-Board-Meeting-Minutes.pdf?disposition=inline",
+    "title": "August 4, 2026 Special School Board Meeting Minutes",
+    "slug": "spearfish-board-minutes-august-4-2026-special-school-board-meeting-minutes",
+    "published": "2026-08-04",
+    "asset_type": "minutes",
+    "record_type": "document",
+    "source_label": "Spearfish School Board"
   }
 ]

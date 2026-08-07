@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-05T18:18:08.208498+00:00",
+  "fetched_at": "2026-08-07T17:47:17.298677+00:00",
   "notices": [
     {
       "notice_type": "Water Rights",
@@ -22,24 +22,6 @@
         {
           "label": "Recom. Action",
           "url": "https://danr.sd.gov/wrimage/pub/9030-3_rec.pdf"
-        }
-      ]
-    },
-    {
-      "notice_type": "Waste Management \u2014 Solid Waste",
-      "deadline": "8/6/2026",
-      "comment_url": "",
-      "name": "Roberts County",
-      "description": "Permit amendment application from Roberts County to current Type IIB municipal solid waste landfill permit to allow for the construction of a new municipal solid waste disposal area, a new leachate storage pond and a new storm water pond.",
-      "location": "Sisseton, SD",
-      "links": [
-        {
-          "label": "Public Notice",
-          "url": "https://danr.sd.gov/Press/docs/publicnotices/wastemanagementnotices/Roberts_County_LF_PN.pdf"
-        },
-        {
-          "label": "Draft Permit",
-          "url": "https://danr.sd.gov/Press/docs/publicnotices/wastemanagementnotices/Roberts_County_LF_26_Permit_draft_amendment.pdf"
         }
       ]
     },

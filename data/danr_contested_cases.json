@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-05T18:20:19.902738+00:00",
+  "fetched_at": "2026-08-07T17:49:31.113819+00:00",
   "cases": [
     {
       "ccid": "123",
@@ -126,6 +126,10 @@
       "docs_url": "https://danr.sd.gov/public/ccdocs.aspx?CCID=CCID130",
       "documents": [
         {
+          "label": "Scheduling Order",
+          "url": "https://danr.sd.gov/OfficeOfWater/SurfaceWaterQuality/docs/CCH/Custer/Scheduling Order 08062026.pdf"
+        },
+        {
           "label": "First Set Interrogatory Request to City of Custer",
           "url": "https://danr.sd.gov/OfficeOfWater/SurfaceWaterQuality/docs/CCH/Custer/Interrogatory Request Custer.pdf"
         },
@@ -140,13 +144,9 @@
         {
           "label": "The Program's Answer to Petitions",
           "url": "https://danr.sd.gov/OfficeOfWater/SurfaceWaterQuality/docs/CCH/Custer/The Programs Answer to Petitions.pdf"
-        },
-        {
-          "label": "City of Custer Answer to Petitions",
-          "url": "https://danr.sd.gov/OfficeOfWater/SurfaceWaterQuality/docs/CCH/Custer/Custer Answer to Petitions.pdf"
         }
       ],
-      "total_docs": 16,
+      "total_docs": 17,
       "latest_doc_date": "0000-00-00"
     },
     {

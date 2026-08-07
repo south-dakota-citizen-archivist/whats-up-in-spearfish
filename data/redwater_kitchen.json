@@ -1,5 +1,18 @@
 [
   {
+    "url": "https://untappd.com/b/sawyer-brewing-co-cadillac-couch/4477443",
+    "title": "Cadillac Couch",
+    "slug": "cadillac-couch",
+    "category": "Lager - Mexican",
+    "abv": "5.5%",
+    "ibu": "20",
+    "brewery": "Sawyer Brewing Co",
+    "rating": "3.7",
+    "image_url": "https://labels.untappd.com/4477443",
+    "record_type": "beer",
+    "source_label": "Redwater Kitchen"
+  },
+  {
     "url": "https://untappd.com/b/schell-s-brewery-oktoberfest/7022",
     "title": "Oktoberfest",
     "slug": "oktoberfest",
@@ -72,7 +85,7 @@
     "abv": "11.9%",
     "ibu": "",
     "brewery": "Central Waters Brewing Company",
-    "rating": "4.23",
+    "rating": "4.22",
     "image_url": "https://labels.untappd.com/6756630",
     "record_type": "beer",
     "source_label": "Redwater Kitchen"
