@@ -1,5 +1,18 @@
 [
   {
+    "url": "https://untappd.com/b/sawyer-brewing-co-2-stroke-haze-ipa/3801218",
+    "title": "2-Stroke Haze IPA",
+    "slug": "2-stroke-haze-ipa",
+    "category": "IPA - New England / Hazy",
+    "abv": "5.7%",
+    "ibu": "42",
+    "brewery": "Sawyer Brewing Co",
+    "rating": "3.81",
+    "image_url": "https://labels.untappd.com/3801218",
+    "record_type": "beer",
+    "source_label": "Redwater Kitchen"
+  },
+  {
     "url": "https://untappd.com/b/sawyer-brewing-co-cadillac-couch/4477443",
     "title": "Cadillac Couch",
     "slug": "cadillac-couch",
@@ -85,7 +98,7 @@
     "abv": "11.9%",
     "ibu": "",
     "brewery": "Central Waters Brewing Company",
-    "rating": "4.22",
+    "rating": "4.23",
     "image_url": "https://labels.untappd.com/6756630",
     "record_type": "beer",
     "source_label": "Redwater Kitchen"
@@ -126,19 +139,6 @@
     "brewery": "Dakota Point Brewing",
     "rating": "3.77",
     "image_url": "https://labels.untappd.com/5991597",
-    "record_type": "beer",
-    "source_label": "Redwater Kitchen"
-  },
-  {
-    "url": "https://untappd.com/b/sawyer-brewing-co-blood-orange-blonde-ale/3627064",
-    "title": "Blood Orange Blonde Ale",
-    "slug": "blood-orange-blonde-ale",
-    "category": "Blonde / Golden Ale - Other",
-    "abv": "4.9%",
-    "ibu": "18",
-    "brewery": "Sawyer Brewing Co",
-    "rating": "3.61",
-    "image_url": "https://labels.untappd.com/3627064",
     "record_type": "beer",
     "source_label": "Redwater Kitchen"
   },

@@ -25310,5 +25310,37 @@
     "status": "CONFIRMED",
     "record_type": "event",
     "source_label": "Spearfish HS Sports"
+  },
+  {
+    "uid": "h202608070802431201119c72d7d4545",
+    "url": "https://gobound.com/direct/comps/h202608070802431201119c72d7d4545/show",
+    "title": "Girls Tennis: Spearfish vs Rapid City Christian (Varsity)",
+    "slug": "girls-tennis-spearfish-vs-rapid-city-christian-varsity",
+    "sport": "Girls Tennis",
+    "level": "Varsity",
+    "sex": "female",
+    "description": "Varsity Girls Tennis - Spearfish vs Rapid City Christian",
+    "start_dt": "2026-08-17T15:00:00",
+    "end_dt": "2026-08-17T17:00:00",
+    "location": "Sioux Park",
+    "status": "CONFIRMED",
+    "record_type": "event",
+    "source_label": "Spearfish HS Sports"
+  },
+  {
+    "uid": "h202608070745132224267ed67a0ef4a",
+    "url": "https://gobound.com/direct/comps/h202608070745132224267ed67a0ef4a/show",
+    "title": "Chorus: SD ACDA Senior Honor Choir Auditions - Rapid City (Varsity)",
+    "slug": "chorus-sd-acda-senior-honor-choir-auditions-rapid-city-varsity",
+    "sport": "Chorus",
+    "level": "Varsity",
+    "sex": "coed",
+    "description": "Varsity Chorus - SD ACDA Senior Honor Choir Auditions - Rapid City",
+    "start_dt": "2027-04-07T21:30:00",
+    "end_dt": "2027-04-08T01:30:00",
+    "location": "Central High School",
+    "status": "CONFIRMED",
+    "record_type": "event",
+    "source_label": "Spearfish HS Sports"
   }
 ]
