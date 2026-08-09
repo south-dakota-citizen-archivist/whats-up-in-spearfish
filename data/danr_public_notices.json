@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-08T17:24:43.633592+00:00",
+  "fetched_at": "2026-08-09T17:26:06.646421+00:00",
   "notices": [
     {
       "notice_type": "Water Rights",
@@ -226,20 +226,6 @@
         {
           "label": "Application",
           "url": "https://danr.sd.gov/Environment/MineralsMining/Exploration/NewEXNIS.aspx"
-        }
-      ]
-    },
-    {
-      "notice_type": "Mining License",
-      "deadline": "",
-      "comment_url": "",
-      "name": "Carlson Crushing & Excavating, LLC",
-      "description": "Notice of Intent to Mine",
-      "location": "four miles south of Eden, SD on SD Hwy. 25",
-      "links": [
-        {
-          "label": "Public Notice",
-          "url": "https://media.sd.gov/danr/MM/S904009PublicNotice.pdf"
         }
       ]
     }

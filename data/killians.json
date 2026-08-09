@@ -52,15 +52,15 @@
     "source_label": "Killian's"
   },
   {
-    "url": "https://untappd.com/b/dry-dock-brewing-company-hopricot/1049148",
-    "title": "Hopricot",
-    "slug": "hopricot",
-    "category": "IPA - Fruited",
-    "abv": "6%",
-    "ibu": "17",
-    "brewery": "Dry Dock Brewing Company",
-    "rating": "3.72",
-    "image_url": "https://labels.untappd.com/1049148",
+    "url": "https://untappd.com/b/sawyer-brewing-co-raspberry-blonde/6500838",
+    "title": "Raspberry Blonde",
+    "slug": "raspberry-blonde",
+    "category": "Blonde / Golden Ale - Other",
+    "abv": "4.9%",
+    "ibu": "",
+    "brewery": "Sawyer Brewing Co",
+    "rating": "3.68",
+    "image_url": "https://labels.untappd.com/6500838",
     "record_type": "beer",
     "source_label": "Killian's"
   },
@@ -124,7 +124,7 @@
     "abv": "5.2%",
     "ibu": "",
     "brewery": "Modist Brewing Co.",
-    "rating": "3.87",
+    "rating": "3.88",
     "image_url": "https://labels.untappd.com/5936457",
     "record_type": "beer",
     "source_label": "Killian's"
@@ -208,15 +208,15 @@
     "source_label": "Killian's"
   },
   {
-    "url": "https://untappd.com/b/left-hand-brewing-company-flamingo-dreams-nitro/2985068",
-    "title": "Flamingo Dreams Nitro",
-    "slug": "flamingo-dreams-nitro",
-    "category": "Blonde / Golden Ale - Other",
-    "abv": "4.7%",
-    "ibu": "11",
+    "url": "https://untappd.com/b/left-hand-brewing-company-milk-stout-nitro/82680",
+    "title": "Milk Stout Nitro",
+    "slug": "milk-stout-nitro",
+    "category": "Stout - Milk / Sweet",
+    "abv": "6%",
+    "ibu": "25",
     "brewery": "Left Hand Brewing Company",
-    "rating": "3.5",
-    "image_url": "https://labels.untappd.com/2985068",
+    "rating": "3.93",
+    "image_url": "https://labels.untappd.com/82680",
     "record_type": "beer",
     "source_label": "Killian's"
   }
