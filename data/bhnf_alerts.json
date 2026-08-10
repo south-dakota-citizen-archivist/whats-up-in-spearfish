@@ -31,6 +31,16 @@
   },
   {
     "record_type": "alert",
+    "title": "Veteran's Point Area and Trail Closure",
+    "url": "https://www.fs.usda.gov/r02/blackhills/alerts/veterans-point-area-and-trail-closure",
+    "description": "Area and trail closure for Veteran's Point while construction work is being conducted.",
+    "published": "2026-08-16",
+    "source_label": "BHNF",
+    "alert_type": "information",
+    "forest_order": "BKF-196-2026"
+  },
+  {
+    "record_type": "alert",
     "title": "14-day Limit for Camping/Occupancy in the Black Hills National Forest",
     "url": "https://www.fs.usda.gov/r02/blackhills/alerts/14-day-limit-camping-occupancy-black-hills-national-forest",
     "description": "Camping or occupying on the Black Hills National Forest Lands for a period longer of 14 calendar days (including portions of days) in a continuous 28-day period is prohibited.",

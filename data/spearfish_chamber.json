@@ -3053,5 +3053,57 @@
     "website": "http://www.spearfishseniorcenter.com",
     "record_type": "event",
     "source_label": "Spearfish Chamber"
+  },
+  {
+    "url": "https://business.spearfishchamber.org/events/details/western-chuckwagon-supper-30836",
+    "title": "WESTERN CHUCKWAGON SUPPER",
+    "slug": "western-chuckwagon-supper",
+    "start_dt": "2026-08-22 5:00 PM MDT",
+    "end_dt": "2026-08-22 7:00 PM MDT",
+    "location": "Future Spearfish Museum location, 435 Meier Avenue",
+    "fees": "$50.00/individual (Ticket sales close at midnight August 18.No Walk-ups",
+    "description": "Gather Up, Spearfish Friends and Neighbors! Grab a partner and head to our signature summer fundraising event. WESTERN CHUCKWAGON SUPPER on Saturday, August 22, 5-7 pm (rain date Sunday, August 23). It is the only place where you can see the famous 76-year-old Spearfish Saddle Club Chuckwagon. LIVE WESTERN MUSIC from Jonny & Shel, and Katie Smirnova (playing her violin as a fiddle) FOOD: full chuckwagon meal (by the legendary Catering by Dave) includes: pulled pork (naked), ample sauce choices, potato salad, baked beans, coleslaw, buns, and dessert BEVERAGES: ice-cold water, lemonade, iced tea (included), and beer (extra cost, exclusively from Crow Peak Brewery) TICKETS: $50.00/individual (Ticket sales close at midnight August 18.No Walk-ups.) Tickets can be purchased through our website: https://www.spearfishmuseum.org PHOTO OPPORTUNITY: Get your photo taken with the famous Spearfish Saddle Club Chuckwagon (suggested donation of $5/photo) SEATING: Tables and chairs; bring a folding chair if you’d like to sit close to the music. TICKETS INCLUDE: Live music and food PROCEEDS BENEFIT: The Spearfish Museum development fund. The Spearfish Museum's mission is to acquire, preserve, and display the historic, cultural, and innovative spirit of the Spearfish area. PARKING: Brady Park, 510 Meier Ave.; disabled parking at 435 Meier Ave.",
+    "website": "https://www.spearfishmuseum.org/events",
+    "record_type": "event",
+    "source_label": "Spearfish Chamber"
+  },
+  {
+    "url": "https://business.spearfishchamber.org/events/details/open-house-special-exhibition-30837",
+    "title": "Open House Special Exhibition",
+    "slug": "open-house-special-exhibition",
+    "start_dt": "2026-08-28 1:00 PM MDT",
+    "end_dt": "2026-08-28 6:00 PM MDT",
+    "location": "435 Meier Ave. Spearfish",
+    "fees": "Free",
+    "description": "See the future Spearfish Museum main building, 421 Meier Ave., featuring amazing never-before-seen photos and memorabilia “Arne Koski’s Spearfish History”. Suggested donation: $10; BONUS: A massage certificate ($65 value) for the first person who donated $50 at the Open House.",
+    "website": "https://www.spearfishmuseum.org/events",
+    "record_type": "event",
+    "source_label": "Spearfish Chamber"
+  },
+  {
+    "url": "https://business.spearfishchamber.org/events/details/positive-pathways-09-10-2026-30830",
+    "title": "Positive Pathways",
+    "slug": "positive-pathways",
+    "start_dt": "2026-09-10 5:30 PM MDT",
+    "end_dt": "2026-09-10 6:30 PM MDT",
+    "location": "The Living Room 810 N Yale St. Spearfish, SD 57783",
+    "fees": "Free",
+    "description": "Are you in an abusive relationship and need support? Do you need support and connection to assist you in moving on? Maybe you just need some positivity and connection. This group is for you! Benefits of participating in support groups include: Alleviating feelings of loneliness and isolation Having a space to share openly and honestly about experiences and emotions Help in gaining a feeling of empowerment, control, and hope education and information to give you the power to change This is a group focusing on building self-esteem, developing healthy coping skills, setting healthy boundaries, and more! Come away with an action plan and goals and a vision for your future.",
+    "website": "https://www.artemishouse.org/support",
+    "record_type": "event",
+    "source_label": "Spearfish Chamber"
+  },
+  {
+    "url": "https://business.spearfishchamber.org/events/details/positive-pathways-09-24-2026-30831",
+    "title": "Positive Pathways",
+    "slug": "positive-pathways",
+    "start_dt": "2026-09-24 5:30 PM MDT",
+    "end_dt": "2026-09-24 6:30 PM MDT",
+    "location": "The Living Room",
+    "fees": "Free",
+    "description": "Are you in an abusive relationship and need support? Do you need support and connection to assist you in moving on? Maybe you just need some positivity and connection. This group is for you! Benefits of participating in support groups include: Alleviating feelings of loneliness and isolation Having a space to share openly and honestly about experiences and emotions Help in gaining a feeling of empowerment, control, and hope education and information to give you the power to change This is a group focusing on building self-esteem, developing healthy coping skills, setting healthy boundaries, and more! Come away with an action plan and goals and a vision for your future.",
+    "website": "https://www.artemishouse.org/support",
+    "record_type": "event",
+    "source_label": "Spearfish Chamber"
   }
 ]

@@ -3463,5 +3463,49 @@
     "image_url": "https://npr.brightspotcdn.com/03/01/df4dc20340a19b29929ee976566f/untitled-design-17.jpg",
     "record_type": "news",
     "source_label": "SDPB"
+  },
+  {
+    "url": "https://www.sdpb.org/education/2026-08-10/state-higher-education-system-further-embracing-ai-with-new-programs",
+    "title": "State higher education system further embracing AI with new programs",
+    "slug": "sdpb-state-higher-education-system-further-embracing-ai-with-new-programs",
+    "published": "2026-08-10",
+    "byline": "By C.J. Keene",
+    "description": "Four new programs ranging from bachelor’s to doctoral degrees in AI-focused fields are coming to Dakota State and South Dakota State Universities.",
+    "image_url": "https://npr.brightspotcdn.com/cb/5e/218f64ef40dcb725ce3496b307d9/yeiferr-computer-4795762.jpg",
+    "record_type": "news",
+    "source_label": "SDPB"
+  },
+  {
+    "url": "https://www.sdpb.org/politics/2026-08-10/trail-of-governors-unveils-former-gov-kristi-noem-statue",
+    "title": "Trail of Governors unveils former Gov. Kristi Noem statue",
+    "slug": "sdpb-trail-of-governors-unveils-former-gov-kristi-noem-statue",
+    "published": "2026-08-10",
+    "byline": "By Jackson Dircks",
+    "description": "Former Gov. Kristi Noem's likeness has joined her historical colleagues on the Trail of Governors in Pierre.",
+    "image_url": "https://npr.brightspotcdn.com/6a/22/7295e80f497c8a6e528020616198/untitled-design-23.jpg",
+    "record_type": "news",
+    "source_label": "SDPB"
+  },
+  {
+    "url": "https://www.sdpb.org/politics/2026-08-10/really-difficult-path-to-legislation-on-prediction-markets-johnson-says",
+    "title": "'Really difficult path' to legislation on prediction markets, Johnson says",
+    "slug": "sdpb-really-difficult-path-to-legislation-on-prediction-markets-johnson-says",
+    "published": "2026-08-10",
+    "byline": "By Jackson Dircks",
+    "description": "South Dakota’s lone representative in the U.S. House of Representatives is at the tip of the spear on a hot button issue: sports event prediction markets. Getting any legislation passed on the new national craze could be a challenge.",
+    "image_url": "https://npr.brightspotcdn.com/47/0c/e039fd7748edbd74892facf8d86a/dusty-johnson.jpg",
+    "record_type": "news",
+    "source_label": "SDPB"
+  },
+  {
+    "url": "https://www.sdpb.org/healthcare/2026-08-10/corn-eating-microbes-could-be-key-to-cancer-treatments-of-tomorrow",
+    "title": "Corn-eating microbes could be key to cancer treatments of tomorrow",
+    "slug": "sdpb-corn-eating-microbes-could-be-key-to-cancer-treatments-of-tomorrow",
+    "published": "2026-08-10",
+    "byline": "By C.J. Keene",
+    "description": "As the fight against cancers of all types continues to evolve, microbiology now offers a promising start for targeting the afflicted cell masses. What’s more, it comes with a uniquely South Dakota twist, involving the School of Mines, SURF, and of all things, corn farming.",
+    "image_url": "https://npr.brightspotcdn.com/legacy/prod/blog/20190725_145914_995616_clip0004t01-2.jpeg",
+    "record_type": "news",
+    "source_label": "SDPB"
   }
 ]

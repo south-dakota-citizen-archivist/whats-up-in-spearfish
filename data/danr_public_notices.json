@@ -1,30 +1,6 @@
 {
-  "fetched_at": "2026-08-09T17:26:06.646421+00:00",
+  "fetched_at": "2026-08-10T17:48:36.394670+00:00",
   "notices": [
-    {
-      "notice_type": "Water Rights",
-      "deadline": "08/04/2026",
-      "comment_url": "",
-      "application_no": "9030-3",
-      "name": "Mid-Dakota Rural Water System, Inc., c/o Scott Gross,\u00a0Miller\u00a0SD",
-      "location": "Hughes",
-      "water_source": "Missouri River",
-      "use_type": "Rural Water System",
-      "links": [
-        {
-          "label": "Public Notice",
-          "url": "https://danr.sd.gov/wrimage/pub/9030-3_app.pdf"
-        },
-        {
-          "label": "Appl.",
-          "url": "https://danr.sd.gov/wrimage/pub/9030-3_apl.pdf"
-        },
-        {
-          "label": "Recom. Action",
-          "url": "https://danr.sd.gov/wrimage/pub/9030-3_rec.pdf"
-        }
-      ]
-    },
     {
       "notice_type": "Concentrated Animal Feeding Operations (State Permit)",
       "deadline": "08/10/2026",
@@ -184,6 +160,30 @@
       ]
     },
     {
+      "notice_type": "Water Rights",
+      "deadline": "08/24/2026",
+      "comment_url": "",
+      "application_no": "4817A-3",
+      "name": "South Lincoln RWS, c/o John Stearns,\u00a0Beresford\u00a0SD",
+      "location": "Lincoln",
+      "water_source": "Dakota Aquifer",
+      "use_type": "RWS",
+      "links": [
+        {
+          "label": "Public Notice",
+          "url": "https://danr.sd.gov/wrimage/pub/4817A-3_app.pdf"
+        },
+        {
+          "label": "Appl.",
+          "url": "https://danr.sd.gov/wrimage/pub/4817A-3_apl.pdf"
+        },
+        {
+          "label": "Recom. Action",
+          "url": "https://danr.sd.gov/wrimage/pub/4817A-3_rec.pdf"
+        }
+      ]
+    },
+    {
       "notice_type": "Concentrated Animal Feeding Operations (State Permit)",
       "deadline": "08/28/2026",
       "comment_url": "https://danr.sd.gov/public/comment.aspx?d_comment=08/28/2026&name=Popham Livestock, LLC&pntype=fp_cafo&description=Expanding Beef Cattle Feeding Operation - State Permit",
@@ -194,6 +194,24 @@
         {
           "label": "Public Notice",
           "url": "https://danr.sd.gov/Press/docs/publicnotices/FeedlotPermit/PophamLivestockLLCPN.pdf"
+        }
+      ]
+    },
+    {
+      "notice_type": "Mining Permit",
+      "deadline": "09/03/2026",
+      "comment_url": "https://danr.sd.gov/public/comment.aspx?d_comment=09/03/2026&name=Teresa Fox&pntype=mm_app&description=DANR recommendation for conditional approval of mine permit amendment application",
+      "name": "Teresa Fox",
+      "description": "DANR recommendation for conditional approval of mine permit amendment application",
+      "location": "Nine miles southwest of Spearfish, SD",
+      "links": [
+        {
+          "label": "Public Notice",
+          "url": "https://danr.sd.gov/Press/docs/publicnotices/MineralsMining/FoxAmendRecommendation.pdf"
+        },
+        {
+          "label": "Application",
+          "url": "https://danr.sd.gov/Environment/MineralsMining/Exploration/NewMinePermitAmendments.aspx"
         }
       ]
     },

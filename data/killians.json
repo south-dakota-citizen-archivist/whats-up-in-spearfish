@@ -13,15 +13,15 @@
     "source_label": "Killian's"
   },
   {
-    "url": "https://untappd.com/b/sierra-nevada-brewing-co-pale-ale/6284",
-    "title": "Pale Ale",
-    "slug": "pale-ale",
-    "category": "Pale Ale - American",
-    "abv": "5.6%",
-    "ibu": "38",
-    "brewery": "Sierra Nevada Brewing Co.",
-    "rating": "3.62",
-    "image_url": "https://labels.untappd.com/6284",
+    "url": "https://untappd.com/b/surly-brewing-company-xtra/1444231",
+    "title": "Xtra",
+    "slug": "xtra",
+    "category": "Pale Ale - XPA (Extra Pale)",
+    "abv": "4.5%",
+    "ibu": "",
+    "brewery": "Surly Brewing Company",
+    "rating": "3.75",
+    "image_url": "https://labels.untappd.com/1444231",
     "record_type": "beer",
     "source_label": "Killian's"
   },
@@ -111,7 +111,7 @@
     "abv": "5.7%",
     "ibu": "25",
     "brewery": "Lost Cabin Beer Co.",
-    "rating": "3.84",
+    "rating": "3.85",
     "image_url": "https://labels.untappd.com/6256984",
     "record_type": "beer",
     "source_label": "Killian's"
@@ -176,7 +176,7 @@
     "abv": "7.3%",
     "ibu": "20",
     "brewery": "Remedy Brewing Company",
-    "rating": "3.74",
+    "rating": "3.75",
     "image_url": "https://labels.untappd.com/593393",
     "record_type": "beer",
     "source_label": "Killian's"

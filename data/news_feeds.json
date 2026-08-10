@@ -5296,5 +5296,25 @@
     "description": "\"Here I stand at the top of the mountain, the pinnacle of greatness, the highest achievement. I can officially say my biggest dreams have come true.\"",
     "record_type": "news",
     "source_label": "SD Newswatch"
+  },
+  {
+    "url": "https://www.sdnewswatch.org/south-dakota-mitchell-baseball-defamation-lawsuit/",
+    "title": "Mitchell baseball libel lawsuit against American Legion, media dismissed",
+    "slug": "sd-newswatch-mitchell-baseball-libel-lawsuit-against-american-legion-media",
+    "published": "2026-08-10",
+    "byline": "Molly Wetsch",
+    "description": "More than a year after the case by a former Mitchell baseball player was filed, a judge has ruled that statements made by the American Legion and circulated by the Mitchell Republic and KELO-TV do not constitute defamation.",
+    "record_type": "news",
+    "source_label": "SD Newswatch"
+  },
+  {
+    "url": "https://www.sdnewswatch.org/south-dakota-sturgis-rally-3-wheeled-cycles-safety/",
+    "title": "3-wheeled cycles a hot ride in Sturgis even as hidden safety issue arises",
+    "slug": "sd-newswatch-3-wheeled-cycles-a-hot-ride-in-sturgis-even-as-hidden-safety-issue",
+    "published": "2026-08-10",
+    "byline": "Bart Pfankuch",
+    "description": "Trikes, Spyders and Slingshots are growing in popularity, but they can prove tricky on turns, as evidenced by a recent wreck that killed a Sioux Falls woman.",
+    "record_type": "news",
+    "source_label": "SD Newswatch"
   }
 ]

@@ -814,5 +814,17 @@
     "image_url": "https://www.matthewsopera.com/wp-content/uploads/2026/07/TOTR_Banner_no_text.png",
     "record_type": "event",
     "source_label": "Matthews Opera House"
+  },
+  {
+    "title": "Theater on the Run | Sunday Matinee",
+    "url": "https://www.matthewsopera.com/event/theater-on-the-run-sunday-matinee/",
+    "slug": "theater-on-the-run-sunday-matinee",
+    "start_dt": "2026-09-13T14:00:00-06:00",
+    "end_dt": "2026-09-13T17:00:00-06:00",
+    "description": "Theater Running in Place — the whole of Murder at Legend Manor on one stage, no walking. Sunday, September 13 at 2 PM. $30. \\n",
+    "location": "The Matthews Opera House – Theatre",
+    "image_url": "https://www.matthewsopera.com/wp-content/uploads/2026/07/TOTR_Banner_no_text.png",
+    "record_type": "event",
+    "source_label": "Matthews Opera House"
   }
 ]

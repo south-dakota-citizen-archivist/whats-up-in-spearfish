@@ -1,37 +1,6 @@
 {
-  "fetched_at": "2026-08-09T17:28:29.781121+00:00",
+  "fetched_at": "2026-08-10T17:51:06.408015+00:00",
   "projects": [
-    {
-      "project_id": "304272",
-      "title": "Benchmark Vegetation Management",
-      "url": "https://www.fs.usda.gov/r02/blackhills/projects/304272",
-      "status": "In Progress",
-      "district": "Northern Hills Ranger District",
-      "purpose": "Forest Products|Fuels Management|Vegetation Management (Other Than Forest Products)",
-      "description": "This project would provide commercial timber products to local industry and would reduce fire hazard and the risk of insect infestation in the wildland urban interface. Non-commercial harvest to reduce fuels and maintain hardwood and meadows would also occur.",
-      "milestones": [
-        {
-          "name": "NEPA Start Date",
-          "date": "1/23/2026"
-        },
-        {
-          "name": "Finding/Decision Date",
-          "date": "7/16/2026"
-        }
-      ],
-      "comment_period_date": null,
-      "comment_period_sort": "9999-99",
-      "location_summary": "The project area is located south of Lead-Deadwood, SD, and is bounded by Vanocker Canyon Highway (Forest Highway 26), Benchmark Road (National Forest System Road 198), Custer Crossing Road (National Forest System Road 256), and Rochford Road (County Highway 17).",
-      "counties": [
-        "Lawrence; Meade"
-      ],
-      "contact": {
-        "name": "Chris Stores",
-        "email": "chris.stores@usda.gov",
-        "phone": "605-443-3081"
-      },
-      "last_updated": "7/17/2026"
-    },
     {
       "project_id": "66463",
       "title": "Lead-Deadwood Sanitation District Road Access SUP",
@@ -155,6 +124,22 @@
       "district": "Bearlodge Ranger District",
       "purpose": "Minerals And Geology",
       "description": "Rare Element Resources Inc. has submitted a Mine Plan of Operations to the Black Hills National Forest. The project proposes to develop an open-pit mine with associated infrastructure and support facilities. The project also includes reclamation, monitoring, mitigation, and closing.",
+      "milestones": [],
+      "comment_period_date": null,
+      "comment_period_sort": "9999-99",
+      "location_summary": "",
+      "counties": [],
+      "contact": {},
+      "last_updated": ""
+    },
+    {
+      "project_id": "304272",
+      "title": "Benchmark Vegetation Management",
+      "url": "https://www.fs.usda.gov/r02/blackhills/projects/304272",
+      "status": "Completed",
+      "district": "Northern Hills Ranger District",
+      "purpose": "Forest Products|Fuels Management|Vegetation Management (Other Than Forest Products)",
+      "description": "This project would provide commercial timber products to local industry and would reduce fire hazard and the risk of insect infestation in the wildland urban interface. Non-commercial harvest to reduce fuels and maintain hardwood and meadows would also occur.",
       "milestones": [],
       "comment_period_date": null,
       "comment_period_sort": "9999-99",
@@ -379,22 +364,6 @@
       "district": "Mystic Ranger District",
       "purpose": "Special Use Management",
       "description": "The Forest Service is proposes to issue a special use permit to construct and use a short, single land access road across National Forest System lands, providing reasonable access to a landlocked private parcel from an existing Forest road.",
-      "milestones": [],
-      "comment_period_date": null,
-      "comment_period_sort": "9999-99",
-      "location_summary": "",
-      "counties": [],
-      "contact": {},
-      "last_updated": ""
-    },
-    {
-      "project_id": "181487",
-      "title": "MS 1977 Eagle Trail EnterprisesLLC FLPMA Private Rd SUP",
-      "url": "https://www.fs.usda.gov/r02/blackhills/projects/181487",
-      "status": "Completed",
-      "district": "Northern Hills Ranger District",
-      "purpose": "Road Management|Special Use Management",
-      "description": "Owners of MS1977 have been utilizing NFSR 629.1 for access to their parcel. Since Travel Management, the road has been closed. A FLPMA SUP will bring the landowners into compliance with current Forest Service regulations. This permit will be issued for 20 years.",
       "milestones": [],
       "comment_period_date": null,
       "comment_period_sort": "9999-99",
