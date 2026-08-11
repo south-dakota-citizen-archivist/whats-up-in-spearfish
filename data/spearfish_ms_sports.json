@@ -6014,5 +6014,37 @@
     "status": "CONFIRMED",
     "record_type": "event",
     "source_label": "Spearfish MS Sports"
+  },
+  {
+    "uid": "h202608110530295265fd89d55630d47",
+    "url": "https://gobound.com/direct/comps/h202608110530295265fd89d55630d47/show",
+    "title": "Girls Cross Country: Gillette Invite (Middle School)",
+    "slug": "girls-cross-country-gillette-invite-middle-school",
+    "sport": "Girls Cross Country",
+    "level": "Middle School",
+    "sex": "female",
+    "description": "Middle School Girls Cross Country - Gillette Invite",
+    "start_dt": "2026-08-06T20:00:00",
+    "end_dt": "2026-08-06T22:00:00",
+    "location": "Gillette, Wyoming",
+    "status": "CONFIRMED",
+    "record_type": "event",
+    "source_label": "Spearfish MS Sports"
+  },
+  {
+    "uid": "h20260811053317015b9f40daa073e4a",
+    "url": "https://gobound.com/direct/comps/h20260811053317015b9f40daa073e4a/show",
+    "title": "Boys Cross Country: Gillette Invite  (Middle School)",
+    "slug": "boys-cross-country-gillette-invite-middle-school",
+    "sport": "Boys Cross Country",
+    "level": "Middle School",
+    "sex": "male",
+    "description": "Middle School Boys Cross Country - Gillette Invite",
+    "start_dt": "2026-08-06T20:00:00",
+    "end_dt": "2026-08-06T22:00:00",
+    "location": "Gillette, Wyoming",
+    "status": "CONFIRMED",
+    "record_type": "event",
+    "source_label": "Spearfish MS Sports"
   }
 ]

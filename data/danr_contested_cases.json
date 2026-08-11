@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-10T17:51:01.753266+00:00",
+  "fetched_at": "2026-08-11T17:57:53.212496+00:00",
   "cases": [
     {
       "ccid": "123",
@@ -42,6 +42,10 @@
       "docs_url": "https://danr.sd.gov/public/ccdocs.aspx?CCID=CCID124",
       "documents": [
         {
+          "label": "Notice of Entry of Procedural and Scheduling Order",
+          "url": "https://danr.sd.gov/Environment/WasteManagement/docs/RapidCityContestedCase2025/City of Rapid City Permit Application - NOE Procedural and Scheduling Order 8-10-2026.pdf"
+        },
+        {
           "label": "Notice of Entry of Order Granting G. Verne Goodsell, Nathan R. Oviatt, and Kristi Erdman Motion to Withdraw as Counsel",
           "url": "https://danr.sd.gov/Environment/WasteManagement/docs/RapidCityContestedCase2025/Rapid City Permit App NOE Order 72826.pdf"
         },
@@ -56,13 +60,9 @@
         {
           "label": "Motion to Withdraw as Counsel for Verne Goodsell, Nate Oviatt and Kristi Erdman and Order to Withdraw as Counsel",
           "url": "https://danr.sd.gov/Environment/WasteManagement/docs/RapidCityContestedCase2025/7.22.2026 to Binegar re Mot and Order Withdraw and Subst.pdf"
-        },
-        {
-          "label": "Motion for Procedural and Scheduling Order and Procedural and Scheduling Order",
-          "url": "https://danr.sd.gov/Environment/WasteManagement/docs/RapidCityContestedCase2025/7.17.26 Binegar correspondence.pdf"
         }
       ],
-      "total_docs": 32,
+      "total_docs": 33,
       "latest_doc_date": "0000-00-00"
     },
     {

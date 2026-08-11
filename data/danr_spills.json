@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-10T17:53:24.740334+00:00",
+  "fetched_at": "2026-08-11T18:00:09.520208+00:00",
   "lookback_days": 30,
   "total_bh_sites": 3306,
   "known_ids": [
@@ -3308,9 +3308,29 @@
     1328929,
     1328932,
     1328933,
+    1329339,
     1329736
   ],
   "new_records": [
+    {
+      "objectid": 1329339,
+      "first_seen": "2026-08-11",
+      "id_raw": 2026.123,
+      "year": 2026,
+      "pdf_url": "https://danr.sd.gov/spillimages/2026/2026.123.pdf",
+      "site_name": "Paradise Gulch Ln Drilling Fluid Release",
+      "site_type": "Other(See Case File)",
+      "status": "O",
+      "street": "Paradise Gulch Lane",
+      "city": "Lead",
+      "county": "Lawrence",
+      "spill_cat": "Other(See Case File)",
+      "material": "Drilling Fluid",
+      "sor_type": "Drill Rig",
+      "resp_party": "Dakota Gold Corp",
+      "lat": 44.401465,
+      "lon": -103.800011
+    },
     {
       "objectid": 1329736,
       "first_seen": "2026-08-07",

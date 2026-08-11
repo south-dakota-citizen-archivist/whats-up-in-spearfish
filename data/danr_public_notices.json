@@ -1,20 +1,6 @@
 {
-  "fetched_at": "2026-08-10T17:48:36.394670+00:00",
+  "fetched_at": "2026-08-11T17:55:48.105674+00:00",
   "notices": [
-    {
-      "notice_type": "Concentrated Animal Feeding Operations (State Permit)",
-      "deadline": "08/10/2026",
-      "comment_url": "https://danr.sd.gov/public/comment.aspx?d_comment=08/10/2026&name=Ryan Storm&pntype=fp_cafo&description=Expanding Swine Feeding Operation - State Permit",
-      "name": "Ryan Storm",
-      "description": "Expanding Swine Feeding Operation - State Permit",
-      "location": "Davison County",
-      "links": [
-        {
-          "label": "Public Notice",
-          "url": "https://danr.sd.gov/Press/docs/publicnotices/FeedlotPermit/RyanStormExpansionPN.pdf"
-        }
-      ]
-    },
     {
       "notice_type": "Concentrated Animal Feeding Operations (State Permit)",
       "deadline": "08/14/2026",
@@ -244,6 +230,24 @@
         {
           "label": "Application",
           "url": "https://danr.sd.gov/Environment/MineralsMining/Exploration/NewEXNIS.aspx"
+        }
+      ]
+    },
+    {
+      "notice_type": "Waste Management \u2014 Municipal Solid Waste",
+      "deadline": "",
+      "comment_url": "",
+      "name": "Roberts County",
+      "description": "Permit amendment issued on August 7, 2026 to continue operation of a municipal solid waste landfill. This courtesy notice only serves to announce issuance of the permit. All opportunities to contest the permit have passed.",
+      "location": "Sisseton, SD",
+      "links": [
+        {
+          "label": "Notice",
+          "url": "https://danr.sd.gov/Press/docs/publicnotices/wastemanagementnotices/Roberts_County _LF_26_Web_Notice.pdf"
+        },
+        {
+          "label": "Issued Permit",
+          "url": "https://danr.sd.gov/Press/docs/publicnotices/wastemanagementnotices/Roberts County LF 2026 Permit amendment.pdf"
         }
       ]
     }
