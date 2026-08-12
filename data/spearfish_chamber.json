@@ -3144,5 +3144,70 @@
     "website": "https://bhssc.coursestorm.com/",
     "record_type": "event",
     "source_label": "Spearfish Chamber"
+  },
+  {
+    "url": "https://business.spearfishchamber.org/events/details/caramel-rolls-coffee-08-20-2026-30853",
+    "title": "Caramel Rolls & Coffee",
+    "slug": "caramel-rolls-coffee",
+    "start_dt": "2026-08-20 8:30 AM MDT",
+    "end_dt": "2026-08-20 10:00 AM MDT",
+    "location": "Spearfish Senior Center 1306 N 10th St Spearfish, SD 57783",
+    "fees": "$1 coffee $3 roll",
+    "description": "The Spearfish Senior Center invites the public to their Caramel Rolls & Coffee Social Hour Thursday mornings starting at 8:30AM-10:30AM. Rolls are $3, and coffee is $1 – 100% of proceeds goes to our Senior Center. This social hour takes place every Thursday morning! Everyone welcome. Located at 1306 N 10th St. Spearfish, SD 57783.",
+    "website": "http://www.spearfishseniorcenter.com",
+    "record_type": "event",
+    "source_label": "Spearfish Chamber"
+  },
+  {
+    "url": "https://business.spearfishchamber.org/events/details/acoustic-jam-30855",
+    "title": "Acoustic Jam",
+    "slug": "acoustic-jam",
+    "start_dt": "2026-08-22 2:00 PM MDT",
+    "end_dt": "2026-08-22 4:00 PM MDT",
+    "location": "Spearfish Senior Center 1306 N 10th St Spearfish, SD 57783",
+    "fees": "Free will donation",
+    "description": "The Spearfish Senior Center will be hosting an Acoustic Jam Session open mic style on Saturday, Aug 22nd from 2pm-4pm. We will have a collection of local musicians playing various instruments, and singing. Join us for a fun afternoon with music & friends. Coffee & light refreshments will be served. Free will donation at the door. 100% of proceeds goes to our nonprofit organization. Open to the public-everyone welcome! The event will be held at the Spearfish Senior Center at 1306 N 10th St. in Spearfish.",
+    "website": "http://www.spearfishseniorcenter.com",
+    "record_type": "event",
+    "source_label": "Spearfish Chamber"
+  },
+  {
+    "url": "https://business.spearfishchamber.org/events/details/caramel-rolls-coffee-08-27-2026-30854",
+    "title": "Caramel Rolls & Coffee",
+    "slug": "caramel-rolls-coffee",
+    "start_dt": "2026-08-27 8:30 AM MDT",
+    "end_dt": "2026-08-27 10:30 AM MDT",
+    "location": "Spearfish Senior Center 1306 N 10th St Spearfish, SD 57783",
+    "fees": "$1 coffee $3 rolls",
+    "description": "The Spearfish Senior Center invites the public to their Caramel Rolls & Coffee Social Hour Thursday mornings starting at 8:30AM-10:30AM. Rolls are $3, and coffee is $1 – 100% of proceeds goes to our Senior Center. This social hour takes place every Thursday morning! Everyone welcome. Located at 1306 N 10th St. Spearfish, SD 57783.",
+    "website": "http://www.spearfishseniorcenter.com",
+    "record_type": "event",
+    "source_label": "Spearfish Chamber"
+  },
+  {
+    "url": "https://business.spearfishchamber.org/events/details/ranch-a-social-auction-30852",
+    "title": "Ranch A Social & Auction",
+    "slug": "ranch-a-social-auction",
+    "start_dt": "2026-08-29 4:00 PM MDT",
+    "end_dt": "2026-08-29 9:00 PM MDT",
+    "location": "Ranch A located 5 miles south of Beulah, WY, on Sand Creek.",
+    "fees": "$50/person",
+    "description": "Open bar at 4:00, heavy hors d'oeuvres by The Buffalo Jump Steakhouse at 4:30, live entertainment, raffle prizes, silent auction, and live auction. A nice relaxing evening at scenic and historic Ranch A Lodge on Sand Creek.",
+    "website": "http://www.RanchA.com",
+    "record_type": "event",
+    "source_label": "Spearfish Chamber"
+  },
+  {
+    "url": "https://business.spearfishchamber.org/events/details/how-to-build-a-powerful-resue-and-crush-an-interview-30851",
+    "title": "How to Build a Powerful Resue and Crush an Interview!",
+    "slug": "how-to-build-a-powerful-resue-and-crush-an-interview",
+    "start_dt": "2026-09-21",
+    "end_dt": "",
+    "location": "Spearfish Chamber of Commerce; 106 W Kansas St, Spearfish, SD 57783",
+    "fees": "$30 to Community Education",
+    "description": "Ready to stand out from the competition and land your next opportunity? In this interactive workshop, you'll learn how to create a professional, attention-grabbing resume that highlights your skills, experience, and strengths. We'll also cover essential interview techniques, including how to answer common questions with confidence, make a great first impression, and showcase your value to employers. Whether you're entering the workforce, changing careers, or seeking advancement, this class will provide practical tools to help you succeed. Students are encouraged to bring current resumes.",
+    "website": "https://bhssc.coursestorm.com/",
+    "record_type": "event",
+    "source_label": "Spearfish Chamber"
   }
 ]

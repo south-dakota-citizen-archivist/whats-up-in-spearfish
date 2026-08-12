@@ -68878,5 +68878,53 @@
     "title": "City Council Study Session Minutes 7/29/2026",
     "doc_type": "Minutes",
     "file_url": "https://spearfishsd.portal.civicclerk.com/event/2191/files/minutes/7742"
+  },
+  {
+    "event_id": 3350,
+    "event_name": "Art in Public Places Advisory Board Meeting",
+    "category": "General",
+    "start_dt": "2026-08-13T16:00:00Z",
+    "location": "625 N 5th St, Council Chambers, Spearfish, SD, 57783",
+    "portal_url": "https://spearfishsd.portal.civicclerk.com/event/3350",
+    "has_media": true,
+    "media_url": "",
+    "record_type": "document",
+    "source_label": "City of Spearfish",
+    "url": "https://spearfishsd.portal.civicclerk.com/event/3350/files/agenda-packet/7761",
+    "title": "Agenda Packet",
+    "doc_type": "Agenda Packet",
+    "file_url": "https://spearfishsd.portal.civicclerk.com/event/3350/files/agenda-packet/7761"
+  },
+  {
+    "event_id": 2192,
+    "event_name": "City Council Study Session",
+    "category": "City Council",
+    "start_dt": "2026-08-12T16:15:00Z",
+    "location": "City Hall, 625 N 5th St, Spearfish, SD, 57783",
+    "portal_url": "https://spearfishsd.portal.civicclerk.com/event/2192",
+    "has_media": true,
+    "media_url": "",
+    "record_type": "document",
+    "source_label": "City of Spearfish",
+    "url": "https://spearfishsd.portal.civicclerk.com/event/2192/files/agenda/7751",
+    "title": "City Council Study Session Agenda 8/12/2026",
+    "doc_type": "Agenda",
+    "file_url": "https://spearfishsd.portal.civicclerk.com/event/2192/files/agenda/7751"
+  },
+  {
+    "event_id": 2192,
+    "event_name": "City Council Study Session",
+    "category": "City Council",
+    "start_dt": "2026-08-12T16:15:00Z",
+    "location": "City Hall, 625 N 5th St, Spearfish, SD, 57783",
+    "portal_url": "https://spearfishsd.portal.civicclerk.com/event/2192",
+    "has_media": true,
+    "media_url": "",
+    "record_type": "document",
+    "source_label": "City of Spearfish",
+    "url": "https://spearfishsd.portal.civicclerk.com/event/2192/files/agenda-packet/7764",
+    "title": "Updated Study Session Packet 8/12/2026",
+    "doc_type": "Agenda Packet",
+    "file_url": "https://spearfishsd.portal.civicclerk.com/event/2192/files/agenda-packet/7764"
   }
 ]

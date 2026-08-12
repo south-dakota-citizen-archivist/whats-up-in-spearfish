@@ -1186,5 +1186,14 @@
     "asset_type": "agenda",
     "record_type": "document",
     "source_label": "Spearfish School Board"
+  },
+  {
+    "url": "https://files-backend.assets.thrillshare.com/documents/asset/uploaded_file/5977/Ssd/1beed2d6-82ae-487c-b283-24fe4c6482d9/August-10%2C-2026-School-Board-Minutes.pdf?disposition=inline",
+    "title": "August 10, 2026 School Board Minutes",
+    "slug": "spearfish-board-minutes-august-10-2026-school-board-minutes",
+    "published": "2026-08-10",
+    "asset_type": "minutes",
+    "record_type": "document",
+    "source_label": "Spearfish School Board"
   }
 ]

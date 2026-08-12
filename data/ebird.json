@@ -1,6 +1,84 @@
 {
-  "fetched_at": "2026-08-11T17:55:24.655483+00:00",
+  "fetched_at": "2026-08-12T17:54:25.195972+00:00",
   "observations": [
+    {
+      "species_code": "eucdov",
+      "common_name": "Eurasian Collared-Dove",
+      "scientific_name": "Streptopelia decaocto",
+      "observed_on": "2026-08-11",
+      "count": 9,
+      "location_name": "Hay Creek Riverwalk Tr., Belle Fourche",
+      "lat": 44.6607556,
+      "lng": -103.8511922,
+      "location_id": "L9299971",
+      "checklist_id": "S382424570",
+      "photo_url": "https://static.inaturalist.org/photos/61919353/square.jpeg"
+    },
+    {
+      "species_code": "blujay",
+      "common_name": "Blue Jay",
+      "scientific_name": "Cyanocitta cristata",
+      "observed_on": "2026-08-11",
+      "count": 2,
+      "location_name": "Hay Creek Riverwalk Tr., Belle Fourche",
+      "lat": 44.6607556,
+      "lng": -103.8511922,
+      "location_id": "L9299971",
+      "checklist_id": "S382424570",
+      "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/530721418/square.jpg"
+    },
+    {
+      "species_code": "eursta",
+      "common_name": "European Starling",
+      "scientific_name": "Sturnus vulgaris",
+      "observed_on": "2026-08-11",
+      "count": 5,
+      "location_name": "Hay Creek Riverwalk Tr., Belle Fourche",
+      "lat": 44.6607556,
+      "lng": -103.8511922,
+      "location_id": "L9299971",
+      "checklist_id": "S382424570",
+      "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/32152001/square.jpg"
+    },
+    {
+      "species_code": "amerob",
+      "common_name": "American Robin",
+      "scientific_name": "Turdus migratorius",
+      "observed_on": "2026-08-11",
+      "count": 13,
+      "location_name": "Hay Creek Riverwalk Tr., Belle Fourche",
+      "lat": 44.6607556,
+      "lng": -103.8511922,
+      "location_id": "L9299971",
+      "checklist_id": "S382424570",
+      "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/34859026/square.jpg"
+    },
+    {
+      "species_code": "cedwax",
+      "common_name": "Cedar Waxwing",
+      "scientific_name": "Bombycilla cedrorum",
+      "observed_on": "2026-08-11",
+      "count": 10,
+      "location_name": "Hay Creek Riverwalk Tr., Belle Fourche",
+      "lat": 44.6607556,
+      "lng": -103.8511922,
+      "location_id": "L9299971",
+      "checklist_id": "S382424570",
+      "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/450146514/square.jpeg"
+    },
+    {
+      "species_code": "houfin",
+      "common_name": "House Finch",
+      "scientific_name": "Haemorhous mexicanus",
+      "observed_on": "2026-08-11",
+      "count": 3,
+      "location_name": "Hay Creek Riverwalk Tr., Belle Fourche",
+      "lat": 44.6607556,
+      "lng": -103.8511922,
+      "location_id": "L9299971",
+      "checklist_id": "S382424570",
+      "photo_url": "https://static.inaturalist.org/photos/178968933/square.jpg"
+    },
     {
       "species_code": "turvul",
       "common_name": "Turkey Vulture",
@@ -80,19 +158,6 @@
       "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/123812445/square.jpg"
     },
     {
-      "species_code": "amerob",
-      "common_name": "American Robin",
-      "scientific_name": "Turdus migratorius",
-      "observed_on": "2026-08-10",
-      "count": 1,
-      "location_name": "Roughlock Falls, SD",
-      "lat": 44.35,
-      "lng": -103.944,
-      "location_id": "L47457577",
-      "checklist_id": "S382146698",
-      "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/34859026/square.jpg"
-    },
-    {
       "species_code": "amered",
       "common_name": "American Redstart",
       "scientific_name": "Setophaga ruticilla",
@@ -158,19 +223,6 @@
       "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/95736689/square.jpg"
     },
     {
-      "species_code": "blujay",
-      "common_name": "Blue Jay",
-      "scientific_name": "Cyanocitta cristata",
-      "observed_on": "2026-08-10",
-      "count": 2,
-      "location_name": "Mt. Moriah Cemetery",
-      "lat": 44.375209,
-      "lng": -103.724331,
-      "location_id": "L11793514",
-      "checklist_id": "S381976435",
-      "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/530721418/square.jpg"
-    },
-    {
       "species_code": "amecro",
       "common_name": "American Crow",
       "scientific_name": "Corvus brachyrhynchos",
@@ -194,7 +246,7 @@
       "lng": -103.724331,
       "location_id": "L11793514",
       "checklist_id": "S381976435",
-      "photo_url": "https://static.inaturalist.org/photos/327483470/square.png"
+      "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/117331702/square.jpg"
     },
     {
       "species_code": "towsol",
@@ -286,19 +338,6 @@
       "location_id": "L75371428",
       "checklist_id": "S381960660",
       "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/245267194/square.jpg"
-    },
-    {
-      "species_code": "houfin",
-      "common_name": "House Finch",
-      "scientific_name": "Haemorhous mexicanus",
-      "observed_on": "2026-08-10",
-      "count": 2,
-      "location_name": "50 Tatanka Drive, Deadwood, South Dakota, US (44.396, -103.713)",
-      "lat": 44.3963676,
-      "lng": -103.7125399,
-      "location_id": "L75371428",
-      "checklist_id": "S381960660",
-      "photo_url": "https://static.inaturalist.org/photos/178968933/square.jpg"
     },
     {
       "species_code": "brebla",
@@ -442,19 +481,6 @@
       "location_id": "L75327398",
       "checklist_id": "S381701385",
       "photo_url": "https://static.inaturalist.org/photos/16329727/square.jpg"
-    },
-    {
-      "species_code": "cedwax",
-      "common_name": "Cedar Waxwing",
-      "scientific_name": "Bombycilla cedrorum",
-      "observed_on": "2026-08-09",
-      "count": 1,
-      "location_name": "George S. Mickelson Trail, Lead US-SD 44.29720, -103.78420",
-      "lat": 44.297204,
-      "lng": -103.784198,
-      "location_id": "L75327398",
-      "checklist_id": "S381701385",
-      "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/450146514/square.jpeg"
     },
     {
       "species_code": "redcro",
@@ -624,32 +650,6 @@
       "location_id": "L1008375",
       "checklist_id": "S381706904",
       "photo_url": "https://static.inaturalist.org/photos/33624391/square.jpg"
-    },
-    {
-      "species_code": "swathr",
-      "common_name": "Swainson's Thrush",
-      "scientific_name": "Catharus ustulatus",
-      "observed_on": "2026-08-09",
-      "count": 6,
-      "location_name": "Spearfish Canyon--Roughlock Falls",
-      "lat": 44.3506788,
-      "lng": -103.9417036,
-      "location_id": "L1008375",
-      "checklist_id": "S381706904",
-      "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/194570525/square.jpg"
-    },
-    {
-      "species_code": "comgra",
-      "common_name": "Common Grackle",
-      "scientific_name": "Quiscalus quiscula",
-      "observed_on": "2026-08-09",
-      "count": 2,
-      "location_name": "Spearfish Canyon--Roughlock Falls",
-      "lat": 44.3506788,
-      "lng": -103.9417036,
-      "location_id": "L1008375",
-      "checklist_id": "S381706904",
-      "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/265296529/square.jpg"
     }
   ]
 }

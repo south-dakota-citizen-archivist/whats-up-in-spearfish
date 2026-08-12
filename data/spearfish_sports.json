@@ -25454,5 +25454,37 @@
     "status": "CONFIRMED",
     "record_type": "event",
     "source_label": "Spearfish HS Sports"
+  },
+  {
+    "uid": "h20260811070235555438c3e7d961b42",
+    "url": "https://gobound.com/direct/comps/h20260811070235555438c3e7d961b42/show",
+    "title": "Girls Tennis: Spearfish vs Rapid City Central (Junior Varsity)",
+    "slug": "girls-tennis-spearfish-vs-rapid-city-central-junior-varsity",
+    "sport": "Girls Tennis",
+    "level": "Junior Varsity",
+    "sex": "female",
+    "description": "Junior Varsity Girls Tennis - Spearfish vs Rapid City Central",
+    "start_dt": "2026-08-10T15:00:00",
+    "end_dt": "2026-08-11T04:00:00",
+    "location": "Parkview Tennis Courts",
+    "status": "CONFIRMED",
+    "record_type": "event",
+    "source_label": "Spearfish HS Sports"
+  },
+  {
+    "uid": "h202608120539102871f678e70783c4b",
+    "url": "https://gobound.com/direct/comps/h202608120539102871f678e70783c4b/show",
+    "title": "Volleyball: Spearfish vs Rapid City Stevens (Freshman B)",
+    "slug": "volleyball-spearfish-vs-rapid-city-stevens-freshman-b",
+    "sport": "Volleyball",
+    "level": "Freshman B",
+    "sex": "female",
+    "description": "Freshman B Volleyball - Spearfish vs Rapid City Stevens",
+    "start_dt": "2026-09-15T23:30:00",
+    "end_dt": "2026-09-16T01:00:00",
+    "location": "Rapid City Stevens High School Auxiliary Gym",
+    "status": "CONFIRMED",
+    "record_type": "event",
+    "source_label": "Spearfish HS Sports"
   }
 ]

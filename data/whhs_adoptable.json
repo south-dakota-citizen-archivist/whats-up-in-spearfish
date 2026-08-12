@@ -169,7 +169,7 @@
     "title": "Chongus",
     "slug": "cat-chongus",
     "species": "cat",
-    "description": "Male | Undetermined age (~1-3 years old)\nNever been around dogs, unsure how he will do around other cats\nChongus came to us as a stray and we believed him to be feral. He’s not feral at all but he’s pretty scared. He’s a giant sweetie that would do well in a quiet home where he can come out of his shell.",
+    "description": "Male | Undetermined age (~1-3 years old)\nNot a fan of big dogs, likes puppies, unsure how he will do around other cats\nChongus came to us as a stray and we believed him to be feral. He’s not feral at all but he’s pretty scared. He’s a giant sweetie that would do well in a quiet home where he can come out of his shell.",
     "image_url": "https://images.squarespace-cdn.com/content/v1/6833638f52663f7b5354620e/ff93b526-84e0-4c5f-a301-1a536f97f83e/Chongus.jpg?format=500w",
     "image_alt": "Chongus",
     "record_type": "adoptable",
@@ -290,7 +290,7 @@
     "title": "Pikes",
     "slug": "cat-pikes",
     "species": "cat",
-    "description": "Male | Born ~5/29/26 \nNeeds a slow introduction to dogs\nA mountain babe to Cascade, our mountain mama. These kitties arrived in July 2026 and are playful, but also quite lazy. Pikes is the most adventurous of the litter. The boys in this litter are about twice the size of their sisters!",
+    "description": "Male | Born ~5/29/26 \nApplication Pending\nNeeds a slow introduction to dogs\nA mountain babe to Cascade, our mountain mama. These kitties arrived in July 2026 and are playful, but also quite lazy. Pikes is the most adventurous of the litter. The boys in this litter are about twice the size of their sisters!",
     "image_url": "https://images.squarespace-cdn.com/content/v1/6833638f52663f7b5354620e/908b587d-cf40-4e19-b97b-9cdec4fcb6bf/Pikes.jpg?format=500w",
     "image_alt": "Pikes",
     "record_type": "adoptable",
@@ -403,6 +403,28 @@
     "description": "Male | Shepherd/Akita/Kelpie Mix | 1+ year old\nSeems fine with other dogs, unsure of cats (but his siblings have done fine w/ cats!)\nPhoenix is the most brave and excited to meet people. He opened up to us pretty quickly and continues to be a good boy with a crooked gaze! He loves to go on walks and get outside for exercise! He is the last of the Mythicals here at the shelter.\nPhoenix weighs 52 lbs.\nPhoenix came to us the week of June 21st, 2026 with 7 other dogs. They were involved in a house explosion in the early morning of June 21st. There were 17 dogs total and all dogs (and humans) survived. All dogs have singed fur but thankfully, only a couple had severe injuries. We don’t know their former names and any other history than potential breed mixes. We do know they lived with children.",
     "image_url": "https://images.squarespace-cdn.com/content/v1/6833638f52663f7b5354620e/b5fc71d9-cf7b-4987-9c65-66ac1f418067/image2+%287%29.jpeg?format=500w",
     "image_alt": "Phoenix",
+    "record_type": "adoptable",
+    "source_label": "Western Hills Humane Society"
+  },
+  {
+    "url": "https://www.westernhillshumanesociety.com/dogs",
+    "title": "Droopy",
+    "slug": "dog-droopy",
+    "species": "dog",
+    "description": "Male | Corgi/Beagle | Born 5/30/26\n10 week old puppy who is full of energy! He plays hard for a few minutes and then sleeps for hours. He’s full of puppy teeth, puppy breath, and spunk. Little man is already showing some signs of potty training and is eating both hard and soft food. He loves to chew on anything in reach! Cords, books, shoes, laces, and anything else, he’s a true pup! \nRight now, he weighs about 5 pounds, but will likely grow into a 35-50 pound dog. \nPuppies are $200 + $150 refundable neuter fee = $362.40 after tax",
+    "image_url": "https://images.squarespace-cdn.com/content/v1/6833638f52663f7b5354620e/12bffc60-652b-4a82-a921-4e09e1e5420a/image0+%2818%29.jpeg?format=500w",
+    "image_alt": "Droopy",
+    "record_type": "adoptable",
+    "source_label": "Western Hills Humane Society"
+  },
+  {
+    "url": "https://www.westernhillshumanesociety.com/dogs",
+    "title": "Toby",
+    "slug": "dog-toby",
+    "species": "dog",
+    "description": "Male | Yellow Lab Mix | Around 2 years\nSeems to get along with dogs, cats unknown, loves people \nToby came to us as a stray. A lovely lady picked him up and took care of him for a while before being brought to the shelter. Unfortunately no one has stepped forward to claim me! I am a lover of people, I just want to cuddle and go on walks. \nToby weighs 52 pounds!",
+    "image_url": "https://images.squarespace-cdn.com/content/v1/6833638f52663f7b5354620e/9c31b4d2-f3f1-4a61-8248-a0c7e4e0c963/IMG_9599.jpeg?format=500w",
+    "image_alt": "Toby",
     "record_type": "adoptable",
     "source_label": "Western Hills Humane Society"
   }
