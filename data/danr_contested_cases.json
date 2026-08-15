@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-12T17:57:17.110357+00:00",
+  "fetched_at": "2026-08-15T17:18:18.438641+00:00",
   "cases": [
     {
       "ccid": "123",
@@ -42,6 +42,10 @@
       "docs_url": "https://danr.sd.gov/public/ccdocs.aspx?CCID=CCID124",
       "documents": [
         {
+          "label": "Petitioner's Joint Motion to Extend Scheduling Order",
+          "url": "https://danr.sd.gov/Environment/WasteManagement/docs/RapidCityContestedCase2025/Motion for Modification of Scheduling Order.pdf"
+        },
+        {
           "label": "Petitioner's Motion for Summary Disposition and Additional Pleadings",
           "url": "https://danr.sd.gov/Environment/WasteManagement/docs/RapidCityContestedCase2025/Motion Sum Disp, etc. elecrtonic.pdf"
         },
@@ -56,13 +60,9 @@
         {
           "label": "Petitioner's July 23, 2026 Letter to Counsel for Board of Minerals and Environment",
           "url": "https://danr.sd.gov/Environment/WasteManagement/docs/RapidCityContestedCase2025/2026-7-28 Johnson letter to McVey with ltr to Goodsell withdrawing from legal rep.pdf"
-        },
-        {
-          "label": "Petitioner's July 23, 2026 Letter and Notice of Appearance",
-          "url": "https://danr.sd.gov/Environment/WasteManagement/docs/RapidCityContestedCase2025/Petitioners_Signed_Notice_of_Appearance.pdf"
         }
       ],
-      "total_docs": 34,
+      "total_docs": 35,
       "latest_doc_date": "0000-00-00"
     },
     {
@@ -254,6 +254,10 @@
       "docs_url": "https://danr.sd.gov/public/ccdocs.aspx?CCID=CCID126",
       "documents": [
         {
+          "label": "Proposed Findings of Fact & Conclusions of Law",
+          "url": "https://danr.sd.gov/wrimage/pub/8982-3 Century Swine_propFOF.pdf"
+        },
+        {
           "label": "Supplemental Pre-Hearing Submission by Counsel for the Applicant",
           "url": "https://danr.sd.gov/wrimage/pub/8982-3_CenturySwine Sub.pdf"
         },
@@ -268,13 +272,9 @@
         {
           "label": "Pre-Hearing Submission by Counsel for Petitioners",
           "url": "https://danr.sd.gov/wrimage/pub/8982-3_prehearsub_pet.pdf"
-        },
-        {
-          "label": "Filings Submitted by Counsel for the Chief Engineer",
-          "url": "https://danr.sd.gov/wrimage/pub/8982-3_greco_2.pdf"
         }
       ],
-      "total_docs": 24,
+      "total_docs": 25,
       "latest_doc_date": "0000-00-00"
     },
     {

@@ -1,5 +1,31 @@
 [
   {
+    "url": "https://untappd.com/b/dry-dock-brewing-company-apricot-blonde/304989",
+    "title": "Apricot Blonde",
+    "slug": "apricot-blonde",
+    "category": "Blonde / Golden Ale - Other",
+    "abv": "5.1%",
+    "ibu": "17",
+    "brewery": "Dry Dock Brewing Company",
+    "rating": "3.8",
+    "image_url": "https://labels.untappd.com/304989",
+    "record_type": "beer",
+    "source_label": "Redwater Kitchen"
+  },
+  {
+    "url": "https://untappd.com/b/lost-cabin-beer-co-bruce-banner-apa/1645307",
+    "title": "Bruce Banner APA",
+    "slug": "bruce-banner-apa",
+    "category": "Pale Ale - American",
+    "abv": "5.6%",
+    "ibu": "60",
+    "brewery": "Lost Cabin Beer Co.",
+    "rating": "3.79",
+    "image_url": "https://labels.untappd.com/1645307",
+    "record_type": "beer",
+    "source_label": "Redwater Kitchen"
+  },
+  {
     "url": "https://untappd.com/b/sawyer-brewing-co-2-stroke-haze-ipa/3801218",
     "title": "2-Stroke Haze IPA",
     "slug": "2-stroke-haze-ipa",
@@ -35,19 +61,6 @@
     "brewery": "Schell’s Brewery",
     "rating": "3.63",
     "image_url": "https://labels.untappd.com/7022",
-    "record_type": "beer",
-    "source_label": "Redwater Kitchen"
-  },
-  {
-    "url": "https://untappd.com/b/outer-range-brewing-co-in-the-steep/2002572",
-    "title": "In the Steep",
-    "slug": "in-the-steep",
-    "category": "IPA - New England / Hazy",
-    "abv": "6.7%",
-    "ibu": "",
-    "brewery": "Outer Range Brewing Co.",
-    "rating": "4.09",
-    "image_url": "https://labels.untappd.com/2002572",
     "record_type": "beer",
     "source_label": "Redwater Kitchen"
   },
@@ -98,7 +111,7 @@
     "abv": "11.9%",
     "ibu": "",
     "brewery": "Central Waters Brewing Company",
-    "rating": "4.23",
+    "rating": "4.22",
     "image_url": "https://labels.untappd.com/6756630",
     "record_type": "beer",
     "source_label": "Redwater Kitchen"
@@ -126,19 +139,6 @@
     "brewery": "Phat Fish Brewery",
     "rating": "3.7",
     "image_url": "https://labels.untappd.com/4159588",
-    "record_type": "beer",
-    "source_label": "Redwater Kitchen"
-  },
-  {
-    "url": "https://untappd.com/b/dakota-point-brewing-o-quinn-s-irish-red-ale/5991597",
-    "title": "O'Quinn's Irish Red Ale",
-    "slug": "o-quinn-s-irish-red-ale",
-    "category": "Red Ale - Irish",
-    "abv": "5.7%",
-    "ibu": "21",
-    "brewery": "Dakota Point Brewing",
-    "rating": "3.76",
-    "image_url": "https://labels.untappd.com/5991597",
     "record_type": "beer",
     "source_label": "Redwater Kitchen"
   },

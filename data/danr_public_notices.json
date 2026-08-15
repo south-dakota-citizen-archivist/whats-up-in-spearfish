@@ -1,66 +1,6 @@
 {
-  "fetched_at": "2026-08-12T17:54:57.528472+00:00",
+  "fetched_at": "2026-08-15T17:16:12.708046+00:00",
   "notices": [
-    {
-      "notice_type": "Concentrated Animal Feeding Operations (State Permit)",
-      "deadline": "08/14/2026",
-      "comment_url": "https://danr.sd.gov/public/comment.aspx?d_comment=08/14/2026&name=Thunderbird Hutterian Brethren, Inc.&pntype=fp_cafo&description=Expanding Swine Feeding Operation - State Permit",
-      "name": "Thunderbird Hutterian Brethren, Inc.",
-      "description": "Expanding Swine Feeding Operation - State Permit",
-      "location": "Faulk County",
-      "links": [
-        {
-          "label": "Public Notice",
-          "url": "https://danr.sd.gov/Press/docs/publicnotices/FeedlotPermit/ThunderbirdExpansionPN.pdf"
-        }
-      ]
-    },
-    {
-      "notice_type": "Concentrated Animal Feeding Operations (State Permit)",
-      "deadline": "08/14/2026",
-      "comment_url": "https://danr.sd.gov/public/comment.aspx?d_comment=08/14/2026&name=Jamesville Hutterian Brethren, Inc.&pntype=fp_cafo&description=New Swine Feeding Operation - State Permit",
-      "name": "Jamesville Hutterian Brethren, Inc.",
-      "description": "New Swine Feeding Operation - State Permit",
-      "location": "Yankton County",
-      "links": [
-        {
-          "label": "Public Notice",
-          "url": "https://danr.sd.gov/Press/docs/publicnotices/FeedlotPermit/JamesvilleNorthPN.pdf"
-        }
-      ]
-    },
-    {
-      "notice_type": "Concentrated Animal Feeding Operations (State Permit)",
-      "deadline": "08/14/2026",
-      "comment_url": "https://danr.sd.gov/public/comment.aspx?d_comment=08/14/2026&name=Great Bend, LLC&pntype=fp_cafo&description=New Swine Feeding Operation - State Permit",
-      "name": "Great Bend, LLC",
-      "description": "New Swine Feeding Operation - State Permit",
-      "location": "Spink County",
-      "links": [
-        {
-          "label": "Public Notice",
-          "url": "https://danr.sd.gov/Press/docs/publicnotices/FeedlotPermit/GreatBendLLCPN.pdf"
-        }
-      ]
-    },
-    {
-      "notice_type": "Waste Management \u2014 Solid Waste",
-      "deadline": "8/14/2026",
-      "comment_url": "",
-      "name": "Otter Tail Power Company",
-      "description": "Permit renewal application to continue operation of a Type IIA Solid Waste Facility",
-      "location": "Big Stone City, SD",
-      "links": [
-        {
-          "label": "Public Notice",
-          "url": "https://danr.sd.gov/Press/docs/publicnotices/wastemanagementnotices/Otter_Tail_Power_Company_PN.pdf"
-        },
-        {
-          "label": "Draft Permit",
-          "url": "https://danr.sd.gov/Press/docs/publicnotices/wastemanagementnotices/DRAFT_Otter_Tail_Power_Company_26.pdf"
-        }
-      ]
-    },
     {
       "notice_type": "Waste Management \u2014 Solid Waste",
       "deadline": "8/17/2026",
@@ -142,6 +82,40 @@
         {
           "label": "Draft Permit",
           "url": "https://danr.sd.gov/Press/docs/publicnotices/wastemanagementnotices/DRAFT_Ipswich_26_IP.pdf"
+        }
+      ]
+    },
+    {
+      "notice_type": "Surface Water Enhancement & Restoration",
+      "deadline": "08/22/2026",
+      "comment_url": "https://danr.sd.gov/public/comment.aspx?d_comment=08/22/2026&name=Richard Bothwell-Silver Creek Dredging Project&pntype=sw_er&description=Proposing a project to dredge sediment from Silver Creek to restore channel depth and enhance the aesthetics of the creek.",
+      "name": "Richard Bothwell-Silver Creek Dredging Project",
+      "description": "Proposing a project to dredge sediment from Silver Creek to restore channel depth and enhance the aesthetics of the creek.",
+      "links": [
+        {
+          "label": "Public Notice",
+          "url": "https://danr.sd.gov/officeofwater/surfacewaterquality/pn/BothwellPN.pdf"
+        },
+        {
+          "label": "Application",
+          "url": "https://danr.sd.gov/officeofwater/surfacewaterquality/pn/BothwellWorkplan.pdf"
+        }
+      ]
+    },
+    {
+      "notice_type": "Surface Water Enhancement & Restoration",
+      "deadline": "08/24/2026",
+      "comment_url": "https://danr.sd.gov/public/comment.aspx?d_comment=08/24/2026&name=City of Mitchell-Lake Mitchell Drawdown/Dredging Phase I&pntype=sw_er&description=Proposing a project to improve the water quality in Lake Mitchell using a combination of lake drawdown and dredging to remove sediment from the lakebed.",
+      "name": "City of Mitchell-Lake Mitchell Drawdown/Dredging Phase I",
+      "description": "Proposing a project to improve the water quality in Lake Mitchell using a combination of lake drawdown and dredging to remove sediment from the lakebed.",
+      "links": [
+        {
+          "label": "Public Notice",
+          "url": "https://danr.sd.gov/officeofwater/surfacewaterquality/pn/Lake Mitchell PN.pdf"
+        },
+        {
+          "label": "Application",
+          "url": "https://danr.sd.gov/officeofwater/surfacewaterquality/pn/Lake Mitchell Application.pdf"
         }
       ]
     },
@@ -233,6 +207,20 @@
         {
           "label": "Application Review",
           "url": "http://danr.sd.gov/Environment/AirQuality/PN/AIsb.pdf"
+        }
+      ]
+    },
+    {
+      "notice_type": "Concentrated Animal Feeding Operations (State Permit)",
+      "deadline": "09/12/2026",
+      "comment_url": "https://danr.sd.gov/public/comment.aspx?d_comment=09/12/2026&name=Christensen Farms and Feedlots, Inc.&pntype=fp_cafo&description=New Swine Feeding Operation Replacing an Existing Permitted Beef Cattle Feeding Operation - State Permit",
+      "name": "Christensen Farms and Feedlots, Inc.",
+      "description": "New Swine Feeding Operation Replacing an Existing Permitted Beef Cattle Feeding Operation - State Permit",
+      "location": "McPherson County",
+      "links": [
+        {
+          "label": "Public Notice",
+          "url": "https://danr.sd.gov/Press/docs/publicnotices/FeedlotPermit/ChristensenFarmsandFeedlotsIncPN.pdf"
         }
       ]
     },
