@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-15T17:18:30.742027+00:00",
+  "fetched_at": "2026-08-16T17:18:40.729748+00:00",
   "lookback_days": 30,
   "records": [
     {
@@ -1548,58 +1548,6 @@
       "lat": 44.517983,
       "lon": -103.447533,
       "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/69250/attachments/11963"
-    },
-    {
-      "objectid": 69213,
-      "date": "2026-07-16",
-      "species": "White-tailed Deer",
-      "highway": "16",
-      "sex": "Female",
-      "present": "Yes",
-      "comments": null,
-      "contractor": "Chris Moeller",
-      "lat": 43.899024,
-      "lon": -103.593194,
-      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/69213/attachments/11926"
-    },
-    {
-      "objectid": 69214,
-      "date": "2026-07-16",
-      "species": "White-tailed Deer",
-      "highway": "",
-      "sex": "Unknown",
-      "present": "No",
-      "comments": "27625 garden dr",
-      "contractor": "Chris Moeller",
-      "lat": 43.401344,
-      "lon": -103.436448,
-      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/69214/attachments/11927"
-    },
-    {
-      "objectid": 69215,
-      "date": "2026-07-16",
-      "species": "White-tailed Deer",
-      "highway": "79",
-      "sex": "Male",
-      "present": "Yes",
-      "comments": null,
-      "contractor": "Chris Moeller",
-      "lat": 43.417086,
-      "lon": -103.38802,
-      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/69215/attachments/11928"
-    },
-    {
-      "objectid": 69216,
-      "date": "2026-07-16",
-      "species": "White-tailed Deer",
-      "highway": "",
-      "sex": "Female",
-      "present": "Yes",
-      "comments": null,
-      "contractor": "Chris Moeller",
-      "lat": 44.003226,
-      "lon": -103.331025,
-      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/69216/attachments/11929"
     }
   ]
 }
