@@ -838,5 +838,17 @@
     "image_url": "https://www.matthewsopera.com/wp-content/uploads/2026/08/Black-and-Beige-Minimalist-Focus-Motivational-Poster-2.png",
     "record_type": "event",
     "source_label": "Matthews Opera House"
+  },
+  {
+    "title": "Dinosaur Dimensions: Expedition!",
+    "url": "https://www.matthewsopera.com/event/dinosaur-dimensions-expedition/",
+    "slug": "dinosaur-dimensions-expedition",
+    "start_dt": "2026-11-01T16:00:00-07:00",
+    "end_dt": "2026-11-01T18:00:00-07:00",
+    "description": "Bring the whole family on a prehistoric adventure with Dinosaur Dimensions: Expedition, a high-energy live stage show packed with life-size animatronic dinosaurs, colorful characters, science experiments, and interactive fun. Audiences ... Read more \\n",
+    "location": "",
+    "image_url": "https://www.matthewsopera.com/wp-content/uploads/2026/08/videoframe_8076.png",
+    "record_type": "event",
+    "source_label": "Matthews Opera House"
   }
 ]

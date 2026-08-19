@@ -1,5 +1,17 @@
 [
   {
+    "url": "https://www.spearfish.gov/bids.aspx?bidID=88",
+    "title": "2026-2027 Snow Removal & Hauling Services",
+    "slug": "city-of-spearfish-27-09",
+    "bid_no": "27-09",
+    "status": "Open",
+    "closes": "9/2/2026 1:30 PM",
+    "closes_iso": "2026-09-02T13:30:00",
+    "description": "",
+    "record_type": "bid",
+    "source_label": "City of Spearfish"
+  },
+  {
     "url": "https://www.spearfish.gov/bids.aspx?bidID=87",
     "title": "Downtown Mill & Overlay",
     "slug": "city-of-spearfish-26-29",

@@ -3672,5 +3672,71 @@
     "image_url": "https://npr.brightspotcdn.com/9a/b0/332fe88d4f69bc24233463a0f05b/untitled-design-26.jpg",
     "record_type": "news",
     "source_label": "SDPB"
+  },
+  {
+    "url": "https://www.sdpb.org/science/2026-08-19/sdsu-researchers-take-part-lego-inspired-organ-transplantation-project",
+    "title": "SDSU researchers take part LEGO-inspired organ transplantation project",
+    "slug": "sdpb-sdsu-researchers-take-part-lego-inspired-organ-transplantation-project",
+    "published": "2026-08-19",
+    "byline": "By Julia Stelter",
+    "description": "South Dakota State University is collaborating on a research project that could potentially change the future of organ transplantations.",
+    "image_url": "https://npr.brightspotcdn.com/88/60/2251b75e4cb08f6151ada524156e/screenshot-12-8-2026-15434-www-sdstate-edu.jpeg",
+    "record_type": "news",
+    "source_label": "SDPB"
+  },
+  {
+    "url": "https://www.sdpb.org/crime-courts/2026-08-19/meta-on-trial-will-south-dakota-kids-allegedly-harmed-by-social-media-benefit-from-the-outcome",
+    "title": "Meta on trial: Will South Dakota kids allegedly harmed by social media benefit from the outcome?",
+    "slug": "sdpb-meta-on-trial-will-south-dakota-kids-allegedly-harmed-by-social-media-from",
+    "published": "2026-08-19",
+    "byline": "By Lori Walsh",
+    "description": "South Dakota Attorney General Marty Jackley offers an update on litigation against social media giant Meta. He also explains his reasons for appealing a judge's decision regarding Mayday Health.",
+    "image_url": "https://npr.brightspotcdn.com/52/a4/27ad8392458d90c0af200f3647e9/website-photo-1.png",
+    "record_type": "news",
+    "source_label": "SDPB"
+  },
+  {
+    "url": "https://www.sdpb.org/politics/2026-08-18/legislators-approve-increase-on-livestock-ownership-inspection-fee",
+    "title": "Legislators approve increase on livestock ownership inspection fee",
+    "slug": "sdpb-legislators-approve-increase-on-livestock-ownership-inspection-fee",
+    "published": "2026-08-18",
+    "byline": "By Jackson Dircks",
+    "description": "A <a href=\"https://mylrc.sdlegislature.gov/api/Documents/306748.pdf\"><b>state committee</b></a> approves <a href=\"https://rules.sd.gov/detail?Id=960\"><b>a $0.45 per head fee increase</b></a> to the Livestock Ownership Inspection Fee. Despite some pushback from producers, proponents say the increase is necessary to keep the state’s Brand Board fund afloat.",
+    "image_url": "https://npr.brightspotcdn.com/95/0a/660018594dc1a9f77b27b1a72c1f/684553430b-cattle-in-feedlot-1.jpg",
+    "record_type": "news",
+    "source_label": "SDPB"
+  },
+  {
+    "url": "https://www.sdpb.org/politics/2026-08-18/door-closes-on-aberdeen-license-plate-reader-cameras",
+    "title": "Door closes on Aberdeen license plate reader cameras",
+    "slug": "sdpb-door-closes-on-aberdeen-license-plate-reader-cameras",
+    "published": "2026-08-18",
+    "byline": "By Jackson Dircks",
+    "description": "Aberdeen will not have license plate reader cameras in tandem with the state. This comes after opposition on the mayor’s social media page when he asked for feedback on the prospect.",
+    "image_url": "https://npr.brightspotcdn.com/legacy/prod/filer_public/Blog-NewsInformation/Top102016/city-of-aberdeen.jpg",
+    "record_type": "news",
+    "source_label": "SDPB"
+  },
+  {
+    "url": "https://www.sdpb.org/politics/2026-08-18/how-federal-cannabis-scheduling-shakeup-impacts-south-dakota-medical-marijuana-policy",
+    "title": "How federal cannabis scheduling shakeup impacts South Dakota medical marijuana policy",
+    "slug": "sdpb-how-federal-cannabis-scheduling-shakeup-impacts-south-dakota-medical-policy",
+    "published": "2026-08-18",
+    "byline": "By C.J. Keene",
+    "description": "At its latest meeting, the state Medical Marijuana Oversight Committee learned about the impacts of ongoing reclassification of marijuana at the federal level.",
+    "image_url": "https://npr.brightspotcdn.com/32/f9/e32c257b42f9962b142b1b34e718/450fa2595f-marijuana.JPG",
+    "record_type": "news",
+    "source_label": "SDPB"
+  },
+  {
+    "url": "https://www.sdpb.org/rural-life-and-history/2026-08-18/proposed-changes-to-historic-preservation-laws-could-eliminate-regulation-advocates-say",
+    "title": "Proposed changes to historic preservation laws could 'eliminate' regulation, advocates say",
+    "slug": "sdpb-proposed-changes-to-historic-preservation-laws-could-eliminate-regulation",
+    "published": "2026-08-18",
+    "byline": "By Julia Stelter",
+    "description": "The National Historic Preservation Act requires federal agencies to account for the effects of their actions on historic properties for any project, and advocates say newly proposed changes could eliminate that.",
+    "image_url": "https://npr.brightspotcdn.com/ae/18/0679dc964036abf14479ccbf994e/historic-district.JPG",
+    "record_type": "news",
+    "source_label": "SDPB"
   }
 ]

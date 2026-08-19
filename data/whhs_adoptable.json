@@ -155,17 +155,6 @@
   },
   {
     "url": "https://www.westernhillshumanesociety.com/cats",
-    "title": "Zeus",
-    "slug": "cat-zeus",
-    "species": "cat",
-    "description": "Male | Maine Coon Mix | 13 years old \nDiabetic, needing insulin every 12 hours. Currently being fostered. Please reach out to schedule a meet-and-greet!\nFront declaw - indoor only!\nZeus is a Maine Coon mix - a BIG boy! He’s an older gentlemen that needs some TLC and he will be visiting the groomer on 7/8/26 for a much needed shave and bath. He’ll be feeling fresh and looking for his forever home. He has lived with cats, dogs, and children. He does get defensive with dogs if they are too “up-in-his-business.”\nSeniors are $25 to adopt or ask about our Senior for Senior program!",
-    "image_url": "https://images.squarespace-cdn.com/content/v1/6833638f52663f7b5354620e/61f3d512-719d-4497-97ed-67826584e1e6/1000049382.jpg?format=500w",
-    "image_alt": "Zeus",
-    "record_type": "adoptable",
-    "source_label": "Western Hills Humane Society"
-  },
-  {
-    "url": "https://www.westernhillshumanesociety.com/cats",
     "title": "Mia",
     "slug": "cat-mia",
     "species": "cat",
@@ -458,6 +447,28 @@
     "description": "Male | Retriever/Black Lab Mix | Born Jan. 2022\nCharlie came to us on 8/15/26 after the health decline of his owner - life happens and luckily we were here to help out a family having to make this hard choice. Charlie is a sweet boy, a little chunky, and a HUGE fan of belly rubs. He’s a very, very good boy that would love to find his next human/family.",
     "image_url": "https://images.squarespace-cdn.com/content/v1/6833638f52663f7b5354620e/13ebccb5-f87c-42f2-950f-3381b533897f/Charlie.jpg?format=500w",
     "image_alt": "Charlie",
+    "record_type": "adoptable",
+    "source_label": "Western Hills Humane Society"
+  },
+  {
+    "url": "https://www.westernhillshumanesociety.com/dogs",
+    "title": "Athena",
+    "slug": "dog-athena",
+    "species": "dog",
+    "description": "Female | Retriever/Labrador Mix | Born April 2020\nAthena came to us on 8/18/26 after the health decline of her owner. She is “sister” to Charlie who came to us a few days earlier. Life happens and we are happy to help this sweet girl find her new home.",
+    "image_url": "https://images.squarespace-cdn.com/content/v1/6833638f52663f7b5354620e/3814bdf8-76e1-4c7e-94f9-23353da79100/1000052645.jpg?format=500w",
+    "image_alt": "Athena",
+    "record_type": "adoptable",
+    "source_label": "Western Hills Humane Society"
+  },
+  {
+    "url": "https://www.westernhillshumanesociety.com/dogs",
+    "title": "Sunny",
+    "slug": "dog-sunny",
+    "species": "dog",
+    "description": "Female | Staffordshire Bull Terrier/American Pitbull/Lab Mix | Born ~2019-2020\nSunny is back with us after spending 7 months with a family. She was returned after biting her grandma. She first came to us after coming in as a stray in July of 2025.\nSunny’s adoption fee is $75 since she's been a long term resident and is approaching her senior years.",
+    "image_url": "https://images.squarespace-cdn.com/content/v1/6833638f52663f7b5354620e/9cf663fd-7d3d-4e33-9727-75c75d714e11/1000052650.jpg?format=500w",
+    "image_alt": "Sunny",
     "record_type": "adoptable",
     "source_label": "Western Hills Humane Society"
   }

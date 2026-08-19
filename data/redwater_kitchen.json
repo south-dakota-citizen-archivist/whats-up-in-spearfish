@@ -1,5 +1,18 @@
 [
   {
+    "url": "https://untappd.com/b/sawyer-brewing-co-blood-orange-blonde-ale/3627064",
+    "title": "Blood Orange Blonde Ale",
+    "slug": "blood-orange-blonde-ale",
+    "category": "Blonde / Golden Ale - Other",
+    "abv": "4.9%",
+    "ibu": "18",
+    "brewery": "Sawyer Brewing Co",
+    "rating": "3.61",
+    "image_url": "https://labels.untappd.com/3627064",
+    "record_type": "beer",
+    "source_label": "Redwater Kitchen"
+  },
+  {
     "url": "https://untappd.com/b/dry-dock-brewing-company-apricot-blonde/304989",
     "title": "Apricot Blonde",
     "slug": "apricot-blonde",
@@ -35,19 +48,6 @@
     "brewery": "Sawyer Brewing Co",
     "rating": "3.81",
     "image_url": "https://labels.untappd.com/3801218",
-    "record_type": "beer",
-    "source_label": "Redwater Kitchen"
-  },
-  {
-    "url": "https://untappd.com/b/sawyer-brewing-co-cadillac-couch/4477443",
-    "title": "Cadillac Couch",
-    "slug": "cadillac-couch",
-    "category": "Lager - Mexican",
-    "abv": "5.5%",
-    "ibu": "20",
-    "brewery": "Sawyer Brewing Co",
-    "rating": "3.7",
-    "image_url": "https://labels.untappd.com/4477443",
     "record_type": "beer",
     "source_label": "Redwater Kitchen"
   },

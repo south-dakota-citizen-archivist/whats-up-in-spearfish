@@ -1,24 +1,6 @@
 {
-  "fetched_at": "2026-08-16T17:15:47.055008+00:00",
+  "fetched_at": "2026-08-19T17:22:41.298534+00:00",
   "notices": [
-    {
-      "notice_type": "Waste Management \u2014 Solid Waste",
-      "deadline": "8/17/2026",
-      "comment_url": "",
-      "name": "Dakota Metal Recycling, Inc.",
-      "description": "Initial permit application to begin operation of a Type IIB Automobile and White Goods/Salvageable Metal Shredding Solid Waste Facility located approximately 0.94 miles west of Huron, SD.",
-      "location": "Huron, SD",
-      "links": [
-        {
-          "label": "Public Notice",
-          "url": "https://danr.sd.gov/Press/docs/publicnotices/wastemanagementnotices/Dakota_Metal_Recycling_PN.pdf"
-        },
-        {
-          "label": "Draft Permit",
-          "url": "https://danr.sd.gov/Press/docs/publicnotices/wastemanagementnotices/DRAFT_Dakota_Metal_Recycling_26_IP.pdf"
-        }
-      ]
-    },
     {
       "notice_type": "Water Rights",
       "deadline": "08/17/2026",
@@ -154,6 +136,168 @@
         {
           "label": "Public Notice",
           "url": "https://danr.sd.gov/Press/docs/publicnotices/FeedlotPermit/PophamLivestockLLCPN.pdf"
+        }
+      ]
+    },
+    {
+      "notice_type": "Water Rights",
+      "deadline": "08/31/2026",
+      "comment_url": "",
+      "application_no": "9011-3",
+      "name": "Lenny Peterson,\u00a0Hitchcock\u00a0SD",
+      "location": "Spink",
+      "water_source": "Tulare Western Spink Hitchcock Aquifer",
+      "use_type": "Irrigation (160 acres)",
+      "links": [
+        {
+          "label": "Public Notice",
+          "url": "https://danr.sd.gov/wrimage/pub/9011-3_app.pdf"
+        },
+        {
+          "label": "Appl.",
+          "url": "https://danr.sd.gov/wrimage/pub/9011-3_apl.pdf"
+        },
+        {
+          "label": "Recom. Action",
+          "url": "https://danr.sd.gov/wrimage/pub/9011-3_rec.pdf"
+        }
+      ]
+    },
+    {
+      "notice_type": "Water Rights",
+      "deadline": "08/31/2026",
+      "comment_url": "",
+      "application_no": "9008-3",
+      "name": "Brian Gilbert,\u00a0Sioux Falls\u00a0SD",
+      "location": "Spink",
+      "water_source": "Tulare: Western Spink Hitchcock Aquifer",
+      "use_type": "Irrigation (300 acres)",
+      "links": [
+        {
+          "label": "Public Notice",
+          "url": "https://danr.sd.gov/wrimage/pub/9008-3_app.pdf"
+        },
+        {
+          "label": "Appl.",
+          "url": "https://danr.sd.gov/wrimage/pub/9008-3_apl.pdf"
+        },
+        {
+          "label": "Recom. Action",
+          "url": "https://danr.sd.gov/wrimage/pub/9008-3_rec.pdf"
+        }
+      ]
+    },
+    {
+      "notice_type": "Water Rights",
+      "deadline": "08/31/2026",
+      "comment_url": "",
+      "application_no": "9010-3",
+      "name": "Lenny Peterson,\u00a0Hitchcock\u00a0SD",
+      "location": "Spink",
+      "water_source": "Tulare: Western Spink Hitchcock Aquifer",
+      "use_type": "Irrigation (280 acres)",
+      "links": [
+        {
+          "label": "Public Notice",
+          "url": "https://danr.sd.gov/wrimage/pub/9010-3_app.pdf"
+        },
+        {
+          "label": "Appl.",
+          "url": "https://danr.sd.gov/wrimage/pub/9010-3_apl.pdf"
+        },
+        {
+          "label": "Recom. Action",
+          "url": "https://danr.sd.gov/wrimage/pub/9010-3_rec.pdf"
+        }
+      ]
+    },
+    {
+      "notice_type": "Water Rights",
+      "deadline": "08/31/2026",
+      "comment_url": "",
+      "application_no": "2909-2",
+      "name": "Weinreis Brothers, Charles Weinreis,\u00a0Edgemont\u00a0SD",
+      "location": "Fall River",
+      "water_source": "Madison Aquifer",
+      "use_type": "Commercial",
+      "links": [
+        {
+          "label": "Public Notice",
+          "url": "https://danr.sd.gov/wrimage/pub/2909-2_app.pdf"
+        },
+        {
+          "label": "Appl.",
+          "url": "https://danr.sd.gov/wrimage/pub/2909-2_apl.pdf"
+        },
+        {
+          "label": "Recom. Action",
+          "url": "https://danr.sd.gov/wrimage/pub/2909-2_rec.pdf"
+        }
+      ]
+    },
+    {
+      "notice_type": "Water Rights",
+      "deadline": "08/31/2026",
+      "comment_url": "",
+      "application_no": "9037-3",
+      "name": "Hoffman Farms, Dani Hoffman,\u00a0Bowdle\u00a0SD",
+      "location": "Walworth",
+      "water_source": "Bowdle: Edmunds Aquifer",
+      "use_type": "Irrigation (reinstatement of 8397-3)",
+      "links": [
+        {
+          "label": "Public Notice",
+          "url": "https://danr.sd.gov/wrimage/pub/9037-3_app.pdf"
+        },
+        {
+          "label": "Appl.",
+          "url": "https://danr.sd.gov/wrimage/pub/9037-3_apl.pdf"
+        },
+        {
+          "label": "Recom. Action",
+          "url": "https://danr.sd.gov/wrimage/pub/9037-3_rec.pdf"
+        }
+      ]
+    },
+    {
+      "notice_type": "Water Rights",
+      "deadline": "08/31/2026",
+      "comment_url": "",
+      "application_no": "9043-3",
+      "name": "Great Bend, LLC., c/o Justin Roelofs,\u00a0Pipestone\u00a0MN",
+      "location": "Spink",
+      "water_source": "Dakota Aquifer",
+      "use_type": "Commercial",
+      "links": [
+        {
+          "label": "Public Notice",
+          "url": "https://danr.sd.gov/wrimage/pub/9043-3_app.pdf"
+        },
+        {
+          "label": "Appl.",
+          "url": "https://danr.sd.gov/wrimage/pub/9043-3_apl.pdf"
+        },
+        {
+          "label": "Recom. Action",
+          "url": "https://danr.sd.gov/wrimage/pub/9043-3_rec.pdf"
+        }
+      ]
+    },
+    {
+      "notice_type": "Water Rights \u2014 Future Use Review",
+      "deadline": "08/31/2026",
+      "comment_url": "",
+      "application_no": "1492-2",
+      "water_source": "Missouri River",
+      "use_type": "Future Use Review",
+      "links": [
+        {
+          "label": "Public Notice",
+          "url": "https://danr.sd.gov/wrimage/pub/1492-2_app.pdf"
+        },
+        {
+          "label": "Recom. Action",
+          "url": "https://danr.sd.gov/wrimage/pub/1492-2_rec.pdf"
         }
       ]
     },

@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-16T17:18:06.613332+00:00",
+  "fetched_at": "2026-08-19T17:25:32.037115+00:00",
   "cases": [
     {
       "ccid": "123",
@@ -126,6 +126,10 @@
       "docs_url": "https://danr.sd.gov/public/ccdocs.aspx?CCID=CCID130",
       "documents": [
         {
+          "label": "Motion to Transfer & Affidavit",
+          "url": "https://danr.sd.gov/OfficeOfWater/SurfaceWaterQuality/docs/CCH/Custer/Motion to Transfer and Affidavit.pdf"
+        },
+        {
           "label": "Scheduling Order",
           "url": "https://danr.sd.gov/OfficeOfWater/SurfaceWaterQuality/docs/CCH/Custer/Scheduling Order 08062026.pdf"
         },
@@ -140,13 +144,9 @@
         {
           "label": "Notice Entry of Orders re Recusal and Procedural Order",
           "url": "https://danr.sd.gov/OfficeOfWater/SurfaceWaterQuality/docs/CCH/Custer/Notice Entry of Orders.pdf"
-        },
-        {
-          "label": "The Program's Answer to Petitions",
-          "url": "https://danr.sd.gov/OfficeOfWater/SurfaceWaterQuality/docs/CCH/Custer/The Programs Answer to Petitions.pdf"
         }
       ],
-      "total_docs": 17,
+      "total_docs": 18,
       "latest_doc_date": "0000-00-00"
     },
     {
@@ -222,6 +222,10 @@
       "docs_url": "https://danr.sd.gov/public/ccdocs.aspx?CCID=CCID127",
       "documents": [
         {
+          "label": "Appeal to Sixth Judicial Circuit Court",
+          "url": "https://danr.sd.gov/wrimage/pub/8987-3_Appeal.pdf"
+        },
+        {
           "label": "Notice of Entry of Order",
           "url": "https://danr.sd.gov/wrimage/pub/8987-3_NOE_denial.pdf"
         },
@@ -236,13 +240,9 @@
         {
           "label": "Notice",
           "url": "https://danr.sd.gov/wrimage/pub/8987-3_noticeerror0001.pdf"
-        },
-        {
-          "label": "Proposed Findings of Fact & Conclusions of Law - Counsel for Petitioner",
-          "url": "https://danr.sd.gov/wrimage/pub/8987-3_propFOF_pet.pdf"
         }
       ],
-      "total_docs": 28,
+      "total_docs": 29,
       "latest_doc_date": "0000-00-00"
     },
     {
@@ -278,6 +278,54 @@
       "latest_doc_date": "0000-00-00"
     },
     {
+      "ccid": "17",
+      "board": "Water Management Board Proceeding",
+      "permit_type": "Water Right Permit Application",
+      "title": "2685-2 Powertech (USA) Inc.",
+      "description": "Appropriate and place to beneficial use up to 1.228 cubic feet of water per second (cfs) with an annual consumptive use up to 888.8 acre feet of water annually from up to two or more wells completed into the Madison Aquifer at an approximate depth between 2,700 to 3,400 feet.",
+      "docs_url": "https://danr.sd.gov/public/ccdocs.aspx?CCID=CCID17",
+      "documents": [
+        {
+          "label": "Request to Withdraw Application for",
+          "url": "https://danr.sd.gov/wrimage/pub/2685-2_2686-2_WithdrawalRequest.pdf"
+        },
+        {
+          "label": "Powertech (USA) Inc. Consolidated Contested Case webpage",
+          "url": "https://danr.sd.gov/public/ccdocs.aspx?CCID=CCID95"
+        },
+        {
+          "label": "Application for Water Right Permit",
+          "url": "https://danr.sd.gov/powertech/wrptech.aspx"
+        }
+      ],
+      "total_docs": 3,
+      "latest_doc_date": "0000-00-00"
+    },
+    {
+      "ccid": "18",
+      "board": "Water Management Board Proceeding",
+      "permit_type": "Water Right Permit Application",
+      "title": "2686-2 Powertech (USA) Inc.",
+      "description": "Appropriate and place to beneficial use up to 18.938 cubic feet of water per second (cfs) limited to an annual consumptive use volume up to 274.2 acre feet of water (equivalent to 0.38 cfs or 170 gpm) from multiple wells completed into the Inyan Kara aquifer at a depth between 200 to 800 feet.",
+      "docs_url": "https://danr.sd.gov/public/ccdocs.aspx?CCID=CCID18",
+      "documents": [
+        {
+          "label": "Request to Withdraw Application",
+          "url": "https://danr.sd.gov/wrimage/pub/2685-2_2686-2_WithdrawalRequest.pdf"
+        },
+        {
+          "label": "Powertech (USA) Inc. Consolidated Contested Case webpage",
+          "url": "https://danr.sd.gov/public/ccdocs.aspx?CCID=CCID95"
+        },
+        {
+          "label": "Application for Water Right Permit",
+          "url": "https://danr.sd.gov/powertech/wrptech.aspx"
+        }
+      ],
+      "total_docs": 3,
+      "latest_doc_date": "0000-00-00"
+    },
+    {
       "ccid": "128",
       "board": "Water Management Board Proceeding",
       "permit_type": "Future Use Water Permit Application",
@@ -285,6 +333,10 @@
       "description": "Application No. 8990-3 proposes to appropriate and reserve for future use 1,120 acre-feet of water annually from the Antelope Valley Aquifer.  The area to be reserved for future use is Section 21 and 22; all in T120N-R51W.  The water is to be reserved as a future water supply for municipal and water distribution system use by the City of Milbank, in Grant County. Approval of this application would not authorize construction of works or application of water to beneficial use.",
       "docs_url": "https://danr.sd.gov/public/ccdocs.aspx?CCID=CCID128",
       "documents": [
+        {
+          "label": "Proposed Finding of Fact & Conclusions of Law",
+          "url": "https://danr.sd.gov/wrimage/pub/8990-3 CityofMilbank_propFOF.pdf"
+        },
         {
           "label": "Filings Submitted by Chief Engineer's Counsel - Pre Hearing Submission",
           "url": "https://danr.sd.gov/wrimage/pub/8990-3_filings by WR counsel.pdf"
@@ -300,13 +352,9 @@
         {
           "label": "Notice of Appearance - Counsel for Petitioner (GRRWS)",
           "url": "https://danr.sd.gov/wrimage/pub/8990-3_NOA_pet_GRWS.pdf"
-        },
-        {
-          "label": "Notice of Entry of Procedural and Scheduling Order - Counsel for Water Management Board",
-          "url": "https://danr.sd.gov/wrimage/pub/8990-3_proc_sch_order.pdf"
         }
       ],
-      "total_docs": 16,
+      "total_docs": 17,
       "latest_doc_date": "0000-00-00"
     },
     {
