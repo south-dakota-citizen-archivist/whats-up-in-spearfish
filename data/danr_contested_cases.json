@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-19T17:25:32.037115+00:00",
+  "fetched_at": "2026-08-20T17:27:56.703360+00:00",
   "cases": [
     {
       "ccid": "123",
@@ -126,6 +126,10 @@
       "docs_url": "https://danr.sd.gov/public/ccdocs.aspx?CCID=CCID130",
       "documents": [
         {
+          "label": "Motion for Modification of Schedule Order with Exhibits and Attachment",
+          "url": "https://danr.sd.gov/OfficeOfWater/SurfaceWaterQuality/docs/CCH/Custer/Modification of Schedule Order with Exhibits.pdf"
+        },
+        {
           "label": "Motion to Transfer & Affidavit",
           "url": "https://danr.sd.gov/OfficeOfWater/SurfaceWaterQuality/docs/CCH/Custer/Motion to Transfer and Affidavit.pdf"
         },
@@ -140,13 +144,9 @@
         {
           "label": "First Set Interrogatory Request to DANR",
           "url": "https://danr.sd.gov/OfficeOfWater/SurfaceWaterQuality/docs/CCH/Custer/Interrogatory Request DANR.pdf"
-        },
-        {
-          "label": "Notice Entry of Orders re Recusal and Procedural Order",
-          "url": "https://danr.sd.gov/OfficeOfWater/SurfaceWaterQuality/docs/CCH/Custer/Notice Entry of Orders.pdf"
         }
       ],
-      "total_docs": 18,
+      "total_docs": 19,
       "latest_doc_date": "0000-00-00"
     },
     {

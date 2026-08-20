@@ -6046,5 +6046,37 @@
     "status": "CONFIRMED",
     "record_type": "event",
     "source_label": "Spearfish MS Sports"
+  },
+  {
+    "uid": "h2026082012385340104729d2eb05a42",
+    "url": "https://gobound.com/direct/comps/h2026082012385340104729d2eb05a42/show",
+    "title": "Football: Belle Fourche Jamboree (8th Grade)",
+    "slug": "football-belle-fourche-jamboree-8th-grade",
+    "sport": "Football",
+    "level": "8th Grade",
+    "sex": "male",
+    "description": "8th Grade Football - Belle Fourche Jamboree",
+    "start_dt": "2026-09-12T15:00:00",
+    "end_dt": "2026-09-12T19:00:00",
+    "location": "Belle Fourche High School Football Field",
+    "status": "CONFIRMED",
+    "record_type": "event",
+    "source_label": "Spearfish MS Sports"
+  },
+  {
+    "uid": "h20260820123916731f06df636a3554e",
+    "url": "https://gobound.com/direct/comps/h20260820123916731f06df636a3554e/show",
+    "title": "Football: Belle Fourche Jamboree (7th Grade)",
+    "slug": "football-belle-fourche-jamboree-7th-grade",
+    "sport": "Football",
+    "level": "7th Grade",
+    "sex": "male",
+    "description": "7th Grade Football - Belle Fourche Jamboree",
+    "start_dt": "2026-09-12T15:00:00",
+    "end_dt": "2026-09-12T19:00:00",
+    "location": "Belle Fourche High School Football Field",
+    "status": "CONFIRMED",
+    "record_type": "event",
+    "source_label": "Spearfish MS Sports"
   }
 ]

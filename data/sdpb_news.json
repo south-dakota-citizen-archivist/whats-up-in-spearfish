@@ -3738,5 +3738,38 @@
     "image_url": "https://npr.brightspotcdn.com/ae/18/0679dc964036abf14479ccbf994e/historic-district.JPG",
     "record_type": "news",
     "source_label": "SDPB"
+  },
+  {
+    "url": "https://www.sdpb.org/crime-courts/2026-08-20/court-system-announces-forums-for-comment-on-potential-circuit-consolidation",
+    "title": "Court system announces forums for comment on potential circuit consolidation",
+    "slug": "sdpb-court-system-announces-forums-for-comment-on-potential-circuit",
+    "published": "2026-08-20",
+    "byline": "By C.J. Keene",
+    "description": "These two circuits are the Fourth and Seventh, which would create by far the largest judicial district in the state by area.",
+    "image_url": "https://npr.brightspotcdn.com/c3/2e/68c6ba3741e1a7f9df1500607881/sdnet-thumbnail-ujs.png",
+    "record_type": "news",
+    "source_label": "SDPB"
+  },
+  {
+    "url": "https://www.sdpb.org/politics/2026-08-19/senator-rounds-introduces-bipartisan-cropland-to-grassland-incentive-bill",
+    "title": "Senator Rounds introduces bipartisan cropland to grassland incentive bill",
+    "slug": "sdpb-senator-rounds-introduces-bipartisan-cropland-to-grassland-incentive-bill",
+    "published": "2026-08-19",
+    "byline": "By Jackson Dircks",
+    "description": "One of South Dakota’s U.S. senators introduces a bill incentivizing ranchers to convert cropland back to grassland. Though, the land could still be grazed and hayed under emergency conditions. The bill is in response to the smallest U.S. cow herd size in multiple decades.",
+    "image_url": "https://npr.brightspotcdn.com/b0/61/06ec719c40e9b88826c2d14defb8/rounds-dakota-fest-081926.jpg",
+    "record_type": "news",
+    "source_label": "SDPB"
+  },
+  {
+    "url": "https://www.sdpb.org/crime-courts/2026-08-19/state-tribal-leaders-push-for-more-law-enforcement-support",
+    "title": "State tribal leaders push for more law enforcement support",
+    "slug": "sdpb-state-tribal-leaders-push-for-more-law-enforcement-support",
+    "published": "2026-08-19",
+    "byline": "By C.J. Keene",
+    "description": "State tribal leaders say there is a disconnect between services promised to tribal nations and those provided. Right now, they say that discrepancy is highlighted in law enforcement.",
+    "image_url": "https://npr.brightspotcdn.com/cf/82/fdf2d0474e71acdf09e9adaa98d3/image-100.jpg",
+    "record_type": "news",
+    "source_label": "SDPB"
   }
 ]

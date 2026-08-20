@@ -10,29 +10,5 @@
     "description": "",
     "record_type": "bid",
     "source_label": "City of Spearfish"
-  },
-  {
-    "url": "https://www.spearfish.gov/bids.aspx?bidID=87",
-    "title": "Downtown Mill & Overlay",
-    "slug": "city-of-spearfish-26-29",
-    "bid_no": "26-29",
-    "status": "Open",
-    "closes": "8/19/2026 1:30 PM",
-    "closes_iso": "2026-08-19T13:30:00",
-    "description": "",
-    "record_type": "bid",
-    "source_label": "City of Spearfish"
-  },
-  {
-    "url": "https://www.spearfish.gov/bids.aspx?bidID=86",
-    "title": "Sandstone Hills Street Repairs",
-    "slug": "city-of-spearfish-26-10",
-    "bid_no": "26-10",
-    "status": "Open",
-    "closes": "8/19/2026 2:00 PM",
-    "closes_iso": "2026-08-19T14:00:00",
-    "description": "",
-    "record_type": "bid",
-    "source_label": "City of Spearfish"
   }
 ]
