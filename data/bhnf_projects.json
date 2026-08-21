@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-20T17:28:01.303995+00:00",
+  "fetched_at": "2026-08-21T17:26:56.253082+00:00",
   "projects": [
     {
       "project_id": "66463",
@@ -341,6 +341,22 @@
       "last_updated": ""
     },
     {
+      "project_id": "394013",
+      "title": "Hill West LLC FLPMA Special Use Permit Project (Little Giant Lode)",
+      "url": "https://www.fs.usda.gov/r02/blackhills/projects/394013",
+      "status": "Completed",
+      "district": "Mystic Ranger District",
+      "purpose": "Special Use Management",
+      "description": "Hills West LLC is requesting authorization to maintain, plow, and use National Forest System (NFS) roads to access private property located off NFSR 354.1B, as well as authorization for a private road use permit across NFS lands to provide legal access to the property.",
+      "milestones": [],
+      "comment_period_date": null,
+      "comment_period_sort": "9999-99",
+      "location_summary": "",
+      "counties": [],
+      "contact": {},
+      "last_updated": ""
+    },
+    {
       "project_id": "49020",
       "title": "Little Spearfish/Old Baldy Trail Maintenance",
       "url": "https://www.fs.usda.gov/r02/blackhills/projects/49020",
@@ -348,6 +364,22 @@
       "district": "Northern Hills Ranger District",
       "purpose": "Recreation Management",
       "description": "Maintenance of the Little Spearfish and Old Baldy trails, including installation of lead-off ditches to divert water from the trails and repair of the section of Little Spearfish trail through Ranger Draw, which was used for a recent timber sale.",
+      "milestones": [],
+      "comment_period_date": null,
+      "comment_period_sort": "9999-99",
+      "location_summary": "",
+      "counties": [],
+      "contact": {},
+      "last_updated": ""
+    },
+    {
+      "project_id": "394012",
+      "title": "Merztiotis Mining LLC FLPMA Special Use Permit Project",
+      "url": "https://www.fs.usda.gov/r02/blackhills/projects/394012",
+      "status": "Completed",
+      "district": "Mystic Ranger District",
+      "purpose": "Special Use Management",
+      "description": "Merztiotis Mining LLC is requesting authorization for a Private FLPMA Road Use Permit to provide legal access to private property located off NFSR 389 and NFSR 389.1G.",
       "milestones": [],
       "comment_period_date": null,
       "comment_period_sort": "9999-99",

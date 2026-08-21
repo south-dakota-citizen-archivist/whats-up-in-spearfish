@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-20T17:24:54.538188+00:00",
+  "fetched_at": "2026-08-21T17:23:59.085167+00:00",
   "notices": [
     {
       "notice_type": "Water Rights",
@@ -365,24 +365,6 @@
         {
           "label": "Public Notice",
           "url": "https://danr.sd.gov/Press/docs/publicnotices/FeedlotPermit/ChristensenFarmsandFeedlotsIncPN.pdf"
-        }
-      ]
-    },
-    {
-      "notice_type": "Mineral Exploration",
-      "deadline": "",
-      "comment_url": "https://danr.sd.gov/public/comment.aspx?d_comment=&name=DTRC LLC&pntype=mm_ex&description=Notice of Intent for Gold Exploration",
-      "name": "DTRC LLC",
-      "description": "Notice of Intent for Gold Exploration",
-      "location": "Two miles northwest of Central City, SD",
-      "links": [
-        {
-          "label": "Public Notice",
-          "url": "https://danr.sd.gov/Press/docs/publicnotices/MineralsMining/E471NoticeofIntent.pdf"
-        },
-        {
-          "label": "Application",
-          "url": "https://danr.sd.gov/Environment/MineralsMining/Exploration/NewEXNIS.aspx"
         }
       ]
     },

@@ -13,15 +13,15 @@
     "source_label": "Killian's"
   },
   {
-    "url": "https://untappd.com/b/surly-brewing-company-xtra/1444231",
-    "title": "Xtra",
-    "slug": "xtra",
-    "category": "Pale Ale - XPA (Extra Pale)",
-    "abv": "4.5%",
+    "url": "https://untappd.com/b/sawyer-brewing-co-4lo-pale-ale/6562340",
+    "title": "4LO Pale Ale",
+    "slug": "4lo-pale-ale",
+    "category": "Pale Ale - Fruited",
+    "abv": "3.2%",
     "ibu": "",
-    "brewery": "Surly Brewing Company",
-    "rating": "3.75",
-    "image_url": "https://labels.untappd.com/1444231",
+    "brewery": "Sawyer Brewing Co",
+    "rating": "3.69",
+    "image_url": "https://labels.untappd.com/6562340",
     "record_type": "beer",
     "source_label": "Killian's"
   },
@@ -33,7 +33,7 @@
     "abv": "4.2%",
     "ibu": "",
     "brewery": "Sawyer Brewing Co",
-    "rating": "3.66",
+    "rating": "3.67",
     "image_url": "https://labels.untappd.com/5536492",
     "record_type": "beer",
     "source_label": "Killian's"
@@ -202,7 +202,7 @@
     "abv": "4.6%",
     "ibu": "20",
     "brewery": "Crow Peak Brewing Company",
-    "rating": "3.78",
+    "rating": "3.8",
     "image_url": "https://labels.untappd.com/6762814",
     "record_type": "beer",
     "source_label": "Killian's"

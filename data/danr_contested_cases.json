@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-20T17:27:56.703360+00:00",
+  "fetched_at": "2026-08-21T17:26:42.812935+00:00",
   "cases": [
     {
       "ccid": "123",
@@ -42,6 +42,10 @@
       "docs_url": "https://danr.sd.gov/public/ccdocs.aspx?CCID=CCID124",
       "documents": [
         {
+          "label": "City of Rapid City's Objection to Petitioners' Joint Motion to Extend Scheduling Order",
+          "url": "https://danr.sd.gov/Environment/WasteManagement/docs/RapidCityContestedCase2025/City of Rapid City Objection to Petitioner Joint Motion to Extend Scheduling Order.pdf"
+        },
+        {
           "label": "Petitioner's Joint Motion to Extend Scheduling Order",
           "url": "https://danr.sd.gov/Environment/WasteManagement/docs/RapidCityContestedCase2025/Motion for Modification of Scheduling Order.pdf"
         },
@@ -56,13 +60,9 @@
         {
           "label": "Notice of Entry of Order Granting G. Verne Goodsell, Nathan R. Oviatt, and Kristi Erdman Motion to Withdraw as Counsel",
           "url": "https://danr.sd.gov/Environment/WasteManagement/docs/RapidCityContestedCase2025/Rapid City Permit App NOE Order 72826.pdf"
-        },
-        {
-          "label": "Petitioner's July 23, 2026 Letter to Counsel for Board of Minerals and Environment",
-          "url": "https://danr.sd.gov/Environment/WasteManagement/docs/RapidCityContestedCase2025/2026-7-28 Johnson letter to McVey with ltr to Goodsell withdrawing from legal rep.pdf"
         }
       ],
-      "total_docs": 35,
+      "total_docs": 36,
       "latest_doc_date": "0000-00-00"
     },
     {
@@ -126,6 +126,10 @@
       "docs_url": "https://danr.sd.gov/public/ccdocs.aspx?CCID=CCID130",
       "documents": [
         {
+          "label": "Order Granting Modification of Scheduling Order",
+          "url": "https://danr.sd.gov/OfficeOfWater/SurfaceWaterQuality/docs/CCH/Custer/Order Granting Modification of Scheduling Order.pdf"
+        },
+        {
           "label": "Motion for Modification of Schedule Order with Exhibits and Attachment",
           "url": "https://danr.sd.gov/OfficeOfWater/SurfaceWaterQuality/docs/CCH/Custer/Modification of Schedule Order with Exhibits.pdf"
         },
@@ -140,13 +144,9 @@
         {
           "label": "First Set Interrogatory Request to City of Custer",
           "url": "https://danr.sd.gov/OfficeOfWater/SurfaceWaterQuality/docs/CCH/Custer/Interrogatory Request Custer.pdf"
-        },
-        {
-          "label": "First Set Interrogatory Request to DANR",
-          "url": "https://danr.sd.gov/OfficeOfWater/SurfaceWaterQuality/docs/CCH/Custer/Interrogatory Request DANR.pdf"
         }
       ],
-      "total_docs": 19,
+      "total_docs": 20,
       "latest_doc_date": "0000-00-00"
     },
     {

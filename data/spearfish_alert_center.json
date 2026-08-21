@@ -118,5 +118,15 @@
     "start_dt": "Tue, 11 Aug 2026 08:17:00 -0700",
     "record_type": "alert",
     "source_label": "City of Spearfish"
+  },
+  {
+    "url": "https://www.spearfish.gov/AlertCenter.aspx?AID=69",
+    "title": "City of Spearfish - New sign installations at Spearfish Mountain View and West Elementary Schools",
+    "slug": "city-of-spearfish-new-sign-installations-at-spearfish-mountain-view-and-west",
+    "description": "New street signs are being installed to improve school zone safety around West Elementary and Mountain View Elementary Schools.",
+    "published": "Fri, 21 Aug 2026 11:21:48 -0700",
+    "start_dt": "Fri, 21 Aug 2026 11:21:48 -0700",
+    "record_type": "alert",
+    "source_label": "City of Spearfish"
   }
 ]

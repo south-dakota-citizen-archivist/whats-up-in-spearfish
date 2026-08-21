@@ -1978,5 +1978,15 @@
     "start_dt": "Mon, 17 Aug 2026 09:12:44 -0700",
     "record_type": "event",
     "source_label": "City of Spearfish"
+  },
+  {
+    "url": "https://www.spearfish.gov/Calendar.aspx?EID=3707",
+    "title": "Planning Commission Meeting",
+    "slug": "planning-commission-meeting",
+    "description": "<strong>Event date:</strong> September 1, 2026 <br /><strong>Event Time: </strong>04:00 PM - 11:59 PM<br /><strong>Location:</strong> <br />City Hall<br />625 N 5th St<br />Spearfish, SD 57783",
+    "published": "Fri, 21 Aug 2026 09:33:06 -0700",
+    "start_dt": "Fri, 21 Aug 2026 09:33:06 -0700",
+    "record_type": "event",
+    "source_label": "City of Spearfish"
   }
 ]

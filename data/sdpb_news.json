@@ -3771,5 +3771,38 @@
     "image_url": "https://npr.brightspotcdn.com/cf/82/fdf2d0474e71acdf09e9adaa98d3/image-100.jpg",
     "record_type": "news",
     "source_label": "SDPB"
+  },
+  {
+    "url": "https://www.sdpb.org/business-economics/2026-08-21/states-two-largest-airports-request-funding-for-expansion-efforts",
+    "title": "State’s two largest airports request funding for expansion efforts",
+    "slug": "sdpb-states-two-largest-airports-request-funding-for-expansion-efforts",
+    "published": "2026-08-21",
+    "byline": "By C.J. Keene",
+    "description": "Both of South Dakota’s most prominent airports are requesting more funds for expansion projects. Rapid City and Sioux Falls Regional leadership say construction is the path forward to keeping terminals up to standard.",
+    "image_url": "https://npr.brightspotcdn.com/a0/23/22b2ec244bf6b46dbfb7d7ca4f11/image-58.jpg",
+    "record_type": "news",
+    "source_label": "SDPB"
+  },
+  {
+    "url": "https://www.sdpb.org/business-economics/2026-08-21/south-dakota-seeks-expansion-of-export-reach-some-countries-see-opportunity",
+    "title": "South Dakota seeks expansion of export reach; some countries see opportunity",
+    "slug": "sdpb-south-dakota-seeks-expansion-of-export-reach-some-countries-see-opportunity",
+    "published": "2026-08-21",
+    "byline": "By Jackson Dircks",
+    "description": "South Dakota is a state looking to strengthen its reach on the international trade market. Representatives of other nations the state is looking to grow partnerships with tell SDPB they see opportunities.",
+    "image_url": "https://npr.brightspotcdn.com/4d/8b/8b49743745998b2b9b9799ce82e7/south-dakota-money-trade-business-budget.jpg",
+    "record_type": "news",
+    "source_label": "SDPB"
+  },
+  {
+    "url": "https://www.sdpb.org/politics/2026-08-20/all-options-on-table-to-move-farm-bill-forward-though-midterms-loom-over-issue",
+    "title": "'All options' on table to move Farm Bill forward, though midterms loom over issue",
+    "slug": "sdpb-all-options-on-table-to-move-farm-bill-forward-though-midterms-loom-over",
+    "published": "2026-08-20",
+    "byline": "By Jackson Dircks",
+    "description": "While a new Farm Bill hasn’t been signed to law since 2018, a path forward on its current iteration isn’t clear. However, the Republican majority leader and Senate Ag Committee member said “all options” are on the table to push it forward.",
+    "image_url": "https://npr.brightspotcdn.com/6c/c1/da1f78394b37a8b186a4348f5fb3/dakotafest-081926.jpg",
+    "record_type": "news",
+    "source_label": "SDPB"
   }
 ]
