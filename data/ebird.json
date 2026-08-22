@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-21T17:23:24.983759+00:00",
+  "fetched_at": "2026-08-22T17:16:10.276451+00:00",
   "observations": [
     {
       "species_code": "eucdov",
@@ -379,6 +379,19 @@
       "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/411766963/square.jpg"
     },
     {
+      "species_code": "rocpig",
+      "common_name": "Rock Pigeon",
+      "scientific_name": "Columba livia",
+      "observed_on": "2026-08-20",
+      "count": 2,
+      "location_name": "Belle Fourche--Central",
+      "lat": 44.671107,
+      "lng": -103.853853,
+      "location_id": "L76000673",
+      "checklist_id": "S385609565",
+      "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/466776975/square.jpg"
+    },
+    {
       "species_code": "grbher3",
       "common_name": "Great Blue Heron",
       "scientific_name": "Ardea herodias",
@@ -416,6 +429,45 @@
       "location_id": "L75939202",
       "checklist_id": "S385250104",
       "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/171604270/square.jpg"
+    },
+    {
+      "species_code": "horlar",
+      "common_name": "Horned Lark",
+      "scientific_name": "Eremophila alpestris",
+      "observed_on": "2026-08-20",
+      "count": 3,
+      "location_name": "Old Highway 85, Belle Fourche US-SD 44.90441, -103.79892",
+      "lat": 44.904413,
+      "lng": -103.798917,
+      "location_id": "L75974061",
+      "checklist_id": "S385463426",
+      "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/183478476/square.jpg"
+    },
+    {
+      "species_code": "larbun",
+      "common_name": "Lark Bunting",
+      "scientific_name": "Calamospiza melanocorys",
+      "observed_on": "2026-08-20",
+      "count": 5,
+      "location_name": "Old Highway 85, Belle Fourche US-SD 44.90441, -103.79892",
+      "lat": 44.904413,
+      "lng": -103.798917,
+      "location_id": "L75974061",
+      "checklist_id": "S385463426",
+      "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/1358343/square.jpg"
+    },
+    {
+      "species_code": "boboli",
+      "common_name": "Bobolink",
+      "scientific_name": "Dolichonyx oryzivorus",
+      "observed_on": "2026-08-20",
+      "count": 1,
+      "location_name": "Old Highway 85, Belle Fourche US-SD 44.90441, -103.79892",
+      "lat": 44.904413,
+      "lng": -103.798917,
+      "location_id": "L75974061",
+      "checklist_id": "S385463426",
+      "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/4836761/square.jpg"
     },
     {
       "species_code": "cangoo",
@@ -598,58 +650,6 @@
       "location_id": "L1195589",
       "checklist_id": "S385233930",
       "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/35605055/square.jpg"
-    },
-    {
-      "species_code": "eargre",
-      "common_name": "Eared Grebe",
-      "scientific_name": "Podiceps nigricollis",
-      "observed_on": "2026-08-20",
-      "count": 45,
-      "location_name": "Belle Fourche Dam and Reservoir",
-      "lat": 44.7160017,
-      "lng": -103.7009811,
-      "location_id": "L1195589",
-      "checklist_id": "S385233930",
-      "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/1936398/square.jpg"
-    },
-    {
-      "species_code": "amwpel",
-      "common_name": "American White Pelican",
-      "scientific_name": "Pelecanus erythrorhynchos",
-      "observed_on": "2026-08-20",
-      "count": 1,
-      "location_name": "Belle Fourche Dam and Reservoir",
-      "lat": 44.7160017,
-      "lng": -103.7009811,
-      "location_id": "L1195589",
-      "checklist_id": "S385233930",
-      "photo_url": "https://static.inaturalist.org/photos/68158229/square.jpg"
-    },
-    {
-      "species_code": "coohaw",
-      "common_name": "Cooper's Hawk",
-      "scientific_name": "Astur cooperii",
-      "observed_on": "2026-08-20",
-      "count": 1,
-      "location_name": "Belle Fourche Dam and Reservoir",
-      "lat": 44.7160017,
-      "lng": -103.7009811,
-      "location_id": "L1195589",
-      "checklist_id": "S385233930",
-      "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/170370008/square.jpg"
-    },
-    {
-      "species_code": "rehwoo",
-      "common_name": "Red-headed Woodpecker",
-      "scientific_name": "Melanerpes erythrocephalus",
-      "observed_on": "2026-08-20",
-      "count": 8,
-      "location_name": "Belle Fourche Dam and Reservoir",
-      "lat": 44.7160017,
-      "lng": -103.7009811,
-      "location_id": "L1195589",
-      "checklist_id": "S385233930",
-      "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/699810074/square.jpg"
     }
   ]
 }

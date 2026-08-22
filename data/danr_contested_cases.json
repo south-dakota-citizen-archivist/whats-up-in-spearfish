@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-21T17:26:42.812935+00:00",
+  "fetched_at": "2026-08-22T17:19:20.326439+00:00",
   "cases": [
     {
       "ccid": "123",
@@ -42,27 +42,27 @@
       "docs_url": "https://danr.sd.gov/public/ccdocs.aspx?CCID=CCID124",
       "documents": [
         {
+          "label": "Petitioner's Joint Reply to City of Rapid City's Objection to Petitioner's Joint Motion to Extend Scheduling Order",
+          "url": "https://danr.sd.gov/Environment/WasteManagement/docs/RapidCityContestedCase2025/Aug 21 2026 Pet Reply City Obj Ext Sch Order.pdf"
+        },
+        {
+          "label": "Notice of Entry of Order on Fern and Ross Johnson Joint Motion to Extend Scheduling Order",
+          "url": "https://danr.sd.gov/Environment/WasteManagement/docs/RapidCityContestedCase2025/Rapid City Landfill - NOE Order on Fern and Ross Johnson Joint Motion to Extend Deadline 8-21-26 (002).pdf"
+        },
+        {
+          "label": "DANR Response to City's Interogatories and Requests for Production",
+          "url": "https://danr.sd.gov/Environment/WasteManagement/docs/RapidCityContestedCase2025/DANR Response Citys Interrogatories and Requests for Production.service 08 20 2026.pdf"
+        },
+        {
           "label": "City of Rapid City's Objection to Petitioners' Joint Motion to Extend Scheduling Order",
           "url": "https://danr.sd.gov/Environment/WasteManagement/docs/RapidCityContestedCase2025/City of Rapid City Objection to Petitioner Joint Motion to Extend Scheduling Order.pdf"
         },
         {
           "label": "Petitioner's Joint Motion to Extend Scheduling Order",
           "url": "https://danr.sd.gov/Environment/WasteManagement/docs/RapidCityContestedCase2025/Motion for Modification of Scheduling Order.pdf"
-        },
-        {
-          "label": "Petitioner's Motion for Summary Disposition and Additional Pleadings",
-          "url": "https://danr.sd.gov/Environment/WasteManagement/docs/RapidCityContestedCase2025/Motion Sum Disp, etc. elecrtonic.pdf"
-        },
-        {
-          "label": "Notice of Entry of Procedural and Scheduling Order",
-          "url": "https://danr.sd.gov/Environment/WasteManagement/docs/RapidCityContestedCase2025/City of Rapid City Permit Application - NOE Procedural and Scheduling Order 8-10-2026.pdf"
-        },
-        {
-          "label": "Notice of Entry of Order Granting G. Verne Goodsell, Nathan R. Oviatt, and Kristi Erdman Motion to Withdraw as Counsel",
-          "url": "https://danr.sd.gov/Environment/WasteManagement/docs/RapidCityContestedCase2025/Rapid City Permit App NOE Order 72826.pdf"
         }
       ],
-      "total_docs": 36,
+      "total_docs": 39,
       "latest_doc_date": "0000-00-00"
     },
     {

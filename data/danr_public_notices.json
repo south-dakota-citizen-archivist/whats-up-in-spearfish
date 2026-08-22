@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-21T17:23:59.085167+00:00",
+  "fetched_at": "2026-08-22T17:16:43.859788+00:00",
   "notices": [
     {
       "notice_type": "Water Rights",
@@ -46,24 +46,6 @@
         {
           "label": "Recom. Action",
           "url": "https://danr.sd.gov/wrimage/pub/2879A-2_rec.pdf"
-        }
-      ]
-    },
-    {
-      "notice_type": "Waste Management \u2014 Solid Waste",
-      "deadline": "8/21/2026",
-      "comment_url": "",
-      "name": "City of Ipswich",
-      "description": "Permit renewal application to continue operation of a Type IV Restricted Use Solid Waste Facility",
-      "location": "Ipswich, SD",
-      "links": [
-        {
-          "label": "Public Notice",
-          "url": "https://danr.sd.gov/Press/docs/publicnotices/wastemanagementnotices/Ipswich_PN.pdf"
-        },
-        {
-          "label": "Draft Permit",
-          "url": "https://danr.sd.gov/Press/docs/publicnotices/wastemanagementnotices/DRAFT_Ipswich_26_IP.pdf"
         }
       ]
     },
