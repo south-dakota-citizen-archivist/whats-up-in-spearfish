@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-22T17:19:37.639234+00:00",
+  "fetched_at": "2026-08-23T17:19:55.484632+00:00",
   "lookback_days": 30,
   "records": [
     {
@@ -3264,110 +3264,6 @@
       "lat": 44.397285,
       "lon": -103.716708,
       "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/69335/attachments/12048"
-    },
-    {
-      "objectid": 69319,
-      "date": "2026-07-23",
-      "species": "Small Animal",
-      "highway": "",
-      "sex": "",
-      "present": "Yes",
-      "comments": "1220 East Blvd.",
-      "contractor": "Chris Moeller",
-      "lat": 44.074215,
-      "lon": -103.215619,
-      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/69319/attachments/12032"
-    },
-    {
-      "objectid": 69324,
-      "date": "2026-07-23",
-      "species": "Small Animal",
-      "highway": "385",
-      "sex": "",
-      "present": "Yes",
-      "comments": null,
-      "contractor": "Chris Moeller",
-      "lat": 43.622465,
-      "lon": -103.59479,
-      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/69324/attachments/12037"
-    },
-    {
-      "objectid": 69325,
-      "date": "2026-07-23",
-      "species": "White-tailed Deer",
-      "highway": "16",
-      "sex": "Unknown",
-      "present": "No",
-      "comments": null,
-      "contractor": "Chris Moeller",
-      "lat": 43.925557,
-      "lon": -103.442808,
-      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/69325/attachments/12038"
-    },
-    {
-      "objectid": 69326,
-      "date": "2026-07-23",
-      "species": "White-tailed Deer",
-      "highway": "16",
-      "sex": "Female",
-      "present": "Yes",
-      "comments": null,
-      "contractor": "Chris Moeller",
-      "lat": 43.928015,
-      "lon": -103.431117,
-      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/69326/attachments/12039"
-    },
-    {
-      "objectid": 69327,
-      "date": "2026-07-23",
-      "species": "White-tailed Deer",
-      "highway": "16",
-      "sex": "Female",
-      "present": "Yes",
-      "comments": null,
-      "contractor": "Chris Moeller",
-      "lat": 43.973718,
-      "lon": -103.305302,
-      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/69327/attachments/12040"
-    },
-    {
-      "objectid": 69328,
-      "date": "2026-07-23",
-      "species": "White-tailed Deer",
-      "highway": "16",
-      "sex": "Female",
-      "present": "Yes",
-      "comments": null,
-      "contractor": "Chris Moeller",
-      "lat": 43.991946,
-      "lon": -103.268623,
-      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/69328/attachments/12041"
-    },
-    {
-      "objectid": 69329,
-      "date": "2026-07-23",
-      "species": "Mule Deer",
-      "highway": "",
-      "sex": "Male",
-      "present": "Yes",
-      "comments": "4911 Glenn St in Rapid Valley",
-      "contractor": "Chris Moeller",
-      "lat": 44.063261,
-      "lon": -103.137275,
-      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/69329/attachments/12042"
-    },
-    {
-      "objectid": 69330,
-      "date": "2026-07-23",
-      "species": "White-tailed Deer",
-      "highway": "44",
-      "sex": "Female",
-      "present": "Yes",
-      "comments": null,
-      "contractor": "Chris Moeller",
-      "lat": 44.0497,
-      "lon": -103.135923,
-      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/69330/attachments/12043"
     }
   ]
 }

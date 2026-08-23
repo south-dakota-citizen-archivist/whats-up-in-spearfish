@@ -1988,5 +1988,15 @@
     "start_dt": "Fri, 21 Aug 2026 09:33:06 -0700",
     "record_type": "event",
     "source_label": "City of Spearfish"
+  },
+  {
+    "url": "https://www.spearfish.gov/Calendar.aspx?EID=3325",
+    "title": "Library CLOSED for Labor Day",
+    "slug": "library-closed-for-labor-day",
+    "description": "<strong>Event dates:</strong> September 6, 2026 - September 7, 2026<br /><strong>Event Time: </strong>12:00 AM - 11:59 PM<br /><strong>Location:</strong> <br />Spearfish, SD 57783<br /><strong>Description:</strong><br />The library will be CLOSED Sunday & Monday for Labor Day.",
+    "published": "Tue, 06 Jan 2026 13:43:36 -0700",
+    "start_dt": "Tue, 06 Jan 2026 13:43:36 -0700",
+    "record_type": "event",
+    "source_label": "City of Spearfish"
   }
 ]

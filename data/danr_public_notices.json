@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-22T17:16:43.859788+00:00",
+  "fetched_at": "2026-08-23T17:16:52.728617+00:00",
   "notices": [
     {
       "notice_type": "Water Rights",
@@ -46,23 +46,6 @@
         {
           "label": "Recom. Action",
           "url": "https://danr.sd.gov/wrimage/pub/2879A-2_rec.pdf"
-        }
-      ]
-    },
-    {
-      "notice_type": "Surface Water Enhancement & Restoration",
-      "deadline": "08/22/2026",
-      "comment_url": "https://danr.sd.gov/public/comment.aspx?d_comment=08/22/2026&name=Richard Bothwell-Silver Creek Dredging Project&pntype=sw_er&description=Proposing a project to dredge sediment from Silver Creek to restore channel depth and enhance the aesthetics of the creek.",
-      "name": "Richard Bothwell-Silver Creek Dredging Project",
-      "description": "Proposing a project to dredge sediment from Silver Creek to restore channel depth and enhance the aesthetics of the creek.",
-      "links": [
-        {
-          "label": "Public Notice",
-          "url": "https://danr.sd.gov/officeofwater/surfacewaterquality/pn/BothwellPN.pdf"
-        },
-        {
-          "label": "Application",
-          "url": "https://danr.sd.gov/officeofwater/surfacewaterquality/pn/BothwellWorkplan.pdf"
         }
       ]
     },
