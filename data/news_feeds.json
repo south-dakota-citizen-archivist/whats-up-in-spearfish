@@ -5746,5 +5746,15 @@
     "description": "Pennington County residents haven’t been able to access some services since a cyberattack knocked out county computer systems in July. The water system in Rapid City, which is part of Pennington County, was among the first of dozens of utilities targeted in a nationwide wave of cyberattacks this summer. The attackers did not access its [&#8230;]",
     "record_type": "news",
     "source_label": "South Dakota Searchlight"
+  },
+  {
+    "url": "https://www.sdnewswatch.org/south-dakota-migration-retirees-population-growth/",
+    "title": "More workers than retirees drove South Dakota’s growth",
+    "slug": "sd-newswatch-more-workers-than-retirees-drove-south-dakotas-growth",
+    "published": "2026-08-24",
+    "byline": "Amina Aidarkhanova",
+    "description": "The migration story is often associated with retirees moving to the state, but new analysis of Census data shows working-age adults made up the largest share of recent newcomers.",
+    "record_type": "news",
+    "source_label": "SD Newswatch"
   }
 ]

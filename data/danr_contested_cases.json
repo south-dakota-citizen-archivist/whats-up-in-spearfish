@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-23T17:19:37.433306+00:00",
+  "fetched_at": "2026-08-24T17:29:56.511454+00:00",
   "cases": [
     {
       "ccid": "123",
@@ -179,6 +179,38 @@
         }
       ],
       "total_docs": 12,
+      "latest_doc_date": "0000-00-00"
+    },
+    {
+      "ccid": "131",
+      "board": "Water Management Board Proceeding",
+      "permit_type": "Water Right Permit Application",
+      "title": "2049-1 Stanley R Goschke",
+      "description": "Application for a water permit to appropriate up to 10 acre-feet of water annually at a maximum pump rate of 0.17 cubic feet of water per second from one well to be completed into the Minnelusa Aquifer (approximately 260 feet deep) located in Lot 1 of Lot E NW 1/4 SW 1/4 Section 20-T4N-R6E, for a water distribution system and domestic purposes located in the same area.",
+      "docs_url": "https://danr.sd.gov/public/ccdocs.aspx?CCID=CCID131",
+      "documents": [
+        {
+          "label": "Notice of Hearing",
+          "url": "https://danr.sd.gov/wrimage/pub/2049-1_not.pdf"
+        },
+        {
+          "label": "Petitions in Opposition",
+          "url": "https://danr.sd.gov/wrimage/pub/2049-1_pet.pdf"
+        },
+        {
+          "label": "Public Notice",
+          "url": "https://danr.sd.gov/wrimage/pub/2049-1_app.pdf"
+        },
+        {
+          "label": "Report & Recommendation",
+          "url": "https://danr.sd.gov/wrimage/pub/2049-1_rec.pdf"
+        },
+        {
+          "label": "Application for Water Permit",
+          "url": "https://danr.sd.gov/wrimage/pub/2049-1_apl.pdf"
+        }
+      ],
+      "total_docs": 5,
       "latest_doc_date": "0000-00-00"
     },
     {

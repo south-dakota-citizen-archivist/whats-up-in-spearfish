@@ -25694,5 +25694,21 @@
     "status": "CONFIRMED",
     "record_type": "event",
     "source_label": "Spearfish HS Sports"
+  },
+  {
+    "uid": "h2026082401450765636704639518342",
+    "url": "https://gobound.com/direct/comps/h2026082401450765636704639518342/show",
+    "title": "Volleyball: Spearfish vs Mitchell (Junior Varsity)",
+    "slug": "volleyball-spearfish-vs-mitchell-junior-varsity",
+    "sport": "Volleyball",
+    "level": "Junior Varsity",
+    "sex": "female",
+    "description": "Junior Varsity Volleyball - Spearfish vs Mitchell",
+    "start_dt": "2026-10-03T19:00:00",
+    "end_dt": "2026-10-03T20:00:00",
+    "location": "Mitchell High School",
+    "status": "CONFIRMED",
+    "record_type": "event",
+    "source_label": "Spearfish HS Sports"
   }
 ]

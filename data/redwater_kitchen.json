@@ -1,5 +1,18 @@
 [
   {
+    "url": "https://untappd.com/b/blake-s-hard-cider-co-cider-mill-donut/5938883",
+    "title": "Cider Mill Donut",
+    "slug": "cider-mill-donut",
+    "category": "Cider - Other",
+    "abv": "6.5%",
+    "ibu": "",
+    "brewery": "Blake’s Hard Cider Co.",
+    "rating": "3.64",
+    "image_url": "https://labels.untappd.com/5938883",
+    "record_type": "beer",
+    "source_label": "Redwater Kitchen"
+  },
+  {
     "url": "https://untappd.com/b/millstream-brewing-oktoberfest/54625",
     "title": "Oktoberfest",
     "slug": "oktoberfest",
@@ -113,19 +126,6 @@
     "brewery": "Central Waters Brewing Company",
     "rating": "4.2",
     "image_url": "https://labels.untappd.com/6756630",
-    "record_type": "beer",
-    "source_label": "Redwater Kitchen"
-  },
-  {
-    "url": "https://untappd.com/b/angry-orchard-hard-cider-crisp-apple/84251",
-    "title": "Crisp Apple",
-    "slug": "crisp-apple",
-    "category": "Cider - Sweet",
-    "abv": "5%",
-    "ibu": "",
-    "brewery": "Angry Orchard Hard Cider",
-    "rating": "3.54",
-    "image_url": "https://labels.untappd.com/84251",
     "record_type": "beer",
     "source_label": "Redwater Kitchen"
   },
