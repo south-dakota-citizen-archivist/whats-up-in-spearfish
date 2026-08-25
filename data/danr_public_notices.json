@@ -1,23 +1,6 @@
 {
-  "fetched_at": "2026-08-24T17:27:03.241171+00:00",
+  "fetched_at": "2026-08-25T17:26:45.762274+00:00",
   "notices": [
-    {
-      "notice_type": "Surface Water Enhancement & Restoration",
-      "deadline": "08/24/2026",
-      "comment_url": "https://danr.sd.gov/public/comment.aspx?d_comment=08/24/2026&name=City of Mitchell-Lake Mitchell Drawdown/Dredging Phase I&pntype=sw_er&description=Proposing a project to improve the water quality in Lake Mitchell using a combination of lake drawdown and dredging to remove sediment from the lakebed.",
-      "name": "City of Mitchell-Lake Mitchell Drawdown/Dredging Phase I",
-      "description": "Proposing a project to improve the water quality in Lake Mitchell using a combination of lake drawdown and dredging to remove sediment from the lakebed.",
-      "links": [
-        {
-          "label": "Public Notice",
-          "url": "https://danr.sd.gov/officeofwater/surfacewaterquality/pn/Lake Mitchell PN.pdf"
-        },
-        {
-          "label": "Application",
-          "url": "https://danr.sd.gov/officeofwater/surfacewaterquality/pn/Lake Mitchell Application.pdf"
-        }
-      ]
-    },
     {
       "notice_type": "Water Rights",
       "deadline": "08/24/2026",

@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-24T17:29:56.511454+00:00",
+  "fetched_at": "2026-08-25T17:29:58.751695+00:00",
   "cases": [
     {
       "ccid": "123",
@@ -182,6 +182,34 @@
       "latest_doc_date": "0000-00-00"
     },
     {
+      "ccid": "132",
+      "board": "Water Management Board Proceeding",
+      "permit_type": "Water Right Permit Application",
+      "title": "9008-3 Brian Gilbert",
+      "description": "Application for a water permit to appropriate a combined total of 3.56 cubic feet of water per second from two wells to be completed into the Tulare: Western Spink Hitckcock Aquifer (approximately 100 feet deep) located in the approximate centers of the NE 1/4 and SE 1/4 Section 28 for irrigation of 300 acres located in the E 1/2 Section 28; all in T115N-R65W.",
+      "docs_url": "https://danr.sd.gov/public/ccdocs.aspx?CCID=CCID132",
+      "documents": [
+        {
+          "label": "Petition in Opposition",
+          "url": "https://danr.sd.gov/wrimage/pub/9008-3_pet.pdf"
+        },
+        {
+          "label": "Public Notice",
+          "url": "https://danr.sd.gov/wrimage/pub/9008-3_app.pdf"
+        },
+        {
+          "label": "Report & Recommendation",
+          "url": "https://danr.sd.gov/wrimage/pub/9008-3_rec.pdf"
+        },
+        {
+          "label": "Application for Water Permit",
+          "url": "https://danr.sd.gov/wrimage/pub/9008-3_apl.pdf"
+        }
+      ],
+      "total_docs": 4,
+      "latest_doc_date": "0000-00-00"
+    },
+    {
       "ccid": "131",
       "board": "Water Management Board Proceeding",
       "permit_type": "Water Right Permit Application",
@@ -189,6 +217,14 @@
       "description": "Application for a water permit to appropriate up to 10 acre-feet of water annually at a maximum pump rate of 0.17 cubic feet of water per second from one well to be completed into the Minnelusa Aquifer (approximately 260 feet deep) located in Lot 1 of Lot E NW 1/4 SW 1/4 Section 20-T4N-R6E, for a water distribution system and domestic purposes located in the same area.",
       "docs_url": "https://danr.sd.gov/public/ccdocs.aspx?CCID=CCID131",
       "documents": [
+        {
+          "label": "Notice of Automatic Delay of Hearing",
+          "url": "https://danr.sd.gov/wrimage/pub/2049-1_notdly.pdf"
+        },
+        {
+          "label": "Request for Automatic Delay - Applicant",
+          "url": "https://danr.sd.gov/wrimage/pub/2049-1_requestdly.pdf"
+        },
         {
           "label": "Notice of Hearing",
           "url": "https://danr.sd.gov/wrimage/pub/2049-1_not.pdf"
@@ -200,17 +236,9 @@
         {
           "label": "Public Notice",
           "url": "https://danr.sd.gov/wrimage/pub/2049-1_app.pdf"
-        },
-        {
-          "label": "Report & Recommendation",
-          "url": "https://danr.sd.gov/wrimage/pub/2049-1_rec.pdf"
-        },
-        {
-          "label": "Application for Water Permit",
-          "url": "https://danr.sd.gov/wrimage/pub/2049-1_apl.pdf"
         }
       ],
-      "total_docs": 5,
+      "total_docs": 7,
       "latest_doc_date": "0000-00-00"
     },
     {
@@ -254,6 +282,10 @@
       "docs_url": "https://danr.sd.gov/public/ccdocs.aspx?CCID=CCID127",
       "documents": [
         {
+          "label": "Notice of Appearance to Sixth Judicial Circuit Court",
+          "url": "https://danr.sd.gov/wrimage/pub/8987-3_6thcircuitcourt_NOP_pet.pdf"
+        },
+        {
           "label": "Appeal to Sixth Judicial Circuit Court",
           "url": "https://danr.sd.gov/wrimage/pub/8987-3_Appeal.pdf"
         },
@@ -268,13 +300,9 @@
         {
           "label": "Filings Submitted by Counsel for the Applicant",
           "url": "https://danr.sd.gov/wrimage/pub/8987-3_objFOF_app.pdf"
-        },
-        {
-          "label": "Notice",
-          "url": "https://danr.sd.gov/wrimage/pub/8987-3_noticeerror0001.pdf"
         }
       ],
-      "total_docs": 29,
+      "total_docs": 30,
       "latest_doc_date": "0000-00-00"
     },
     {

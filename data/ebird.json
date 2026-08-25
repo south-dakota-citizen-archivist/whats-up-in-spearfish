@@ -1,6 +1,123 @@
 {
-  "fetched_at": "2026-08-24T17:26:25.349852+00:00",
+  "fetched_at": "2026-08-25T17:26:08.061135+00:00",
   "observations": [
+    {
+      "species_code": "rethaw",
+      "common_name": "Red-tailed Hawk",
+      "scientific_name": "Buteo jamaicensis",
+      "observed_on": "2026-08-24",
+      "count": 1,
+      "location_name": "21430–21480 US-385, Deadwood US-SD 44.29262, -103.68283",
+      "lat": 44.292622,
+      "lng": -103.68283,
+      "location_id": "L76175599",
+      "checklist_id": "S386629764",
+      "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/101327658/square.jpg"
+    },
+    {
+      "species_code": "norfli",
+      "common_name": "Northern Flicker",
+      "scientific_name": "Colaptes auratus",
+      "observed_on": "2026-08-24",
+      "count": 2,
+      "location_name": "SD-Lawrence: Old Baldy Trail boondock spot, Spearfish US-SD 44.34238, -104.00472",
+      "lat": 44.342381,
+      "lng": -104.004719,
+      "location_id": "L76035254",
+      "checklist_id": "S386652973",
+      "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/123812445/square.jpg"
+    },
+    {
+      "species_code": "bkcchi",
+      "common_name": "Black-capped Chickadee",
+      "scientific_name": "Poecile atricapillus",
+      "observed_on": "2026-08-24",
+      "count": 3,
+      "location_name": "SD-Lawrence: Old Baldy Trail boondock spot, Spearfish US-SD 44.34238, -104.00472",
+      "lat": 44.342381,
+      "lng": -104.004719,
+      "location_id": "L76035254",
+      "checklist_id": "S386652973",
+      "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/178279576/square.jpg"
+    },
+    {
+      "species_code": "rebnut",
+      "common_name": "Red-breasted Nuthatch",
+      "scientific_name": "Sitta canadensis",
+      "observed_on": "2026-08-24",
+      "count": 1,
+      "location_name": "SD-Lawrence: Old Baldy Trail boondock spot, Spearfish US-SD 44.34238, -104.00472",
+      "lat": 44.342381,
+      "lng": -104.004719,
+      "location_id": "L76035254",
+      "checklist_id": "S386652973",
+      "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/117331702/square.jpg"
+    },
+    {
+      "species_code": "amerob",
+      "common_name": "American Robin",
+      "scientific_name": "Turdus migratorius",
+      "observed_on": "2026-08-24",
+      "count": 2,
+      "location_name": "SD-Lawrence: Old Baldy Trail boondock spot, Spearfish US-SD 44.34238, -104.00472",
+      "lat": 44.342381,
+      "lng": -104.004719,
+      "location_id": "L76035254",
+      "checklist_id": "S386652973",
+      "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/34859026/square.jpg"
+    },
+    {
+      "species_code": "redcro",
+      "common_name": "Red Crossbill",
+      "scientific_name": "Loxia curvirostra",
+      "observed_on": "2026-08-24",
+      "count": 2,
+      "location_name": "SD-Lawrence: Old Baldy Trail boondock spot, Spearfish US-SD 44.34238, -104.00472",
+      "lat": 44.342381,
+      "lng": -104.004719,
+      "location_id": "L76035254",
+      "checklist_id": "S386652973",
+      "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/332346026/square.jpeg"
+    },
+    {
+      "species_code": "daejun",
+      "common_name": "Dark-eyed Junco",
+      "scientific_name": "Junco hyemalis",
+      "observed_on": "2026-08-24",
+      "count": 1,
+      "location_name": "SD-Lawrence: Old Baldy Trail boondock spot, Spearfish US-SD 44.34238, -104.00472",
+      "lat": 44.342381,
+      "lng": -104.004719,
+      "location_id": "L76035254",
+      "checklist_id": "S386652973",
+      "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/111714701/square.jpeg"
+    },
+    {
+      "species_code": "grbher3",
+      "common_name": "Great Blue Heron",
+      "scientific_name": "Ardea herodias",
+      "observed_on": "2026-08-24",
+      "count": 1,
+      "location_name": "SD-34, Spearfish US-SD 44.49650, -103.66966",
+      "lat": 44.496499,
+      "lng": -103.669659,
+      "location_id": "L76171628",
+      "checklist_id": "S386605343",
+      "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/65060931/square.jpg"
+    },
+    {
+      "species_code": "ribgul",
+      "common_name": "Ring-billed Gull",
+      "scientific_name": "Larus delawarensis",
+      "observed_on": "2026-08-24",
+      "count": 100,
+      "location_name": "57717, Belle Fourche US-SD (44.6936,-103.8494)",
+      "lat": 44.693561,
+      "lng": -103.849365,
+      "location_id": "L76169048",
+      "checklist_id": "S386590201",
+      "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/117303151/square.jpg"
+    },
     {
       "species_code": "norgos",
       "common_name": "American Goshawk",
@@ -15,6 +132,32 @@
       "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/12651287/square.jpeg"
     },
     {
+      "species_code": "comnig",
+      "common_name": "Common Nighthawk",
+      "scientific_name": "Chordeiles minor",
+      "observed_on": "2026-08-23",
+      "count": 1,
+      "location_name": "Beaver Creek Campground, South Dakota,  (44.075, -104.051)",
+      "lat": 44.0750013,
+      "lng": -104.0509414,
+      "location_id": "L76152894",
+      "checklist_id": "S386502584",
+      "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/279194539/square.jpg"
+    },
+    {
+      "species_code": "belkin1",
+      "common_name": "Belted Kingfisher",
+      "scientific_name": "Megaceryle alcyon",
+      "observed_on": "2026-08-23",
+      "count": 1,
+      "location_name": "Beaver Creek Campground, South Dakota,  (44.075, -104.051)",
+      "lat": 44.0750013,
+      "lng": -104.0509414,
+      "location_id": "L76152894",
+      "checklist_id": "S386502584",
+      "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/244248986/square.jpg"
+    },
+    {
       "species_code": "moudov",
       "common_name": "Mourning Dove",
       "scientific_name": "Zenaida macroura",
@@ -26,19 +169,6 @@
       "location_id": "L76129239",
       "checklist_id": "S386353534",
       "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/14015355/square.jpg"
-    },
-    {
-      "species_code": "bkcchi",
-      "common_name": "Black-capped Chickadee",
-      "scientific_name": "Poecile atricapillus",
-      "observed_on": "2026-08-23",
-      "count": 3,
-      "location_name": "SD-Lawrence: Tatanka Story of the Bison, Tatanka Dr, Deadwood US-SD 44.39681, -103.71403",
-      "lat": 44.39681,
-      "lng": -103.714028,
-      "location_id": "L76129239",
-      "checklist_id": "S386353534",
-      "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/178279576/square.jpg"
     },
     {
       "species_code": "chispa",
@@ -78,32 +208,6 @@
       "location_id": "L47457577",
       "checklist_id": "S386378075",
       "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/52277010/square.jpg"
-    },
-    {
-      "species_code": "norfli",
-      "common_name": "Northern Flicker",
-      "scientific_name": "Colaptes auratus",
-      "observed_on": "2026-08-23",
-      "count": 1,
-      "location_name": "Roughlock Falls, SD",
-      "lat": 44.35,
-      "lng": -103.944,
-      "location_id": "L47457577",
-      "checklist_id": "S386378075",
-      "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/123812445/square.jpg"
-    },
-    {
-      "species_code": "rebnut",
-      "common_name": "Red-breasted Nuthatch",
-      "scientific_name": "Sitta canadensis",
-      "observed_on": "2026-08-23",
-      "count": 1,
-      "location_name": "Roughlock Falls, SD",
-      "lat": 44.35,
-      "lng": -103.944,
-      "location_id": "L47457577",
-      "checklist_id": "S386378075",
-      "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/117331702/square.jpg"
     },
     {
       "species_code": "amedip",
@@ -340,32 +444,6 @@
       "photo_url": "https://static.inaturalist.org/photos/76155158/square.jpg"
     },
     {
-      "species_code": "amerob",
-      "common_name": "American Robin",
-      "scientific_name": "Turdus migratorius",
-      "observed_on": "2026-08-23",
-      "count": 2,
-      "location_name": "Bratwurst Trailhead -- Black Hills NF",
-      "lat": 44.2304406,
-      "lng": -103.9365542,
-      "location_id": "L26618286",
-      "checklist_id": "S386313622",
-      "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/34859026/square.jpg"
-    },
-    {
-      "species_code": "daejun",
-      "common_name": "Dark-eyed Junco",
-      "scientific_name": "Junco hyemalis",
-      "observed_on": "2026-08-23",
-      "count": 2,
-      "location_name": "Bratwurst Trailhead -- Black Hills NF",
-      "lat": 44.2304406,
-      "lng": -103.9365542,
-      "location_id": "L26618286",
-      "checklist_id": "S386313622",
-      "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/111714701/square.jpeg"
-    },
-    {
       "species_code": "yerwar",
       "common_name": "Yellow-rumped Warbler",
       "scientific_name": "Setophaga coronata",
@@ -390,19 +468,6 @@
       "location_id": "L76122127",
       "checklist_id": "S386313695",
       "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/86267736/square.jpg"
-    },
-    {
-      "species_code": "rethaw",
-      "common_name": "Red-tailed Hawk",
-      "scientific_name": "Buteo jamaicensis",
-      "observed_on": "2026-08-23",
-      "count": 1,
-      "location_name": "21101–21149 Alt US-14A, Lead US-SD 44.33965, -103.91587",
-      "lat": 44.339651,
-      "lng": -103.915873,
-      "location_id": "L76122127",
-      "checklist_id": "S386313695",
-      "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/101327658/square.jpg"
     },
     {
       "species_code": "cedwax",
@@ -470,19 +535,6 @@
       "photo_url": "https://static.inaturalist.org/photos/25544020/square.jpeg"
     },
     {
-      "species_code": "belkin1",
-      "common_name": "Belted Kingfisher",
-      "scientific_name": "Megaceryle alcyon",
-      "observed_on": "2026-08-23",
-      "count": 1,
-      "location_name": "Devil’s Bathtub Trail",
-      "lat": 44.3994641,
-      "lng": -103.8921888,
-      "location_id": "L11142020",
-      "checklist_id": "S386314125",
-      "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/244248986/square.jpg"
-    },
-    {
       "species_code": "gockin",
       "common_name": "Golden-crowned Kinglet",
       "scientific_name": "Regulus satrapa",
@@ -535,19 +587,6 @@
       "photo_url": "https://static.inaturalist.org/photos/16142680/square.jpg"
     },
     {
-      "species_code": "comnig",
-      "common_name": "Common Nighthawk",
-      "scientific_name": "Chordeiles minor",
-      "observed_on": "2026-08-22",
-      "count": 1,
-      "location_name": "Belle Fourche Dam and Reservoir",
-      "lat": 44.7160017,
-      "lng": -103.7009811,
-      "location_id": "L1195589",
-      "checklist_id": "S385967925",
-      "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/279194539/square.jpg"
-    },
-    {
       "species_code": "killde",
       "common_name": "Killdeer",
       "scientific_name": "Charadrius vociferus",
@@ -559,19 +598,6 @@
       "location_id": "L1195589",
       "checklist_id": "S385967925",
       "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/15053771/square.jpg"
-    },
-    {
-      "species_code": "ribgul",
-      "common_name": "Ring-billed Gull",
-      "scientific_name": "Larus delawarensis",
-      "observed_on": "2026-08-22",
-      "count": 50,
-      "location_name": "Belle Fourche Dam and Reservoir",
-      "lat": 44.7160017,
-      "lng": -103.7009811,
-      "location_id": "L1195589",
-      "checklist_id": "S385967925",
-      "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/117303151/square.jpg"
     },
     {
       "species_code": "calgul",
@@ -600,19 +626,6 @@
       "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/541600012/square.jpg"
     },
     {
-      "species_code": "grbher3",
-      "common_name": "Great Blue Heron",
-      "scientific_name": "Ardea herodias",
-      "observed_on": "2026-08-22",
-      "count": 5,
-      "location_name": "Belle Fourche Dam and Reservoir",
-      "lat": 44.7160017,
-      "lng": -103.7009811,
-      "location_id": "L1195589",
-      "checklist_id": "S385967925",
-      "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/65060931/square.jpg"
-    },
-    {
       "species_code": "vesspa",
       "common_name": "Vesper Sparrow",
       "scientific_name": "Pooecetes gramineus",
@@ -637,19 +650,6 @@
       "location_id": "L1195589",
       "checklist_id": "S385967925",
       "photo_url": "https://static.inaturalist.org/photos/704834/square.jpg"
-    },
-    {
-      "species_code": "bkbmag1",
-      "common_name": "Black-billed Magpie",
-      "scientific_name": "Pica hudsonia",
-      "observed_on": "2026-08-22",
-      "count": 1,
-      "location_name": "Crook County (No Exact Location)",
-      "lat": 44.5442979,
-      "lng": -104.0827841,
-      "location_id": "L71700727",
-      "checklist_id": "S385953873",
-      "photo_url": "https://static.inaturalist.org/photos/29485872/square.jpg"
     }
   ]
 }

@@ -69150,5 +69150,37 @@
     "title": "City Council Study Session Minutes 8/12/2026",
     "doc_type": "Minutes",
     "file_url": "https://spearfishsd.portal.civicclerk.com/event/2192/files/minutes/8783"
+  },
+  {
+    "event_id": 3353,
+    "event_name": "Special City Council Meeting 8/26/2026",
+    "category": "City Council",
+    "start_dt": "2026-08-26T16:15:00Z",
+    "location": "City Hall, 625 N 5th St, Spearfish, SD, 57783",
+    "portal_url": "https://spearfishsd.portal.civicclerk.com/event/3353",
+    "has_media": true,
+    "media_url": "",
+    "record_type": "document",
+    "source_label": "City of Spearfish",
+    "url": "https://spearfishsd.portal.civicclerk.com/event/3353/files/agenda/8791",
+    "title": "City Council Special Session Agenda 8/26/2026",
+    "doc_type": "Agenda",
+    "file_url": "https://spearfishsd.portal.civicclerk.com/event/3353/files/agenda/8791"
+  },
+  {
+    "event_id": 3353,
+    "event_name": "Special City Council Meeting 8/26/2026",
+    "category": "City Council",
+    "start_dt": "2026-08-26T16:15:00Z",
+    "location": "City Hall, 625 N 5th St, Spearfish, SD, 57783",
+    "portal_url": "https://spearfishsd.portal.civicclerk.com/event/3353",
+    "has_media": true,
+    "media_url": "",
+    "record_type": "document",
+    "source_label": "City of Spearfish",
+    "url": "https://spearfishsd.portal.civicclerk.com/event/3353/files/agenda-packet/8792",
+    "title": "City Council Special Session Packet 8/26/2026",
+    "doc_type": "Agenda Packet",
+    "file_url": "https://spearfishsd.portal.civicclerk.com/event/3353/files/agenda-packet/8792"
   }
 ]

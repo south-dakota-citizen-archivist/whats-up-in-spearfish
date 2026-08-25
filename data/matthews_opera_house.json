@@ -886,5 +886,17 @@
     "image_url": "https://www.matthewsopera.com/wp-content/uploads/2026/08/headers.png",
     "record_type": "event",
     "source_label": "Matthews Opera House"
+  },
+  {
+    "title": "Bellman Presentation",
+    "url": "https://www.matthewsopera.com/event/bellman-presentation-3/",
+    "slug": "bellman-presentation",
+    "start_dt": "2026-09-09T12:00:00-06:00",
+    "end_dt": "2026-09-09T13:00:00-06:00",
+    "description": "The Pandemic of 1918-1919 in Lead, SD – Terry Smith, Lead Historic Preservation Commission Join us September 9th from Noon to 1PM for a fascinating presentation on the 1918-1919 Influenza Pandemic - ... Read more \\n",
+    "location": "The Matthews Opera House – Theatre",
+    "image_url": "https://www.matthewsopera.com/wp-content/uploads/2026/06/Website-Header-2.png",
+    "record_type": "event",
+    "source_label": "Matthews Opera House"
   }
 ]

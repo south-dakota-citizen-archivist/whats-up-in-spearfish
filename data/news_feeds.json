@@ -5756,5 +5756,45 @@
     "description": "The migration story is often associated with retirees moving to the state, but new analysis of Census data shows working-age adults made up the largest share of recent newcomers.",
     "record_type": "news",
     "source_label": "SD Newswatch"
+  },
+  {
+    "url": "https://www.sdnewswatch.org/south-dakota-fact-brief-school-lunches-free-reduced-poverty-line/",
+    "title": "Fact brief: Does SD have the lowest eligible free/reduced lunch rate among neighboring states?",
+    "slug": "sd-newswatch-fact-brief-does-sd-have-the-lowest-eligible-free-reduced-lunch-rate",
+    "published": "2026-08-25",
+    "byline": "Michael Klinski",
+    "description": "More students to receive free lunches in South Dakota this school year after new law passed.",
+    "record_type": "news",
+    "source_label": "SD Newswatch"
+  },
+  {
+    "url": "https://www.sdnewswatch.org/south-dakota-smithfield-crooks-sioux-falls-lawsuit/",
+    "title": "Explainer: What conditional use permits are, why Crooks residents sued",
+    "slug": "sd-newswatch-explainer-what-conditional-use-permits-are-why-crooks-residents",
+    "published": "2026-08-19",
+    "byline": "Molly Wetsch",
+    "description": "The lawsuit over a conditional use permit reflects a longstanding tension between residents, often of rural areas, and those who make decisions about how the land around them gets used.",
+    "record_type": "news",
+    "source_label": "SD Newswatch"
+  },
+  {
+    "url": "https://southdakotasearchlight.com/2026/08/24/state-of-south-dakota-faces-lawsuit-over-proof-of-citizenship-voter-registration-law/",
+    "title": "State of South Dakota faces lawsuit over proof-of-citizenship voter registration law",
+    "slug": "south-dakota-searchlight-state-of-south-dakota-faces-lawsuit-over-proof-of-voter",
+    "published": "2026-08-25",
+    "byline": "John Hult",
+    "description": "A nonprofit organization and a Sioux Falls voter filed a lawsuit Monday in federal court over the implementation of South Dakota’s new proof-of-citizenship requirement for voter registration. Senate Bill 175, passed by lawmakers and signed into law by Republican Gov. Larry Rhoden in March, requires documentary proof of citizenship from people registering to vote. That [&#8230;]",
+    "record_type": "news",
+    "source_label": "South Dakota Searchlight"
+  },
+  {
+    "url": "https://southdakotasearchlight.com/2026/08/24/federal-government-funds-conservation-in-south-dakota-while-cutting-the-people-who-do-the-work/",
+    "title": "Federal government funds conservation in South Dakota while cutting the people who do the work",
+    "slug": "south-dakota-searchlight-federal-government-funds-conservation-in-south-dakota",
+    "published": "2026-08-24",
+    "byline": "Brad Johnson",
+    "description": "The federal government has found a strange way to practice conservation: put billions of dollars on the table, then cut many of the people needed to turn that money into work on the ground. That is the disconnect South Dakota’s congressional delegation should be concerned about, because right now the two policies are moving in [&#8230;]",
+    "record_type": "news",
+    "source_label": "South Dakota Searchlight"
   }
 ]
