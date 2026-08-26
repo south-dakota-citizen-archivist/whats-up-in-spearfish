@@ -25710,5 +25710,21 @@
     "status": "CONFIRMED",
     "record_type": "event",
     "source_label": "Spearfish HS Sports"
+  },
+  {
+    "uid": "h20260825071142901fc1647c96e1144",
+    "url": "https://gobound.com/direct/comps/h20260825071142901fc1647c96e1144/show",
+    "title": "Girls Cross Country: Clyde Cotton Invitational (Varsity)",
+    "slug": "girls-cross-country-clyde-cotton-invitational-varsity",
+    "sport": "Girls Cross Country",
+    "level": "Varsity",
+    "sex": "female",
+    "description": "Varsity Girls Cross Country - Clyde Cotton Invitational",
+    "start_dt": "2026-09-19T14:00:00",
+    "end_dt": "2026-09-19T19:00:00",
+    "location": "Broadland Creek Golf Course",
+    "status": "CONFIRMED",
+    "record_type": "event",
+    "source_label": "Spearfish HS Sports"
   }
 ]

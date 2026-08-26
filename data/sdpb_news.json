@@ -3837,5 +3837,49 @@
     "image_url": "https://npr.brightspotcdn.com/eb/d5/cbf5066e4e8d8379ee8137165d15/f4467c7436-hc-hospital-hallway.png",
     "record_type": "news",
     "source_label": "SDPB"
+  },
+  {
+    "url": "https://www.sdpb.org/crime-courts/2026-08-26/meta-settlements-nets-sd-52-million-social-media-safety-for-children",
+    "title": "Meta settlements nets SD $52 million, social media 'safety' for children",
+    "slug": "sdpb-meta-settlements-nets-sd-52-million-social-media-safety-for-children",
+    "published": "2026-08-26",
+    "byline": "By Jackson Dircks",
+    "description": "South Dakota settles with Meta in a case over allegations its social media platforms harm children. It’s one of the state’s largest settlements ever, according to the Attorney General's office.",
+    "image_url": "https://npr.brightspotcdn.com/1b/e3/1d8f09cc4ca9b7ba259362443567/untitled-design-3-1.jpg",
+    "record_type": "news",
+    "source_label": "SDPB"
+  },
+  {
+    "url": "https://www.sdpb.org/business-economics/2026-08-26/black-hills-energy-requests-15-rate-hike-to-pay-for-new-powerplant",
+    "title": "Black Hills Energy requests 15% rate hike to pay for new powerplant",
+    "slug": "sdpb-black-hills-energy-requests-15-rate-hike-to-pay-for-new-powerplant",
+    "published": "2026-08-26",
+    "byline": "By SDPB News Staff",
+    "description": "A major regional energy utility is seeking a rate increase to pay for a new electricity powerplant in Rapid City.",
+    "image_url": "https://npr.brightspotcdn.com/6d/05/d7e59e3a40e886ccb004ce0296f1/black-hills-energy.jpg",
+    "record_type": "news",
+    "source_label": "SDPB"
+  },
+  {
+    "url": "https://www.sdpb.org/crime-courts/2026-08-25/pierre-woman-receives-suspended-sentence-for-medicaid-fraud",
+    "title": "Pierre woman receives suspended sentence for Medicaid fraud",
+    "slug": "sdpb-pierre-woman-receives-suspended-sentence-for-medicaid-fraud",
+    "published": "2026-08-25",
+    "byline": "By SDPB News Staff",
+    "description": "A Pierre woman convicted of defrauding the state’s Medicaid program has avoided a jail sentence for the crime.",
+    "image_url": "https://npr.brightspotcdn.com/0b/37/bb47d06d4c25926e610ee96c4540/gavel.jpg",
+    "record_type": "news",
+    "source_label": "SDPB"
+  },
+  {
+    "url": "https://www.sdpb.org/politics/2026-08-25/administrative-change-in-voting-law-leads-to-lawsuit-against-state",
+    "title": "Administrative change in voting law leads to lawsuit against state",
+    "slug": "sdpb-administrative-change-in-voting-law-leads-to-lawsuit-against-state",
+    "published": "2026-08-25",
+    "byline": "By C.J. Keene",
+    "description": "The state faces a lawsuit over its implementation of a voting law. The question arises not from the law itself, but the administration of that law which critics say creates confusion ahead of election season.",
+    "image_url": "https://npr.brightspotcdn.com/5e/a8/e500e861420d96635534168f0a2d/614220d1dd-capitol1.jpg",
+    "record_type": "news",
+    "source_label": "SDPB"
   }
 ]

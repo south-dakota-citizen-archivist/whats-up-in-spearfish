@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-25T17:29:58.751695+00:00",
+  "fetched_at": "2026-08-26T18:57:02.383365+00:00",
   "cases": [
     {
       "ccid": "123",
@@ -126,6 +126,14 @@
       "docs_url": "https://danr.sd.gov/public/ccdocs.aspx?CCID=CCID130",
       "documents": [
         {
+          "label": "Objection to Pierre Venue and Request to Amend Scheduling Order",
+          "url": "https://danr.sd.gov/OfficeOfWater/SurfaceWaterQuality/docs/CCH/Custer/Objection to Venue and Amend Scheduling Order.pdf"
+        },
+        {
+          "label": "Objection to Venue",
+          "url": "https://danr.sd.gov/OfficeOfWater/SurfaceWaterQuality/docs/CCH/Custer/Objection to Venue.pdf"
+        },
+        {
           "label": "Order Granting Modification of Scheduling Order",
           "url": "https://danr.sd.gov/OfficeOfWater/SurfaceWaterQuality/docs/CCH/Custer/Order Granting Modification of Scheduling Order.pdf"
         },
@@ -136,17 +144,9 @@
         {
           "label": "Motion to Transfer & Affidavit",
           "url": "https://danr.sd.gov/OfficeOfWater/SurfaceWaterQuality/docs/CCH/Custer/Motion to Transfer and Affidavit.pdf"
-        },
-        {
-          "label": "Scheduling Order",
-          "url": "https://danr.sd.gov/OfficeOfWater/SurfaceWaterQuality/docs/CCH/Custer/Scheduling Order 08062026.pdf"
-        },
-        {
-          "label": "First Set Interrogatory Request to City of Custer",
-          "url": "https://danr.sd.gov/OfficeOfWater/SurfaceWaterQuality/docs/CCH/Custer/Interrogatory Request Custer.pdf"
         }
       ],
-      "total_docs": 20,
+      "total_docs": 22,
       "latest_doc_date": "0000-00-00"
     },
     {
