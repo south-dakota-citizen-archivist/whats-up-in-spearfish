@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-26T18:57:02.383365+00:00",
+  "fetched_at": "2026-08-28T01:19:40.770263+00:00",
   "cases": [
     {
       "ccid": "123",
@@ -394,6 +394,10 @@
       "docs_url": "https://danr.sd.gov/public/ccdocs.aspx?CCID=CCID128",
       "documents": [
         {
+          "label": "Objections to Proposed Finding of Fact & Conclusions of Law",
+          "url": "https://danr.sd.gov/wrimage/pub/8990-3 CityofMilbank_objFOF.pdf"
+        },
+        {
           "label": "Proposed Finding of Fact & Conclusions of Law",
           "url": "https://danr.sd.gov/wrimage/pub/8990-3 CityofMilbank_propFOF.pdf"
         },
@@ -408,13 +412,9 @@
         {
           "label": "Filings Submitted by Applicant's Counsel - Pre Hearing Submission",
           "url": "https://danr.sd.gov/wrimage/pub/8990-3_filings by applicants counsel.pdf"
-        },
-        {
-          "label": "Notice of Appearance - Counsel for Petitioner (GRRWS)",
-          "url": "https://danr.sd.gov/wrimage/pub/8990-3_NOA_pet_GRWS.pdf"
         }
       ],
-      "total_docs": 17,
+      "total_docs": 18,
       "latest_doc_date": "0000-00-00"
     },
     {

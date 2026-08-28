@@ -25726,5 +25726,21 @@
     "status": "CONFIRMED",
     "record_type": "event",
     "source_label": "Spearfish HS Sports"
+  },
+  {
+    "uid": "h202608260845495984f3f3825740944",
+    "url": "https://gobound.com/direct/comps/h202608260845495984f3f3825740944/show",
+    "title": "Football: Spearfish vs Sturgis Brown (Reserve)",
+    "slug": "football-spearfish-vs-sturgis-brown-reserve",
+    "sport": "Football",
+    "level": "Reserve",
+    "sex": "male",
+    "description": "Reserve Football - Spearfish vs Sturgis Brown",
+    "start_dt": "2026-09-03T22:00:00",
+    "end_dt": "2026-09-04T00:00:00",
+    "location": "Sturgis Woodle Field Sturgis Woodle Field Football",
+    "status": "CONFIRMED",
+    "record_type": "event",
+    "source_label": "Spearfish HS Sports"
   }
 ]

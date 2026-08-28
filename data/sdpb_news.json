@@ -3881,5 +3881,60 @@
     "image_url": "https://npr.brightspotcdn.com/5e/a8/e500e861420d96635534168f0a2d/614220d1dd-capitol1.jpg",
     "record_type": "news",
     "source_label": "SDPB"
+  },
+  {
+    "url": "https://www.sdpb.org/business-economics/2026-08-27/businesses-across-region-struggling-under-increasing-costs-survey-says",
+    "title": "Businesses across region struggling under increasing costs, survey says",
+    "slug": "sdpb-businesses-across-region-struggling-under-increasing-costs-survey-says",
+    "published": "2026-08-27",
+    "byline": "By Jackson Dircks",
+    "description": "A recent survey showed businesses across the region are facing high costs and struggling with passing those costs on to consumers.",
+    "image_url": "https://npr.brightspotcdn.com/legacy/prod/filer_public/kusd-bento-live-pbs/News%20Blog/STOCK%20PHOTOS/Business/7e67ffe085_7e67ffe085_LF6GDDBQDJDNLMY26YMEARWQEU.jpg",
+    "record_type": "news",
+    "source_label": "SDPB"
+  },
+  {
+    "url": "https://www.sdpb.org/politics/2026-08-27/trump-endorses-rhoden-in-south-dakota-governors-race",
+    "title": "Trump endorses Rhoden in South Dakota governor's race",
+    "slug": "sdpb-trump-endorses-rhoden-in-south-dakota-governor-s-race",
+    "published": "2026-08-27",
+    "byline": "By SDPB News Staff",
+    "description": "President Donald Trump is endorsing Republican incumbent Larry Rhoden in the race for South Dakota governor.",
+    "image_url": "https://npr.brightspotcdn.com/8d/23/302cc574457ea8772642d5271055/rhoden-runoff-victory.jpg",
+    "record_type": "news",
+    "source_label": "SDPB"
+  },
+  {
+    "url": "https://www.sdpb.org/arts-life/2026-08-27/interdependence-relay-in-bison-asks-questions-about-what-we-owe-one-another",
+    "title": "Interdependence Relay in Bison asks questions about what we owe one another",
+    "slug": "sdpb-interdependence-relay-in-bison-asks-questions-about-what-we-owe-one-another",
+    "published": "2026-08-27",
+    "byline": "By Lori Walsh",
+    "description": "A party in Perkins County explores reciprocal relationships and how to be part of a nation of gatherers. We talk with Eliza Blue and Garrett Bucks.",
+    "image_url": "https://npr.brightspotcdn.com/52/a4/27ad8392458d90c0af200f3647e9/website-photo-1.png",
+    "record_type": "news",
+    "source_label": "SDPB"
+  },
+  {
+    "url": "https://www.sdpb.org/healthcare/2026-08-26/va-deputy-secretary-says-department-challenges-reflected-in-private-sector",
+    "title": "VA Deputy Secretary says department challenges reflected in private sector",
+    "slug": "sdpb-va-deputy-secretary-says-department-challenges-reflected-in-private-sector",
+    "published": "2026-08-26",
+    "byline": "By C.J. Keene",
+    "description": "The Deputy Secretary of the Department of Veterans Affairs came to the large Sturgis VA facility to highlight current priorities with the department. Right now, it’s improving services that the nation’s vets are entitled to.",
+    "image_url": "https://npr.brightspotcdn.com/5c/58/13b5be6142a9bd8b9207b2ff3c75/image-2026-08-26t160412-646.jpg",
+    "record_type": "news",
+    "source_label": "SDPB"
+  },
+  {
+    "url": "https://www.sdpb.org/business-economics/2026-08-26/robust-renewable-energy-helps-attract-data-centers-to-south-dakota",
+    "title": "Robust renewable energy helps attract data centers to South Dakota",
+    "slug": "sdpb-robust-renewable-energy-helps-attract-data-centers-to-south-dakota",
+    "published": "2026-08-26",
+    "byline": "By Lori Walsh",
+    "description": "A strong profile in wind and hydropower makes the state more appealing to big tech companies. But South Dakotans are working hard to navigate the pitfalls of power and avoid problems that have plagued other states.",
+    "image_url": "https://npr.brightspotcdn.com/26/73/fe2a1eb54f6ea5e770bb9cea99f1/2026q2-do-datacenter5.svg",
+    "record_type": "news",
+    "source_label": "SDPB"
   }
 ]

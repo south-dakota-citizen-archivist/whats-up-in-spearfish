@@ -2048,5 +2048,35 @@
     "start_dt": "Tue, 14 Jul 2026 08:59:20 -0700",
     "record_type": "event",
     "source_label": "City of Spearfish"
+  },
+  {
+    "url": "https://www.spearfish.gov/Calendar.aspx?EID=3709",
+    "title": "City Council Special Session 9/9/2026",
+    "slug": "city-council-special-session-9-9-2026",
+    "description": "<strong>Event date:</strong> September 9, 2026 <br /><strong>Event Time: </strong>04:00 PM - 11:59 PM<br /><strong>Location:</strong> <br />City Hall<br />625 N 5th St<br />Spearfish, SD 57783",
+    "published": "Thu, 27 Aug 2026 11:30:18 -0700",
+    "start_dt": "Thu, 27 Aug 2026 11:30:18 -0700",
+    "record_type": "event",
+    "source_label": "City of Spearfish"
+  },
+  {
+    "url": "https://www.spearfish.gov/Calendar.aspx?EID=3710",
+    "title": "City Council Special Session 9/9/2026",
+    "slug": "city-council-special-session-9-9-2026",
+    "description": "<strong>Event date:</strong> September 9, 2026 <br /><strong>Event Time: </strong>06:00 PM - 11:59 PM<br /><strong>Location:</strong> <br />City Hall<br />625 N 5th St<br />Spearfish, SD 57783",
+    "published": "Thu, 27 Aug 2026 12:20:30 -0700",
+    "start_dt": "Thu, 27 Aug 2026 12:20:30 -0700",
+    "record_type": "event",
+    "source_label": "City of Spearfish"
+  },
+  {
+    "url": "https://www.spearfish.gov/Calendar.aspx?EID=3711",
+    "title": "City Council Special Session 9/10/2026",
+    "slug": "city-council-special-session-9-10-2026",
+    "description": "<strong>Event date:</strong> September 10, 2026 <br /><strong>Event Time: </strong>04:00 PM - 11:59 PM<br /><strong>Location:</strong> <br />City Hall<br />625 N 5th St<br />Spearfish, SD 57783",
+    "published": "Thu, 27 Aug 2026 12:21:25 -0700",
+    "start_dt": "Thu, 27 Aug 2026 12:21:25 -0700",
+    "record_type": "event",
+    "source_label": "City of Spearfish"
   }
 ]
