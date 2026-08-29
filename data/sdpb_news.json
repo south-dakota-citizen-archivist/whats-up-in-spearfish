@@ -3936,5 +3936,71 @@
     "image_url": "https://npr.brightspotcdn.com/26/73/fe2a1eb54f6ea5e770bb9cea99f1/2026q2-do-datacenter5.svg",
     "record_type": "news",
     "source_label": "SDPB"
+  },
+  {
+    "url": "https://www.sdpb.org/politics/2026-08-28/national-park-foundation-urging-fund-reauthorization-thats-benefitted-sd-parks",
+    "title": "National Park Foundation urging fund reauthorization that's benefitted SD parks",
+    "slug": "sdpb-national-park-foundation-urging-fund-reauthorization-that-s-benefitted-sd",
+    "published": "2026-08-28",
+    "byline": "By Jackson Dircks",
+    "description": "The National Park Foundation, the nonprofit that supports the park service, is urging Congress to reauthorize a fund that South Dakota has benefited in millions of dollars.",
+    "image_url": "https://npr.brightspotcdn.com/legacy/prod/filer_public/Learn/Michael/badlands%20south%20unit/templeruinsweb.jpeg",
+    "record_type": "news",
+    "source_label": "SDPB"
+  },
+  {
+    "url": "https://www.sdpb.org/healthcare/2026-08-28/minnesota-ag-approves-merger-between-sanford-north-memorial-health",
+    "title": "Minnesota AG approves merger between Sanford, North Memorial Health",
+    "slug": "sdpb-minnesota-ag-approves-merger-between-sanford-north-memorial-health",
+    "published": "2026-08-28",
+    "byline": "By SDPB News Staff",
+    "description": "A merger between Sanford Health and a Minnesota-based health care system has passed a major regulatory hurdle.",
+    "image_url": "https://npr.brightspotcdn.com/prod/filer_public/kusd-bento-live-pbs/Jackie%20Hendry/b9ce8df009_102416SanfordHealthHospitalMedical.jpg",
+    "record_type": "news",
+    "source_label": "SDPB"
+  },
+  {
+    "url": "https://www.sdpb.org/education/2026-08-28/regents-seek-funds-for-sdsu-economics-program-usd-medical-school-changes",
+    "title": "Regents seek funds for SDSU economics program, USD medical school changes",
+    "slug": "sdpb-regents-seek-funds-for-sdsu-economics-program-usd-medical-school-changes",
+    "published": "2026-08-28",
+    "byline": "By SDPB News Staff",
+    "description": "The Board of Regents is requesting funds to upgrade SDSU’s economics program and relocate part of USD’s medical program to Sioux Falls.",
+    "image_url": "https://npr.brightspotcdn.com/legacy/prod/blog/20170308_180637_208316_college.jpeg",
+    "record_type": "news",
+    "source_label": "SDPB"
+  },
+  {
+    "url": "https://www.sdpb.org/business-economics/2026-08-28/higher-than-average-real-gdp-growth-expected-lower-labor-participation-rate-in-sd",
+    "title": "Higher-than-average real GDP growth expected, lower labor participation rate in SD",
+    "slug": "sdpb-higher-than-average-real-gdp-growth-expected-lower-labor-participation-rate",
+    "published": "2026-08-28",
+    "byline": "By Jackson Dircks",
+    "description": "Projections show South Dakota’s GDP growth and sales tax revenue — which drives the state budget — are trending up.",
+    "image_url": "https://npr.brightspotcdn.com/4d/8b/8b49743745998b2b9b9799ce82e7/south-dakota-money-trade-business-budget.jpg",
+    "record_type": "news",
+    "source_label": "SDPB"
+  },
+  {
+    "url": "https://www.sdpb.org/arts-life/2026-08-28/comedy-show-in-rapid-city-unpacks-more-than-a-punchline",
+    "title": "Comedy show in Rapid City unpacks more than a punchline",
+    "slug": "sdpb-comedy-show-in-rapid-city-unpacks-more-than-a-punchline",
+    "published": "2026-08-28",
+    "byline": "By Lori Walsh",
+    "description": "\"We're all doing great ... and other lies\" showcases standup comedy that intersects with addiction recovery. Producer Joe Huisman talks about laughing together through pain and chaos.",
+    "image_url": "https://npr.brightspotcdn.com/52/a4/27ad8392458d90c0af200f3647e9/website-photo-1.png",
+    "record_type": "news",
+    "source_label": "SDPB"
+  },
+  {
+    "url": "https://www.sdpb.org/elections/2026-08-27/trump-endorses-rhoden-in-south-dakota-governors-race",
+    "title": "Trump endorses Rhoden in South Dakota governor's race",
+    "slug": "sdpb-trump-endorses-rhoden-in-south-dakota-governor-s-race",
+    "published": "2026-08-27",
+    "byline": "By SDPB News Staff",
+    "description": "President Donald Trump is endorsing Republican incumbent Larry Rhoden in the race for South Dakota governor.",
+    "image_url": "https://npr.brightspotcdn.com/8d/23/302cc574457ea8772642d5271055/rhoden-runoff-victory.jpg",
+    "record_type": "news",
+    "source_label": "SDPB"
   }
 ]

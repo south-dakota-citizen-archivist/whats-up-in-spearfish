@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-28T01:19:49.941239+00:00",
+  "fetched_at": "2026-08-29T00:54:36.768925+00:00",
   "projects": [
     {
       "project_id": "66463",
@@ -492,22 +492,6 @@
       "district": "R2 - Rocky Mt. Region All Units",
       "purpose": "Land Management Planning|Minerals And Geology",
       "description": "The USFS requested 20,574 acres of NFS lands be withdrawn (closed) to all forms of entry, appropriation, and disposal under the mining laws, mineral and geothermal leasing laws, and public land laws, subject to valid existing rights",
-      "milestones": [],
-      "comment_period_date": null,
-      "comment_period_sort": "9999-99",
-      "location_summary": "",
-      "counties": [],
-      "contact": {},
-      "last_updated": ""
-    },
-    {
-      "project_id": "213841",
-      "title": "Palmer Creek (NFSR 350) Roadside Maintenance",
-      "url": "https://www.fs.usda.gov/r02/blackhills/projects/213841",
-      "status": "Completed",
-      "district": "Hell Canyon Ranger District",
-      "purpose": "Road Management",
-      "description": "Road work activities for maintenance and safety that include removal of trees within 5 ft of the Pennington County's right of way along Palmer Creek Road; decommissioning approximately 760' of the westernmost part of the road the southern wye segment; proposed chip sealing; and culvert replacement.",
       "milestones": [],
       "comment_period_date": null,
       "comment_period_sort": "9999-99",

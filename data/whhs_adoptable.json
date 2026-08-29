@@ -242,6 +242,50 @@
     "source_label": "Western Hills Humane Society"
   },
   {
+    "url": "https://www.westernhillshumanesociety.com/cats",
+    "title": "Finley",
+    "slug": "cat-finley",
+    "species": "cat",
+    "description": "Male | est DOB ~2021\nAvailable 9/3/26 following neuter appt\nFinley came to us in August 2026 as a known stray. He’s very vocal and affectionate and we can’t wait for him to find his forever home!",
+    "image_url": "https://images.squarespace-cdn.com/content/v1/6833638f52663f7b5354620e/fd578eda-5917-438f-a6c7-6f7b7c228248/Finley.jpg?format=500w",
+    "image_alt": "Finley",
+    "record_type": "adoptable",
+    "source_label": "Western Hills Humane Society"
+  },
+  {
+    "url": "https://www.westernhillshumanesociety.com/cats",
+    "title": "Smokes",
+    "slug": "cat-smokes",
+    "species": "cat",
+    "description": "Male | Born 2019-2020\nAvailable 9/3/26 following rabies vacc\nFront declaw - indoor only!\nSmokes came to us after his owner got evicted in August of 2026. He has lived in some chaos but is the sweetest guy! He gets really into pets and throws himself all over and meows - it’s adorable! He is ready to cuddle.",
+    "image_url": "https://images.squarespace-cdn.com/content/v1/6833638f52663f7b5354620e/53d63e2e-22df-4807-b32f-472bd6d52a9d/Smokes.jpg?format=500w",
+    "image_alt": "Smokes",
+    "record_type": "adoptable",
+    "source_label": "Western Hills Humane Society"
+  },
+  {
+    "url": "https://www.westernhillshumanesociety.com/cats",
+    "title": "Boo",
+    "slug": "cat-boo",
+    "species": "cat",
+    "description": "Female | Born 4/10/25\nBoo came to us August 2026 after having continuous belly issues - we are taking her to the vet on 9/1/26 to see if she has allergies. In the meantime, we are letting her adjust to her new sounds and smells and trying higher quality foods. She is sweet once she knows she’s safe with you. Boo would probably do best in a home without kids or dogs as she’s quite shy and hides away when things are too loud.",
+    "image_url": "",
+    "image_alt": "Boo",
+    "record_type": "adoptable",
+    "source_label": "Western Hills Humane Society"
+  },
+  {
+    "url": "https://www.westernhillshumanesociety.com/cats",
+    "title": "Mama (needs a) Martini",
+    "slug": "cat-mama-needs-a-martini",
+    "species": "cat",
+    "description": "Female | Born 2026\nArrived August 2026",
+    "image_url": "",
+    "image_alt": "Mama (needs a) Martini",
+    "record_type": "adoptable",
+    "source_label": "Western Hills Humane Society"
+  },
+  {
     "url": "https://www.westernhillshumanesociety.com/dogs",
     "title": "Nova",
     "slug": "dog-nova",
@@ -315,17 +359,6 @@
     "description": "Male | Shepherd/Akita/Kelpie Mix | 1+ year old\nSeems fine with other dogs, unsure of cats (but his siblings have done fine w/ cats!)\nPhoenix is the most brave and excited to meet people. He opened up to us pretty quickly and continues to be a good boy with a crooked gaze! He loves to go on walks and get outside for exercise! He is the last of the Mythicals here at the shelter.\nPhoenix weighs 52 lbs.\nPhoenix came to us the week of June 21st, 2026 with 7 other dogs. They were involved in a house explosion in the early morning of June 21st. There were 17 dogs total and all dogs (and humans) survived. All dogs have singed fur but thankfully, only a couple had severe injuries. We don’t know their former names and any other history than potential breed mixes. We do know they lived with children.",
     "image_url": "https://images.squarespace-cdn.com/content/v1/6833638f52663f7b5354620e/b5fc71d9-cf7b-4987-9c65-66ac1f418067/image2+%287%29.jpeg?format=500w",
     "image_alt": "Phoenix",
-    "record_type": "adoptable",
-    "source_label": "Western Hills Humane Society"
-  },
-  {
-    "url": "https://www.westernhillshumanesociety.com/dogs",
-    "title": "Toby",
-    "slug": "dog-toby",
-    "species": "dog",
-    "description": "Male | Yellow Lab Mix | Around 2 years\nSeems to get along with dogs, cats unknown, loves people \nToby came to us as a stray. A lovely lady picked him up and took care of him for a while before being brought to the shelter. Unfortunately no one has stepped forward to claim me! I am a lover of people, I just want to cuddle and go on walks. \nToby weighs 52 pounds!",
-    "image_url": "https://images.squarespace-cdn.com/content/v1/6833638f52663f7b5354620e/9c31b4d2-f3f1-4a61-8248-a0c7e4e0c963/IMG_9599.jpeg?format=500w",
-    "image_alt": "Toby",
     "record_type": "adoptable",
     "source_label": "Western Hills Humane Society"
   },

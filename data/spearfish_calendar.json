@@ -2078,5 +2078,25 @@
     "start_dt": "Thu, 27 Aug 2026 12:21:25 -0700",
     "record_type": "event",
     "source_label": "City of Spearfish"
+  },
+  {
+    "url": "https://www.spearfish.gov/Calendar.aspx?EID=3704",
+    "title": "Fall Clean Up Days at Spearfish RUS",
+    "slug": "fall-clean-up-days-at-spearfish-rus",
+    "description": "<strong>Event date:</strong> September 11, 2026 <br /><strong>Event Time: </strong>07:30 AM - 04:00 PM<br /><strong>Location:</strong> <br />910 Camp Comfort Road<br />Spearfish, SD 57783<br /><strong>Description:</strong><br />The City of Spearfish offers free clean up days at the Restricted Use Site (RUS) during the year.  Fees are waived for both City and Lawrence County residents for all acceptable items.  Fall Clean Up is held the second weekend in September.",
+    "published": "Tue, 18 Aug 2026 08:45:41 -0700",
+    "start_dt": "Tue, 18 Aug 2026 08:45:41 -0700",
+    "record_type": "event",
+    "source_label": "City of Spearfish"
+  },
+  {
+    "url": "https://www.spearfish.gov/Calendar.aspx?EID=3708",
+    "title": "Community Ceremony of Remembrance and Honor - 25th anniversary of 9/11",
+    "slug": "community-ceremony-of-remembrance-and-honor-25th-anniversary-of-9-11",
+    "description": "<strong>Event date:</strong> September 11, 2026 <br /><strong>Event Time: </strong>08:46 AM - 09:15 AM<br /><strong>Location:</strong> <br />622 N Canyon St<br />Spearfish, SD 57783<br /><strong>Description:</strong><br />On September 11, 2001, our nation was forever changed. Twenty-five years later, we gather as a community to honor those we lost, remember those who answered the call, and ensure a new generation understands why we must never forget.",
+    "published": "Tue, 25 Aug 2026 14:29:13 -0700",
+    "start_dt": "Tue, 25 Aug 2026 14:29:13 -0700",
+    "record_type": "event",
+    "source_label": "City of Spearfish"
   }
 ]

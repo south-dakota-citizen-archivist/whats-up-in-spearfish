@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-28T01:19:40.770263+00:00",
+  "fetched_at": "2026-08-29T00:54:27.172869+00:00",
   "cases": [
     {
       "ccid": "123",
@@ -126,6 +126,14 @@
       "docs_url": "https://danr.sd.gov/public/ccdocs.aspx?CCID=CCID130",
       "documents": [
         {
+          "label": "Expert Disclosure",
+          "url": "https://danr.sd.gov/OfficeOfWater/SurfaceWaterQuality/docs/CCH/Custer/Expert Disclosure.pdf"
+        },
+        {
+          "label": "Affidavit of Scott Kenner, PhD",
+          "url": "https://danr.sd.gov/OfficeOfWater/SurfaceWaterQuality/docs/CCH/Custer/Kenner Affidavit.pdf"
+        },
+        {
           "label": "Objection to Pierre Venue and Request to Amend Scheduling Order",
           "url": "https://danr.sd.gov/OfficeOfWater/SurfaceWaterQuality/docs/CCH/Custer/Objection to Venue and Amend Scheduling Order.pdf"
         },
@@ -136,17 +144,9 @@
         {
           "label": "Order Granting Modification of Scheduling Order",
           "url": "https://danr.sd.gov/OfficeOfWater/SurfaceWaterQuality/docs/CCH/Custer/Order Granting Modification of Scheduling Order.pdf"
-        },
-        {
-          "label": "Motion for Modification of Schedule Order with Exhibits and Attachment",
-          "url": "https://danr.sd.gov/OfficeOfWater/SurfaceWaterQuality/docs/CCH/Custer/Modification of Schedule Order with Exhibits.pdf"
-        },
-        {
-          "label": "Motion to Transfer & Affidavit",
-          "url": "https://danr.sd.gov/OfficeOfWater/SurfaceWaterQuality/docs/CCH/Custer/Motion to Transfer and Affidavit.pdf"
         }
       ],
-      "total_docs": 22,
+      "total_docs": 24,
       "latest_doc_date": "0000-00-00"
     },
     {
