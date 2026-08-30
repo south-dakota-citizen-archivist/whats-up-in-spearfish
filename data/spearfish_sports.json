@@ -25742,5 +25742,53 @@
     "status": "CONFIRMED",
     "record_type": "event",
     "source_label": "Spearfish HS Sports"
+  },
+  {
+    "uid": "h2026083001182610883edf450f94941",
+    "url": "https://gobound.com/direct/comps/h2026083001182610883edf450f94941/show",
+    "title": "Volleyball: Spearfish vs Hill City (Freshman B)",
+    "slug": "volleyball-spearfish-vs-hill-city-freshman-b",
+    "sport": "Volleyball",
+    "level": "Freshman B",
+    "sex": "female",
+    "description": "Freshman B Volleyball - Spearfish vs Hill City",
+    "start_dt": "2026-09-01T23:00:00",
+    "end_dt": "2026-09-02T00:00:00",
+    "location": "Hill City Gym",
+    "status": "CONFIRMED",
+    "record_type": "event",
+    "source_label": "Spearfish HS Sports"
+  },
+  {
+    "uid": "h2026083001184041132d02f1bb02445",
+    "url": "https://gobound.com/direct/comps/h2026083001184041132d02f1bb02445/show",
+    "title": "Volleyball: Spearfish vs Hill City (Junior Varsity)",
+    "slug": "volleyball-spearfish-vs-hill-city-junior-varsity",
+    "sport": "Volleyball",
+    "level": "Junior Varsity",
+    "sex": "female",
+    "description": "Junior Varsity Volleyball - Spearfish vs Hill City",
+    "start_dt": "2026-09-02T00:00:00",
+    "end_dt": "2026-09-02T01:00:00",
+    "location": "Hill City Gym",
+    "status": "CONFIRMED",
+    "record_type": "event",
+    "source_label": "Spearfish HS Sports"
+  },
+  {
+    "uid": "h20260830014609204a56a06f4335b42",
+    "url": "https://gobound.com/direct/comps/h20260830014609204a56a06f4335b42/show",
+    "title": "Girls Tennis: Spearfish vs Madison (Varsity)",
+    "slug": "girls-tennis-spearfish-vs-madison-varsity",
+    "sport": "Girls Tennis",
+    "level": "Varsity",
+    "sex": "female",
+    "description": "Varsity Girls Tennis - Spearfish vs Madison",
+    "start_dt": "2026-09-05T14:00:00",
+    "end_dt": "2026-09-05T15:00:00",
+    "location": "Madison High School Tennis Courts",
+    "status": "CONFIRMED",
+    "record_type": "event",
+    "source_label": "Spearfish HS Sports"
   }
 ]
