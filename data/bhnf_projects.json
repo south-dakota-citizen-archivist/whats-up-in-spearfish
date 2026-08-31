@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-30T19:41:40.264683+00:00",
+  "fetched_at": "2026-08-31T21:48:05.461071+00:00",
   "projects": [
     {
       "project_id": "66463",
@@ -300,22 +300,6 @@
       "district": "Hell Canyon Ranger District",
       "purpose": "Fuels Management|Vegetation Management (Other Than Forest Products)",
       "description": "Collaborative prescribed burn with Mount Rushmore to promote forest health and improve wildfire resilience. Additionally, protect recreational residences through thinning activities.",
-      "milestones": [],
-      "comment_period_date": null,
-      "comment_period_sort": "9999-99",
-      "location_summary": "",
-      "counties": [],
-      "contact": {},
-      "last_updated": ""
-    },
-    {
-      "project_id": "232189",
-      "title": "Harlan Ridge Trail",
-      "url": "https://www.fs.usda.gov/r02/blackhills/projects/232189",
-      "status": "Completed",
-      "district": "Northern Hills Ranger District",
-      "purpose": "Recreation Management",
-      "description": "The recreation staff on the Northern Hills Ranger District are proposing to officially designate the user\u2011created Harlan Ridge Trail and adopt it into the nonmotorized trail system.",
       "milestones": [],
       "comment_period_date": null,
       "comment_period_sort": "9999-99",

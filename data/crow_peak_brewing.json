@@ -34,11 +34,11 @@
   },
   {
     "url": "https://crowpeakbrewing.com/",
-    "title": "Czech-Coast Pilsner",
-    "slug": "czech-coast-pilsner",
-    "abv": "4.9%",
-    "ibu": "35",
-    "image_url": "https://crowpeakbrewing.com/wp-content/uploads/2026/06/czechpils.png",
+    "title": "Stayin' Upright - Session IPA",
+    "slug": "stayin-upright-session-ipa",
+    "abv": "3.9%",
+    "ibu": "44",
+    "image_url": "https://crowpeakbrewing.com/wp-content/uploads/2026/04/Small_Batch_Website_Thumbnail.png",
     "description": "",
     "record_type": "beer",
     "source_label": "Crow Peak Brewing"
@@ -144,11 +144,11 @@
   },
   {
     "url": "https://crowpeakbrewing.com/",
-    "title": "2¢ Cup - American Light Lager",
-    "slug": "2c-cup-american-light-lager",
-    "abv": "4.4%",
-    "ibu": "12",
-    "image_url": "https://crowpeakbrewing.com/wp-content/uploads/2026/07/2centcup.png",
+    "title": "Berliner Berry Bomb - Raspberry Sour",
+    "slug": "berliner-berry-bomb-raspberry-sour",
+    "abv": "4.9%",
+    "ibu": "10",
+    "image_url": "https://crowpeakbrewing.com/wp-content/uploads/2026/04/Small_Batch_Website_Thumbnail.png",
     "description": "",
     "record_type": "beer",
     "source_label": "Crow Peak Brewing"

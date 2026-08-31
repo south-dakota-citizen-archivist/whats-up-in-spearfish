@@ -1,6 +1,32 @@
 {
-  "fetched_at": "2026-08-30T19:38:19.339180+00:00",
+  "fetched_at": "2026-08-31T21:44:35.628227+00:00",
   "observations": [
+    {
+      "species_code": "cangoo",
+      "common_name": "Canada Goose",
+      "scientific_name": "Branta canadensis",
+      "observed_on": "2026-08-31",
+      "count": 2,
+      "location_name": "Belle Fourche Dam and Reservoir",
+      "lat": 44.7160017,
+      "lng": -103.7009811,
+      "location_id": "L1195589",
+      "checklist_id": "S388584147",
+      "photo_url": "https://static.inaturalist.org/photos/181719420/square.jpg"
+    },
+    {
+      "species_code": "grhowl",
+      "common_name": "Great Horned Owl",
+      "scientific_name": "Bubo virginianus",
+      "observed_on": "2026-08-31",
+      "count": 1,
+      "location_name": "Belle Fourche Dam and Reservoir",
+      "lat": 44.7160017,
+      "lng": -103.7009811,
+      "location_id": "L1195589",
+      "checklist_id": "S388584147",
+      "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/14549085/square.jpg"
+    },
     {
       "species_code": "eucdov",
       "common_name": "Eurasian Collared-Dove",
@@ -624,32 +650,6 @@
       "location_id": "L76035254",
       "checklist_id": "S387232852",
       "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/477069179/square.jpg"
-    },
-    {
-      "species_code": "rocpig",
-      "common_name": "Rock Pigeon",
-      "scientific_name": "Columba livia",
-      "observed_on": "2026-08-26",
-      "count": 4,
-      "location_name": "Spearfish--DC Booth Fish Hatchery",
-      "lat": 44.4836166,
-      "lng": -103.8615489,
-      "location_id": "L2265498",
-      "checklist_id": "S387387120",
-      "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/466776975/square.jpg"
-    },
-    {
-      "species_code": "yelwar1",
-      "common_name": "Northern Yellow Warbler",
-      "scientific_name": "Setophaga aestiva",
-      "observed_on": "2026-08-26",
-      "count": 1,
-      "location_name": "Spearfish--DC Booth Fish Hatchery",
-      "lat": 44.4836166,
-      "lng": -103.8615489,
-      "location_id": "L2265498",
-      "checklist_id": "S387387120",
-      "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/193214440/square.jpg"
     }
   ]
 }

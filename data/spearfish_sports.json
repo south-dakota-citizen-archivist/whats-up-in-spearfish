@@ -25790,5 +25790,53 @@
     "status": "CONFIRMED",
     "record_type": "event",
     "source_label": "Spearfish HS Sports"
+  },
+  {
+    "uid": "h202608310133357311a44f1c6ed4540",
+    "url": "https://gobound.com/direct/comps/h202608310133357311a44f1c6ed4540/show",
+    "title": "Girls Soccer: Spearfish vs Sioux Falls Christian (Junior Varsity)",
+    "slug": "girls-soccer-spearfish-vs-sioux-falls-christian-junior-varsity",
+    "sport": "Girls Soccer",
+    "level": "Junior Varsity",
+    "sex": "female",
+    "description": "Junior Varsity Girls Soccer - Spearfish vs Sioux Falls Christian",
+    "start_dt": "2026-09-11T22:00:00",
+    "end_dt": "2026-09-11T23:00:00",
+    "location": "Sanford Crossing",
+    "status": "CONFIRMED",
+    "record_type": "event",
+    "source_label": "Spearfish HS Sports"
+  },
+  {
+    "uid": "h20260831013344173fb0ae6e9ecc244",
+    "url": "https://gobound.com/direct/comps/h20260831013344173fb0ae6e9ecc244/show",
+    "title": "Boys Soccer: Spearfish vs Sioux Falls Christian (Junior Varsity)",
+    "slug": "boys-soccer-spearfish-vs-sioux-falls-christian-junior-varsity",
+    "sport": "Boys Soccer",
+    "level": "Junior Varsity",
+    "sex": "male",
+    "description": "Junior Varsity Boys Soccer - Spearfish vs Sioux Falls Christian",
+    "start_dt": "2026-09-12T00:00:00",
+    "end_dt": "2026-09-12T01:00:00",
+    "location": "Sanford Crossing",
+    "status": "CONFIRMED",
+    "record_type": "event",
+    "source_label": "Spearfish HS Sports"
+  },
+  {
+    "uid": "h202608310643188613d094408e9b84c",
+    "url": "https://gobound.com/direct/noncomps/h202608310643188613d094408e9b84c/h2020103041013609fadc7efab4bcbb3/show",
+    "title": "Half-time Band Performance",
+    "slug": "half-time-band-performance",
+    "sport": "Band",
+    "level": "",
+    "sex": "coed",
+    "description": "Half-time Band Performance",
+    "start_dt": "2026-09-26T00:00:00",
+    "end_dt": "2026-09-25T18:00:00",
+    "location": "",
+    "status": "CONFIRMED",
+    "record_type": "event",
+    "source_label": "Spearfish HS Sports"
   }
 ]

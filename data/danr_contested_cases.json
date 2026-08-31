@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-30T19:41:30.901600+00:00",
+  "fetched_at": "2026-08-31T21:48:00.558117+00:00",
   "cases": [
     {
       "ccid": "123",
@@ -126,27 +126,27 @@
       "docs_url": "https://danr.sd.gov/public/ccdocs.aspx?CCID=CCID130",
       "documents": [
         {
+          "label": "Affidavit of Michelle Jeffrey for Support and Joinder to Transfer to Office of Hearing Examiners",
+          "url": "https://danr.sd.gov/OfficeOfWater/SurfaceWaterQuality/docs/CCH/Custer/Affidavit MJ Support and Joinder to Transfer to OHE.pdf"
+        },
+        {
+          "label": "Affidavit of Todd Konechne for Support and Joinder to Transfer to Office of Hearing Examiners",
+          "url": "https://danr.sd.gov/OfficeOfWater/SurfaceWaterQuality/docs/CCH/Custer/Affidavit TK Support and Joinder to Transfer to OHE.pdf"
+        },
+        {
+          "label": "Response In Support and Joinder to PFC Motion to Transfer to Office of Hearing Examiners",
+          "url": "https://danr.sd.gov/OfficeOfWater/SurfaceWaterQuality/docs/CCH/Custer/Support and Joinder to Transfer to OHE.pdf"
+        },
+        {
           "label": "Expert Disclosure",
           "url": "https://danr.sd.gov/OfficeOfWater/SurfaceWaterQuality/docs/CCH/Custer/Expert Disclosure.pdf"
         },
         {
           "label": "Affidavit of Scott Kenner, PhD",
           "url": "https://danr.sd.gov/OfficeOfWater/SurfaceWaterQuality/docs/CCH/Custer/Kenner Affidavit.pdf"
-        },
-        {
-          "label": "Objection to Pierre Venue and Request to Amend Scheduling Order",
-          "url": "https://danr.sd.gov/OfficeOfWater/SurfaceWaterQuality/docs/CCH/Custer/Objection to Venue and Amend Scheduling Order.pdf"
-        },
-        {
-          "label": "Objection to Venue",
-          "url": "https://danr.sd.gov/OfficeOfWater/SurfaceWaterQuality/docs/CCH/Custer/Objection to Venue.pdf"
-        },
-        {
-          "label": "Order Granting Modification of Scheduling Order",
-          "url": "https://danr.sd.gov/OfficeOfWater/SurfaceWaterQuality/docs/CCH/Custer/Order Granting Modification of Scheduling Order.pdf"
         }
       ],
-      "total_docs": 24,
+      "total_docs": 27,
       "latest_doc_date": "0000-00-00"
     },
     {
@@ -314,6 +314,10 @@
       "docs_url": "https://danr.sd.gov/public/ccdocs.aspx?CCID=CCID126",
       "documents": [
         {
+          "label": "Response to Proposed Findings of Fact - Counsel for Applicant",
+          "url": "https://danr.sd.gov/wrimage/pub/8982-3_FOF_res_app.pdf"
+        },
+        {
           "label": "Proposed Findings of Fact & Conclusions of Law",
           "url": "https://danr.sd.gov/wrimage/pub/8982-3 Century Swine_propFOF.pdf"
         },
@@ -328,13 +332,9 @@
         {
           "label": "Notice",
           "url": "https://danr.sd.gov/wrimage/pub/8982-3_NOH_3.pdf"
-        },
-        {
-          "label": "Pre-Hearing Submission by Counsel for Petitioners",
-          "url": "https://danr.sd.gov/wrimage/pub/8982-3_prehearsub_pet.pdf"
         }
       ],
-      "total_docs": 25,
+      "total_docs": 26,
       "latest_doc_date": "0000-00-00"
     },
     {

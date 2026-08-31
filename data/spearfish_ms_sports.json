@@ -6078,5 +6078,37 @@
     "status": "CONFIRMED",
     "record_type": "event",
     "source_label": "Spearfish MS Sports"
+  },
+  {
+    "uid": "h20260831044139183b20ca4cb6e3b4b",
+    "url": "https://gobound.com/direct/comps/h20260831044139183b20ca4cb6e3b4b/show",
+    "title": "Girls Cross Country: Stagebarn-Grasshopper Gallop (Middle School)",
+    "slug": "girls-cross-country-stagebarn-grasshopper-gallop-middle-school",
+    "sport": "Girls Cross Country",
+    "level": "Middle School",
+    "sex": "female",
+    "description": "Middle School Girls Cross Country - Stagebarn-Grasshopper Gallop",
+    "start_dt": "2026-09-15T18:30:00",
+    "end_dt": "2026-09-15T21:00:00",
+    "location": "Stagebarn Middle School Grasshopper Cross Country Course",
+    "status": "CONFIRMED",
+    "record_type": "event",
+    "source_label": "Spearfish MS Sports"
+  },
+  {
+    "uid": "h202608310443349136c97ae5b452041",
+    "url": "https://gobound.com/direct/comps/h202608310443349136c97ae5b452041/show",
+    "title": "Boys Cross Country: Stagebarn-Grasshopper Gallop (Middle School)",
+    "slug": "boys-cross-country-stagebarn-grasshopper-gallop-middle-school",
+    "sport": "Boys Cross Country",
+    "level": "Middle School",
+    "sex": "male",
+    "description": "Middle School Boys Cross Country - Stagebarn-Grasshopper Gallop",
+    "start_dt": "2026-09-15T18:30:00",
+    "end_dt": "2026-09-15T21:00:00",
+    "location": "Stagebarn Middle School Grasshopper Cross Country Course",
+    "status": "CONFIRMED",
+    "record_type": "event",
+    "source_label": "Spearfish MS Sports"
   }
 ]
