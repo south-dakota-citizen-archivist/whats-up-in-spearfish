@@ -1,6 +1,19 @@
 {
-  "fetched_at": "2026-08-31T21:44:35.628227+00:00",
+  "fetched_at": "2026-09-01T19:44:15.592107+00:00",
   "observations": [
+    {
+      "species_code": "whbnut",
+      "common_name": "White-breasted Nuthatch",
+      "scientific_name": "Sitta carolinensis",
+      "observed_on": "2026-08-31",
+      "count": 1,
+      "location_name": "Lamphere Ranch Campground \n13010 Lamphere Ranch Road, Sturgis, SD 57785",
+      "lat": 44.4213403,
+      "lng": -103.4456634,
+      "location_id": "L48734079",
+      "checklist_id": "S388714049",
+      "photo_url": "https://static.inaturalist.org/photos/25544020/square.jpeg"
+    },
     {
       "species_code": "cangoo",
       "common_name": "Canada Goose",
@@ -117,19 +130,6 @@
       "location_id": "L11793514",
       "checklist_id": "S388357891",
       "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/530721418/square.jpg"
-    },
-    {
-      "species_code": "whbnut",
-      "common_name": "White-breasted Nuthatch",
-      "scientific_name": "Sitta carolinensis",
-      "observed_on": "2026-08-30",
-      "count": 1,
-      "location_name": "Mt. Moriah Cemetery",
-      "lat": 44.375209,
-      "lng": -103.724331,
-      "location_id": "L11793514",
-      "checklist_id": "S388357891",
-      "photo_url": "https://static.inaturalist.org/photos/25544020/square.jpeg"
     },
     {
       "species_code": "rebnut",
