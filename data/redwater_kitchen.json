@@ -1,5 +1,18 @@
 [
   {
+    "url": "https://untappd.com/b/dakota-point-brewing-o-quinn-s-irish-red-ale/5991597",
+    "title": "O'Quinn's Irish Red Ale",
+    "slug": "o-quinn-s-irish-red-ale",
+    "category": "Red Ale - Irish",
+    "abv": "5.7%",
+    "ibu": "21",
+    "brewery": "Dakota Point Brewing",
+    "rating": "3.75",
+    "image_url": "https://labels.untappd.com/5991597",
+    "record_type": "beer",
+    "source_label": "Redwater Kitchen"
+  },
+  {
     "url": "https://untappd.com/b/sawyer-brewing-co-citra-science/5920938",
     "title": "Citra Science",
     "slug": "citra-science",
@@ -35,19 +48,6 @@
     "brewery": "Blake’s Hard Cider Co.",
     "rating": "3.64",
     "image_url": "https://labels.untappd.com/5938883",
-    "record_type": "beer",
-    "source_label": "Redwater Kitchen"
-  },
-  {
-    "url": "https://untappd.com/b/millstream-brewing-oktoberfest/54625",
-    "title": "Oktoberfest",
-    "slug": "oktoberfest",
-    "category": "Märzen",
-    "abv": "6.2%",
-    "ibu": "21",
-    "brewery": "Millstream Brewing",
-    "rating": "3.66",
-    "image_url": "https://labels.untappd.com/54625",
     "record_type": "beer",
     "source_label": "Redwater Kitchen"
   },

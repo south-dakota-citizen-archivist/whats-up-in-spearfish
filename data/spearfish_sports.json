@@ -25838,5 +25838,21 @@
     "status": "CONFIRMED",
     "record_type": "event",
     "source_label": "Spearfish HS Sports"
+  },
+  {
+    "uid": "h20250923030601291f032a76162914b",
+    "url": "https://gobound.com/direct/comps/h20250923030601291f032a76162914b/show",
+    "title": "Boys Golf (Fall): Hub City Invitational (Varsity)",
+    "slug": "boys-golf-fall-hub-city-invitational-varsity",
+    "sport": "Boys Golf (Fall)",
+    "level": "Varsity",
+    "sex": "male",
+    "description": "Varsity Boys Golf (Fall) - Hub City Invitational",
+    "start_dt": "2026-09-01T15:00:00",
+    "end_dt": "2026-09-01T16:00:00",
+    "location": "Lee Park Golf Course",
+    "status": "CONFIRMED",
+    "record_type": "event",
+    "source_label": "Spearfish HS Sports"
   }
 ]

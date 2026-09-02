@@ -1,6 +1,149 @@
 {
-  "fetched_at": "2026-09-01T19:44:15.592107+00:00",
+  "fetched_at": "2026-09-02T19:37:14.085121+00:00",
   "observations": [
+    {
+      "species_code": "dowwoo",
+      "common_name": "Downy Woodpecker",
+      "scientific_name": "Dryobates pubescens",
+      "observed_on": "2026-09-02",
+      "count": 1,
+      "location_name": "Sundance Nature Trail",
+      "lat": 44.4042484,
+      "lng": -104.3769271,
+      "location_id": "L1527803",
+      "checklist_id": "S389161443",
+      "photo_url": "https://static.inaturalist.org/photos/25544008/square.jpeg"
+    },
+    {
+      "species_code": "blujay",
+      "common_name": "Blue Jay",
+      "scientific_name": "Cyanocitta cristata",
+      "observed_on": "2026-09-02",
+      "count": 4,
+      "location_name": "Sundance Nature Trail",
+      "lat": 44.4042484,
+      "lng": -104.3769271,
+      "location_id": "L1527803",
+      "checklist_id": "S389161443",
+      "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/530721418/square.jpg"
+    },
+    {
+      "species_code": "amecro",
+      "common_name": "American Crow",
+      "scientific_name": "Corvus brachyrhynchos",
+      "observed_on": "2026-09-02",
+      "count": 3,
+      "location_name": "Sundance Nature Trail",
+      "lat": 44.4042484,
+      "lng": -104.3769271,
+      "location_id": "L1527803",
+      "checklist_id": "S389161443",
+      "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/24115/square.jpg"
+    },
+    {
+      "species_code": "bkcchi",
+      "common_name": "Black-capped Chickadee",
+      "scientific_name": "Poecile atricapillus",
+      "observed_on": "2026-09-02",
+      "count": 3,
+      "location_name": "Sundance Nature Trail",
+      "lat": 44.4042484,
+      "lng": -104.3769271,
+      "location_id": "L1527803",
+      "checklist_id": "S389161443",
+      "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/178279576/square.jpg"
+    },
+    {
+      "species_code": "eursta",
+      "common_name": "European Starling",
+      "scientific_name": "Sturnus vulgaris",
+      "observed_on": "2026-09-02",
+      "count": 2,
+      "location_name": "Sundance Nature Trail",
+      "lat": 44.4042484,
+      "lng": -104.3769271,
+      "location_id": "L1527803",
+      "checklist_id": "S389161443",
+      "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/32152001/square.jpg"
+    },
+    {
+      "species_code": "grycat",
+      "common_name": "Gray Catbird",
+      "scientific_name": "Dumetella carolinensis",
+      "observed_on": "2026-09-02",
+      "count": 1,
+      "location_name": "Sundance Nature Trail",
+      "lat": 44.4042484,
+      "lng": -104.3769271,
+      "location_id": "L1527803",
+      "checklist_id": "S389161443",
+      "photo_url": "https://static.inaturalist.org/photos/16329727/square.jpg"
+    },
+    {
+      "species_code": "amerob",
+      "common_name": "American Robin",
+      "scientific_name": "Turdus migratorius",
+      "observed_on": "2026-09-02",
+      "count": 2,
+      "location_name": "Sundance Nature Trail",
+      "lat": 44.4042484,
+      "lng": -104.3769271,
+      "location_id": "L1527803",
+      "checklist_id": "S389161443",
+      "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/34859026/square.jpg"
+    },
+    {
+      "species_code": "evegro",
+      "common_name": "Evening Grosbeak",
+      "scientific_name": "Hesperiphona vespertina",
+      "observed_on": "2026-09-02",
+      "count": 2,
+      "location_name": "Sundance Nature Trail",
+      "lat": 44.4042484,
+      "lng": -104.3769271,
+      "location_id": "L1527803",
+      "checklist_id": "S389161443",
+      "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/152070165/square.jpg"
+    },
+    {
+      "species_code": "houfin",
+      "common_name": "House Finch",
+      "scientific_name": "Haemorhous mexicanus",
+      "observed_on": "2026-09-02",
+      "count": 4,
+      "location_name": "Sundance Nature Trail",
+      "lat": 44.4042484,
+      "lng": -104.3769271,
+      "location_id": "L1527803",
+      "checklist_id": "S389161443",
+      "photo_url": "https://static.inaturalist.org/photos/178968933/square.jpg"
+    },
+    {
+      "species_code": "pinsis",
+      "common_name": "Pine Siskin",
+      "scientific_name": "Spinus pinus",
+      "observed_on": "2026-09-02",
+      "count": 4,
+      "location_name": "Sundance Nature Trail",
+      "lat": 44.4042484,
+      "lng": -104.3769271,
+      "location_id": "L1527803",
+      "checklist_id": "S389161443",
+      "photo_url": "https://static.inaturalist.org/photos/67716306/square.jpg"
+    },
+    {
+      "species_code": "comgra",
+      "common_name": "Common Grackle",
+      "scientific_name": "Quiscalus quiscula",
+      "observed_on": "2026-09-02",
+      "count": 12,
+      "location_name": "Sundance Nature Trail",
+      "lat": 44.4042484,
+      "lng": -104.3769271,
+      "location_id": "L1527803",
+      "checklist_id": "S389161443",
+      "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/265296529/square.jpg"
+    },
     {
       "species_code": "whbnut",
       "common_name": "White-breasted Nuthatch",
@@ -54,32 +197,6 @@
       "photo_url": "https://static.inaturalist.org/photos/61919353/square.jpeg"
     },
     {
-      "species_code": "bkcchi",
-      "common_name": "Black-capped Chickadee",
-      "scientific_name": "Poecile atricapillus",
-      "observed_on": "2026-08-30",
-      "count": 1,
-      "location_name": "Lamphere Ranch Campground \n13010 Lamphere Ranch Road, Sturgis, SD 57785",
-      "lat": 44.4213403,
-      "lng": -103.4456634,
-      "location_id": "L48734079",
-      "checklist_id": "S388332357",
-      "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/178279576/square.jpg"
-    },
-    {
-      "species_code": "amerob",
-      "common_name": "American Robin",
-      "scientific_name": "Turdus migratorius",
-      "observed_on": "2026-08-30",
-      "count": 1,
-      "location_name": "Lamphere Ranch Campground \n13010 Lamphere Ranch Road, Sturgis, SD 57785",
-      "lat": 44.4213403,
-      "lng": -103.4456634,
-      "location_id": "L48734079",
-      "checklist_id": "S388332357",
-      "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/34859026/square.jpg"
-    },
-    {
       "species_code": "brebla",
       "common_name": "Brewer's Blackbird",
       "scientific_name": "Euphagus cyanocephalus",
@@ -119,19 +236,6 @@
       "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/123812445/square.jpg"
     },
     {
-      "species_code": "blujay",
-      "common_name": "Blue Jay",
-      "scientific_name": "Cyanocitta cristata",
-      "observed_on": "2026-08-30",
-      "count": 3,
-      "location_name": "Mt. Moriah Cemetery",
-      "lat": 44.375209,
-      "lng": -103.724331,
-      "location_id": "L11793514",
-      "checklist_id": "S388357891",
-      "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/530721418/square.jpg"
-    },
-    {
       "species_code": "rebnut",
       "common_name": "Red-breasted Nuthatch",
       "scientific_name": "Sitta canadensis",
@@ -145,19 +249,6 @@
       "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/117331702/square.jpg"
     },
     {
-      "species_code": "houfin",
-      "common_name": "House Finch",
-      "scientific_name": "Haemorhous mexicanus",
-      "observed_on": "2026-08-30",
-      "count": 11,
-      "location_name": "Mt. Moriah Cemetery",
-      "lat": 44.375209,
-      "lng": -103.724331,
-      "location_id": "L11793514",
-      "checklist_id": "S388357891",
-      "photo_url": "https://static.inaturalist.org/photos/178968933/square.jpg"
-    },
-    {
       "species_code": "bkbmag1",
       "common_name": "Black-billed Magpie",
       "scientific_name": "Pica hudsonia",
@@ -169,6 +260,84 @@
       "location_id": "L76445054",
       "checklist_id": "S388306891",
       "photo_url": "https://static.inaturalist.org/photos/29485872/square.jpg"
+    },
+    {
+      "species_code": "wiltur",
+      "common_name": "Wild Turkey",
+      "scientific_name": "Meleagris gallopavo",
+      "observed_on": "2026-08-30",
+      "count": 5,
+      "location_name": "Eagle Trail Air BNB",
+      "lat": 44.331969,
+      "lng": -103.8532279,
+      "location_id": "L76356914",
+      "checklist_id": "S389137043",
+      "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/31353610/square.jpg"
+    },
+    {
+      "species_code": "turvul",
+      "common_name": "Turkey Vulture",
+      "scientific_name": "Cathartes aura",
+      "observed_on": "2026-08-30",
+      "count": 2,
+      "location_name": "Eagle Trail Air BNB",
+      "lat": 44.331969,
+      "lng": -103.8532279,
+      "location_id": "L76356914",
+      "checklist_id": "S389137043",
+      "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/52277010/square.jpg"
+    },
+    {
+      "species_code": "coohaw",
+      "common_name": "Cooper's Hawk",
+      "scientific_name": "Astur cooperii",
+      "observed_on": "2026-08-30",
+      "count": 1,
+      "location_name": "Eagle Trail Air BNB",
+      "lat": 44.331969,
+      "lng": -103.8532279,
+      "location_id": "L76356914",
+      "checklist_id": "S389137043",
+      "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/170370008/square.jpg"
+    },
+    {
+      "species_code": "rensap",
+      "common_name": "Red-naped Sapsucker",
+      "scientific_name": "Sphyrapicus nuchalis",
+      "observed_on": "2026-08-30",
+      "count": 1,
+      "location_name": "Eagle Trail Air BNB",
+      "lat": 44.331969,
+      "lng": -103.8532279,
+      "location_id": "L76356914",
+      "checklist_id": "S389137043",
+      "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/26994711/square.jpeg"
+    },
+    {
+      "species_code": "amegfi",
+      "common_name": "American Goldfinch",
+      "scientific_name": "Spinus tristis",
+      "observed_on": "2026-08-30",
+      "count": 3,
+      "location_name": "Eagle Trail Air BNB",
+      "lat": 44.331969,
+      "lng": -103.8532279,
+      "location_id": "L76356914",
+      "checklist_id": "S389137043",
+      "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/384965723/square.jpg"
+    },
+    {
+      "species_code": "westan",
+      "common_name": "Western Tanager",
+      "scientific_name": "Piranga ludoviciana",
+      "observed_on": "2026-08-30",
+      "count": 2,
+      "location_name": "Eagle Trail Air BNB",
+      "lat": 44.331969,
+      "lng": -103.8532279,
+      "location_id": "L76356914",
+      "checklist_id": "S389137043",
+      "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/289912656/square.jpg"
     },
     {
       "species_code": "wooduc",
@@ -197,19 +366,6 @@
       "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/95268822/square.jpg"
     },
     {
-      "species_code": "turvul",
-      "common_name": "Turkey Vulture",
-      "scientific_name": "Cathartes aura",
-      "observed_on": "2026-08-29",
-      "count": 4,
-      "location_name": "Spearfish--DC Booth Fish Hatchery",
-      "lat": 44.4836166,
-      "lng": -103.8615489,
-      "location_id": "L2265498",
-      "checklist_id": "S388113190",
-      "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/52277010/square.jpg"
-    },
-    {
       "species_code": "belkin1",
       "common_name": "Belted Kingfisher",
       "scientific_name": "Megaceryle alcyon",
@@ -234,19 +390,6 @@
       "location_id": "L2265498",
       "checklist_id": "S388113190",
       "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/30818274/square.jpg"
-    },
-    {
-      "species_code": "comgra",
-      "common_name": "Common Grackle",
-      "scientific_name": "Quiscalus quiscula",
-      "observed_on": "2026-08-29",
-      "count": 1,
-      "location_name": "Spearfish--DC Booth Fish Hatchery",
-      "lat": 44.4836166,
-      "lng": -103.8615489,
-      "location_id": "L2265498",
-      "checklist_id": "S388113190",
-      "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/265296529/square.jpg"
     },
     {
       "species_code": "wesmea",
@@ -286,32 +429,6 @@
       "location_id": "L76412446",
       "checklist_id": "S388108385",
       "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/6903515/square.jpg"
-    },
-    {
-      "species_code": "rensap",
-      "common_name": "Red-naped Sapsucker",
-      "scientific_name": "Sphyrapicus nuchalis",
-      "observed_on": "2026-08-29",
-      "count": 3,
-      "location_name": "Experimental Forest Road",
-      "lat": 44.1444095,
-      "lng": -103.6233368,
-      "location_id": "L76412446",
-      "checklist_id": "S388108385",
-      "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/26994711/square.jpeg"
-    },
-    {
-      "species_code": "dowwoo",
-      "common_name": "Downy Woodpecker",
-      "scientific_name": "Dryobates pubescens",
-      "observed_on": "2026-08-29",
-      "count": 2,
-      "location_name": "Experimental Forest Road",
-      "lat": 44.1444095,
-      "lng": -103.6233368,
-      "location_id": "L76412446",
-      "checklist_id": "S388108385",
-      "photo_url": "https://static.inaturalist.org/photos/25544008/square.jpeg"
     },
     {
       "species_code": "haiwoo",
@@ -444,32 +561,6 @@
       "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/4608133/square.jpg"
     },
     {
-      "species_code": "eursta",
-      "common_name": "European Starling",
-      "scientific_name": "Sturnus vulgaris",
-      "observed_on": "2026-08-29",
-      "count": 4,
-      "location_name": "Spearfish--DC Booth Fish Hatchery",
-      "lat": 44.4836166,
-      "lng": -103.8615489,
-      "location_id": "L2265498",
-      "checklist_id": "S388067368",
-      "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/32152001/square.jpg"
-    },
-    {
-      "species_code": "grycat",
-      "common_name": "Gray Catbird",
-      "scientific_name": "Dumetella carolinensis",
-      "observed_on": "2026-08-29",
-      "count": 1,
-      "location_name": "Roughlock Falls, SD",
-      "lat": 44.35,
-      "lng": -103.944,
-      "location_id": "L47457577",
-      "checklist_id": "S388067247",
-      "photo_url": "https://static.inaturalist.org/photos/16329727/square.jpg"
-    },
-    {
       "species_code": "amered",
       "common_name": "American Redstart",
       "scientific_name": "Setophaga ruticilla",
@@ -481,19 +572,6 @@
       "location_id": "L47457577",
       "checklist_id": "S388067247",
       "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/31539046/square.jpg"
-    },
-    {
-      "species_code": "wiltur",
-      "common_name": "Wild Turkey",
-      "scientific_name": "Meleagris gallopavo",
-      "observed_on": "2026-08-29",
-      "count": 3,
-      "location_name": "Eagle Trail Air BNB",
-      "lat": 44.331969,
-      "lng": -103.8532279,
-      "location_id": "L76356914",
-      "checklist_id": "S388103352",
-      "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/31353610/square.jpg"
     },
     {
       "species_code": "killde",
@@ -535,19 +613,6 @@
       "photo_url": "https://static.inaturalist.org/photos/33624391/square.jpg"
     },
     {
-      "species_code": "amecro",
-      "common_name": "American Crow",
-      "scientific_name": "Corvus brachyrhynchos",
-      "observed_on": "2026-08-28",
-      "count": 5,
-      "location_name": "Eagle Trail Air BNB",
-      "lat": 44.331969,
-      "lng": -103.8532279,
-      "location_id": "L76356914",
-      "checklist_id": "S387773641",
-      "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/24115/square.jpg"
-    },
-    {
       "species_code": "amedip",
       "common_name": "American Dipper",
       "scientific_name": "Cinclus mexicanus",
@@ -585,71 +650,6 @@
       "location_id": "L21087439",
       "checklist_id": "S387484930",
       "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/104749271/square.jpg"
-    },
-    {
-      "species_code": "comyel",
-      "common_name": "Common Yellowthroat",
-      "scientific_name": "Geothlypis trichas",
-      "observed_on": "2026-08-27",
-      "count": 2,
-      "location_name": "Old Spearfish Creek Dam",
-      "lat": 44.3419593,
-      "lng": -103.9207613,
-      "location_id": "L21087439",
-      "checklist_id": "S387484930",
-      "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/35803961/square.jpg"
-    },
-    {
-      "species_code": "compoo",
-      "common_name": "Common Poorwill",
-      "scientific_name": "Phalaenoptilus nuttallii",
-      "observed_on": "2026-08-26",
-      "count": 1,
-      "location_name": "Forest Service Road 616, Deadwood US-SD (44.1754,-103.6418)",
-      "lat": 44.175389,
-      "lng": -103.641808,
-      "location_id": "L76287907",
-      "checklist_id": "S387337964",
-      "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/6160/square.jpg"
-    },
-    {
-      "species_code": "sposan",
-      "common_name": "Spotted Sandpiper",
-      "scientific_name": "Actitis macularius",
-      "observed_on": "2026-08-26",
-      "count": 1,
-      "location_name": "SD-Lawrence: Old Baldy Trail boondock spot, Spearfish US-SD 44.34238, -104.00472",
-      "lat": 44.342381,
-      "lng": -104.004719,
-      "location_id": "L76035254",
-      "checklist_id": "S387232852",
-      "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/46532647/square.jpg"
-    },
-    {
-      "species_code": "grbher3",
-      "common_name": "Great Blue Heron",
-      "scientific_name": "Ardea herodias",
-      "observed_on": "2026-08-26",
-      "count": 1,
-      "location_name": "SD-Lawrence: Old Baldy Trail boondock spot, Spearfish US-SD 44.34238, -104.00472",
-      "lat": 44.342381,
-      "lng": -104.004719,
-      "location_id": "L76035254",
-      "checklist_id": "S387232852",
-      "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/65060931/square.jpg"
-    },
-    {
-      "species_code": "easblu",
-      "common_name": "Eastern Bluebird",
-      "scientific_name": "Sialia sialis",
-      "observed_on": "2026-08-26",
-      "count": 1,
-      "location_name": "SD-Lawrence: Old Baldy Trail boondock spot, Spearfish US-SD 44.34238, -104.00472",
-      "lat": 44.342381,
-      "lng": -104.004719,
-      "location_id": "L76035254",
-      "checklist_id": "S387232852",
-      "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/477069179/square.jpg"
     }
   ]
 }

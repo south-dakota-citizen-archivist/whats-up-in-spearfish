@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-01T19:48:39.784260+00:00",
+  "fetched_at": "2026-09-02T19:40:52.225010+00:00",
   "cases": [
     {
       "ccid": "123",
@@ -42,6 +42,10 @@
       "docs_url": "https://danr.sd.gov/public/ccdocs.aspx?CCID=CCID124",
       "documents": [
         {
+          "label": "August 24 2026 Letter from Petitioners with Copy of Third Supplemental Answers to City of Rapid City's First Set of Interrogatories and Request for Production of Documents to Plaintiff",
+          "url": "https://danr.sd.gov/Environment/WasteManagement/docs/RapidCityContestedCase2025/August 24 2026 Cover Ltr and Petitioners' Third Supplemental Answers to City of Rapid City's Interrogatories.pdf"
+        },
+        {
           "label": "Petitioners' Inquiry Regarding Documents Missing from Contested Case Record and Document in Question",
           "url": "https://danr.sd.gov/Environment/WasteManagement/docs/RapidCityContestedCase2025/Petitioners' Inquiry Regarding Documents Missing from Contested Case Record and Document in Question.pdf"
         },
@@ -56,13 +60,9 @@
         {
           "label": "DANR Response to City's Interogatories and Requests for Production",
           "url": "https://danr.sd.gov/Environment/WasteManagement/docs/RapidCityContestedCase2025/DANR Response Citys Interrogatories and Requests for Production.service 08 20 2026.pdf"
-        },
-        {
-          "label": "City of Rapid City's Objection to Petitioners' Joint Motion to Extend Scheduling Order",
-          "url": "https://danr.sd.gov/Environment/WasteManagement/docs/RapidCityContestedCase2025/City of Rapid City Objection to Petitioner Joint Motion to Extend Scheduling Order.pdf"
         }
       ],
-      "total_docs": 40,
+      "total_docs": 41,
       "latest_doc_date": "0000-00-00"
     },
     {
@@ -134,19 +134,19 @@
           "url": "https://danr.sd.gov/OfficeOfWater/SurfaceWaterQuality/docs/CCH/Custer/Response to Motion to Transfer to OHE.pdf"
         },
         {
-          "label": "Affidavit of Michelle Jeffrey for Support and Joinder to Transfer to Office of Hearing Examiners",
+          "label": "Affidavit of Michelle Jeffrey for Support & Joinder to Transfer to Office of Hearing Examiners",
           "url": "https://danr.sd.gov/OfficeOfWater/SurfaceWaterQuality/docs/CCH/Custer/Affidavit MJ Support and Joinder to Transfer to OHE.pdf"
         },
         {
-          "label": "Affidavit of Todd Konechne for Support and Joinder to Transfer to Office of Hearing Examiners",
+          "label": "Affidavit of Todd Konechne for Support & Joinder to Transfer to Office of Hearing Examiners",
           "url": "https://danr.sd.gov/OfficeOfWater/SurfaceWaterQuality/docs/CCH/Custer/Affidavit TK Support and Joinder to Transfer to OHE.pdf"
         },
         {
-          "label": "Response In Support and Joinder to PFC Motion to Transfer to Office of Hearing Examiners",
+          "label": "Response In Support & Joinder to PFC Motion to Transfer to Office of Hearing Examiners",
           "url": "https://danr.sd.gov/OfficeOfWater/SurfaceWaterQuality/docs/CCH/Custer/Support and Joinder to Transfer to OHE.pdf"
         }
       ],
-      "total_docs": 29,
+      "total_docs": 30,
       "latest_doc_date": "0000-00-00"
     },
     {
