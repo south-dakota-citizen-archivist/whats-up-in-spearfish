@@ -69342,5 +69342,21 @@
     "title": "08182026 Planning Commission Minutes ",
     "doc_type": "Minutes",
     "file_url": "https://spearfishsd.portal.civicclerk.com/event/2212/files/minutes/8795"
+  },
+  {
+    "event_id": 2258,
+    "event_name": "Library Board of Trustees Meeting",
+    "category": "Library Board of Trustees",
+    "start_dt": "2026-09-08T16:00:00Z",
+    "location": "City Hall, 625 N 5th St, Spearfish, SD, 57783",
+    "portal_url": "https://spearfishsd.portal.civicclerk.com/event/2258",
+    "has_media": false,
+    "media_url": "",
+    "record_type": "document",
+    "source_label": "City of Spearfish",
+    "url": "https://spearfishsd.portal.civicclerk.com/event/2258/files/agenda/8826",
+    "title": "Library of Trustees 09-08-2026",
+    "doc_type": "Agenda",
+    "file_url": "https://spearfishsd.portal.civicclerk.com/event/2258/files/agenda/8826"
   }
 ]

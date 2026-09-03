@@ -298,5 +298,15 @@
     "start_dt": "Fri, 21 Aug 2026 09:03:31 -0700",
     "record_type": "press_release",
     "source_label": "City of Spearfish"
+  },
+  {
+    "url": "https://www.spearfish.gov/CivicAlerts.aspx?aid=574",
+    "title": "Election Signs: What are the rules?",
+    "slug": "election-signs-what-are-the-rules",
+    "description": "Read up on city regulations for temporary signage during election season!",
+    "published": "Thu, 03 Sep 2026 09:58:30 -0700",
+    "start_dt": "Thu, 03 Sep 2026 09:58:30 -0700",
+    "record_type": "press_release",
+    "source_label": "City of Spearfish"
   }
 ]

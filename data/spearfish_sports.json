@@ -25854,5 +25854,37 @@
     "status": "CONFIRMED",
     "record_type": "event",
     "source_label": "Spearfish HS Sports"
+  },
+  {
+    "uid": "h20260903035238702307203bcf25145",
+    "url": "https://gobound.com/direct/comps/h20260903035238702307203bcf25145/show",
+    "title": "Volleyball: Spearfish vs Thunder Basin (Sophomore)",
+    "slug": "volleyball-spearfish-vs-thunder-basin-sophomore",
+    "sport": "Volleyball",
+    "level": "Sophomore",
+    "sex": "female",
+    "description": "Sophomore Volleyball - Spearfish vs Thunder Basin",
+    "start_dt": "2026-10-15T22:00:00",
+    "end_dt": "2026-10-15T23:00:00",
+    "location": "Sturgis Brown High School East Gym",
+    "status": "CONFIRMED",
+    "record_type": "event",
+    "source_label": "Spearfish HS Sports"
+  },
+  {
+    "uid": "h20260903035933872c961a93d32634f",
+    "url": "https://gobound.com/direct/comps/h20260903035933872c961a93d32634f/show",
+    "title": "Volleyball: Campbell County vs Spearfish (Sophomore)",
+    "slug": "volleyball-campbell-county-vs-spearfish-sophomore",
+    "sport": "Volleyball",
+    "level": "Sophomore",
+    "sex": "female",
+    "description": "Sophomore Volleyball - Campbell County vs Spearfish",
+    "start_dt": "2026-10-15T23:00:00",
+    "end_dt": "2026-10-15T06:00:00",
+    "location": "Sturgis Brown High School East Gym",
+    "status": "CONFIRMED",
+    "record_type": "event",
+    "source_label": "Spearfish HS Sports"
   }
 ]

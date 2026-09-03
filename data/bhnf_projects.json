@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-02T19:41:01.278937+00:00",
+  "fetched_at": "2026-09-03T19:40:26.075850+00:00",
   "projects": [
     {
       "project_id": "66463",
@@ -284,6 +284,22 @@
       "district": "Black Hills National Forest",
       "purpose": "Forest Products|Fuels Management",
       "description": "Project to primarily salvage harvest beetle infected and/or killed trees to reduce the extent of a rapidly spreading bark beetle infestation and recover value of beetle-hit trees; increase forest health resiliency and reduce risk of wildfire.",
+      "milestones": [],
+      "comment_period_date": null,
+      "comment_period_sort": "9999-99",
+      "location_summary": "",
+      "counties": [],
+      "contact": {},
+      "last_updated": ""
+    },
+    {
+      "project_id": "383002",
+      "title": "Glen Erin Dam Removal",
+      "url": "https://www.fs.usda.gov/r02/blackhills/projects/383002",
+      "status": "Completed",
+      "district": "Hell Canyon Ranger District",
+      "purpose": "Watershed Management",
+      "description": "Project on Hell Canyon Ranger District to restore stream hydrology and function to approximately 0.2 miles of Glen Erin Creek through the removal of a deteriorated concrete gravity bottom structure, regrading the creek channel, and streambank reshaping.",
       "milestones": [],
       "comment_period_date": null,
       "comment_period_sort": "9999-99",

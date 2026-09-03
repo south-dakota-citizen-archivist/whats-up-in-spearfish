@@ -4068,5 +4068,38 @@
     "image_url": "https://npr.brightspotcdn.com/dd/9a/2e379b3449d5a9f11716637bee3d/lz-wimp-pic-1.jpg",
     "record_type": "news",
     "source_label": "SDPB"
+  },
+  {
+    "url": "https://www.sdpb.org/crime-courts/2026-09-03/longtime-doj-liaison-named-as-south-dakotas-mmip-specialist",
+    "title": "Longtime DOJ liaison named as South Dakota's MMIP specialist",
+    "slug": "sdpb-longtime-doj-liaison-named-as-south-dakota-s-mmip-specialist",
+    "published": "2026-09-03",
+    "byline": "By SDPB News Staff",
+    "description": "A woman with decades of experience in the justice system is set to serve as South Dakota's Missing and Murdered Indigenous Person specialist.",
+    "image_url": "https://npr.brightspotcdn.com/f3/41/34cca05741cb99411788c335bff5/marlys-big-eagle.jpg",
+    "record_type": "news",
+    "source_label": "SDPB"
+  },
+  {
+    "url": "https://www.sdpb.org/environment/2026-09-03/south-dakota-receives-presidential-disaster-declaration-for-summer-storms",
+    "title": "South Dakota receives presidential disaster declaration for summer storms",
+    "slug": "sdpb-south-dakota-receives-presidential-disaster-declaration-for-summer-storms",
+    "published": "2026-09-03",
+    "byline": "By SDPB News Staff",
+    "description": "South Dakota is receiving a presidential disaster declaration following a series of powerful summer storms that left damage across the state.",
+    "image_url": "https://npr.brightspotcdn.com/45/36/39e5928844c68b54ab7a785859fb/highmore-storm-cleanup.jpg",
+    "record_type": "news",
+    "source_label": "SDPB"
+  },
+  {
+    "url": "https://www.sdpb.org/business-economics/2026-09-03/seminar-offers-insight-into-planning-business-transitions",
+    "title": "Seminar offers insight into planning business transitions",
+    "slug": "sdpb-seminar-offers-insight-into-planning-business-transitions",
+    "published": "2026-09-03",
+    "byline": "By Lori Walsh",
+    "description": "The best time to think about selling your business might be months (or even years) before you identify a buyer. Carrie Peterson offers tips into a smooth, profitable transition.",
+    "image_url": "https://npr.brightspotcdn.com/9f/c8/a8562d0a470bb298b29fcbbcc775/1785799761392.jpg",
+    "record_type": "news",
+    "source_label": "SDPB"
   }
 ]

@@ -6110,5 +6110,37 @@
     "status": "CONFIRMED",
     "record_type": "event",
     "source_label": "Spearfish MS Sports"
+  },
+  {
+    "uid": "h20260903021537563977ec3e6f0854e",
+    "url": "https://gobound.com/direct/comps/h20260903021537563977ec3e6f0854e/show",
+    "title": "Football: Spearfish MS vs Stagebarn MS (7th Grade)",
+    "slug": "football-spearfish-ms-vs-stagebarn-ms-7th-grade",
+    "sport": "Football",
+    "level": "7th Grade",
+    "sex": "male",
+    "description": "7th Grade Football - Spearfish MS vs Stagebarn MS",
+    "start_dt": "2026-09-18T22:00:00",
+    "end_dt": "2026-09-18T23:00:00",
+    "location": "Sturgis Woodle Field",
+    "status": "CONFIRMED",
+    "record_type": "event",
+    "source_label": "Spearfish MS Sports"
+  },
+  {
+    "uid": "h202609030215232971cb87610c2c84b",
+    "url": "https://gobound.com/direct/comps/h202609030215232971cb87610c2c84b/show",
+    "title": "Football: Spearfish MS vs Stagebarn MS (8th Grade)",
+    "slug": "football-spearfish-ms-vs-stagebarn-ms-8th-grade",
+    "sport": "Football",
+    "level": "8th Grade",
+    "sex": "male",
+    "description": "8th Grade Football - Spearfish MS vs Stagebarn MS",
+    "start_dt": "2026-09-18T23:00:00",
+    "end_dt": "2026-09-19T01:00:00",
+    "location": "Sturgis Woodle Field",
+    "status": "CONFIRMED",
+    "record_type": "event",
+    "source_label": "Spearfish MS Sports"
   }
 ]

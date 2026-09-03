@@ -128,5 +128,15 @@
     "start_dt": "Fri, 21 Aug 2026 11:21:48 -0700",
     "record_type": "alert",
     "source_label": "City of Spearfish"
+  },
+  {
+    "url": "https://www.spearfish.gov/AlertCenter.aspx?AID=33",
+    "title": "City of Spearfish Labor Day Closures",
+    "slug": "city-of-spearfish-labor-day-closures",
+    "description": "City Hall Offices, Library, & Restricted Use Site will be closed on Monday, September 7, 2025.  Trash collection will be moved to Tuesday.",
+    "published": "Thu, 03 Sep 2026 08:14:10 -0700",
+    "start_dt": "Thu, 03 Sep 2026 08:14:10 -0700",
+    "record_type": "alert",
+    "source_label": "City of Spearfish"
   }
 ]
