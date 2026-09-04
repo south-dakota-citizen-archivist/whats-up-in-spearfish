@@ -1,7 +1,59 @@
 {
-  "fetched_at": "2026-09-03T19:40:35.214125+00:00",
+  "fetched_at": "2026-09-04T19:20:29.931517+00:00",
   "lookback_days": 30,
   "records": [
+    {
+      "objectid": 70202,
+      "date": "2026-09-04",
+      "species": "White-tailed Deer",
+      "highway": "I90",
+      "sex": "Unknown",
+      "present": "Yes",
+      "comments": null,
+      "contractor": "Tony Hanig",
+      "lat": 44.522666,
+      "lon": -103.894694,
+      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/70202/attachments/12917"
+    },
+    {
+      "objectid": 70203,
+      "date": "2026-09-04",
+      "species": "White-tailed Deer",
+      "highway": "I90",
+      "sex": "Unknown",
+      "present": "Yes",
+      "comments": null,
+      "contractor": "Tony Hanig",
+      "lat": 44.522805,
+      "lon": -103.899765,
+      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/70203/attachments/12918"
+    },
+    {
+      "objectid": 70204,
+      "date": "2026-09-04",
+      "species": "White-tailed Deer",
+      "highway": "I90",
+      "sex": "Male",
+      "present": "Yes",
+      "comments": null,
+      "contractor": "Tony Hanig",
+      "lat": 44.522744,
+      "lon": -103.91507,
+      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/70204/attachments/12919"
+    },
+    {
+      "objectid": 70205,
+      "date": "2026-09-04",
+      "species": "White-tailed Deer",
+      "highway": "I90",
+      "sex": "Female",
+      "present": "Yes",
+      "comments": null,
+      "contractor": "Tony Hanig",
+      "lat": 44.546159,
+      "lon": -104.016861,
+      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/70205/attachments/12920"
+    },
     {
       "objectid": 70174,
       "date": "2026-09-01",

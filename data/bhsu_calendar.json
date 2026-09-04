@@ -2144,5 +2144,61 @@
     "category": "Campus Calendar/Events",
     "record_type": "event",
     "source_label": "BHSU Campus Calendar"
+  },
+  {
+    "event_id": "0266bb39-0b98-445d-aa9b-afdf0ba2bad4",
+    "url": "https://bhsu.edu/campus-calendar.html#event-details/0266bb39-0b98-445d-aa9b-afdf0ba2bad4",
+    "title": "Pard Morrison & David Pyle: Sculpture Installation Walk ",
+    "slug": "pard-morrison-david-pyle-sculpture-installation-walk",
+    "description": "BHSU welcomes artist Pard Morrison for the installation of three outdoor sculptures on campus. Morrison’s visit offers students, faculty, and the campus community an opportunity to experience the installation process and engage with the artist’s work firsthand. The public is also invited to attend a co-artist talk with Pard Morrison and David Pyle, where they will discuss their creative practices, public sculpture, and the ideas behind their work. Pard Morrison is an internationally recognized artist who hand cuts and welds box-like aluminum hybrids of painting and sculpture. Morrison’s hand-brushed graphic compositions function visually as paintings. He describes the fusion of surface and medium is a metaphor for the human condition. David Pyle serves as an Instructor in the Arts Management Program at Colorado State University, where he teaches courses like Law and the Arts, Community Engagement and the Arts, and The Perfect Intersection: Art making as a Way to Learn (and Do) Anything",
+    "start_dt": "2026-09-14T16:00",
+    "end_dt": "2026-09-14T16:00",
+    "location": "Campus Green",
+    "image_url": "https://bhsu.edu/_images/images/events/events-images/Pard_Morrison..jpg",
+    "image_alt": "Pard Morrison & David Pyle event poster with their art images of tall trees covered by snow covered tree's and tall colorful pillars",
+    "organizer": "Quintin Owens",
+    "tags": [
+      "Alumni Event",
+      "Community Event",
+      "BHSU Event",
+      "Academics",
+      "Gallery Exhibition",
+      "College of Liberal Arts",
+      "College of Business and Natural Sciences",
+      "College of Education and Behavioral Sciences"
+    ],
+    "featured": false,
+    "ticket_url": "",
+    "category": "Campus Calendar/Events",
+    "record_type": "event",
+    "source_label": "BHSU Campus Calendar"
+  },
+  {
+    "event_id": "389e55a3-e654-4140-9d83-6ea799af17f0",
+    "url": "https://bhsu.edu/campus-calendar.html#event-details/389e55a3-e654-4140-9d83-6ea799af17f0",
+    "title": "Pard Morrison & David Pyle: Co-Artist Talk",
+    "slug": "pard-morrison-david-pyle-co-artist-talk",
+    "description": "BHSU welcomes artist Pard Morrison for the installation of three outdoor sculptures on campus. Morrison’s visit offers students, faculty, and the campus community an opportunity to experience the installation process and engage with the artist’s work firsthand. The public is also invited to attend a co-artist talk with Pard Morrison and David Pyle, where they will discuss their creative practices, public sculpture, and the ideas behind their work. Pard Morrison is an internationally recognized artist who hand cuts and welds box-like aluminum hybrids of painting and sculpture. Morrison’s hand-brushed graphic compositions function visually as paintings. He describes the fusion of surface and medium is a metaphor for the human condition. David Pyle serves as an Instructor in the Arts Management Program at Colorado State University, where he teaches courses like Law and the Arts, Community Engagement and the Arts, and The Perfect Intersection: Art making as a Way to Learn (and Do) Anything",
+    "start_dt": "2026-09-14T19:00",
+    "end_dt": "2026-09-14T19:00",
+    "location": "Woodburn Black Box Theater",
+    "image_url": "https://bhsu.edu/_images/images/events/events-images/Pard_Morrison..jpg",
+    "image_alt": "Pard Morrison & David Pyle event poster with their art images of tall trees covered by snow covered tree's and tall colorful pillars",
+    "organizer": "Quintin Owens",
+    "tags": [
+      "Alumni Event",
+      "Community Event",
+      "BHSU Event",
+      "Academics",
+      "Gallery Exhibition",
+      "College of Liberal Arts",
+      "College of Business and Natural Sciences",
+      "College of Education and Behavioral Sciences"
+    ],
+    "featured": false,
+    "ticket_url": "",
+    "category": "Campus Calendar/Events",
+    "record_type": "event",
+    "source_label": "BHSU Campus Calendar"
   }
 ]
