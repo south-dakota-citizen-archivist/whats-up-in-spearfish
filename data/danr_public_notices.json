@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-04T19:17:17.380580+00:00",
+  "fetched_at": "2026-09-05T18:47:22.498569+00:00",
   "notices": [
     {
       "notice_type": "Mining Permit",
@@ -16,20 +16,6 @@
         {
           "label": "Application",
           "url": "https://danr.sd.gov/Environment/MineralsMining/Exploration/NewMinePermitAmendments.aspx"
-        }
-      ]
-    },
-    {
-      "notice_type": "Concentrated Animal Feeding Operations (State Permit)",
-      "deadline": "09/04/2026",
-      "comment_url": "https://danr.sd.gov/public/comment.aspx?d_comment=09/04/2026&name=Swine Ridge, LLC&pntype=fp_cafo&description=New Swine Feeding Operation - State Permit",
-      "name": "Swine Ridge, LLC",
-      "description": "New Swine Feeding Operation - State Permit",
-      "location": "Davison County",
-      "links": [
-        {
-          "label": "Public Notice",
-          "url": "https://danr.sd.gov/Press/docs/publicnotices/FeedlotPermit/SwineRidgeLLCPN.pdf"
         }
       ]
     },

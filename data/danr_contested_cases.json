@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-04T19:20:16.506677+00:00",
+  "fetched_at": "2026-09-05T18:50:36.209295+00:00",
   "cases": [
     {
       "ccid": "123",
@@ -126,6 +126,10 @@
       "docs_url": "https://danr.sd.gov/public/ccdocs.aspx?CCID=CCID130",
       "documents": [
         {
+          "label": "DANR's Response to Petitioners' Objections to Venue",
+          "url": "https://danr.sd.gov/OfficeOfWater/SurfaceWaterQuality/docs/CCH/Custer/DANRs Response to Petitioners Objections to Venue.pdf"
+        },
+        {
           "label": "Custer's Brief in Response to Motion to Transfer to Office of Hearing Examiners",
           "url": "https://danr.sd.gov/OfficeOfWater/SurfaceWaterQuality/docs/CCH/Custer/Custers Brief in Response to Motion to Transfer to OHE.pdf"
         },
@@ -140,13 +144,9 @@
         {
           "label": "Affidavit of Todd Konechne for Support & Joinder to Transfer to Office of Hearing Examiners",
           "url": "https://danr.sd.gov/OfficeOfWater/SurfaceWaterQuality/docs/CCH/Custer/Affidavit TK Support and Joinder to Transfer to OHE.pdf"
-        },
-        {
-          "label": "Response In Support & Joinder to PFC Motion to Transfer to Office of Hearing Examiners",
-          "url": "https://danr.sd.gov/OfficeOfWater/SurfaceWaterQuality/docs/CCH/Custer/Support and Joinder to Transfer to OHE.pdf"
         }
       ],
-      "total_docs": 30,
+      "total_docs": 31,
       "latest_doc_date": "0000-00-00"
     },
     {
@@ -190,6 +190,10 @@
       "docs_url": "https://danr.sd.gov/public/ccdocs.aspx?CCID=CCID132",
       "documents": [
         {
+          "label": "Notice of Hearing",
+          "url": "https://danr.sd.gov/wrimage/pub/9008-3_NOH_1.pdf"
+        },
+        {
           "label": "Petition in Opposition",
           "url": "https://danr.sd.gov/wrimage/pub/9008-3_pet.pdf"
         },
@@ -206,7 +210,7 @@
           "url": "https://danr.sd.gov/wrimage/pub/9008-3_apl.pdf"
         }
       ],
-      "total_docs": 4,
+      "total_docs": 5,
       "latest_doc_date": "0000-00-00"
     },
     {

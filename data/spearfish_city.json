@@ -69358,5 +69358,37 @@
     "title": "Library of Trustees 09-08-2026",
     "doc_type": "Agenda",
     "file_url": "https://spearfishsd.portal.civicclerk.com/event/2258/files/agenda/8826"
+  },
+  {
+    "event_id": 3344,
+    "event_name": "City Council Regular Session",
+    "category": "City Council",
+    "start_dt": "2026-09-08T17:30:00Z",
+    "location": "City Hall, 625 N 5th St., Spearfish, SD, 57783",
+    "portal_url": "https://spearfishsd.portal.civicclerk.com/event/3344",
+    "has_media": true,
+    "media_url": "",
+    "record_type": "document",
+    "source_label": "City of Spearfish",
+    "url": "https://spearfishsd.portal.civicclerk.com/event/3344/files/agenda/8828",
+    "title": "City Council Regular Session Agenda 9/8/2026 ",
+    "doc_type": "Agenda",
+    "file_url": "https://spearfishsd.portal.civicclerk.com/event/3344/files/agenda/8828"
+  },
+  {
+    "event_id": 3344,
+    "event_name": "City Council Regular Session",
+    "category": "City Council",
+    "start_dt": "2026-09-08T17:30:00Z",
+    "location": "City Hall, 625 N 5th St., Spearfish, SD, 57783",
+    "portal_url": "https://spearfishsd.portal.civicclerk.com/event/3344",
+    "has_media": true,
+    "media_url": "",
+    "record_type": "document",
+    "source_label": "City of Spearfish",
+    "url": "https://spearfishsd.portal.civicclerk.com/event/3344/files/agenda-packet/8830",
+    "title": "Updated City Council Regular Session Packet 9/8/2026",
+    "doc_type": "Agenda Packet",
+    "file_url": "https://spearfishsd.portal.civicclerk.com/event/3344/files/agenda-packet/8830"
   }
 ]
