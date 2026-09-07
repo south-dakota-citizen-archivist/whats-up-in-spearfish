@@ -1,5 +1,44 @@
 [
   {
+    "url": "https://untappd.com/b/surly-brewing-company-overrated/302880",
+    "title": "OverRated",
+    "slug": "overrated",
+    "category": "IPA - American",
+    "abv": "7.3%",
+    "ibu": "69",
+    "brewery": "Surly Brewing Company",
+    "rating": "3.86",
+    "image_url": "https://labels.untappd.com/302880",
+    "record_type": "beer",
+    "source_label": "Redwater Kitchen"
+  },
+  {
+    "url": "https://untappd.com/b/outer-range-brewing-co-in-the-steep/2002572",
+    "title": "In the Steep",
+    "slug": "in-the-steep",
+    "category": "IPA - New England / Hazy",
+    "abv": "6.7%",
+    "ibu": "",
+    "brewery": "Outer Range Brewing Co.",
+    "rating": "4.09",
+    "image_url": "https://labels.untappd.com/2002572",
+    "record_type": "beer",
+    "source_label": "Redwater Kitchen"
+  },
+  {
+    "url": "https://untappd.com/b/kros-strain-brewing-fairy-nectar-ipa/2155786",
+    "title": "Fairy Nectar IPA",
+    "slug": "fairy-nectar-ipa",
+    "category": "IPA - New England / Hazy",
+    "abv": "6.2%",
+    "ibu": "62",
+    "brewery": "Kros Strain Brewing",
+    "rating": "3.96",
+    "image_url": "https://labels.untappd.com/2155786",
+    "record_type": "beer",
+    "source_label": "Redwater Kitchen"
+  },
+  {
     "url": "https://untappd.com/b/dakota-point-brewing-o-quinn-s-irish-red-ale/5991597",
     "title": "O'Quinn's Irish Red Ale",
     "slug": "o-quinn-s-irish-red-ale",
@@ -46,7 +85,7 @@
     "abv": "6.5%",
     "ibu": "",
     "brewery": "Blake’s Hard Cider Co.",
-    "rating": "3.64",
+    "rating": "3.63",
     "image_url": "https://labels.untappd.com/5938883",
     "record_type": "beer",
     "source_label": "Redwater Kitchen"
@@ -65,32 +104,6 @@
     "source_label": "Redwater Kitchen"
   },
   {
-    "url": "https://untappd.com/b/sawyer-brewing-co-blood-orange-blonde-ale/3627064",
-    "title": "Blood Orange Blonde Ale",
-    "slug": "blood-orange-blonde-ale",
-    "category": "Blonde / Golden Ale - Other",
-    "abv": "4.9%",
-    "ibu": "18",
-    "brewery": "Sawyer Brewing Co",
-    "rating": "3.62",
-    "image_url": "https://labels.untappd.com/3627064",
-    "record_type": "beer",
-    "source_label": "Redwater Kitchen"
-  },
-  {
-    "url": "https://untappd.com/b/dry-dock-brewing-company-apricot-blonde/304989",
-    "title": "Apricot Blonde",
-    "slug": "apricot-blonde",
-    "category": "Blonde / Golden Ale - Other",
-    "abv": "5.1%",
-    "ibu": "17",
-    "brewery": "Dry Dock Brewing Company",
-    "rating": "3.8",
-    "image_url": "https://labels.untappd.com/304989",
-    "record_type": "beer",
-    "source_label": "Redwater Kitchen"
-  },
-  {
     "url": "https://untappd.com/b/eponymous-brewing-company-microcosm/6676461",
     "title": "Microcosm",
     "slug": "microcosm",
@@ -100,19 +113,6 @@
     "brewery": "Eponymous Brewing Company",
     "rating": "3.98",
     "image_url": "https://labels.untappd.com/6676461",
-    "record_type": "beer",
-    "source_label": "Redwater Kitchen"
-  },
-  {
-    "url": "https://untappd.com/b/drekker-brewing-company-ectogasm/2248781",
-    "title": "Ectogasm",
-    "slug": "ectogasm",
-    "category": "IPA - New England / Hazy",
-    "abv": "7%",
-    "ibu": "65",
-    "brewery": "Drekker Brewing Company",
-    "rating": "4.06",
-    "image_url": "https://labels.untappd.com/2248781",
     "record_type": "beer",
     "source_label": "Redwater Kitchen"
   },

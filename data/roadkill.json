@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-06T18:54:02.802076+00:00",
+  "fetched_at": "2026-09-07T20:24:49.325134+00:00",
   "lookback_days": 30,
   "records": [
     {
@@ -2653,58 +2653,6 @@
       "lat": 43.694942,
       "lon": -103.605153,
       "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/69777/attachments/12490"
-    },
-    {
-      "objectid": 69765,
-      "date": "2026-08-08",
-      "species": "White-tailed Deer",
-      "highway": "",
-      "sex": "Female",
-      "present": "Yes",
-      "comments": "N Elk Vale Rd/ Country Rd",
-      "contractor": "Chris Moeller",
-      "lat": 44.123784,
-      "lon": -103.151377,
-      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/69765/attachments/12478"
-    },
-    {
-      "objectid": 69766,
-      "date": "2026-08-08",
-      "species": "White-tailed Deer",
-      "highway": "",
-      "sex": "Female",
-      "present": "Yes",
-      "comments": "Hwy16b mm70.2",
-      "contractor": "Chris Moeller",
-      "lat": 44.061584,
-      "lon": -103.164292,
-      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/69766/attachments/12479"
-    },
-    {
-      "objectid": 69767,
-      "date": "2026-08-08",
-      "species": "White-tailed Deer",
-      "highway": "",
-      "sex": "Male",
-      "present": "Yes",
-      "comments": "Hwy16b mm67.8",
-      "contractor": "Chris Moeller",
-      "lat": 44.038593,
-      "lon": -103.188552,
-      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/69767/attachments/12480"
-    },
-    {
-      "objectid": 69768,
-      "date": "2026-08-08",
-      "species": "Small Animal",
-      "highway": "79",
-      "sex": "",
-      "present": "Yes",
-      "comments": null,
-      "contractor": "Chris Moeller",
-      "lat": 44.024251,
-      "lon": -103.191521,
-      "image_url": "https://services1.arcgis.com/PwrabBhZHUggYYSp/ArcGIS/rest/services/service_45cc7abd52f846ce8ad10dba811a5535/FeatureServer/0/69768/attachments/12481"
     }
   ]
 }

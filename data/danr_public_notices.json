@@ -1,24 +1,6 @@
 {
-  "fetched_at": "2026-09-06T18:50:43.145221+00:00",
+  "fetched_at": "2026-09-07T20:21:32.897478+00:00",
   "notices": [
-    {
-      "notice_type": "Mining Permit",
-      "deadline": "09/03/2026",
-      "comment_url": "https://danr.sd.gov/public/comment.aspx?d_comment=09/03/2026&name=Teresa Fox&pntype=mm_app&description=DANR recommendation for conditional approval of mine permit amendment application",
-      "name": "Teresa Fox",
-      "description": "DANR recommendation for conditional approval of mine permit amendment application",
-      "location": "Nine miles southwest of Spearfish, SD",
-      "links": [
-        {
-          "label": "Public Notice",
-          "url": "https://danr.sd.gov/Press/docs/publicnotices/MineralsMining/FoxAmendRecommendation.pdf"
-        },
-        {
-          "label": "Application",
-          "url": "https://danr.sd.gov/Environment/MineralsMining/Exploration/NewMinePermitAmendments.aspx"
-        }
-      ]
-    },
     {
       "notice_type": "Concentrated Animal Feeding Operations (NPDES Permit)",
       "deadline": "09/08/2026",
